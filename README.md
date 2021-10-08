@@ -1,4 +1,4 @@
-# topical_coherence
+# Topical Coherence between Autobiography and Biography
 
 Flask application containing the visualization present in the server
 
