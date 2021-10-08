@@ -8,7 +8,7 @@ from fuzzywuzzy import fuzz
 import math
 
 window_size = 1
-year_window = 3
+year_window = 5
 
 # Comparison 1 setup
 book_list = ['SOMEWT', 'Life_of_Mahatma_Gandhi']
@@ -39,11 +39,12 @@ end_year = 1924
 # start_year = 1913
 # end_year = 1917
 
-Na = book_list[0]
-Nb = book_list[1]
+Na = book_list[0] # Autobiography
+Nb = book_list[1] # Biography
 
 
 # Storing family data
+# Need to change the input file based on the person
 family_list = []
 with open("app/static/gandhi_relatives.txt", 'r', encoding="utf-8") as content:
     txt_file = content.read()
@@ -51,7 +52,7 @@ with open("app/static/gandhi_relatives.txt", 'r', encoding="utf-8") as content:
 for line in txt_file.split('\n'):
     family_list.append(line) 
 
-#
+# Function to get fraction of family member names from the given names
 def getFractionRelative(node_list):
 
     common_members = []
@@ -71,7 +72,13 @@ def getFractionRelative(node_list):
 
 
 
-# given date dict creates and returns temporal graph
+# given date dict creates and returns temporal graph using the year_window
+# format of the data_dict ->
+# {
+#    <year1>: [<person1>,<person2>,...],
+#    <year2>: [<person1>,<person2>,...],
+#    ......
+# }
 def returnGraph(date_dict, start_year, end_year):
     mygraph = nx.Graph()
     print("creating graph with start year:" + str(start_year))
@@ -97,6 +104,8 @@ def returnGraph(date_dict, start_year, end_year):
     
     return mygraph
 
+
+# Get top persons based on the mentions in the book for a temporal range
 def returnTopMentionList(date_dict_with_mention, start_year, end_year, N=10):
     
     mydict = {}
@@ -115,6 +124,7 @@ def returnTopMentionList(date_dict_with_mention, start_year, end_year, N=10):
     
     return res
 
+#  Get Jaccard overlap score between two name list
 def Jaccard_score(lista_1, lista_2):    
     inter = len(list(set(lista_1) & set(lista_2)))
     union = len(list(set(lista_1) | set(lista_2)))
@@ -123,12 +133,12 @@ def Jaccard_score(lista_1, lista_2):
     else:
         return inter/union
 
+# Get the connection density data to be used in evolution_connection_density.html
 def get_connection_density_data(year_window):
 
     connection_density_data = {}
     N=10
 
-    cumulative_connection_density_data = []
     for book in book_list:
         with open('app/static/json_files/%s/date_person_list.json' % book) as handle:
             date_to_person_list = json.load(handle)
@@ -150,6 +160,7 @@ def get_connection_density_data(year_window):
 
     return connection_density_data
 
+# Similar to previous function will be used in the clustered bar chart
 def get_cummulative_connection_density_data(year_window):
 
     cumulative_connection_density_data = []
@@ -176,7 +187,7 @@ def get_cummulative_connection_density_data(year_window):
 
     return cumulative_connection_density_data
 
-
+# Get the stability measurement data to be used in stability_measurement.html
 def get_mention_overlap(year_window, method='frequency', Na=Na, Nb=Nb):
     N=15
 
@@ -247,6 +258,7 @@ def get_mention_overlap(year_window, method='frequency', Na=Na, Nb=Nb):
 
     return dic, node_dic
 
+# Get core periphery data
 def get_core_periphery_data(year_window):
 
     core_periphery_data = {}
@@ -320,6 +332,7 @@ def get_core_periphery_data(year_window):
     return core_periphery_data, core_jaccard_data, core_nodes
 
 
+# Get network growth data
 def network_growth(year_window, Na=Na, Nb=Nb):
 
     network_growth_data = {}
@@ -397,7 +410,7 @@ def network_growth(year_window, Na=Na, Nb=Nb):
     return network_growth_data
 
 
-# given date dict creates and returns temporal graph
+# given date dict creates and returns weighted temporal graph
 def returnWeightedGraph(date_mention_dict, start_year, end_year):
     mygraph = nx.Graph()
     for year1 in date_mention_dict.keys():
@@ -428,7 +441,7 @@ def returnWeightedGraph(date_mention_dict, start_year, end_year):
         data.append(dic)
     return data
 
-
+# Not complete yet
 def get_alluvial_data(book, year_range):
 
     alluvial_data = {}
