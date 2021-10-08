@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .btn {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: blue;
+}
+        </style>
+    </head>
+
+    <body>
+        <div style="display: flex; justify-content: center;">
+        <h1>Network centric analysis of topical coherence</h1>
+        </div>
+        <!-- <div  >
+            <div style="display: flex; justify-content: center;">
+                <h1>Select Book</h1>
+            </div>
+            <div style="display: flex; justify-content: center;">
+                <span style="height: fit-content;">
+                <a class="btn" href="{{url_for('get_graph_category', book='SOMEWT')}}">SOMEWT</a>
+                </span>
+                <span style=" height: fit-content;">
+                    <a class="btn" href="{{url_for('get_graph_category', book='Life_of_Mahatma_Gandhi')}}">Life&nbspof&nbspMahatma&nbspGandhi</a>        
+                </span>
+                <span style=" height: fit-content;">
+                    <a class="btn" href="{{url_for('get_graph_category', book='Gandhi_Before_India')}}">Gandhi Before India</a>        
+                </span>
+            </div>
+            
+        </div> -->
+
+        <div>
+            <div style="display: flex; justify-content: center;">
+                <span style=" height: fit-content;">
+                    <a class="btn" href="{{url_for('get_connection_density_evolution', year_range=5)}}">Evolution of Connection Density</a>        
+                </span>
+            </div>
+        </div>
+        <div>
+            <div style="display: flex; justify-content: center;">
+                <span style=" height: fit-content;">
+                    <a class="btn" href="{{url_for('get_stability_measurement', year_range=5, method='frequency')}}">Stability Measurement</a>        
+                </span>
+            </div>
+        </div>
+        <div>
+            <div style="display: flex; justify-content: center;">
+                <span style=" height: fit-content;">
+                    <a class="btn" href="{{url_for('get_network_growth', year_range=5)}}">Network Growth</a>        
+                </span>
+            </div>
+        </div>
+        <div>
+            <div style="display: flex; justify-content: center;">
+                <span style=" height: fit-content;">
+                    <a class="btn" href="{{url_for('get_core_periphery_analysis', year_range=5 )}}">Core Periphery Analysis</a>        
+                </span>
+            </div>
+        </div>
+        <div>
+            <div style="display: flex; justify-content: center;">
+                <span style=" height: fit-content;">
+                    <a class="btn" href="{{url_for('get_word_shift_graph', year_range='1888-1892' )}}">Word Shift over time</a>        
+                </span>
+            </div>
+        </div>
+
+    </body>
+</html>

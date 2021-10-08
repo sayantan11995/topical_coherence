@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+    <style>
+        #chartdiv {
+          width: 100%;
+          height: 500px
+        }
+        
+        </style>
+
+<head>
+    <!-- Resources -->
+<script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+<script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+</head>
+
+
+
+
+
+<body>
+    
+    <div>
+        <div id="chartdiv" style="width: 90%; height: 600px;"></div>
+        <div id="year_range{{alluvial_data['date']}}" style="float: left; margin-bottom: 15%;">
+            <h1>{{alluvial_data['date']}}</h1>
+        </div>
+    </div>
+    
+    <!-- Chart code -->
+<script>
+    am4core.ready(function() {
+    
+    // Themes begin
+    am4core.useTheme(am4themes_animated);
+    // Themes end
+    
+    var chart = am4core.create("chartdiv", am4charts.SankeyDiagram);
+    chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
+    
+    chart.data = {{alluvial_data['alluvial'] |safe}};
+    console.log(chart.data);
+    
+    let hoverState = chart.links.template.states.create("hover");
+    hoverState.properties.fillOpacity = 0.6;
+    
+    chart.dataFields.fromName = "from";
+    chart.dataFields.toName = "to";
+    chart.dataFields.value = "value";
+    
+    // for right-most label to fit
+    chart.paddingRight = 30;
+    
+    // make nodes draggable
+    var nodeTemplate = chart.nodes.template;
+    nodeTemplate.inert = true;
+    nodeTemplate.readerTitle = "Drag me!";
+    nodeTemplate.showSystemTooltip = true;
+    nodeTemplate.width = 20;
+    
+    // make nodes draggable
+    var nodeTemplate = chart.nodes.template;
+    nodeTemplate.readerTitle = "Click to show/hide or drag to rearrange";
+    nodeTemplate.showSystemTooltip = true;
+    nodeTemplate.cursorOverStyle = am4core.MouseCursorStyle.pointer
+    
+    }); // end am4core.ready()
+    </script>
+
+   
+</body>
+
+
+
+
+
+</html>

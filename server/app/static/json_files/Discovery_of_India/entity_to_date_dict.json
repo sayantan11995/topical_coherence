@@ -1,0 +1,1711 @@
+{
+    "paris": [
+        "1944",
+        "1935",
+        "1937",
+        "1820",
+        "1942"
+    ],
+    "japan": [
+        "1944",
+        "1937",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "kandahar": [
+        "1944",
+        "1937"
+    ],
+    "western": [
+        "1944",
+        "1935",
+        "1936",
+        "1937",
+        "1820",
+        "1857",
+        "1942"
+    ],
+    "surat": [
+        "1944",
+        "1820",
+        "1857"
+    ],
+    "central": [
+        "1944",
+        "1936",
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "england": [
+        "1944",
+        "1935",
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "bijapur": [
+        "1944",
+        "1937"
+    ],
+    "munich": [
+        "1944",
+        "1939"
+    ],
+    "italy": [
+        "1944",
+        "1935",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "taxila": [
+        "1944",
+        "1936",
+        "1937"
+    ],
+    "china": [
+        "1944",
+        "1935",
+        "1936",
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "pacific": [
+        "1944",
+        "1942"
+    ],
+    "avesta": [
+        "1944",
+        "1937"
+    ],
+    "ambala": [
+        "1944"
+    ],
+    "egypt": [
+        "1944",
+        "1936",
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "nepal": [
+        "1944",
+        "1937",
+        "1820",
+        "1857"
+    ],
+    "london": [
+        "1944",
+        "1935",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "atlantic": [
+        "1944",
+        "1942"
+    ],
+    "spain": [
+        "1944",
+        "1936",
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "afghanistan": [
+        "1944",
+        "1936",
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "geneva": [
+        "1944",
+        "1935"
+    ],
+    "delhi": [
+        "1944",
+        "1936",
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "macedonia": [
+        "1944"
+    ],
+    "rome": [
+        "1944",
+        "1935",
+        "1937",
+        "1820",
+        "1942"
+    ],
+    "jhansi": [
+        "1944",
+        "1857"
+    ],
+    "vanga": [
+        "1944"
+    ],
+    "persia": [
+        "1944",
+        "1937",
+        "1820",
+        "1857"
+    ],
+    "greece": [
+        "1944",
+        "1937",
+        "1820",
+        "1942"
+    ],
+    "mongolia": [
+        "1944",
+        "1937",
+        "1820",
+        "1939"
+    ],
+    "kabul": [
+        "1944",
+        "1937",
+        "1820"
+    ],
+    "israel": [
+        "1944"
+    ],
+    "turkey": [
+        "1944",
+        "1936",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "germany": [
+        "1944",
+        "1935",
+        "1937",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "gaya": [
+        "1944",
+        "1937"
+    ],
+    "cambridge": [
+        "1944",
+        "1937"
+    ],
+    "prague": [
+        "1944"
+    ],
+    "iraq": [
+        "1944",
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "memphis": [
+        "1944"
+    ],
+    "alexandria": [
+        "1944",
+        "1935",
+        "1937",
+        "1820"
+    ],
+    "herat": [
+        "1944",
+        "1820"
+    ],
+    "malabar": [
+        "1944",
+        "1937",
+        "1942"
+    ],
+    "baghdad": [
+        "1935",
+        "1937",
+        "1820",
+        "1857"
+    ],
+    "switzerland": [
+        "1935"
+    ],
+    "karachi": [
+        "1935"
+    ],
+    "allahabad": [
+        "1935",
+        "1936",
+        "1937",
+        "1857"
+    ],
+    "montreux": [
+        "1935"
+    ],
+    "almora": [
+        "1935"
+    ],
+    "lausanne": [
+        "1935"
+    ],
+    "brindisi": [
+        "1935"
+    ],
+    "cairo": [
+        "1935",
+        "1820",
+        "1857",
+        "1942"
+    ],
+    "arabia": [
+        "1936",
+        "1937",
+        "1820",
+        "1942"
+    ],
+    "agra": [
+        "1936",
+        "1937",
+        "1820"
+    ],
+    "russia": [
+        "1936",
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "bali": [
+        "1937"
+    ],
+    "indonesia": [
+        "1937"
+    ],
+    "new york": [
+        "1937"
+    ],
+    "madras": [
+        "1937",
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "ramgarh": [
+        "1937",
+        "1939"
+    ],
+    "philippines": [
+        "1937"
+    ],
+    "mosul": [
+        "1937"
+    ],
+    "formosa": [
+        "1937"
+    ],
+    "copenhagen": [
+        "1937"
+    ],
+    "sringeri": [
+        "1937"
+    ],
+    "madagascar": [
+        "1937"
+    ],
+    "mathura": [
+        "1937",
+        "1820"
+    ],
+    "samarkand": [
+        "1937",
+        "1820"
+    ],
+    "trivandrum": [
+        "1937"
+    ],
+    "ujjain": [
+        "1937",
+        "1820"
+    ],
+    "thailand": [
+        "1937",
+        "1942"
+    ],
+    "malacca": [
+        "1937",
+        "1820"
+    ],
+    "nagpur": [
+        "1937"
+    ],
+    "badami": [
+        "1937"
+    ],
+    "nava": [
+        "1937"
+    ],
+    "anuradhapura": [
+        "1937"
+    ],
+    "turkestan": [
+        "1937"
+    ],
+    "malaysia": [
+        "1937"
+    ],
+    "mysore": [
+        "1937",
+        "1820",
+        "1857",
+        "1942"
+    ],
+    "damascus": [
+        "1820"
+    ],
+    "jaipur": [
+        "1820",
+        "1857"
+    ],
+    "poona": [
+        "1820"
+    ],
+    "goa": [
+        "1820"
+    ],
+    "khiva": [
+        "1820"
+    ],
+    "toledo": [
+        "1820"
+    ],
+    "france": [
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "hampden": [
+        "1820"
+    ],
+    "mecca": [
+        "1820",
+        "1857"
+    ],
+    "newton": [
+        "1820"
+    ],
+    "yemen": [
+        "1820"
+    ],
+    "morocco": [
+        "1820"
+    ],
+    "panipat": [
+        "1820"
+    ],
+    "indore": [
+        "1820",
+        "1857"
+    ],
+    "portugal": [
+        "1820",
+        "1857"
+    ],
+    "gulbarga": [
+        "1820"
+    ],
+    "gibraltar": [
+        "1820"
+    ],
+    "canton": [
+        "1820"
+    ],
+    "united states": [
+        "1820",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "canada": [
+        "1820",
+        "1942",
+        "1939"
+    ],
+    "medina": [
+        "1820"
+    ],
+    "gwalior": [
+        "1820",
+        "1857"
+    ],
+    "baroda": [
+        "1820",
+        "1857",
+        "1942"
+    ],
+    "lahore": [
+        "1820"
+    ],
+    "granada": [
+        "1820"
+    ],
+    "independence": [
+        "1820"
+    ],
+    "jaunpur": [
+        "1820"
+    ],
+    "tashkent": [
+        "1820"
+    ],
+    "hyderabad": [
+        "1820",
+        "1857",
+        "1942"
+    ],
+    "ahmedabad": [
+        "1857",
+        "1942"
+    ],
+    "patiala": [
+        "1857"
+    ],
+    "bristol": [
+        "1857"
+    ],
+    "amritsar": [
+        "1857"
+    ],
+    "travancore": [
+        "1857",
+        "1942"
+    ],
+    "cochin": [
+        "1857"
+    ],
+    "athens": [
+        "1857",
+        "1942"
+    ],
+    "fiji": [
+        "1857"
+    ],
+    "chicago": [
+        "1857"
+    ],
+    "trinidad": [
+        "1857"
+    ],
+    "south africa": [
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "palestine": [
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "pakistan": [
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "udaipur": [
+        "1857"
+    ],
+    "bhopal": [
+        "1857",
+        "1942"
+    ],
+    "jamaica": [
+        "1857"
+    ],
+    "scotland": [
+        "1857",
+        "1942"
+    ],
+    "jamshedpur": [
+        "1857",
+        "1942"
+    ],
+    "meerut": [
+        "1857"
+    ],
+    "mauritius": [
+        "1857"
+    ],
+    "jodhpur": [
+        "1857"
+    ],
+    "dundee": [
+        "1857",
+        "1942"
+    ],
+    "oxford": [
+        "1857"
+    ],
+    "ireland": [
+        "1857",
+        "1942"
+    ],
+    "barrackpore": [
+        "1857"
+    ],
+    "serampore": [
+        "1857"
+    ],
+    "australia": [
+        "1942",
+        "1939"
+    ],
+    "vichy": [
+        "1942",
+        "1939"
+    ],
+    "poland": [
+        "1942",
+        "1939"
+    ],
+    "palmyra": [
+        "1942"
+    ],
+    "tamluk": [
+        "1942"
+    ],
+    "spartan": [
+        "1942"
+    ],
+    "new delhi": [
+        "1942",
+        "1939"
+    ],
+    "badia": [
+        "1942"
+    ],
+    "new zealand": [
+        "1942"
+    ],
+    "simla": [
+        "1942",
+        "1939"
+    ],
+    "thebes": [
+        "1942"
+    ],
+    "denmark": [
+        "1939"
+    ],
+    "holland": [
+        "1939"
+    ],
+    "arcos": [
+        "1939"
+    ],
+    "norway": [
+        "1939"
+    ],
+    "dunkirk": [
+        "1939"
+    ],
+    "trincomalee": [
+        "1939"
+    ],
+    "belgium": [
+        "1939"
+    ],
+    "kenya": [
+        "1939"
+    ],
+    "singapore": [
+        "1939"
+    ],
+    "vincent smith": [
+        "1944"
+    ],
+    "charak": [
+        "1944"
+    ],
+    "hastinapur": [
+        "1944"
+    ],
+    "mahendra": [
+        "1944"
+    ],
+    "gandhiji": [
+        "1944",
+        "1820",
+        "1942",
+        "1939"
+    ],
+    "gordon childe": [
+        "1944"
+    ],
+    "narada": [
+        "1944"
+    ],
+    "john marshall": [
+        "1944",
+        "1937"
+    ],
+    "rati": [
+        "1944"
+    ],
+    "william": [
+        "1944",
+        "1937",
+        "1857"
+    ],
+    "chand bibi": [
+        "1944",
+        "1820"
+    ],
+    "palibothra": [
+        "1944"
+    ],
+    "rita": [
+        "1944"
+    ],
+    "vasanta": [
+        "1944"
+    ],
+    "kalhana": [
+        "1944"
+    ],
+    "fick": [
+        "1944"
+    ],
+    "twashtri": [
+        "1944"
+    ],
+    "vikramaditya": [
+        "1944",
+        "1937"
+    ],
+    "kautilya": [
+        "1944"
+    ],
+    "signor mussolini": [
+        "1944",
+        "1935"
+    ],
+    "antiochus": [
+        "1944",
+        "1937"
+    ],
+    "bertrand russell": [
+        "1944"
+    ],
+    "michelet": [
+        "1944"
+    ],
+    "tilak": [
+        "1944",
+        "1820",
+        "1857"
+    ],
+    "nikator": [
+        "1944"
+    ],
+    "strabo": [
+        "1944"
+    ],
+    "joan": [
+        "1944"
+    ],
+    "dodwell": [
+        "1944",
+        "1937"
+    ],
+    "manu": [
+        "1944",
+        "1937",
+        "1857"
+    ],
+    "shahnamah": [
+        "1944",
+        "1820"
+    ],
+    "shaka": [
+        "1944"
+    ],
+    "childe": [
+        "1944",
+        "1936"
+    ],
+    "winternitz": [
+        "1944"
+    ],
+    "bindusara": [
+        "1944",
+        "1937"
+    ],
+    "cyrene": [
+        "1944"
+    ],
+    "auguste comte": [
+        "1944"
+    ],
+    "gandhari": [
+        "1944"
+    ],
+    "patna": [
+        "1944"
+    ],
+    "holy writ": [
+        "1944"
+    ],
+    "alice": [
+        "1944"
+    ],
+    "kalingas": [
+        "1944"
+    ],
+    "bhagalpur": [
+        "1944",
+        "1937"
+    ],
+    "gupta": [
+        "1944",
+        "1937"
+    ],
+    "advaita": [
+        "1944",
+        "1857"
+    ],
+    "arabian sea": [
+        "1944"
+    ],
+    "max m\u00fcller": [
+        "1944",
+        "1937"
+    ],
+    "aurobindo ghose": [
+        "1944",
+        "1937",
+        "1942"
+    ],
+    "sushruta": [
+        "1944"
+    ],
+    "kanishka": [
+        "1944",
+        "1937"
+    ],
+    "milinda": [
+        "1944",
+        "1937"
+    ],
+    "aquna": [
+        "1944"
+    ],
+    "macdonell": [
+        "1944",
+        "1820"
+    ],
+    "swami vivekananda": [
+        "1944",
+        "1857"
+    ],
+    "romain rolland": [
+        "1944",
+        "1937",
+        "1857"
+    ],
+    "rabindranath tagore": [
+        "1944",
+        "1937",
+        "1857",
+        "1942",
+        "1939"
+    ],
+    "sanghamitra": [
+        "1944"
+    ],
+    "mahavira": [
+        "1944"
+    ],
+    "indianized": [
+        "1944",
+        "1937",
+        "1820"
+    ],
+    "firdusi": [
+        "1944"
+    ],
+    "chandragupta": [
+        "1944",
+        "1937"
+    ],
+    "sindhu": [
+        "1944",
+        "1936"
+    ],
+    "macnicol": [
+        "1944"
+    ],
+    "harappa": [
+        "1944"
+    ],
+    "arrian": [
+        "1944"
+    ],
+    "chanakya": [
+        "1944",
+        "1937"
+    ],
+    "ananda": [
+        "1944"
+    ],
+    "birbal": [
+        "1944",
+        "1820"
+    ],
+    "megasthenes": [
+        "1944",
+        "1937"
+    ],
+    "bex": [
+        "1935"
+    ],
+    "chitra": [
+        "1935"
+    ],
+    "kamala": [
+        "1935"
+    ],
+    "badenweiler": [
+        "1935"
+    ],
+    "indira": [
+        "1935"
+    ],
+    "hardwar": [
+        "1936",
+        "1937"
+    ],
+    "bharat mata": [
+        "1936"
+    ],
+    "samkhya": [
+        "1937"
+    ],
+    "kalidasa": [
+        "1937"
+    ],
+    "lilavati": [
+        "1937"
+    ],
+    "budh": [
+        "1937"
+    ],
+    "johnstone": [
+        "1937"
+    ],
+    "jayavarman": [
+        "1937"
+    ],
+    "joseph wood krutch": [
+        "1937"
+    ],
+    "shakas": [
+        "1937"
+    ],
+    "sebokht": [
+        "1937"
+    ],
+    "shastras": [
+        "1937"
+    ],
+    "srivijaya": [
+        "1937"
+    ],
+    "shudraka": [
+        "1937"
+    ],
+    "hogben": [
+        "1937"
+    ],
+    "heliodorus": [
+        "1937"
+    ],
+    "bhavbhuti": [
+        "1937"
+    ],
+    "mihiragula": [
+        "1937"
+    ],
+    "mihira bhoja": [
+        "1937"
+    ],
+    "sailendra": [
+        "1937"
+    ],
+    "dion": [
+        "1937"
+    ],
+    "turco-mongols": [
+        "1937"
+    ],
+    "kumarajiva": [
+        "1937"
+    ],
+    "majapahit": [
+        "1937"
+    ],
+    "nagarjuna": [
+        "1937"
+    ],
+    "monsieur grousset": [
+        "1937"
+    ],
+    "svarnabhumi": [
+        "1937"
+    ],
+    "mrichhkatika": [
+        "1937"
+    ],
+    "havell": [
+        "1937",
+        "1820"
+    ],
+    "absolute soul": [
+        "1937"
+    ],
+    "richard garbe": [
+        "1937"
+    ],
+    "apastamba": [
+        "1937"
+    ],
+    "bhasa": [
+        "1937"
+    ],
+    "nyaya": [
+        "1937"
+    ],
+    "majumdar": [
+        "1937"
+    ],
+    "andhras": [
+        "1937"
+    ],
+    "rajendra": [
+        "1937",
+        "1942"
+    ],
+    "murari": [
+        "1937"
+    ],
+    "tughlak": [
+        "1937",
+        "1820"
+    ],
+    "sylvain l\u00e9vi": [
+        "1937"
+    ],
+    "buddhabhadra": [
+        "1937"
+    ],
+    "angkor vat": [
+        "1937"
+    ],
+    "arthur waley": [
+        "1937"
+    ],
+    "ibn batuta": [
+        "1937",
+        "1820"
+    ],
+    "shon wen": [
+        "1937"
+    ],
+    "jinabhadra": [
+        "1937"
+    ],
+    "srinivasa ramanujam": [
+        "1937"
+    ],
+    "william jones": [
+        "1937",
+        "1857"
+    ],
+    "rawlinson": [
+        "1937"
+    ],
+    "yashovarman": [
+        "1937"
+    ],
+    "ashvaghosa": [
+        "1937"
+    ],
+    "katyayana": [
+        "1937"
+    ],
+    "kublai khan": [
+        "1937"
+    ],
+    "kucha": [
+        "1937"
+    ],
+    "jinagupta": [
+        "1937"
+    ],
+    "shunya": [
+        "1937"
+    ],
+    "madhyamika": [
+        "1937"
+    ],
+    "aryan india": [
+        "1937"
+    ],
+    "kushan": [
+        "1937"
+    ],
+    "bhaskara ii": [
+        "1937"
+    ],
+    "apollonius": [
+        "1937"
+    ],
+    "yuan chwang": [
+        "1937"
+    ],
+    "shankara": [
+        "1937"
+    ],
+    "darius": [
+        "1937"
+    ],
+    "samudragupta": [
+        "1937"
+    ],
+    "hsuan tsang": [
+        "1937"
+    ],
+    "baladitya": [
+        "1937"
+    ],
+    "brahmagupta": [
+        "1937"
+    ],
+    "osbert sitwell": [
+        "1937"
+    ],
+    "satyakama jabala": [
+        "1937"
+    ],
+    "shiva nataraja": [
+        "1937"
+    ],
+    "sthavira prajnadeva": [
+        "1937"
+    ],
+    "chuang": [
+        "1937"
+    ],
+    "rajashekhara": [
+        "1937"
+    ],
+    "santiniketan": [
+        "1937"
+    ],
+    "patanjali": [
+        "1937"
+    ],
+    "henry maine": [
+        "1937"
+    ],
+    "charles eliot": [
+        "1937"
+    ],
+    "shilabhadra": [
+        "1937"
+    ],
+    "lawrence binyon": [
+        "1937"
+    ],
+    "prayaga": [
+        "1937"
+    ],
+    "palembang": [
+        "1937"
+    ],
+    "bhavabhuti": [
+        "1937"
+    ],
+    "ashvaghosha": [
+        "1937"
+    ],
+    "kanauj": [
+        "1937",
+        "1820"
+    ],
+    "dodds": [
+        "1937"
+    ],
+    "yavanas": [
+        "1937"
+    ],
+    "fahien": [
+        "1937"
+    ],
+    "julian huxley": [
+        "1937"
+    ],
+    "ryder": [
+        "1937"
+    ],
+    "keith": [
+        "1937",
+        "1939"
+    ],
+    "harshavardhana": [
+        "1937"
+    ],
+    "humayun": [
+        "1937"
+    ],
+    "anacreon": [
+        "1937"
+    ],
+    "dantzig": [
+        "1937"
+    ],
+    "sylvain levi": [
+        "1937"
+    ],
+    "james darmesteler": [
+        "1937"
+    ],
+    "severus": [
+        "1937"
+    ],
+    "matanga": [
+        "1937"
+    ],
+    "hien": [
+        "1937"
+    ],
+    "k\u00e2lid\u00e2sa": [
+        "1937"
+    ],
+    "halsted": [
+        "1937"
+    ],
+    "stcherbatsky": [
+        "1937"
+    ],
+    "alberuni": [
+        "1937",
+        "1820"
+    ],
+    "urwick": [
+        "1937"
+    ],
+    "nicolo conti": [
+        "1820"
+    ],
+    "paes": [
+        "1820"
+    ],
+    "chengiz khan": [
+        "1820"
+    ],
+    "ibn sina": [
+        "1820"
+    ],
+    "george birdwood": [
+        "1820"
+    ],
+    "charles ii": [
+        "1820",
+        "1857"
+    ],
+    "sher shah": [
+        "1820"
+    ],
+    "warren hastings": [
+        "1820"
+    ],
+    "fyzee": [
+        "1820"
+    ],
+    "liddell hart": [
+        "1820"
+    ],
+    "selfsufficiency": [
+        "1820"
+    ],
+    "james ii": [
+        "1820"
+    ],
+    "rashid": [
+        "1820"
+    ],
+    "shah jehan": [
+        "1820"
+    ],
+    "firdausi": [
+        "1820"
+    ],
+    "raja man singh": [
+        "1820"
+    ],
+    "charles metcalfe": [
+        "1820",
+        "1857"
+    ],
+    "omar khayyam": [
+        "1820"
+    ],
+    "francis": [
+        "1820"
+    ],
+    "ahmad shah durrani": [
+        "1820"
+    ],
+    "edward thompson": [
+        "1820",
+        "1857"
+    ],
+    "maharaja ranjit singh": [
+        "1820",
+        "1857"
+    ],
+    "nizam": [
+        "1820",
+        "1857"
+    ],
+    "mewar": [
+        "1820"
+    ],
+    "idrisi": [
+        "1820"
+    ],
+    "alauddin khilji": [
+        "1820"
+    ],
+    "jenghiz": [
+        "1820"
+    ],
+    "jaichandra": [
+        "1820"
+    ],
+    "holkar": [
+        "1820"
+    ],
+    "abdul fazl": [
+        "1820"
+    ],
+    "amir khusrau": [
+        "1820"
+    ],
+    "mary beard": [
+        "1820"
+    ],
+    "khalifas": [
+        "1820"
+    ],
+    "adam smith": [
+        "1820"
+    ],
+    "gama": [
+        "1820"
+    ],
+    "prinsep": [
+        "1820"
+    ],
+    "him": [
+        "1820",
+        "1942"
+    ],
+    "tulsidas": [
+        "1820"
+    ],
+    "sultan mahmud": [
+        "1820"
+    ],
+    "shivaji": [
+        "1820",
+        "1857"
+    ],
+    "emmanuel": [
+        "1820"
+    ],
+    "nana farnavis": [
+        "1820"
+    ],
+    "mughal viceroy": [
+        "1820"
+    ],
+    "allawardi": [
+        "1820"
+    ],
+    "ferghana": [
+        "1820"
+    ],
+    "guru nanak": [
+        "1820"
+    ],
+    "rumi": [
+        "1820"
+    ],
+    "prithvi raj chauhan": [
+        "1820"
+    ],
+    "rana pratap": [
+        "1820"
+    ],
+    "al khwarismi": [
+        "1820"
+    ],
+    "mencius": [
+        "1820"
+    ],
+    "ahilya bai": [
+        "1820"
+    ],
+    "manak": [
+        "1820"
+    ],
+    "barmak": [
+        "1820"
+    ],
+    "marco": [
+        "1820"
+    ],
+    "harun": [
+        "1820"
+    ],
+    "louis xiv": [
+        "1820"
+    ],
+    "shukracharya": [
+        "1820"
+    ],
+    "vasco": [
+        "1820"
+    ],
+    "lodi": [
+        "1820"
+    ],
+    "tipu sultan": [
+        "1820",
+        "1857"
+    ],
+    "haider ali": [
+        "1820"
+    ],
+    "ibn rushd": [
+        "1820"
+    ],
+    "hulagu": [
+        "1820"
+    ],
+    "aurungzeb": [
+        "1820",
+        "1857"
+    ],
+    "jehangir": [
+        "1820"
+    ],
+    "bhairu": [
+        "1820"
+    ],
+    "george iii": [
+        "1820"
+    ],
+    "jahiliyat": [
+        "1820"
+    ],
+    "mahadaji": [
+        "1820"
+    ],
+    "charles martel": [
+        "1820"
+    ],
+    "murshidabad": [
+        "1820"
+    ],
+    "kabir": [
+        "1820"
+    ],
+    "abu nasr farabi": [
+        "1820"
+    ],
+    "abdul rahim khankhana": [
+        "1820"
+    ],
+    "john shore": [
+        "1820"
+    ],
+    "jacquemont": [
+        "1820"
+    ],
+    "sawai jai singh": [
+        "1820"
+    ],
+    "queen elizabeth": [
+        "1820"
+    ],
+    "feroze": [
+        "1820"
+    ],
+    "munshi zakaullah": [
+        "1857"
+    ],
+    "brooke adams": [
+        "1857"
+    ],
+    "maulana shibli nomani": [
+        "1857"
+    ],
+    "marwaris": [
+        "1857"
+    ],
+    "nazir ahmad": [
+        "1857"
+    ],
+    "dadabhai": [
+        "1857"
+    ],
+    "john bright": [
+        "1857"
+    ],
+    "gopal krishna gokhale": [
+        "1857"
+    ],
+    "abdul kalam azad": [
+        "1857"
+    ],
+    "raja ram mohan roy": [
+        "1857"
+    ],
+    "kashmiri brahmin": [
+        "1857"
+    ],
+    "abul kalam azad": [
+        "1857",
+        "1939"
+    ],
+    "iqbal": [
+        "1857"
+    ],
+    "william bentinck": [
+        "1857"
+    ],
+    "savarkar": [
+        "1857"
+    ],
+    "khojas": [
+        "1857"
+    ],
+    "bohras": [
+        "1857"
+    ],
+    "hali": [
+        "1857"
+    ],
+    "montgomery martin": [
+        "1857"
+    ],
+    "crompton": [
+        "1857"
+    ],
+    "kaye": [
+        "1857"
+    ],
+    "swami dayananda saraswati": [
+        "1857"
+    ],
+    "garrett": [
+        "1857"
+    ],
+    "jallianwala bagh": [
+        "1857"
+    ],
+    "drisadvati": [
+        "1857"
+    ],
+    "sanyasin": [
+        "1857"
+    ],
+    "kemal pasha": [
+        "1857"
+    ],
+    "ramakrishna paramahansa": [
+        "1857"
+    ],
+    "bikaner": [
+        "1857"
+    ],
+    "bahadur shah": [
+        "1857"
+    ],
+    "syed chirag ali": [
+        "1857"
+    ],
+    "bal gangadhar tilak": [
+        "1857"
+    ],
+    "ghalib": [
+        "1857"
+    ],
+    "lord bentinck": [
+        "1857"
+    ],
+    "muhammad tughlaq": [
+        "1857"
+    ],
+    "shaukat ali": [
+        "1857"
+    ],
+    "chaitanya": [
+        "1857"
+    ],
+    "munshi karamat ali": [
+        "1857"
+    ],
+    "jamshedji tata": [
+        "1857",
+        "1942"
+    ],
+    "annie": [
+        "1857"
+    ],
+    "shelvankar": [
+        "1857"
+    ],
+    "lakshmi bai": [
+        "1857"
+    ],
+    "buckingham": [
+        "1857"
+    ],
+    "neill": [
+        "1857"
+    ],
+    "ansari": [
+        "1857"
+    ],
+    "badshah": [
+        "1942"
+    ],
+    "spykman": [
+        "1942"
+    ],
+    "lao tzu": [
+        "1942"
+    ],
+    "winston churchill": [
+        "1942",
+        "1939"
+    ],
+    "john stuart mill": [
+        "1942"
+    ],
+    "yugadharma": [
+        "1942"
+    ],
+    "janaka": [
+        "1942"
+    ],
+    "sabha": [
+        "1942"
+    ],
+    "kampf": [
+        "1942"
+    ],
+    "yajnavalka": [
+        "1942"
+    ],
+    "krishak": [
+        "1942"
+    ],
+    "lloyd george": [
+        "1942"
+    ],
+    "linlithgow": [
+        "1942",
+        "1939"
+    ],
+    "jim": [
+        "1942"
+    ],
+    "maulana abul kalam azad": [
+        "1942",
+        "1939"
+    ],
+    "wendell wilkie": [
+        "1942"
+    ],
+    "prasad": [
+        "1942"
+    ],
+    "melos": [
+        "1942"
+    ],
+    "bernard shaw": [
+        "1942",
+        "1939"
+    ],
+    "abdul ghaffar khan": [
+        "1942"
+    ],
+    "manchukuo": [
+        "1942"
+    ],
+    "reginald": [
+        "1942"
+    ],
+    "john mathai": [
+        "1942"
+    ],
+    "subhas bose": [
+        "1939"
+    ],
+    "stafford cripps": [
+        "1939"
+    ],
+    "locarno": [
+        "1939"
+    ],
+    "madame chiang kaishek": [
+        "1939"
+    ],
+    "rafi": [
+        "1939"
+    ],
+    "berriedale keith": [
+        "1939"
+    ],
+    "shri": [
+        "1939"
+    ]
+}

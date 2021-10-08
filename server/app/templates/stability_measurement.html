@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='css/main.css') }}">
+</head>
+
+<body>
+    <div style="display: flex; justify-content: center; margin: auto;">
+        <h1>
+            Stability Measurement
+        </h1>
+    </div>
+
+    <div style="display: flex; justify-content: center;">
+        <div >
+            <h3>Select Year Window</h3>
+        </div>
+        <div style="margin-top:auto; margin-bottom: auto;">
+        <form action='/stability_measurement/{{method}}' method="post" novalidate="novalidate">
+            <input type="number" id="yearWindowStab" name="yearWindowStab" value={{year_range}}>
+            <button id="updateChartStab" type="submit">Update Chart</button>
+        </form>
+    </div>
+    </div>
+    <!-- <form action='/stability_measurement' method="post" novalidate="novalidate">
+        <button id="frequencyStab" name="frequencyStab" type="submit">Frequency Wise</button>
+        <button id="close_cenStab" name="close_cenStab" type="submit">Closeness Centrality</button>
+    </form> -->
+
+    
+    <div style="display: flex; justify-content: center; margin: auto;">
+        <div>
+
+            <span style=" height: fit-content;">
+                <a class="btn" href="{{url_for('get_stability_measurement', method='frequency')}}">Frquency Wise</a>
+            </span>
+            <span style=" height: fit-content;">
+                <a class="btn" href="{{url_for('get_stability_measurement', method='close_cen')}}">Closeness Centrality
+                    Wise</a>
+            </span>
+
+            <span style=" height: fit-content;">
+                <a class="btn" href="{{url_for('get_stability_measurement', method='between_cen')}}">Betweenness
+                    Centrality Wise</a>
+            </span>
+        </div>
+    </div>
+
+    <div style="display: flex; justify-content: center; margin: auto; margin-top:10px">
+        <h2>
+            Selected - {{method}}
+        </h2>
+    </div>
+
+    {% for yrange, person_list in stability_measurement_data.items() %}
+    <div>
+        <div style="display: flex; width: 35%; justify-content: center; margin: auto; height: 30px;">
+            <h3>
+            {{yrange}} => {{person_list}}
+        </h3>
+        </div>
+    </div>
+    {%endfor%}
+
+    <div style="margin-top: 10%;"></div>
+
+    {%for yrange, book_node_list in stability_measurement_nodes.items() %}
+    <div style="width: 90%;">
+        <h1>{{yrange}}</h1>
+    </div>
+    {% for book, node_list in book_node_list.items() %}
+    <div>
+        <div style="margin-bottom: 2%;">
+            <h2>{{book}}</h2>
+            <h2>{{node_list}}</h2>
+        </div>
+    </div>
+    {%endfor%}
+    {%endfor%}
+</body>
+
+
+
+</html>

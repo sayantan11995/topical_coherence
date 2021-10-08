@@ -1,0 +1,2516 @@
+{
+    "st. petersburg": [
+        "1906",
+        "1848",
+        "1867",
+        "1901",
+        "1903",
+        "1912",
+        "1900",
+        "1891",
+        "1896",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "stuttgart": [
+        "1906",
+        "1901",
+        "1912",
+        "1890",
+        "1897"
+    ],
+    "poland": [
+        "1906",
+        "1848",
+        "1901",
+        "1903",
+        "1905",
+        "1912",
+        "1891",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "bonn": [
+        "1906"
+    ],
+    "england": [
+        "1906",
+        "1848",
+        "1901",
+        "1903",
+        "1871",
+        "1900",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "brunswick": [
+        "1906"
+    ],
+    "japan": [
+        "1906",
+        "1848",
+        "1903",
+        "1871",
+        "1900"
+    ],
+    "trier": [
+        "1906"
+    ],
+    "america": [
+        "1906",
+        "1848",
+        "1867",
+        "1901",
+        "1903",
+        "1871",
+        "1900",
+        "1890",
+        "1897"
+    ],
+    "london": [
+        "1906",
+        "1901",
+        "1903",
+        "1900",
+        "1897"
+    ],
+    "france": [
+        "1906",
+        "1848",
+        "1901",
+        "1903",
+        "1905",
+        "1912",
+        "1871",
+        "1900",
+        "1891",
+        "1890",
+        "1897"
+    ],
+    "cologne": [
+        "1906"
+    ],
+    "paris": [
+        "1906",
+        "1848",
+        "1901",
+        "1903",
+        "1912",
+        "1871",
+        "1900",
+        "1890"
+    ],
+    "south africa": [
+        "1906",
+        "1900"
+    ],
+    "brussels": [
+        "1906"
+    ],
+    "frankfort": [
+        "1906",
+        "1903"
+    ],
+    "russia": [
+        "1906",
+        "1848",
+        "1867",
+        "1901",
+        "1903",
+        "1905",
+        "1912",
+        "1871",
+        "1900",
+        "1915",
+        "1891",
+        "1896",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "jena": [
+        "1906"
+    ],
+    "odessa": [
+        "1906",
+        "1903",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "munich": [
+        "1906"
+    ],
+    "krakow": [
+        "1906"
+    ],
+    "new york": [
+        "1906",
+        "1903",
+        "1891",
+        "1896"
+    ],
+    "belgium": [
+        "1906",
+        "1848",
+        "1912",
+        "1900",
+        "1915",
+        "1890"
+    ],
+    "germany": [
+        "1906",
+        "1848",
+        "1867",
+        "1901",
+        "1903",
+        "1912",
+        "1871",
+        "1900",
+        "1891",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "moscow": [
+        "1906",
+        "1901",
+        "1903",
+        "1905",
+        "1900",
+        "1891",
+        "1896",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "hamburg": [
+        "1906",
+        "1903",
+        "1900"
+    ],
+    "palmerston": [
+        "1906"
+    ],
+    "berlin": [
+        "1906",
+        "1848",
+        "1901",
+        "1903",
+        "1900",
+        "1891"
+    ],
+    "erfurt": [
+        "1906",
+        "1848",
+        "1900"
+    ],
+    "leipzig": [
+        "1906",
+        "1901"
+    ],
+    "sweden": [
+        "1906",
+        "1903",
+        "1900"
+    ],
+    "elberfeld": [
+        "1906",
+        "1900"
+    ],
+    "vienna": [
+        "1906",
+        "1912"
+    ],
+    "rhineland": [
+        "1906"
+    ],
+    "iskra": [
+        "1848",
+        "1901",
+        "1903",
+        "1905",
+        "1912"
+    ],
+    "warsaw": [
+        "1848",
+        "1903",
+        "1890"
+    ],
+    "switzerland": [
+        "1848",
+        "1903",
+        "1871",
+        "1900"
+    ],
+    "tsushima": [
+        "1848"
+    ],
+    "italy": [
+        "1848",
+        "1903",
+        "1871",
+        "1900",
+        "1890"
+    ],
+    "penza": [
+        "1848",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "kazan": [
+        "1848",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "reform": [
+        "1867",
+        "1896",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "empire": [
+        "1901",
+        "1891",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "hanover": [
+        "1901"
+    ],
+    "voznesensk": [
+        "1901",
+        "1896",
+        "1890"
+    ],
+    "ivanovo": [
+        "1901",
+        "1890"
+    ],
+    "mountain": [
+        "1901",
+        "1903"
+    ],
+    "geneva": [
+        "1901",
+        "1903"
+    ],
+    "rome": [
+        "1901",
+        "1900"
+    ],
+    "turkey": [
+        "1903",
+        "1871",
+        "1900"
+    ],
+    "saratov": [
+        "1903",
+        "1891",
+        "1896",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "australia": [
+        "1903",
+        "1900"
+    ],
+    "lodz": [
+        "1903",
+        "1890"
+    ],
+    "norway": [
+        "1903",
+        "1871",
+        "1900"
+    ],
+    "china": [
+        "1903",
+        "1905",
+        "1871",
+        "1900",
+        "1897"
+    ],
+    "cadet": [
+        "1903",
+        "1905",
+        "1912",
+        "1890",
+        "1897"
+    ],
+    "centre": [
+        "1903",
+        "1912"
+    ],
+    "radom": [
+        "1903"
+    ],
+    "voronezh": [
+        "1903",
+        "1891",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "posen": [
+        "1903"
+    ],
+    "riga": [
+        "1903",
+        "1890",
+        "1897"
+    ],
+    "morgarten": [
+        "1903"
+    ],
+    "persia": [
+        "1903",
+        "1905",
+        "1871",
+        "1900",
+        "1897"
+    ],
+    "vilna": [
+        "1903",
+        "1896",
+        "1890"
+    ],
+    "dresden": [
+        "1903"
+    ],
+    "sevastopol": [
+        "1903"
+    ],
+    "kolpino": [
+        "1903"
+    ],
+    "revel": [
+        "1903"
+    ],
+    "ukraine": [
+        "1903",
+        "1905",
+        "1912"
+    ],
+    "ireland": [
+        "1903",
+        "1905",
+        "1900"
+    ],
+    "rostov": [
+        "1905",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "kronstadt": [
+        "1905",
+        "1890"
+    ],
+    "hungary": [
+        "1905",
+        "1900"
+    ],
+    "kolomna": [
+        "1905",
+        "1890"
+    ],
+    "luck": [
+        "1912"
+    ],
+    "united states": [
+        "1912",
+        "1871",
+        "1900",
+        "1890"
+    ],
+    "serbia": [
+        "1912",
+        "1900"
+    ],
+    "india": [
+        "1871",
+        "1900",
+        "1890"
+    ],
+    "argentina": [
+        "1900"
+    ],
+    "palestine": [
+        "1900"
+    ],
+    "chile": [
+        "1900"
+    ],
+    "holland": [
+        "1900"
+    ],
+    "brazil": [
+        "1900"
+    ],
+    "portugal": [
+        "1900"
+    ],
+    "wales": [
+        "1900"
+    ],
+    "scotland": [
+        "1900",
+        "1890"
+    ],
+    "canada": [
+        "1900"
+    ],
+    "philippines": [
+        "1900"
+    ],
+    "denmark": [
+        "1900"
+    ],
+    "arabia": [
+        "1900"
+    ],
+    "brooklyn": [
+        "1900"
+    ],
+    "lorraine": [
+        "1900"
+    ],
+    "bochum": [
+        "1900"
+    ],
+    "argentine": [
+        "1900",
+        "1890"
+    ],
+    "morocco": [
+        "1900"
+    ],
+    "afghanistan": [
+        "1900"
+    ],
+    "kassel": [
+        "1900"
+    ],
+    "natal": [
+        "1900"
+    ],
+    "eschwege": [
+        "1900"
+    ],
+    "armstrong": [
+        "1900"
+    ],
+    "baghdad": [
+        "1900"
+    ],
+    "spain": [
+        "1900"
+    ],
+    "turkestan": [
+        "1900"
+    ],
+    "uruguay": [
+        "1900"
+    ],
+    "berne": [
+        "1915"
+    ],
+    "serdobsk": [
+        "1891"
+    ],
+    "kuznetsk": [
+        "1891"
+    ],
+    "nizhnedevitsk": [
+        "1891"
+    ],
+    "irkutsk": [
+        "1891"
+    ],
+    "tambov": [
+        "1891",
+        "1896",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "korotoyak": [
+        "1891"
+    ],
+    "pskov": [
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "balakovo": [
+        "1896",
+        "1890"
+    ],
+    "kursk": [
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "baltic": [
+        "1896",
+        "1890"
+    ],
+    "smolensk": [
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "orenburg": [
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "vologda": [
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "chicago": [
+        "1896",
+        "1890"
+    ],
+    "shpola": [
+        "1896"
+    ],
+    "kakhovka": [
+        "1896"
+    ],
+    "mogilev": [
+        "1896",
+        "1890"
+    ],
+    "shushenskoye": [
+        "1896",
+        "1890",
+        "1894"
+    ],
+    "ural": [
+        "1896",
+        "1890"
+    ],
+    "druzhkovka": [
+        "1890"
+    ],
+    "volokolamsk": [
+        "1890"
+    ],
+    "kostroma": [
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "tomarovka": [
+        "1890"
+    ],
+    "kimry": [
+        "1890",
+        "1894"
+    ],
+    "mariupol": [
+        "1890"
+    ],
+    "ardon": [
+        "1890"
+    ],
+    "bykovo": [
+        "1890"
+    ],
+    "velikoye": [
+        "1890"
+    ],
+    "bobrovo": [
+        "1890"
+    ],
+    "konstantinovka": [
+        "1890"
+    ],
+    "krolevets": [
+        "1890"
+    ],
+    "sarapul": [
+        "1890"
+    ],
+    "kungur": [
+        "1890"
+    ],
+    "volga": [
+        "1890"
+    ],
+    "bogorodskoye": [
+        "1890",
+        "1894"
+    ],
+    "orekhovo": [
+        "1890"
+    ],
+    "rasskazovo": [
+        "1890"
+    ],
+    "vorsma": [
+        "1890",
+        "1894"
+    ],
+    "zubtsov": [
+        "1890"
+    ],
+    "semyonov": [
+        "1890",
+        "1894"
+    ],
+    "vacha": [
+        "1890"
+    ],
+    "murmansk": [
+        "1897"
+    ],
+    "finland": [
+        "1897"
+    ],
+    "georgia": [
+        "1897"
+    ],
+    "pyotr": [
+        "1906",
+        "1867"
+    ],
+    "riekes": [
+        "1906"
+    ],
+    "wirtschaft": [
+        "1906"
+    ],
+    "zieber": [
+        "1906"
+    ],
+    "david ricardo": [
+        "1906"
+    ],
+    "zwei tendenzen": [
+        "1906"
+    ],
+    "westphalisches dampboot": [
+        "1906"
+    ],
+    "stepanov": [
+        "1906",
+        "1903"
+    ],
+    "montagne": [
+        "1906"
+    ],
+    "danielson": [
+        "1906"
+    ],
+    "otto bauer": [
+        "1906",
+        "1903"
+    ],
+    "laura lafargue": [
+        "1906"
+    ],
+    "skirmunt": [
+        "1906"
+    ],
+    "thomas huxley": [
+        "1906"
+    ],
+    "olconomie": [
+        "1906"
+    ],
+    "eckstein": [
+        "1906"
+    ],
+    "pierre joseph proudhon": [
+        "1906"
+    ],
+    "volkswirtschaft": [
+        "1906",
+        "1894",
+        "1897"
+    ],
+    "alexeyeva": [
+        "1906"
+    ],
+    "benno": [
+        "1906"
+    ],
+    "frederick engels": [
+        "1906",
+        "1903"
+    ],
+    "vestnik yevropy": [
+        "1906",
+        "1867",
+        "1891",
+        "1894"
+    ],
+    "verwaltung": [
+        "1906"
+    ],
+    "renner": [
+        "1906"
+    ],
+    "karl schurz": [
+        "1906"
+    ],
+    "kozman": [
+        "1906"
+    ],
+    "anton pannokoek": [
+        "1906"
+    ],
+    "ludwig feuerbach": [
+        "1906"
+    ],
+    "axeirod": [
+        "1906"
+    ],
+    "sorge": [
+        "1906"
+    ],
+    "annenkov": [
+        "1906"
+    ],
+    "vesinik znaniya": [
+        "1906"
+    ],
+    "eduard bernstein": [
+        "1906",
+        "1903"
+    ],
+    "novy gobs": [
+        "1906"
+    ],
+    "volume iii": [
+        "1906",
+        "1848",
+        "1891",
+        "1890"
+    ],
+    "gurvich": [
+        "1906"
+    ],
+    "vorw\u00e4rts": [
+        "1906"
+    ],
+    "tuchapsky": [
+        "1906"
+    ],
+    "guizot": [
+        "1906"
+    ],
+    "alexayeva": [
+        "1906"
+    ],
+    "mobot": [
+        "1906"
+    ],
+    "thierry": [
+        "1906"
+    ],
+    "ferdinand lassalle": [
+        "1906"
+    ],
+    "zheleznov": [
+        "1906"
+    ],
+    "kugelniann": [
+        "1906"
+    ],
+    "die neue zeit": [
+        "1906",
+        "1903"
+    ],
+    "hammacher": [
+        "1906"
+    ],
+    "plekhanov": [
+        "1906",
+        "1848",
+        "1901",
+        "1903",
+        "1905",
+        "1912",
+        "1871"
+    ],
+    "ilyin": [
+        "1906",
+        "1890"
+    ],
+    "kapitalzins": [
+        "1906"
+    ],
+    "schapper": [
+        "1906"
+    ],
+    "bracke": [
+        "1906"
+    ],
+    "ruge": [
+        "1906"
+    ],
+    "kolokol": [
+        "1906",
+        "1848"
+    ],
+    "wertrechnung": [
+        "1906"
+    ],
+    "eleanor aveling": [
+        "1906"
+    ],
+    "rodbertus": [
+        "1906",
+        "1891"
+    ],
+    "antonio labriola": [
+        "1906"
+    ],
+    "louis boudin": [
+        "1906"
+    ],
+    "gabriel deville": [
+        "1906"
+    ],
+    "max adler": [
+        "1906"
+    ],
+    "bortkiewicz": [
+        "1906"
+    ],
+    "jules guesde": [
+        "1906"
+    ],
+    "josef": [
+        "1906"
+    ],
+    "novy mir": [
+        "1906"
+    ],
+    "marxismus": [
+        "1906"
+    ],
+    "bazarov": [
+        "1906",
+        "1903"
+    ],
+    "mikhailovsky": [
+        "1906",
+        "1867",
+        "1901",
+        "1890"
+    ],
+    "thiers": [
+        "1906"
+    ],
+    "nikolai": [
+        "1906",
+        "1891"
+    ],
+    "franz mehring": [
+        "1906"
+    ],
+    "literarischer nachiass": [
+        "1906"
+    ],
+    "maslov": [
+        "1906",
+        "1905",
+        "1912",
+        "1900"
+    ],
+    "voraussetzungen": [
+        "1906"
+    ],
+    "louis bonaparte": [
+        "1906",
+        "1890"
+    ],
+    "myagkov": [
+        "1906"
+    ],
+    "rudolph": [
+        "1906"
+    ],
+    "karl kautsky": [
+        "1906",
+        "1903",
+        "1900"
+    ],
+    "rosa luxemburg": [
+        "1906",
+        "1903",
+        "1912"
+    ],
+    "hegelianism": [
+        "1906"
+    ],
+    "manuilov": [
+        "1906"
+    ],
+    "mehrwert": [
+        "1906"
+    ],
+    "zinoviev": [
+        "1906",
+        "1915"
+    ],
+    "werner sombart": [
+        "1906"
+    ],
+    "jenny longuet": [
+        "1906"
+    ],
+    "vseobshchaya biblioteka": [
+        "1906"
+    ],
+    "mikhail bakunin": [
+        "1906"
+    ],
+    "lassallean": [
+        "1906"
+    ],
+    "clara zetkin": [
+        "1906",
+        "1903"
+    ],
+    "vorl\u00e4nder": [
+        "1906"
+    ],
+    "giovanni gentile": [
+        "1906"
+    ],
+    "bruno bauer": [
+        "1906"
+    ],
+    "adam smith": [
+        "1906",
+        "1867",
+        "1891",
+        "1890",
+        "1897"
+    ],
+    "pers\u00f6nlichee": [
+        "1906"
+    ],
+    "gustav jaeckh": [
+        "1906"
+    ],
+    "hermann gorter": [
+        "1906"
+    ],
+    "eduard david": [
+        "1906"
+    ],
+    "geschichtsaufiassung": [
+        "1906"
+    ],
+    "paul lafargue": [
+        "1906"
+    ],
+    "arbeit": [
+        "1906"
+    ],
+    "literarischer nachlass": [
+        "1906"
+    ],
+    "kugelmann": [
+        "1906"
+    ],
+    "zum abschluss": [
+        "1906"
+    ],
+    "prosveshcheniye": [
+        "1906",
+        "1903",
+        "1915"
+    ],
+    "der gesellschatsspiegel": [
+        "1906"
+    ],
+    "charles andler": [
+        "1906"
+    ],
+    "woltmann": [
+        "1906",
+        "1901"
+    ],
+    "kantianism": [
+        "1906"
+    ],
+    "quatre": [
+        "1906"
+    ],
+    "das volk": [
+        "1906"
+    ],
+    "john spargo": [
+        "1906"
+    ],
+    "reitern": [
+        "1848"
+    ],
+    "starover": [
+        "1848",
+        "1901",
+        "1903"
+    ],
+    "bulygin": [
+        "1848",
+        "1912"
+    ],
+    "kavelin": [
+        "1848"
+    ],
+    "narodniks": [
+        "1848",
+        "1867",
+        "1891",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "bernsteinism": [
+        "1848",
+        "1901"
+    ],
+    "alexander ii": [
+        "1848"
+    ],
+    "turati": [
+        "1848"
+    ],
+    "orvobozhdentsi": [
+        "1848"
+    ],
+    "narodism": [
+        "1848",
+        "1867",
+        "1901",
+        "1915",
+        "1891",
+        "1897"
+    ],
+    "chernyshevsky": [
+        "1848",
+        "1901",
+        "1905"
+    ],
+    "jaur\u00e8sism": [
+        "1848",
+        "1903"
+    ],
+    "anton petrov": [
+        "1848"
+    ],
+    "martynovism": [
+        "1848"
+    ],
+    "zemstvos": [
+        "1848",
+        "1867",
+        "1901",
+        "1896"
+    ],
+    "dobrolyubov": [
+        "1848"
+    ],
+    "peter struve": [
+        "1848"
+    ],
+    "brouck\u00e8re": [
+        "1848",
+        "1903"
+    ],
+    "millerandism": [
+        "1848",
+        "1903"
+    ],
+    "petrunkevich": [
+        "1848"
+    ],
+    "herzen": [
+        "1848",
+        "1901"
+    ],
+    "bezdna": [
+        "1848"
+    ],
+    "syezdovtsi": [
+        "1848"
+    ],
+    "novoye slovo": [
+        "1867",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "karyshev": [
+        "1867",
+        "1891",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "boborykin": [
+        "1867"
+    ],
+    "engelhardt": [
+        "1867",
+        "1891",
+        "1896",
+        "1890"
+    ],
+    "knecht": [
+        "1867",
+        "1891"
+    ],
+    "volynsky": [
+        "1867"
+    ],
+    "moskovskiye": [
+        "1867"
+    ],
+    "vedomosti": [
+        "1867",
+        "1896",
+        "1890"
+    ],
+    "abramov": [
+        "1867"
+    ],
+    "rozanov": [
+        "1867"
+    ],
+    "skaldin": [
+        "1867"
+    ],
+    "otechestvenniye zapiski": [
+        "1867",
+        "1891",
+        "1896",
+        "1890"
+    ],
+    "minsky": [
+        "1867"
+    ],
+    "wilhelm liebknecht": [
+        "1901"
+    ],
+    "tkachov": [
+        "1901"
+    ],
+    "narodnaya volya": [
+        "1901"
+    ],
+    "pulkheria ivanovnas": [
+        "1901"
+    ],
+    "yaroslavl gubernia": [
+        "1901",
+        "1890",
+        "1897"
+    ],
+    "lomonosov": [
+        "1901"
+    ],
+    "auer": [
+        "1901"
+    ],
+    "rabocheye dyelo": [
+        "1901",
+        "1903"
+    ],
+    "schramm": [
+        "1901"
+    ],
+    "vaneyev": [
+        "1901"
+    ],
+    "rossiya": [
+        "1901",
+        "1903"
+    ],
+    "martynoys": [
+        "1901"
+    ],
+    "myshkin": [
+        "1901",
+        "1903"
+    ],
+    "tim delaney": [
+        "1901"
+    ],
+    "bulgakov": [
+        "1901",
+        "1891"
+    ],
+    "perovskaya": [
+        "1901"
+    ],
+    "rittinghausen": [
+        "1901"
+    ],
+    "rabochaya mysi": [
+        "1901"
+    ],
+    "chris russell": [
+        "1901"
+    ],
+    "serebryakov": [
+        "1901"
+    ],
+    "ozerov": [
+        "1901"
+    ],
+    "yuzhny rabochy": [
+        "1901",
+        "1903"
+    ],
+    "beltov": [
+        "1901"
+    ],
+    "nakanune": [
+        "1901"
+    ],
+    "brentano": [
+        "1901"
+    ],
+    "witte": [
+        "1901"
+    ],
+    "verwirrung": [
+        "1901"
+    ],
+    "hasselmann": [
+        "1901"
+    ],
+    "russkiye": [
+        "1901",
+        "1896",
+        "1890"
+    ],
+    "rabochaya gazeta": [
+        "1901"
+    ],
+    "pisarev": [
+        "1901"
+    ],
+    "abdruck": [
+        "1901"
+    ],
+    "vladimir": [
+        "1901",
+        "1903",
+        "1891",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "nadezhdin": [
+        "1901",
+        "1903"
+    ],
+    "mutato": [
+        "1901"
+    ],
+    "boris krichevsky": [
+        "1901"
+    ],
+    "robert knight": [
+        "1901"
+    ],
+    "tulin": [
+        "1901"
+    ],
+    "hochbert": [
+        "1901"
+    ],
+    "nartsis tuporylov": [
+        "1901"
+    ],
+    "willielin liebknecht": [
+        "1901"
+    ],
+    "prokopoviches": [
+        "1901"
+    ],
+    "bebel": [
+        "1901",
+        "1903"
+    ],
+    "johann ballhorn": [
+        "1901"
+    ],
+    "vollmar": [
+        "1901",
+        "1903"
+    ],
+    "dontsov": [
+        "1903"
+    ],
+    "gusev": [
+        "1903"
+    ],
+    "seele": [
+        "1903"
+    ],
+    "axelrods": [
+        "1903"
+    ],
+    "leninhe": [
+        "1903"
+    ],
+    "axelrod martov": [
+        "1903"
+    ],
+    "sobakeviches": [
+        "1903"
+    ],
+    "yudin": [
+        "1903"
+    ],
+    "jaur\u00e9s": [
+        "1903"
+    ],
+    "cornrade makhov": [
+        "1903"
+    ],
+    "kostich": [
+        "1903"
+    ],
+    "lvovs": [
+        "1903"
+    ],
+    "glebov": [
+        "1903"
+    ],
+    "haecker": [
+        "1903"
+    ],
+    "popov": [
+        "1903",
+        "1890"
+    ],
+    "pomyalovsky": [
+        "1903"
+    ],
+    "liebers": [
+        "1903"
+    ],
+    "mogilyansky": [
+        "1903"
+    ],
+    "savenko": [
+        "1903"
+    ],
+    "gorin": [
+        "1903"
+    ],
+    "gomrade egorov": [
+        "1903"
+    ],
+    "pavlovich": [
+        "1903"
+    ],
+    "posadovsky": [
+        "1903"
+    ],
+    "ivan nikiforovich": [
+        "1903"
+    ],
+    "tsaryov": [
+        "1903"
+    ],
+    "russkaya": [
+        "1903",
+        "1891",
+        "1896",
+        "1890"
+    ],
+    "rusov": [
+        "1903"
+    ],
+    "karsky": [
+        "1903"
+    ],
+    "travinsky": [
+        "1903"
+    ],
+    "kostrov": [
+        "1903"
+    ],
+    "gohre": [
+        "1903"
+    ],
+    "comrade egorov": [
+        "1903"
+    ],
+    "martovites": [
+        "1903"
+    ],
+    "kosovsky": [
+        "1903"
+    ],
+    "koltsov": [
+        "1903"
+    ],
+    "leninat": [
+        "1903"
+    ],
+    "blanquism": [
+        "1903"
+    ],
+    "rech": [
+        "1903"
+    ],
+    "proletarskaya pravda": [
+        "1903"
+    ],
+    "wolfgang heine": [
+        "1903"
+    ],
+    "orlov": [
+        "1903",
+        "1891",
+        "1896",
+        "1890",
+        "1894"
+    ],
+    "straffheit": [
+        "1903"
+    ],
+    "leninsoon": [
+        "1903"
+    ],
+    "muravyov": [
+        "1903"
+    ],
+    "stockmann": [
+        "1903"
+    ],
+    "strakhov": [
+        "1903"
+    ],
+    "ivan ivanovich": [
+        "1903"
+    ],
+    "martynovs": [
+        "1903"
+    ],
+    "warszawski": [
+        "1903"
+    ],
+    "zasulich": [
+        "1903"
+    ],
+    "kokoshkin": [
+        "1903"
+    ],
+    "rosenow": [
+        "1903"
+    ],
+    "georgi gapon": [
+        "1903"
+    ],
+    "panin": [
+        "1903"
+    ],
+    "egorovs": [
+        "1903"
+    ],
+    "hyndman": [
+        "1903",
+        "1871"
+    ],
+    "semkovsky": [
+        "1903",
+        "1912"
+    ],
+    "rabochaya pravda": [
+        "1903"
+    ],
+    "brouckere": [
+        "1903"
+    ],
+    "liebman": [
+        "1903"
+    ],
+    "medvedev": [
+        "1903"
+    ],
+    "festlegung": [
+        "1903"
+    ],
+    "byelov": [
+        "1903"
+    ],
+    "borba": [
+        "1903",
+        "1912"
+    ],
+    "martynov comrade martov": [
+        "1903"
+    ],
+    "edelanarchismus": [
+        "1903"
+    ],
+    "kievskaya mysl": [
+        "1903"
+    ],
+    "goldblatt": [
+        "1903"
+    ],
+    "abramson": [
+        "1903"
+    ],
+    "ryazanov": [
+        "1903",
+        "1912"
+    ],
+    "bundist": [
+        "1903"
+    ],
+    "lensky": [
+        "1903"
+    ],
+    "naprzod": [
+        "1903"
+    ],
+    "menshikov": [
+        "1905"
+    ],
+    "bobrinskys": [
+        "1905"
+    ],
+    "smirnov": [
+        "1905",
+        "1912",
+        "1890",
+        "1894"
+    ],
+    "dubasov": [
+        "1905"
+    ],
+    "stolypin": [
+        "1905",
+        "1891"
+    ],
+    "rubanovich": [
+        "1905"
+    ],
+    "malakhov": [
+        "1905"
+    ],
+    "letts": [
+        "1905",
+        "1912"
+    ],
+    "citizen trotsky": [
+        "1912"
+    ],
+    "bennigsen": [
+        "1912"
+    ],
+    "chkheidze": [
+        "1912",
+        "1871"
+    ],
+    "put pravdy": [
+        "1912"
+    ],
+    "buryanov": [
+        "1912"
+    ],
+    "tulyakov": [
+        "1912"
+    ],
+    "numerouss": [
+        "1912"
+    ],
+    "wilhelm ii": [
+        "1912",
+        "1900"
+    ],
+    "nicholas ii": [
+        "1912"
+    ],
+    "bulkin": [
+        "1912"
+    ],
+    "luch": [
+        "1912"
+    ],
+    "sembat": [
+        "1871"
+    ],
+    "kautskyites": [
+        "1871",
+        "1915"
+    ],
+    "junius": [
+        "1871"
+    ],
+    "albert thomas": [
+        "1871"
+    ],
+    "ramsay macdonald": [
+        "1871"
+    ],
+    "volksrecht": [
+        "1871"
+    ],
+    "henderson": [
+        "1871"
+    ],
+    "mayeras": [
+        "1871"
+    ],
+    "la sentinelle": [
+        "1871"
+    ],
+    "jeidels": [
+        "1900"
+    ],
+    "potresov": [
+        "1900"
+    ],
+    "rhine-westplialian": [
+        "1900"
+    ],
+    "wawelberg": [
+        "1900"
+    ],
+    "hilferding": [
+        "1900"
+    ],
+    "heymann": [
+        "1900"
+    ],
+    "schneider": [
+        "1900"
+    ],
+    "vogelstein": [
+        "1900"
+    ],
+    "paul deschanel": [
+        "1900"
+    ],
+    "schuckert": [
+        "1900"
+    ],
+    "gwinner": [
+        "1900"
+    ],
+    "supan": [
+        "1900"
+    ],
+    "hermann levy": [
+        "1900"
+    ],
+    "liefmann": [
+        "1900"
+    ],
+    "aguinaldo": [
+        "1900"
+    ],
+    "s\u00fcdekum": [
+        "1900"
+    ],
+    "gelsenkirchener bergwerksgesellschaft": [
+        "1900"
+    ],
+    "joseph chamberlain": [
+        "1900"
+    ],
+    "kestner": [
+        "1900"
+    ],
+    "riesser": [
+        "1900"
+    ],
+    "alfred lansburgh": [
+        "1900"
+    ],
+    "havemeyer": [
+        "1900"
+    ],
+    "hobson": [
+        "1900"
+    ],
+    "victor berard": [
+        "1900"
+    ],
+    "cunow": [
+        "1900"
+    ],
+    "gerhard hildebrand": [
+        "1900"
+    ],
+    "stauss": [
+        "1900"
+    ],
+    "cecil rhodes": [
+        "1900"
+    ],
+    "heinig": [
+        "1900"
+    ],
+    "neymarck": [
+        "1900"
+    ],
+    "driault": [
+        "1900"
+    ],
+    "guillaume": [
+        "1900"
+    ],
+    "mantashev": [
+        "1900"
+    ],
+    "r.giffen": [
+        "1900"
+    ],
+    "kautskyism": [
+        "1915"
+    ],
+    "radek": [
+        "1915"
+    ],
+    "don region": [
+        "1891"
+    ],
+    "gleb uspensky": [
+        "1891",
+        "1897"
+    ],
+    "korolenko": [
+        "1891",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "khvalynsk uyezd": [
+        "1891"
+    ],
+    "knyaginin uyezd": [
+        "1891",
+        "1890"
+    ],
+    "bobrov uyezd": [
+        "1891",
+        "1890"
+    ],
+    "postnikov": [
+        "1891",
+        "1890"
+    ],
+    "sismondi": [
+        "1891"
+    ],
+    "kharizomenov": [
+        "1891",
+        "1890",
+        "1894"
+    ],
+    "rohprodukts": [
+        "1891"
+    ],
+    "karachev uyezd": [
+        "1891"
+    ],
+    "abschnitt": [
+        "1891"
+    ],
+    "konstantinograd uyezd": [
+        "1891"
+    ],
+    "forcade": [
+        "1891"
+    ],
+    "krasnoufimsk uyzed": [
+        "1891"
+    ],
+    "orel gubernia": [
+        "1891",
+        "1896",
+        "1890"
+    ],
+    "vorontsov": [
+        "1891"
+    ],
+    "goltz": [
+        "1891"
+    ],
+    "peasant migration": [
+        "1891",
+        "1890"
+    ],
+    "balashov": [
+        "1891"
+    ],
+    "ostrogozhsk uyezd": [
+        "1891"
+    ],
+    "makaryev": [
+        "1891"
+    ],
+    "peasant farming": [
+        "1891",
+        "1890"
+    ],
+    "chuprov": [
+        "1891",
+        "1896",
+        "1890"
+    ],
+    "melitopol uyezd": [
+        "1891"
+    ],
+    "hired labour": [
+        "1891",
+        "1896",
+        "1890"
+    ],
+    "demyansk uyezd": [
+        "1891"
+    ],
+    "trirogov": [
+        "1891"
+    ],
+    "khorol": [
+        "1891"
+    ],
+    "kamyshin uyezd": [
+        "1891",
+        "1890"
+    ],
+    "stebut": [
+        "1891",
+        "1896"
+    ],
+    "das kapital": [
+        "1891",
+        "1896",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "gubernias": [
+        "1891",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "dorpat": [
+        "1891"
+    ],
+    "zur geschichte": [
+        "1891"
+    ],
+    "loftstelle": [
+        "1891"
+    ],
+    "vasilchikov": [
+        "1891",
+        "1896"
+    ],
+    "yanson": [
+        "1891"
+    ],
+    "vikhlyayev": [
+        "1891"
+    ],
+    "kirchmann": [
+        "1891"
+    ],
+    "yenisei gubernias": [
+        "1891"
+    ],
+    "archangel gubernia": [
+        "1891",
+        "1897"
+    ],
+    "astrakhan gubernia": [
+        "1891",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "shcherbina": [
+        "1891"
+    ],
+    "skvortsov": [
+        "1891"
+    ],
+    "diehl": [
+        "1891"
+    ],
+    "tver gubernia": [
+        "1891",
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "hourwich": [
+        "1891"
+    ],
+    "chernigov gubernia": [
+        "1891",
+        "1890",
+        "1894"
+    ],
+    "blagoveshchensky": [
+        "1891",
+        "1890"
+    ],
+    "chernenkov": [
+        "1891"
+    ],
+    "krttik": [
+        "1891"
+    ],
+    "kaluga gubernia": [
+        "1891",
+        "1890",
+        "1897"
+    ],
+    "elabuga uyezd": [
+        "1891"
+    ],
+    "manokhin": [
+        "1891"
+    ],
+    "flerovsky": [
+        "1896",
+        "1897"
+    ],
+    "birzula": [
+        "1896"
+    ],
+    "corv\u00e9e": [
+        "1896"
+    ],
+    "karvshev": [
+        "1896"
+    ],
+    "sanin": [
+        "1896"
+    ],
+    "rudnev": [
+        "1896",
+        "1890",
+        "1894"
+    ],
+    "verbatim report": [
+        "1896"
+    ],
+    "karev": [
+        "1896"
+    ],
+    "ryazan gubernia": [
+        "1896",
+        "1890",
+        "1894"
+    ],
+    "chaslavsky": [
+        "1896",
+        "1897"
+    ],
+    "andrew ure": [
+        "1896"
+    ],
+    "kudryavtsev": [
+        "1896"
+    ],
+    "seredinskaya square": [
+        "1896"
+    ],
+    "vestnik finansov": [
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "ponomaryov": [
+        "1896"
+    ],
+    "ekaterinoslav gubernia": [
+        "1896",
+        "1890"
+    ],
+    "vitebsk": [
+        "1896"
+    ],
+    "yermakov": [
+        "1896"
+    ],
+    "raspopin": [
+        "1896",
+        "1890"
+    ],
+    "gdov uyezd": [
+        "1896"
+    ],
+    "kablukov": [
+        "1896",
+        "1890"
+    ],
+    "rzhev uyezd": [
+        "1896"
+    ],
+    "krivoi rog": [
+        "1896",
+        "1890"
+    ],
+    "volgin": [
+        "1896",
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "zur wohnungsfrage": [
+        "1896"
+    ],
+    "syzran": [
+        "1896"
+    ],
+    "tezyakov": [
+        "1896",
+        "1890"
+    ],
+    "dain": [
+        "1896"
+    ],
+    "podolsk uyezd": [
+        "1896",
+        "1890"
+    ],
+    "tambov gubernia": [
+        "1896",
+        "1890"
+    ],
+    "yuridichesky vestnik": [
+        "1896",
+        "1890",
+        "1897"
+    ],
+    "henry george": [
+        "1896"
+    ],
+    "golikov": [
+        "1896"
+    ],
+    "shakhovskoi": [
+        "1896"
+    ],
+    "pletnev": [
+        "1890"
+    ],
+    "roscher": [
+        "1890"
+    ],
+    "khvorov": [
+        "1890"
+    ],
+    "bushen": [
+        "1890"
+    ],
+    "grenzen": [
+        "1890"
+    ],
+    "grigoryev": [
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "ranenburg uyezd": [
+        "1890"
+    ],
+    "sosnovka volost": [
+        "1890"
+    ],
+    "zavodsky": [
+        "1890"
+    ],
+    "bolshoye murashkino": [
+        "1890"
+    ],
+    "dementyev": [
+        "1890"
+    ],
+    "annensky report": [
+        "1890"
+    ],
+    "tula uyezd": [
+        "1890",
+        "1894"
+    ],
+    "yarodarvl gubernia": [
+        "1890"
+    ],
+    "zhbankov": [
+        "1890",
+        "1897"
+    ],
+    "garelin": [
+        "1890"
+    ],
+    "mozhaisk": [
+        "1890"
+    ],
+    "romny": [
+        "1890"
+    ],
+    "gorodets": [
+        "1890"
+    ],
+    "vasilyev vrag": [
+        "1890"
+    ],
+    "ophen": [
+        "1890"
+    ],
+    "lokhvitsa": [
+        "1890"
+    ],
+    "kobelyatsky": [
+        "1890"
+    ],
+    "viyezdnaya sloboda": [
+        "1890"
+    ],
+    "petrokov gubernia": [
+        "1890"
+    ],
+    "pokrovsky": [
+        "1890"
+    ],
+    "pavlovsk uyezd": [
+        "1890"
+    ],
+    "prugavin": [
+        "1890"
+    ],
+    "belov": [
+        "1890"
+    ],
+    "garyazin": [
+        "1890"
+    ],
+    "lizar": [
+        "1890"
+    ],
+    "kondratov": [
+        "1890"
+    ],
+    "kashin uyezd": [
+        "1890"
+    ],
+    "isayev": [
+        "1890",
+        "1894"
+    ],
+    "vologda gubernia": [
+        "1890"
+    ],
+    "murom uyezd": [
+        "1890"
+    ],
+    "yerokhin": [
+        "1890"
+    ],
+    "feinberg": [
+        "1890"
+    ],
+    "pskov gubernia": [
+        "1890",
+        "1897"
+    ],
+    "dolgushin": [
+        "1890"
+    ],
+    "shuya uyezd": [
+        "1890"
+    ],
+    "koprin volost": [
+        "1890"
+    ],
+    "tver uyezd": [
+        "1890",
+        "1894"
+    ],
+    "labzin": [
+        "1890",
+        "1894"
+    ],
+    "krupskaya": [
+        "1890"
+    ],
+    "katunki": [
+        "1890"
+    ],
+    "tubanayevka": [
+        "1890"
+    ],
+    "akhtyrka uyezd": [
+        "1890"
+    ],
+    "nizhni novgorod": [
+        "1890"
+    ],
+    "terentyev": [
+        "1890"
+    ],
+    "gzhel": [
+        "1890"
+    ],
+    "kasperov": [
+        "1890"
+    ],
+    "saratou gubernia": [
+        "1890"
+    ],
+    "ufa gubernia": [
+        "1890"
+    ],
+    "vatras": [
+        "1890"
+    ],
+    "strokin": [
+        "1890"
+    ],
+    "morozov": [
+        "1890"
+    ],
+    "morshansk uyezd": [
+        "1890"
+    ],
+    "ugodichi": [
+        "1890"
+    ],
+    "zubkovs": [
+        "1890"
+    ],
+    "zvenigorod uyezd": [
+        "1890"
+    ],
+    "voronesh": [
+        "1890"
+    ],
+    "polotnyani zavod": [
+        "1890"
+    ],
+    "rybinsk uyezd": [
+        "1890"
+    ],
+    "blazhin": [
+        "1890"
+    ],
+    "khabarov": [
+        "1890"
+    ],
+    "odessa uyezd": [
+        "1890"
+    ],
+    "zavyalov": [
+        "1890"
+    ],
+    "bui uyezd": [
+        "1890"
+    ],
+    "varypayev": [
+        "1890"
+    ],
+    "tikhvin uyezd": [
+        "1890"
+    ],
+    "gorbunova": [
+        "1890"
+    ],
+    "medyn uyezd": [
+        "1890",
+        "1894"
+    ],
+    "yaroslavl uyezd": [
+        "1890"
+    ],
+    "tambov ryazan": [
+        "1890"
+    ],
+    "irodov": [
+        "1890"
+    ],
+    "trubchevsk uyezd": [
+        "1890"
+    ],
+    "zenin": [
+        "1890"
+    ],
+    "kursk gubernia": [
+        "1890",
+        "1897"
+    ],
+    "zhuzhelka": [
+        "1890"
+    ],
+    "kovalevsky": [
+        "1890"
+    ],
+    "korsak": [
+        "1890",
+        "1894",
+        "1897"
+    ],
+    "sidorovskoye volost": [
+        "1890"
+    ],
+    "kromy uyezd": [
+        "1890"
+    ],
+    "bychkov": [
+        "1890"
+    ],
+    "kalyazin uyezd": [
+        "1890"
+    ],
+    "bobrovs": [
+        "1890"
+    ],
+    "yuzovka works": [
+        "1890"
+    ],
+    "yuryev uyezd": [
+        "1890"
+    ],
+    "tambov uyezd": [
+        "1890"
+    ],
+    "khludov": [
+        "1890"
+    ],
+    "levitsky": [
+        "1890"
+    ],
+    "kadnikov uyezd": [
+        "1890"
+    ],
+    "keppen": [
+        "1890"
+    ],
+    "manilovs": [
+        "1890"
+    ],
+    "korcheva uyezd": [
+        "1890"
+    ],
+    "galivon": [
+        "1890"
+    ],
+    "voinov": [
+        "1890"
+    ],
+    "andreyev": [
+        "1890"
+    ],
+    "graivoron uyezd": [
+        "1890"
+    ],
+    "remezov": [
+        "1890"
+    ],
+    "sorokins": [
+        "1890"
+    ],
+    "matroisk": [
+        "1890"
+    ],
+    "kokushkins": [
+        "1890"
+    ],
+    "vasil uyezd": [
+        "1890",
+        "1894"
+    ],
+    "chulkovs": [
+        "1890"
+    ],
+    "svirsky": [
+        "1890"
+    ],
+    "borisov": [
+        "1890"
+    ],
+    "tula gubernia handbook": [
+        "1890",
+        "1897"
+    ],
+    "millowner asmolov": [
+        "1890"
+    ],
+    "die entstehung": [
+        "1894",
+        "1897"
+    ],
+    "alexandrov uyezd": [
+        "1894"
+    ],
+    "perm gubernias": [
+        "1894"
+    ],
+    "tubingen": [
+        "1894"
+    ],
+    "karl blucher": [
+        "1894"
+    ],
+    "arzamas uyezd": [
+        "1894"
+    ],
+    "kharizomonov": [
+        "1894"
+    ],
+    "regel": [
+        "1897"
+    ],
+    "uvarov": [
+        "1897"
+    ],
+    "zahlen": [
+        "1897"
+    ],
+    "hertzenstein": [
+        "1897"
+    ],
+    "vologda vyatka": [
+        "1897"
+    ],
+    "chukhloma": [
+        "1897"
+    ],
+    "dietz": [
+        "1897"
+    ],
+    "petersburger": [
+        "1897"
+    ],
+    "reihen": [
+        "1897"
+    ],
+    "bokhara": [
+        "1897"
+    ]
+}

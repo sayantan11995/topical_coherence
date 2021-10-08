@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Resources -->
+    <script src="http://www.amcharts.com/lib/3/amcharts.js" type="text/javascript"></script>
+    <script src="http://www.amcharts.com/lib/3/serial.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+    <div style="display: flex; justify-content: center; margin: auto;">
+        <h1>
+            Core Periphery Analysis
+        </h1>
+    </div>
+
+    <div>
+        <h3>Select Year Window</h3>
+    </div>
+    <form action='/core_periphery_analysis' method="post" novalidate="novalidate">
+        <input type="number" id="yearWindowCorePeri" name="yearWindowCorePeri" value={{year_range}}>
+        <button id="updateChartCorePeri" type="submit">Update Chart</button>
+    </form>
+
+    <div style="width: 100%; height: 400px; display: flex; float: left;">
+        <div id="chartdiv1" style="width: 60%; height: 400px;"></div>
+        <div style="display: flex; width: 35%; justify-content: center; margin: auto;">
+            <h3>SOMEWT (Autobiography)</h3>
+        </div>
+    </div>
+    <div style="width: 100%; height: 400px; display: flex; float: left;">
+        <div id="chartdiv2" style="width: 60%; height: 400px;"></div>
+        <div style="display: flex; width: 35%; justify-content: center; margin: auto;">
+            <h3>Life Of Mahatma Gandhi (Biography)</h3>
+        </div>
+    </div>
+
+    <div style="width: 100%; height: 400px; display: flex; float: left; margin-bottom: 5%;">
+        <div id="chartdiv3" style="width: 60%; height: 400px;"></div>
+        <div style="display: flex; width: 35%; justify-content: center; margin: auto;">
+            <h3>Jaccard Overlap between core nodes</h3>
+        </div>
+    </div>
+
+    {%for yrange, book_node_list in core_nodes.items() %}
+    <div style="width: 90%;">
+        <h1>{{yrange}}</h1>
+    </div>
+    {% for book, node_list in book_node_list.items() %}
+    <div>
+        <div style="margin-bottom: 2%;">
+            <h2>{{book}}</h2>
+            <h2>{{node_list}}</h2>
+        </div>
+    </div>
+    {%endfor%}
+    {%endfor%}
+
+
+
+    <script>
+        AmCharts.ready(function () {
+
+            // LINE CHART
+            var chart1 = new AmCharts.AmSerialChart();
+            chart1.pathToImages = "http://www.amcharts.com/lib/images";
+
+            chart1.dataProvider = {{ core_periphery_data['Abraham_Lincoln_Autobiography'] | safe }};
+        chart1.marginRight = 0;
+        chart1.categoryField = "date";
+
+        var categoryAxis = chart1.categoryAxis;
+        // categoryAxis.parseDates = true;
+        categoryAxis.dashLength = 5;
+        categoryAxis.equalSpacing = true;
+        categoryAxis.startOnAxis = false;
+        categoryAxis.axisAlpha = 0;
+        categoryAxis.autoGridCount = false;
+        categoryAxis.gridCount = 8;
+        categoryAxis.showFirstLabel = true;
+
+        var valueAxis1 = new AmCharts.ValueAxis();
+        valueAxis1.axisAlpha = 0;
+        valueAxis1.dashLength = 5;
+        valueAxis1.inside = true;
+        valueAxis1.position = "right";
+        chart1.addValueAxis(valueAxis1);
+
+        var valueAxis2 = new AmCharts.ValueAxis();
+        valueAxis2.axisAlpha = 0;
+        valueAxis2.dashLength = 5;
+        valueAxis2.inside = true;
+        chart1.addValueAxis(valueAxis2);
+
+        var graph1 = new AmCharts.AmGraph();
+        graph1.bullet = "round";
+        graph1.bulletSize = 10;
+        graph1.valueAxis = valueAxis2;
+        graph1.valueField = "core_nodes";
+        chart1.addGraph(graph1);
+
+        var graph2 = new AmCharts.AmGraph();
+        graph2.type = "column";
+        graph2.valueField = "core_den";
+        graph2.fillAlphas = 0.5;
+        chart1.addGraph(graph2);
+
+        var chartCursor = new AmCharts.ChartCursor();
+        chartCursor.zoomable = false;
+        chart1.addChartCursor(chartCursor);
+
+        chart1.write("chartdiv1");
+        });
+    </script>
+
+    <script>
+        AmCharts.ready(function () {
+
+        // LINE CHART
+        var chart1 = new AmCharts.AmSerialChart();
+        chart1.pathToImages = "http://www.amcharts.com/lib/images";
+
+        chart1.dataProvider = {{ core_periphery_data['Life_of_Abraham_Lincoln'] | safe }};
+        chart1.marginRight = 0;
+        chart1.categoryField = "date";
+
+        var categoryAxis = chart1.categoryAxis;
+        // categoryAxis.parseDates = true;
+        categoryAxis.dashLength = 5;
+        categoryAxis.equalSpacing = true;
+        categoryAxis.startOnAxis = false;
+        categoryAxis.axisAlpha = 0;
+        categoryAxis.autoGridCount = false;
+        categoryAxis.gridCount = 8;
+        categoryAxis.showFirstLabel = true;
+
+        var valueAxis1 = new AmCharts.ValueAxis();
+        valueAxis1.axisAlpha = 0;
+        valueAxis1.dashLength = 5;
+        valueAxis1.inside = true;
+        chart1.addValueAxis(valueAxis1);
+
+        var valueAxis2 = new AmCharts.ValueAxis();
+        valueAxis2.axisAlpha = 0;
+        valueAxis2.dashLength = 5;
+        valueAxis2.inside = true;
+        valueAxis2.position = "right";
+        // console.log(valueAxis2);
+        chart1.addValueAxis(valueAxis2);
+
+        var graph1 = new AmCharts.AmGraph();
+        graph1.bullet = "round";
+        graph1.bulletSize = 10;
+        graph1.valueField = "core_nodes";
+        chart1.addGraph(graph1);
+
+        var graph2 = new AmCharts.AmGraph();
+        graph2.type = "column";
+        graph2.valueAxis = valueAxis2;
+        graph2.valueField = "core_den";
+        graph2.fillAlphas = 0.5;
+        chart1.addGraph(graph2);
+
+        var chartCursor = new AmCharts.ChartCursor();
+        chartCursor.zoomable = false;
+        chart1.addChartCursor(chartCursor);
+
+        chart1.write("chartdiv2");
+    });
+    </script>
+
+    <script>
+        AmCharts.ready(function () {
+
+        // LINE CHART
+        var chart1 = new AmCharts.AmSerialChart();
+        chart1.pathToImages = "http://www.amcharts.com/lib/images";
+
+        chart1.dataProvider = {{ core_jaccard_data | safe }};
+        chart1.marginRight = 0;
+        chart1.categoryField = "date";
+
+        var categoryAxis = chart1.categoryAxis;
+        // categoryAxis.parseDates = true;
+        categoryAxis.dashLength = 5;
+        categoryAxis.equalSpacing = true;
+        categoryAxis.startOnAxis = false;
+        categoryAxis.axisAlpha = 0;
+        categoryAxis.autoGridCount = false;
+        categoryAxis.gridCount = 8;
+        categoryAxis.showFirstLabel = true;
+
+        // var valueAxis1 = new AmCharts.ValueAxis();
+        // valueAxis1.axisAlpha = 0;
+        // valueAxis1.dashLength = 5;
+        // valueAxis1.inside = true;
+        // valueAxis1.position = "right";
+        // chart1.addValueAxis(valueAxis1);
+
+        var valueAxis2 = new AmCharts.ValueAxis();
+        valueAxis2.axisAlpha = 0;
+        valueAxis2.dashLength = 5;
+        valueAxis2.inside = true;
+        chart1.addValueAxis(valueAxis2);
+
+        var graph1 = new AmCharts.AmGraph();
+        graph1.bullet = "round";
+        graph1.bulletSize = 10;
+        graph1.valueField = "jaccard_coeff";
+        chart1.addGraph(graph1);
+        console.log(chart1)
+
+        // var graph2 = new AmCharts.AmGraph();
+        // graph2.type = "column";
+        // graph2.valueField = "core_den";
+        // graph2.fillAlphas = 0.5;
+        // chart1.addGraph(graph2);
+
+        var chartCursor = new AmCharts.ChartCursor();
+        chartCursor.zoomable = false;
+        chart1.addChartCursor(chartCursor);
+
+        chart1.write("chartdiv3");
+        });
+    </script>
+
+
+    //
+    <script>
+//     am4core.ready(function() {
+
+//     // Themes begin
+//     am4core.useTheme(am4themes_animated);
+//     // Themes end
+
+//     // Create chart instance
+//     var chart = am4core.create("chartdiv1", am4charts.XYChart);
+
+//     // Add data
+//     chart.data = {{ core_periphery_data['SOMEWT'] | safe }};
+
+//     // Create axes
+//     var dateAxis = chart.xAxes.push(new am4charts.DateAxis());
+//     //dateAxis.renderer.grid.template.location = 0;
+//     dateAxis.renderer.minGridDistance = 30;
+
+//     var valueAxis1 = chart.yAxes.push(new am4charts.ValueAxis());
+//     valueAxis1.title.text = "Core Density";
+//     valueAxis1.renderer.grid.template.disabled = true;
+
+//     var valueAxis2 = chart.yAxes.push(new am4charts.ValueAxis());
+//     valueAxis2.title.text = "Nodes";
+//     valueAxis2.renderer.opposite = true;
+//     valueAxis2.renderer.grid.template.disabled = true;
+
+//     // Create series
+//     var series1 = chart.series.push(new am4charts.ColumnSeries());
+//     series1.dataFields.valueY = "core_den";
+//     series1.dataFields.dateX = "date";
+//     series1.yAxis = valueAxis1;
+//     series1.name = "Core Density";
+//     series1.tooltipText = "{name}\n[bold font-size: 20]{valueY}[/]";
+//     series1.fill = chart.colors.getIndex(0);
+//     series1.strokeWidth = 0;
+//     series1.clustered = false;
+//     series1.columns.template.width = am4core.percent(50);
+
+
+//     var series3 = chart.series.push(new am4charts.LineSeries());
+//     series3.dataFields.valueY = "core_nodes";
+//     series3.dataFields.dateX = "date";
+//     series3.name = "Nodes";
+//     series3.strokeWidth = 2;
+//     series3.tensionX = 0.7;
+//     series3.yAxis = valueAxis2;
+//     series3.tooltipText = "{name}\n[bold font-size: 20]{valueY}[/]";
+
+//     var bullet3 = series3.bullets.push(new am4charts.CircleBullet());
+//     bullet3.circle.radius = 3;
+//     bullet3.circle.strokeWidth = 2;
+//     bullet3.circle.fill = am4core.color("#fff");
+
+//     // Add cursor
+//     chart.cursor = new am4charts.XYCursor();
+
+//     // Add legend
+//     chart.legend = new am4charts.Legend();
+//     chart.legend.position = "top";
+
+
+//     }); // end am4core.ready()
+//     </script>
+
+
+
+
+
+</body>
+
+
+
+</html>

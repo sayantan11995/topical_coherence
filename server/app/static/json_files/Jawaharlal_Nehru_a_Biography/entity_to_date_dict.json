@@ -1,0 +1,2077 @@
+{
+    "trinity": [
+        "1912"
+    ],
+    "england": [
+        "1912",
+        "1917",
+        "1920",
+        "1921",
+        "1923",
+        "1927",
+        "1929",
+        "1931",
+        "1933",
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "japan": [
+        "1912",
+        "1923",
+        "1937",
+        "1942",
+        "1946"
+    ],
+    "new delhi": [
+        "1912",
+        "1917",
+        "1920",
+        "1927",
+        "1929",
+        "1930",
+        "1937",
+        "1940",
+        "1946",
+        "1947"
+    ],
+    "cambridge": [
+        "1912",
+        "1917",
+        "1921",
+        "1927",
+        "1946"
+    ],
+    "agra": [
+        "1912",
+        "1921",
+        "1931"
+    ],
+    "oxford": [
+        "1912",
+        "1921",
+        "1937",
+        "1940",
+        "1946"
+    ],
+    "lahore": [
+        "1912",
+        "1920",
+        "1923",
+        "1929",
+        "1930",
+        "1936",
+        "1937",
+        "1940",
+        "1946",
+        "1947"
+    ],
+    "norway": [
+        "1912"
+    ],
+    "allahabad": [
+        "1912",
+        "1917",
+        "1920",
+        "1921",
+        "1923",
+        "1927",
+        "1929",
+        "1930",
+        "1931",
+        "1933",
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "ireland": [
+        "1912"
+    ],
+    "russia": [
+        "1912",
+        "1923",
+        "1927",
+        "1929",
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "power": [
+        "1912",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "west": [
+        "1912",
+        "1923",
+        "1927",
+        "1929",
+        "1931",
+        "1936",
+        "1940",
+        "1946"
+    ],
+    "lucknow": [
+        "1912",
+        "1917",
+        "1921",
+        "1923",
+        "1927",
+        "1929",
+        "1930",
+        "1931",
+        "1936",
+        "1937",
+        "1940"
+    ],
+    "harrow": [
+        "1912",
+        "1917",
+        "1921",
+        "1927"
+    ],
+    "kanpur": [
+        "1912",
+        "1921",
+        "1931",
+        "1933",
+        "1937"
+    ],
+    "brighton": [
+        "1912",
+        "1936"
+    ],
+    "belfast": [
+        "1912"
+    ],
+    "london": [
+        "1912",
+        "1917",
+        "1920",
+        "1923",
+        "1927",
+        "1929",
+        "1930",
+        "1931",
+        "1933",
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946",
+        "1947"
+    ],
+    "madras": [
+        "1917",
+        "1921",
+        "1929",
+        "1931",
+        "1933",
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946",
+        "1947"
+    ],
+    "south africa": [
+        "1917"
+    ],
+    "union": [
+        "1920",
+        "1927",
+        "1929",
+        "1936",
+        "1937",
+        "1940",
+        "1946",
+        "1947"
+    ],
+    "quetta": [
+        "1920"
+    ],
+    "afghanistan": [
+        "1920",
+        "1921"
+    ],
+    "amritsar": [
+        "1920",
+        "1923",
+        "1929",
+        "1940"
+    ],
+    "arabia": [
+        "1921"
+    ],
+    "tanda": [
+        "1921"
+    ],
+    "jaunpur": [
+        "1921"
+    ],
+    "peel": [
+        "1921"
+    ],
+    "sultanpur": [
+        "1921"
+    ],
+    "new york": [
+        "1921",
+        "1927",
+        "1930",
+        "1942",
+        "1947"
+    ],
+    "ahmedabad": [
+        "1921",
+        "1947"
+    ],
+    "fyzabad": [
+        "1921"
+    ],
+    "simla": [
+        "1921",
+        "1927",
+        "1929",
+        "1930",
+        "1931",
+        "1946",
+        "1947"
+    ],
+    "young": [
+        "1921",
+        "1929",
+        "1930",
+        "1940"
+    ],
+    "nagpur": [
+        "1921",
+        "1923",
+        "1929"
+    ],
+    "sitapur": [
+        "1921"
+    ],
+    "hardoi": [
+        "1921"
+    ],
+    "wales": [
+        "1921",
+        "1929"
+    ],
+    "reading": [
+        "1921",
+        "1923"
+    ],
+    "almora": [
+        "1921",
+        "1933",
+        "1936"
+    ],
+    "china": [
+        "1921",
+        "1927",
+        "1929",
+        "1933",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "princeton": [
+        "1923",
+        "1930"
+    ],
+    "kakinada": [
+        "1923"
+    ],
+    "jaito": [
+        "1923"
+    ],
+    "poona": [
+        "1923",
+        "1929",
+        "1930",
+        "1931",
+        "1933",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "ballia": [
+        "1923"
+    ],
+    "independence": [
+        "1927",
+        "1929",
+        "1930",
+        "1933",
+        "1937"
+    ],
+    "moscow": [
+        "1927",
+        "1929",
+        "1946"
+    ],
+    "switzerland": [
+        "1927",
+        "1933",
+        "1940"
+    ],
+    "montana": [
+        "1927"
+    ],
+    "geneva": [
+        "1927",
+        "1936",
+        "1937"
+    ],
+    "brussels": [
+        "1927"
+    ],
+    "berlin": [
+        "1927",
+        "1933"
+    ],
+    "nove": [
+        "1927"
+    ],
+    "paris": [
+        "1927",
+        "1936",
+        "1937"
+    ],
+    "mexico": [
+        "1927"
+    ],
+    "peshawar": [
+        "1927",
+        "1930",
+        "1946"
+    ],
+    "ostend": [
+        "1927"
+    ],
+    "australia": [
+        "1929",
+        "1942",
+        "1946",
+        "1947"
+    ],
+    "canada": [
+        "1929",
+        "1946"
+    ],
+    "kolhapur": [
+        "1929"
+    ],
+    "karachi": [
+        "1930",
+        "1936",
+        "1940",
+        "1946"
+    ],
+    "greece": [
+        "1930"
+    ],
+    "maurois": [
+        "1930",
+        "1933"
+    ],
+    "raipur": [
+        "1930"
+    ],
+    "colombo": [
+        "1930"
+    ],
+    "indio": [
+        "1930",
+        "1933"
+    ],
+    "bahraich": [
+        "1931"
+    ],
+    "sri lanka": [
+        "1931",
+        "1936"
+    ],
+    "gonda": [
+        "1931"
+    ],
+    "clay": [
+        "1933"
+    ],
+    "italy": [
+        "1933",
+        "1937"
+    ],
+    "germany": [
+        "1933",
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "wardha": [
+        "1936",
+        "1940",
+        "1942"
+    ],
+    "zetland": [
+        "1936",
+        "1937",
+        "1940"
+    ],
+    "lausanne": [
+        "1936"
+    ],
+    "badenweiler": [
+        "1936"
+    ],
+    "spain": [
+        "1936",
+        "1937",
+        "1940"
+    ],
+    "gaza": [
+        "1936"
+    ],
+    "linlithgow": [
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "lothian": [
+        "1936",
+        "1937"
+    ],
+    "rome": [
+        "1936"
+    ],
+    "multan": [
+        "1936"
+    ],
+    "dover": [
+        "1936"
+    ],
+    "mysore": [
+        "1937"
+    ],
+    "munich": [
+        "1937"
+    ],
+    "prague": [
+        "1937"
+    ],
+    "edinburgh": [
+        "1937"
+    ],
+    "france": [
+        "1937",
+        "1940",
+        "1942"
+    ],
+    "madrid": [
+        "1937"
+    ],
+    "alexandria": [
+        "1937"
+    ],
+    "rajkot": [
+        "1937"
+    ],
+    "barcelona": [
+        "1937"
+    ],
+    "palestine": [
+        "1937"
+    ],
+    "ethiopia": [
+        "1937"
+    ],
+    "pakistan": [
+        "1937",
+        "1940",
+        "1942",
+        "1946",
+        "1947"
+    ],
+    "singapore": [
+        "1940",
+        "1946"
+    ],
+    "us": [
+        "1940",
+        "1942"
+    ],
+    "finland": [
+        "1940"
+    ],
+    "laval": [
+        "1940"
+    ],
+    "kunming": [
+        "1940"
+    ],
+    "vichy": [
+        "1940"
+    ],
+    "poland": [
+        "1940"
+    ],
+    "gorakhpur": [
+        "1940"
+    ],
+    "hopkins": [
+        "1942"
+    ],
+    "police": [
+        "1942"
+    ],
+    "aden": [
+        "1942"
+    ],
+    "libya": [
+        "1942"
+    ],
+    "bhopal": [
+        "1946",
+        "1947"
+    ],
+    "gulmarg": [
+        "1946"
+    ],
+    "sweden": [
+        "1946"
+    ],
+    "indonesia": [
+        "1946",
+        "1947"
+    ],
+    "srinagar": [
+        "1946"
+    ],
+    "travancore": [
+        "1947"
+    ],
+    "bandung": [
+        "1947"
+    ],
+    "commonwealth": [
+        "1947"
+    ],
+    "hyderabad": [
+        "1947"
+    ],
+    "junagadh": [
+        "1947"
+    ],
+    "egypt": [
+        "1947"
+    ],
+    "sylhet": [
+        "1947"
+    ],
+    "new zealand": [
+        "1947"
+    ],
+    "palme dutt": [
+        "1912",
+        "1936",
+        "1946"
+    ],
+    "ifthis": [
+        "1912"
+    ],
+    "curzon": [
+        "1912",
+        "1923",
+        "1947"
+    ],
+    "william morris": [
+        "1912"
+    ],
+    "joe": [
+        "1912"
+    ],
+    "gokhale": [
+        "1912"
+    ],
+    "st john philby": [
+        "1912"
+    ],
+    "bharadwaja": [
+        "1912"
+    ],
+    "andren": [
+        "1912"
+    ],
+    "swaraj bhawan": [
+        "1912"
+    ],
+    "ganga dhar nehru": [
+        "1912"
+    ],
+    "motilal nehru": [
+        "1912",
+        "1917",
+        "1921",
+        "1923",
+        "1929",
+        "1933",
+        "1936"
+    ],
+    "raj kaul": [
+        "1912"
+    ],
+    "fenner brockway": [
+        "1912",
+        "1927"
+    ],
+    "bepin pal": [
+        "1912"
+    ],
+    "barisal": [
+        "1912"
+    ],
+    "charles darwin": [
+        "1912"
+    ],
+    "swaruprani nehru": [
+        "1912"
+    ],
+    "david page": [
+        "1912"
+    ],
+    "musgrave": [
+        "1912",
+        "1921"
+    ],
+    "buti": [
+        "1912"
+    ],
+    "mrs besant": [
+        "1912",
+        "1917",
+        "1921"
+    ],
+    "jawaharial": [
+        "1912",
+        "1927",
+        "1930",
+        "1942",
+        "1946"
+    ],
+    "bernard shaw": [
+        "1912"
+    ],
+    "kashmiri pandits": [
+        "1917"
+    ],
+    "tilak": [
+        "1917",
+        "1920",
+        "1921",
+        "1923"
+    ],
+    "harsha hutheesing": [
+        "1917"
+    ],
+    "nando": [
+        "1917"
+    ],
+    "kamala kaul": [
+        "1917"
+    ],
+    "khwaja": [
+        "1917",
+        "1921",
+        "1923"
+    ],
+    "roger casement": [
+        "1917"
+    ],
+    "sapru": [
+        "1917",
+        "1921",
+        "1929",
+        "1930",
+        "1933",
+        "1936"
+    ],
+    "inglis": [
+        "1917"
+    ],
+    "urtnila": [
+        "1917"
+    ],
+    "narendra deva": [
+        "1917",
+        "1936",
+        "1937",
+        "1942"
+    ],
+    "khilafat": [
+        "1920",
+        "1921",
+        "1923"
+    ],
+    "mahatma gandhi": [
+        "1920",
+        "1921",
+        "1923",
+        "1936",
+        "1947"
+    ],
+    "pandit malaviya": [
+        "1920",
+        "1921",
+        "1923",
+        "1931",
+        "1936"
+    ],
+    "gandhiji": [
+        "1920",
+        "1921",
+        "1927",
+        "1930",
+        "1931",
+        "1936",
+        "1940"
+    ],
+    "anand bhavan": [
+        "1920",
+        "1940"
+    ],
+    "anilr": [
+        "1920"
+    ],
+    "home dept": [
+        "1920",
+        "1921",
+        "1923",
+        "1927",
+        "1929",
+        "1930",
+        "1931",
+        "1933",
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "padmaja naidu": [
+        "1920",
+        "1921",
+        "1940"
+    ],
+    "rajagopalachari": [
+        "1920",
+        "1921",
+        "1923",
+        "1933",
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "motikl": [
+        "1920"
+    ],
+    "kaira": [
+        "1921"
+    ],
+    "purushottam das tandon": [
+        "1921",
+        "1923"
+    ],
+    "perron": [
+        "1921"
+    ],
+    "bernier": [
+        "1921"
+    ],
+    "hone dept": [
+        "1921"
+    ],
+    "ramgarh": [
+        "1921",
+        "1940"
+    ],
+    "craik": [
+        "1921"
+    ],
+    "laadar": [
+        "1921",
+        "1923"
+    ],
+    "jawaharlai": [
+        "1921",
+        "1929",
+        "1930",
+        "1947"
+    ],
+    "harcourt butler": [
+        "1921"
+    ],
+    "swarajor": [
+        "1921"
+    ],
+    "charkas": [
+        "1921"
+    ],
+    "btgtri": [
+        "1921"
+    ],
+    "thiswas": [
+        "1921",
+        "1946"
+    ],
+    "havell": [
+        "1921"
+    ],
+    "maulana mahomed ali": [
+        "1921"
+    ],
+    "sampumanand": [
+        "1921"
+    ],
+    "bltawan": [
+        "1921"
+    ],
+    "naini tai": [
+        "1921"
+    ],
+    "mears": [
+        "1921"
+    ],
+    "swanjya": [
+        "1921"
+    ],
+    "vincent": [
+        "1921"
+    ],
+    "baba ram chandra": [
+        "1921"
+    ],
+    "jayakar": [
+        "1921",
+        "1930",
+        "1936"
+    ],
+    "sven hedin": [
+        "1921",
+        "1933"
+    ],
+    "gaurishankar bhargava": [
+        "1921"
+    ],
+    "mehta": [
+        "1921",
+        "1931"
+    ],
+    "kailas ksul": [
+        "1921"
+    ],
+    "anand bhawan": [
+        "1921",
+        "1931",
+        "1940"
+    ],
+    "which": [
+        "1921"
+    ],
+    "bryce": [
+        "1921"
+    ],
+    "keane": [
+        "1921"
+    ],
+    "bhai parmanand": [
+        "1921"
+    ],
+    "fursatganj": [
+        "1921"
+    ],
+    "maulana azad": [
+        "1921",
+        "1937",
+        "1940",
+        "1942"
+    ],
+    "bertrand russell": [
+        "1921",
+        "1927"
+    ],
+    "pratap": [
+        "1921",
+        "1927"
+    ],
+    "aryan rule": [
+        "1921"
+    ],
+    "modlal": [
+        "1921",
+        "1929"
+    ],
+    "ansari": [
+        "1921",
+        "1923",
+        "1929",
+        "1930",
+        "1933",
+        "1936"
+    ],
+    "birkenhead": [
+        "1923",
+        "1929",
+        "1947"
+    ],
+    "muktesar": [
+        "1923"
+    ],
+    "wilson johnston": [
+        "1923"
+    ],
+    "allahabad municipality": [
+        "1923"
+    ],
+    "allahabad municipal gazette": [
+        "1923"
+    ],
+    "zahur ahmed": [
+        "1923"
+    ],
+    "tendulkar": [
+        "1923",
+        "1930",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "ramsay macdonald": [
+        "1923",
+        "1930"
+    ],
+    "sri prakasa": [
+        "1923",
+        "1933",
+        "1940"
+    ],
+    "gidwani": [
+        "1923"
+    ],
+    "akalis": [
+        "1923",
+        "1946"
+    ],
+    "mahadeva desai": [
+        "1923",
+        "1936"
+    ],
+    "kitchlew": [
+        "1923"
+    ],
+    "cong": [
+        "1923",
+        "1936"
+    ],
+    "ajmal khan": [
+        "1923"
+    ],
+    "manzar ali": [
+        "1923"
+    ],
+    "readipg": [
+        "1923"
+    ],
+    "kapil deva malaviya": [
+        "1923"
+    ],
+    "stephani": [
+        "1927"
+    ],
+    "ernst toller": [
+        "1927",
+        "1937"
+    ],
+    "mohammed hatta": [
+        "1927"
+    ],
+    "harry pollitt": [
+        "1927"
+    ],
+    "willi muenzenberg": [
+        "1927"
+    ],
+    "reginald bridgman": [
+        "1927"
+    ],
+    "edo fimmen": [
+        "1927",
+        "1930"
+    ],
+    "roger baldwin": [
+        "1927",
+        "1930"
+    ],
+    "sarojini naidu": [
+        "1927"
+    ],
+    "kamla": [
+        "1927"
+    ],
+    "coiltcttd works": [
+        "1927"
+    ],
+    "indiaissolikeawoman": [
+        "1927"
+    ],
+    "winston churchill": [
+        "1927",
+        "1933",
+        "1940",
+        "1942"
+    ],
+    "lenin gandhi": [
+        "1927"
+    ],
+    "henri barbusse": [
+        "1927"
+    ],
+    "ellen wilkinson": [
+        "1927",
+        "1933",
+        "1936",
+        "1937"
+    ],
+    "hedid": [
+        "1929",
+        "1936"
+    ],
+    "haig": [
+        "1929",
+        "1931",
+        "1933",
+        "1937",
+        "1940"
+    ],
+    "irwin": [
+        "1929",
+        "1930",
+        "1931",
+        "1933"
+    ],
+    "vallabhbhai patel": [
+        "1929",
+        "1936"
+    ],
+    "tbs bombaycbnmicls": [
+        "1929"
+    ],
+    "jharia": [
+        "1929"
+    ],
+    "haileyism": [
+        "1929"
+    ],
+    "subhas bose": [
+        "1929",
+        "1933",
+        "1936",
+        "1937",
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "langford": [
+        "1929"
+    ],
+    "bardoll": [
+        "1929"
+    ],
+    "nambiar": [
+        "1929"
+    ],
+    "hatley": [
+        "1929"
+    ],
+    "wedgwood batin": [
+        "1929"
+    ],
+    "meerut conspiracy case": [
+        "1929"
+    ],
+    "govind ballabh pant": [
+        "1929",
+        "1931",
+        "1937"
+    ],
+    "viscount halifax": [
+        "1929"
+    ],
+    "lala shankarlai": [
+        "1929"
+    ],
+    "gopichand": [
+        "1929"
+    ],
+    "muutffar ahmad": [
+        "1929"
+    ],
+    "mitter": [
+        "1929"
+    ],
+    "norman leys": [
+        "1929"
+    ],
+    "kulkarni": [
+        "1929"
+    ],
+    "homiman": [
+        "1929"
+    ],
+    "fraadom": [
+        "1929",
+        "1940"
+    ],
+    "jamie millie": [
+        "1929"
+    ],
+    "james maxton": [
+        "1929"
+    ],
+    "vithalbhai patel": [
+        "1929"
+    ],
+    "bally kkmaitd": [
+        "1929"
+    ],
+    "imotilal": [
+        "1929"
+    ],
+    "kapil deva maiaviya": [
+        "1929"
+    ],
+    "tbt leader": [
+        "1929"
+    ],
+    "bardoli": [
+        "1929",
+        "1931",
+        "1940"
+    ],
+    "shivaprasad gupta": [
+        "1929"
+    ],
+    "cierar": [
+        "1929"
+    ],
+    "brandi": [
+        "1929"
+    ],
+    "jawahar lai nehru": [
+        "1929"
+    ],
+    "joshi": [
+        "1929"
+    ],
+    "frank brown": [
+        "1929",
+        "1931"
+    ],
+    "alarge": [
+        "1929"
+    ],
+    "keyserling": [
+        "1930"
+    ],
+    "indira": [
+        "1930",
+        "1933",
+        "1936",
+        "1940"
+    ],
+    "benn": [
+        "1930"
+    ],
+    "dhan gopal mukherji": [
+        "1930"
+    ],
+    "tassaduq sherwani": [
+        "1930",
+        "1931"
+    ],
+    "anjani kumar": [
+        "1930"
+    ],
+    "onkar nath verma": [
+        "1930"
+    ],
+    "bapu": [
+        "1930",
+        "1933",
+        "1936"
+    ],
+    "wecannot": [
+        "1930"
+    ],
+    "shea": [
+        "1930",
+        "1931"
+    ],
+    "wehave": [
+        "1930"
+    ],
+    "maulona": [
+        "1930"
+    ],
+    "lloyd george": [
+        "1930"
+    ],
+    "ariel": [
+        "1930"
+    ],
+    "cheoki": [
+        "1930",
+        "1940"
+    ],
+    "sitla sahai": [
+        "1930"
+    ],
+    "mutobiagnpby": [
+        "1931"
+    ],
+    "xjnutdprovinces": [
+        "1931"
+    ],
+    "hyde": [
+        "1931",
+        "1933"
+    ],
+    "jekyll": [
+        "1931",
+        "1933"
+    ],
+    "findlater stewart": [
+        "1931"
+    ],
+    "jagdiah prasad": [
+        "1931"
+    ],
+    "jagdish prasad": [
+        "1931"
+    ],
+    "willingdon": [
+        "1931",
+        "1933",
+        "1937",
+        "1947"
+    ],
+    "hoare": [
+        "1931",
+        "1933",
+        "1937"
+    ],
+    "thosewho": [
+        "1931"
+    ],
+    "tbg ltadtr": [
+        "1931"
+    ],
+    "montmorency": [
+        "1931"
+    ],
+    "jagdiah praaad": [
+        "1931"
+    ],
+    "allahabad9 march": [
+        "1931"
+    ],
+    "abdul gaffar khan": [
+        "1931",
+        "1946",
+        "1947"
+    ],
+    "unao": [
+        "1931"
+    ],
+    "verney lovett": [
+        "1931"
+    ],
+    "edward thompson": [
+        "1931",
+        "1937"
+    ],
+    "maharai singh": [
+        "1931"
+    ],
+    "hewas": [
+        "1931",
+        "1933"
+    ],
+    "mudie": [
+        "1931"
+    ],
+    "lansbury": [
+        "1933"
+    ],
+    "louis fischer": [
+        "1933",
+        "1937",
+        "1946"
+    ],
+    "mieville": [
+        "1933",
+        "1947"
+    ],
+    "kapil dave maiaviya": [
+        "1933"
+    ],
+    "inlia": [
+        "1933"
+    ],
+    "eton juan": [
+        "1933"
+    ],
+    "dehra dunjail": [
+        "1933"
+    ],
+    "fearwas": [
+        "1933"
+    ],
+    "maurice dobb": [
+        "1933"
+    ],
+    "kunzru": [
+        "1933"
+    ],
+    "homedept": [
+        "1933",
+        "1936",
+        "1940"
+    ],
+    "bhowali": [
+        "1933"
+    ],
+    "julian huxley": [
+        "1933"
+    ],
+    "ganesh shankar vidyarthi": [
+        "1933"
+    ],
+    "leonard woolf": [
+        "1933",
+        "1936"
+    ],
+    "rah ahmad kidwai": [
+        "1933"
+    ],
+    "captain falvey": [
+        "1933"
+    ],
+    "asoka": [
+        "1933",
+        "1937"
+    ],
+    "lowes dickinson": [
+        "1933"
+    ],
+    "ghazni": [
+        "1933"
+    ],
+    "bareilly": [
+        "1933",
+        "1942"
+    ],
+    "abdur rahim": [
+        "1933"
+    ],
+    "birla": [
+        "1933",
+        "1936"
+    ],
+    "bidhan roy": [
+        "1933"
+    ],
+    "rajendra prasad": [
+        "1933",
+        "1936",
+        "1937",
+        "1940"
+    ],
+    "valera": [
+        "1933"
+    ],
+    "govind vallabh pant": [
+        "1933"
+    ],
+    "aldous huxley": [
+        "1933"
+    ],
+    "sri prakass": [
+        "1933",
+        "1937"
+    ],
+    "adhikari": [
+        "1936",
+        "1946"
+    ],
+    "pattabhi": [
+        "1936"
+    ],
+    "walchand hirachand": [
+        "1936"
+    ],
+    "kamala": [
+        "1936"
+    ],
+    "byjawaharlal": [
+        "1936"
+    ],
+    "k.mmunshi": [
+        "1936"
+    ],
+    "naomi mitchison": [
+        "1936"
+    ],
+    "agatha harrison": [
+        "1936"
+    ],
+    "rafi ahmad kidwai": [
+        "1936",
+        "1937"
+    ],
+    "brailsford": [
+        "1936"
+    ],
+    "stafford cripps": [
+        "1936",
+        "1937",
+        "1940",
+        "1946"
+    ],
+    "acharya kripalani": [
+        "1936"
+    ],
+    "john bull": [
+        "1936"
+    ],
+    "deathof": [
+        "1936"
+    ],
+    "ben bradley": [
+        "1936"
+    ],
+    "kamala nabru": [
+        "1936"
+    ],
+    "fraser": [
+        "1936"
+    ],
+    "see bipan chandra": [
+        "1936"
+    ],
+    "jayaprakash narayan": [
+        "1936"
+    ],
+    "john gunther": [
+        "1936"
+    ],
+    "lord erskine": [
+        "1936"
+    ],
+    "maharashtra govt": [
+        "1936"
+    ],
+    "eleanor roosevelt": [
+        "1936"
+    ],
+    "mahatmaji": [
+        "1936"
+    ],
+    "dimitrov": [
+        "1936"
+    ],
+    "achyut patwardhan": [
+        "1936"
+    ],
+    "raja rao": [
+        "1936"
+    ],
+    "saperov": [
+        "1936"
+    ],
+    "satyamurti": [
+        "1936"
+    ],
+    "krishna menon": [
+        "1936",
+        "1937",
+        "1940",
+        "1946",
+        "1947"
+    ],
+    "purushottamdas thakurdag": [
+        "1936"
+    ],
+    "lai bahadur shastri": [
+        "1936"
+    ],
+    "hannen swaffer": [
+        "1936"
+    ],
+    "williamson": [
+        "1936"
+    ],
+    "krishna kripalanl": [
+        "1937"
+    ],
+    "humayun kabir": [
+        "1937"
+    ],
+    "glendevon": [
+        "1937",
+        "1940"
+    ],
+    "chanda": [
+        "1937"
+    ],
+    "abdul walli": [
+        "1937"
+    ],
+    "tom jones": [
+        "1937"
+    ],
+    "mahmuduzzafar": [
+        "1937"
+    ],
+    "nahas pasha": [
+        "1937"
+    ],
+    "purshotamdas": [
+        "1937"
+    ],
+    "baroda": [
+        "1937"
+    ],
+    "hanson": [
+        "1937"
+    ],
+    "braboume": [
+        "1937"
+    ],
+    "phyllis kemp": [
+        "1937"
+    ],
+    "hiren": [
+        "1937"
+    ],
+    "john lewis": [
+        "1937"
+    ],
+    "brabourne": [
+        "1937"
+    ],
+    "peter pan": [
+        "1937"
+    ],
+    "governorof bombay": [
+        "1937"
+    ],
+    "vayo": [
+        "1937"
+    ],
+    "amrit keur": [
+        "1937"
+    ],
+    "mohanlal saxena": [
+        "1937"
+    ],
+    "azana": [
+        "1937"
+    ],
+    "passfield": [
+        "1937"
+    ],
+    "bhulabhai desai": [
+        "1937"
+    ],
+    "govind bailabh pant": [
+        "1937"
+    ],
+    "dementis": [
+        "1937"
+    ],
+    "victor gollancz": [
+        "1937"
+    ],
+    "ripka": [
+        "1937"
+    ],
+    "jal naoroji": [
+        "1937"
+    ],
+    "werzel jaksch": [
+        "1937"
+    ],
+    "nancy astor": [
+        "1937"
+    ],
+    "morey": [
+        "1937"
+    ],
+    "robert vansittart": [
+        "1937"
+    ],
+    "fazlul haq": [
+        "1937",
+        "1940"
+    ],
+    "sikandar hyat khan": [
+        "1937",
+        "1940",
+        "1946"
+    ],
+    "syed mahtnud": [
+        "1937"
+    ],
+    "kher": [
+        "1937"
+    ],
+    "maulana husain ahmad": [
+        "1937"
+    ],
+    "maulana shaukat ali": [
+        "1937"
+    ],
+    "chaudhuri khaliquzzaman": [
+        "1937"
+    ],
+    "shankar raodeo": [
+        "1937"
+    ],
+    "martin gilbert": [
+        "1937"
+    ],
+    "lumley": [
+        "1937"
+    ],
+    "healso": [
+        "1937"
+    ],
+    "kingsley martin": [
+        "1937",
+        "1942"
+    ],
+    "rafi kidwai": [
+        "1937"
+    ],
+    "siddiq ahmed siddiqui": [
+        "1937"
+    ],
+    "padmore": [
+        "1937"
+    ],
+    "cecil": [
+        "1937"
+    ],
+    "asaf all": [
+        "1937"
+    ],
+    "nawab ismail khan": [
+        "1937"
+    ],
+    "mauvna azad": [
+        "1937"
+    ],
+    "mohit": [
+        "1937"
+    ],
+    "govind bauabh pant": [
+        "1937"
+    ],
+    "bande mataram": [
+        "1937"
+    ],
+    "modtm rtvhw": [
+        "1937"
+    ],
+    "alvarez": [
+        "1937"
+    ],
+    "felix frankfurter": [
+        "1940"
+    ],
+    "leopold amer": [
+        "1940"
+    ],
+    "desmond": [
+        "1940"
+    ],
+    "zakir hussain": [
+        "1940"
+    ],
+    "amsry": [
+        "1940"
+    ],
+    "frances gunther": [
+        "1940"
+    ],
+    "vinoba bhave": [
+        "1940"
+    ],
+    "hallett": [
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "rajaji": [
+        "1940",
+        "1942"
+    ],
+    "chiang kai-shek": [
+        "1940"
+    ],
+    "krishna kripalani": [
+        "1940"
+    ],
+    "notional harold": [
+        "1940",
+        "1946"
+    ],
+    "karmal": [
+        "1940"
+    ],
+    "harold laski": [
+        "1940"
+    ],
+    "asaf ali": [
+        "1940",
+        "1942"
+    ],
+    "maulvi": [
+        "1940"
+    ],
+    "julllet": [
+        "1940"
+    ],
+    "eleanor rfcthbone": [
+        "1940"
+    ],
+    "tolinlithgow": [
+        "1940",
+        "1946"
+    ],
+    "anand bbawan": [
+        "1940"
+    ],
+    "heeven": [
+        "1940"
+    ],
+    "amery": [
+        "1940",
+        "1942",
+        "1946"
+    ],
+    "indu": [
+        "1940"
+    ],
+    "rajendrt prasad": [
+        "1940"
+    ],
+    "neville chamberlain": [
+        "1940"
+    ],
+    "ifindiaperishes": [
+        "1942"
+    ],
+    "fonign": [
+        "1942"
+    ],
+    "sampuraanand": [
+        "1942"
+    ],
+    "lpuis johnson": [
+        "1942"
+    ],
+    "j. p. lash": [
+        "1942"
+    ],
+    "whenthey": [
+        "1942"
+    ],
+    "hodson": [
+        "1942",
+        "1947"
+    ],
+    "evelyn wood": [
+        "1942"
+    ],
+    "roy jenkins": [
+        "1942"
+    ],
+    "louis johnson": [
+        "1942"
+    ],
+    "cnpps": [
+        "1942"
+    ],
+    "sborodprnruimo": [
+        "1942"
+    ],
+    "franklin roosevelt": [
+        "1942"
+    ],
+    "gripps": [
+        "1942"
+    ],
+    "great britain": [
+        "1942"
+    ],
+    "nobru": [
+        "1942"
+    ],
+    "utfrs": [
+        "1942"
+    ],
+    "sfearsnayya": [
+        "1942"
+    ],
+    "cripps jawaharlal": [
+        "1942"
+    ],
+    "mahadeva oesai": [
+        "1942"
+    ],
+    "pinnell": [
+        "1942"
+    ],
+    "aban": [
+        "1942"
+    ],
+    "chando": [
+        "1942"
+    ],
+    "madame chiang": [
+        "1942"
+    ],
+    "george vi": [
+        "1942"
+    ],
+    "marshal chiang": [
+        "1942"
+    ],
+    "faatbars": [
+        "1942"
+    ],
+    "robert blatchford": [
+        "1942"
+    ],
+    "mira behn": [
+        "1942"
+    ],
+    "charles lamb": [
+        "1942"
+    ],
+    "lampton berry": [
+        "1942"
+    ],
+    "sodal": [
+        "1942"
+    ],
+    "tuan sheng-chien": [
+        "1942"
+    ],
+    "ahmednapar": [
+        "1942"
+    ],
+    "gsuidhi": [
+        "1942"
+    ],
+    "hissupporterswerethose": [
+        "1942"
+    ],
+    "hassett": [
+        "1942"
+    ],
+    "moran": [
+        "1942"
+    ],
+    "aimora": [
+        "1942"
+    ],
+    "edgar snow": [
+        "1942"
+    ],
+    "mahmudabad": [
+        "1946"
+    ],
+    "liaqat alt khan": [
+        "1946"
+    ],
+    "zafrulla khan": [
+        "1946"
+    ],
+    "woodrow wyatt": [
+        "1946"
+    ],
+    "sectt": [
+        "1946",
+        "1947"
+    ],
+    "j. connell": [
+        "1946"
+    ],
+    "suhrawardy": [
+        "1946",
+        "1947"
+    ],
+    "lady mountbatten": [
+        "1946"
+    ],
+    "bernard levin": [
+        "1946"
+    ],
+    "hehad": [
+        "1946"
+    ],
+    "pakistanwasthat": [
+        "1946"
+    ],
+    "campbell johnson": [
+        "1946",
+        "1947"
+    ],
+    "edwina mountbatten": [
+        "1946"
+    ],
+    "east bengal": [
+        "1946"
+    ],
+    "jcripps": [
+        "1946"
+    ],
+    "wavelltoazad": [
+        "1946"
+    ],
+    "paptrs": [
+        "1946"
+    ],
+    "ambedkar": [
+        "1946",
+        "1947"
+    ],
+    "raghavan": [
+        "1946"
+    ],
+    "dorothy norman": [
+        "1946"
+    ],
+    "francis tuker": [
+        "1946"
+    ],
+    "ipatel": [
+        "1946"
+    ],
+    "caroe": [
+        "1946",
+        "1947"
+    ],
+    "tjinnah": [
+        "1946"
+    ],
+    "wsvell": [
+        "1946"
+    ],
+    "uon rampant": [
+        "1946"
+    ],
+    "aung san": [
+        "1946"
+    ],
+    "uaqat ali khan": [
+        "1946"
+    ],
+    "liaqat ali khan": [
+        "1946"
+    ],
+    "sri praicasa": [
+        "1946"
+    ],
+    "henever": [
+        "1946"
+    ],
+    "hodaon": [
+        "1946",
+        "1947"
+    ],
+    "theidea": [
+        "1946"
+    ],
+    "baldev singh": [
+        "1946",
+        "1947"
+    ],
+    "rosenberg": [
+        "1946"
+    ],
+    "sheikh abdullah": [
+        "1946"
+    ],
+    "freya stark": [
+        "1946"
+    ],
+    "bakiev singh": [
+        "1947"
+    ],
+    "ifthey": [
+        "1947"
+    ],
+    "soto": [
+        "1947"
+    ],
+    "khan sahib": [
+        "1947"
+    ],
+    "lord ismty": [
+        "1947"
+    ],
+    "jidem": [
+        "1947"
+    ],
+    "ismay": [
+        "1947"
+    ],
+    "notonly": [
+        "1947"
+    ],
+    "wtlfr monckton": [
+        "1947"
+    ],
+    "hehas": [
+        "1947"
+    ],
+    "cariappa": [
+        "1947"
+    ],
+    "vtjayalalcshmi pandit": [
+        "1947"
+    ],
+    "wepropose": [
+        "1947"
+    ]
+}

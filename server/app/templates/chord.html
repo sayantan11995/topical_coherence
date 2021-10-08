@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Resources -->
+    <script src="https://cdn.amcharts.com/lib/4/core.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/charts.js"></script>
+    <script src="https://cdn.amcharts.com/lib/4/themes/animated.js"></script>
+</head>
+
+
+
+
+
+<body>
+    <!-- <div id="chartdiv1" style="width: 98%; height: 400px; float: left;"></div> -->
+    
+    {%for i in range(0, chart_data_list|length)%}
+    <div>
+        <div id="chartdiv{{i}}" style="width: 90%; height: 600px;"></div>
+        <div id="year_range{{year_range_list[i]}}" style="float: left; margin-bottom: 15%;">
+            <h1>{{year_range_list[i]}}</h1>
+        </div>
+    </div>
+    
+
+
+   
+
+    <script>
+        am4core.ready(function () {
+            // Themes begin
+            // am4core.useTheme(am4themes_animated);
+
+            // Enable queuing
+            // am4core.options.queue = true;
+            // am4core.options.onlyShowOnViewport = true;
+            var chart = am4core.create("chartdiv{{i}}", am4charts.ChordDiagram);
+
+            // Chart options
+            chart.nodePadding = 0.2;
+            chart.minNodeSize = 0.05;
+            chart.startAngle = 120;
+            chart.endAngle = chart.startAngle + 360;
+            chart.paddingBottom = 75;
+            chart.paddingTop = 75;
+            chart.paddingLeft = 75;
+            chart.paddingRight = 75;
+            // chart.nonRibbon = true;
+            var title = chart.titles.create();
+            // title.text = "{{chart_title | safe }}";
+            title.fontSize = 10;
+            title.fontWeight = "bold";
+            title.marginBottom = 75;
+            chart.scrollbarX = new am4core.Scrollbar();
+
+            //chart.data = 
+            // var ind = {{i}};
+            chart.data = {{chart_data_list[i]|safe}};
+
+            chart.dataFields.fromName = "from";
+            chart.dataFields.toName = "to";
+            chart.dataFields.value = "value";
+
+
+            // set up nodes
+            nodeTemplate = chart.nodes.template;
+            nodeTemplate.draggable = false;
+            nodeTemplate.focusable = false;
+            nodeTemplate.tooltipText = "{name}";
+            nodeTemplate.propertyFields.fill = "color";
+            var fillOpacityInitial = 0.6;
+            var fillOpacityHighlight = 1;
+            nodeTemplate.fillOpacity = fillOpacityInitial;
+
+
+            // when rolled over the node, make all the links rolled-over
+            nodeTemplate.events.on("over", function (event) {
+                var node = event.target;
+
+                node.outgoingDataItems.each(function (dataItem) {
+                    if (dataItem.toNode) {
+                        dataItem.link.isHover = true;
+                        dataItem.link.middleLine.strokeOpacity = fillOpacityHighlight;
+                        dataItem.toNode.label.isHover = true;
+                        dataItem.toNode.fillOpacity = fillOpacityHighlight;
+                    }
+                })
+                node.incomingDataItems.each(function (dataItem) {
+                    if (dataItem.fromNode) {
+                        dataItem.link.isHover = true;
+                        dataItem.link.middleLine.strokeOpacity = fillOpacityHighlight;
+                        dataItem.fromNode.label.isHover = true;
+                        dataItem.fromNode.fillOpacity = fillOpacityHighlight;
+                    }
+                })
+
+                node.label.isHover = true;
+                // nodeTemplate.isHover = true;
+            })
+
+            // when rolled out from the node, make all the links rolled-out
+            nodeTemplate.events.on("out", function (event) {
+                chart.closeAllPopups();
+                var node = event.target;
+                node.outgoingDataItems.each(function (dataItem) {
+                    if (dataItem.toNode) {
+                        dataItem.link.isHover = false;
+                        dataItem.link.middleLine.strokeOpacity = 0;
+                        dataItem.toNode.label.isHover = false;
+                        dataItem.toNode.fillOpacity = fillOpacityInitial;
+                    }
+                })
+                node.incomingDataItems.each(function (dataItem) {
+                    if (dataItem.fromNode) {
+                        dataItem.link.isHover = false;
+                        dataItem.link.middleLine.strokeOpacity = 0;
+                        dataItem.fromNode.label.isHover = false;
+                        dataItem.fromNode.fillOpacity = fillOpacityInitial;
+                    }
+                })
+
+                node.label.isHover = false;
+            })
+
+
+            // hover state for nodes
+            nodeHS = nodeTemplate.states.create("hover");
+            nodeHS.properties.fillOpacity = fillOpacityHighlight;
+
+            // active state for nodes
+            nodeAS = nodeTemplate.states.create("active");
+            nodeAS.properties.fillOpacity = fillOpacityHighlight;
+
+            // set up label
+            var label = chart.nodes.template.label;
+            label.fontSize = 12;
+            label.fill = am4core.color("#000000");
+            label.relativeRotation = 90;
+            label.fontWeight = "bold";
+            label.fillOpacity = fillOpacityInitial;
+
+            // hover state for label
+            let labelHS = label.states.create("hover");
+            labelHS.properties.fillOpacity = fillOpacityHighlight;
+            labelHS.properties.fontWeight = "bolder";
+
+            // active state for label
+            let labelAS = label.states.create("active");
+            labelAS.properties.fillOpacity = fillOpacityHighlight;
+
+            // set up edge property
+            var linkTemplate = chart.links.template;
+            linkTemplate.strokeOpacity = 0;
+            linkTemplate.colorMode = "solid";
+            linkTemplate.propertyFields.fill = "#000000";
+            // linkTemplate.middleLine.strokeOpacity = 0.05;
+            // else {
+            //     linkTemplate.middleLine.strokeWidth = 1;
+            // }
+            // linkTemplate.propertyFields.fillOpacity = 0.5;
+            linkTemplate.fillOpacity = 0.1;
+            linkTemplate.tooltipText = "{fromName} & {toName}";
+
+            // hover state for edges
+            var hoverState = linkTemplate.states.create("hover");
+            hoverState.properties.fillOpacity = fillOpacityHighlight;
+            hoverState.properties.strokeOpacity = 0.8;
+            // hoverState.properties.fill = "#navy";
+
+            // active state for edges
+            var chordClickState = linkTemplate.states.create("active");
+            chordClickState.properties.fillOpacity = fillOpacityHighlight;
+            chordClickState.properties.strokeOpacity = 1;
+
+
+            nodeTemplate.cursorOverStyle = am4core.MouseCursorStyle.pointer;
+
+        })
+    </script>
+    {%endfor%}
+</body>
+
+
+
+
+
+</html>

@@ -1,0 +1,1681 @@
+{
+    "exeter": [
+        "1816"
+    ],
+    "wataga": [
+        "1816"
+    ],
+    "tennessee": [
+        "1816",
+        "1832",
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864"
+    ],
+    "taunton": [
+        "1816"
+    ],
+    "bardstown": [
+        "1816"
+    ],
+    "hingham": [
+        "1816"
+    ],
+    "nashville": [
+        "1816",
+        "1865",
+        "1862"
+    ],
+    "virginia": [
+        "1816",
+        "1858",
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "west": [
+        "1816",
+        "1822",
+        "1837",
+        "1860",
+        "1861",
+        "1862",
+        "1864"
+    ],
+    "united states": [
+        "1816",
+        "1832",
+        "1834",
+        "1840",
+        "1846",
+        "1852",
+        "1841",
+        "1858",
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "washington": [
+        "1816",
+        "1819",
+        "1846",
+        "1852",
+        "1841",
+        "1858",
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "ohio": [
+        "1816",
+        "1819",
+        "1841",
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "hodgenville": [
+        "1816"
+    ],
+    "indiana": [
+        "1816",
+        "1819",
+        "1822",
+        "1832",
+        "1840",
+        "1858",
+        "1860",
+        "1865",
+        "1861",
+        "1862"
+    ],
+    "reading": [
+        "1816"
+    ],
+    "trenton": [
+        "1819",
+        "1861"
+    ],
+    "elizabethtown": [
+        "1819"
+    ],
+    "new orleans": [
+        "1819",
+        "1822",
+        "1852",
+        "1862",
+        "1863"
+    ],
+    "gentryville": [
+        "1819"
+    ],
+    "grove": [
+        "1822",
+        "1832",
+        "1837",
+        "1852"
+    ],
+    "kirkham": [
+        "1822"
+    ],
+    "st. louis": [
+        "1822",
+        "1834",
+        "1841",
+        "1861"
+    ],
+    "beardstown": [
+        "1822",
+        "1832",
+        "1834",
+        "1860"
+    ],
+    "decatur": [
+        "1822",
+        "1860"
+    ],
+    "lexington": [
+        "1822",
+        "1840",
+        "1861"
+    ],
+    "galena": [
+        "1822",
+        "1832"
+    ],
+    "new salem": [
+        "1822",
+        "1832",
+        "1834",
+        "1837",
+        "1852"
+    ],
+    "petersburg": [
+        "1822"
+    ],
+    "clary": [
+        "1832"
+    ],
+    "flint": [
+        "1832"
+    ],
+    "kansas": [
+        "1832",
+        "1852",
+        "1841",
+        "1858",
+        "1860"
+    ],
+    "prophetstown": [
+        "1832"
+    ],
+    "richland": [
+        "1832"
+    ],
+    "peoria": [
+        "1832",
+        "1852",
+        "1860"
+    ],
+    "vandalia": [
+        "1834",
+        "1837",
+        "1840"
+    ],
+    "chicago": [
+        "1834",
+        "1840",
+        "1852",
+        "1858",
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1864",
+        "1859"
+    ],
+    "louisville": [
+        "1840",
+        "1841"
+    ],
+    "paris": [
+        "1840",
+        "1859"
+    ],
+    "ashland": [
+        "1840",
+        "1852"
+    ],
+    "spain": [
+        "1846"
+    ],
+    "mexico": [
+        "1846",
+        "1852",
+        "1862",
+        "1864"
+    ],
+    "santa anna": [
+        "1846"
+    ],
+    "columbia": [
+        "1846",
+        "1860",
+        "1865",
+        "1861",
+        "1862"
+    ],
+    "western": [
+        "1846",
+        "1861",
+        "1862",
+        "1863",
+        "1864"
+    ],
+    "california": [
+        "1846",
+        "1852",
+        "1860",
+        "1861"
+    ],
+    "philadelphia": [
+        "1846",
+        "1841",
+        "1861",
+        "1863",
+        "1859"
+    ],
+    "baltimore": [
+        "1846",
+        "1860",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "new york": [
+        "1846",
+        "1858",
+        "1860",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "louisiana": [
+        "1846",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864"
+    ],
+    "france": [
+        "1846",
+        "1861",
+        "1862",
+        "1864",
+        "1859"
+    ],
+    "georgetown": [
+        "1846"
+    ],
+    "indianapolis": [
+        "1852",
+        "1861",
+        "1859"
+    ],
+    "maine": [
+        "1852",
+        "1858",
+        "1860",
+        "1865"
+    ],
+    "independence": [
+        "1841",
+        "1858",
+        "1860",
+        "1861"
+    ],
+    "russia": [
+        "1841",
+        "1862"
+    ],
+    "charleston": [
+        "1841",
+        "1860",
+        "1865",
+        "1861",
+        "1862"
+    ],
+    "union": [
+        "1858",
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "cincinnati": [
+        "1858",
+        "1860",
+        "1861",
+        "1863",
+        "1859"
+    ],
+    "brooklyn": [
+        "1860"
+    ],
+    "columbus": [
+        "1860",
+        "1861",
+        "1862",
+        "1859"
+    ],
+    "richmond": [
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864"
+    ],
+    "meriden": [
+        "1860"
+    ],
+    "norwich": [
+        "1860"
+    ],
+    "broadway": [
+        "1860"
+    ],
+    "harper": [
+        "1860",
+        "1865",
+        "1861",
+        "1862"
+    ],
+    "vermont": [
+        "1860"
+    ],
+    "woonsocket": [
+        "1860"
+    ],
+    "freeport": [
+        "1860"
+    ],
+    "galesburg": [
+        "1860"
+    ],
+    "alton": [
+        "1860"
+    ],
+    "iowa": [
+        "1860"
+    ],
+    "lewistown": [
+        "1860"
+    ],
+    "leavenworth": [
+        "1860"
+    ],
+    "egypt": [
+        "1860"
+    ],
+    "havana": [
+        "1860",
+        "1862"
+    ],
+    "hartford": [
+        "1860"
+    ],
+    "aurora": [
+        "1860"
+    ],
+    "cuba": [
+        "1860",
+        "1862",
+        "1864"
+    ],
+    "bridgeport": [
+        "1860"
+    ],
+    "bath": [
+        "1860"
+    ],
+    "oregon": [
+        "1860",
+        "1861"
+    ],
+    "canton": [
+        "1860"
+    ],
+    "atlantic": [
+        "1865",
+        "1861",
+        "1862",
+        "1863"
+    ],
+    "norfolk": [
+        "1865",
+        "1862"
+    ],
+    "potomac": [
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "mobile": [
+        "1865",
+        "1861"
+    ],
+    "canada": [
+        "1865",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "savannah": [
+        "1865",
+        "1862"
+    ],
+    "memphis": [
+        "1865",
+        "1862"
+    ],
+    "ord": [
+        "1865"
+    ],
+    "augusta": [
+        "1865"
+    ],
+    "dalton": [
+        "1865"
+    ],
+    "wilmington": [
+        "1865",
+        "1861"
+    ],
+    "florida": [
+        "1865",
+        "1861",
+        "1862"
+    ],
+    "vicksburg": [
+        "1865",
+        "1862",
+        "1863"
+    ],
+    "bentonville": [
+        "1865"
+    ],
+    "fayetteville": [
+        "1865"
+    ],
+    "atlanta": [
+        "1865"
+    ],
+    "georgia": [
+        "1865",
+        "1861",
+        "1862",
+        "1863"
+    ],
+    "chattanooga": [
+        "1865",
+        "1862",
+        "1863"
+    ],
+    "london": [
+        "1861",
+        "1862",
+        "1859"
+    ],
+    "alexandria": [
+        "1861",
+        "1862"
+    ],
+    "pittsburgh": [
+        "1861"
+    ],
+    "manassas": [
+        "1861",
+        "1862"
+    ],
+    "maryland": [
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "sedalia": [
+        "1861"
+    ],
+    "albany": [
+        "1861",
+        "1863",
+        "1859"
+    ],
+    "monroe": [
+        "1861",
+        "1862"
+    ],
+    "cleveland": [
+        "1861",
+        "1864",
+        "1859"
+    ],
+    "bright": [
+        "1861"
+    ],
+    "annapolis": [
+        "1861"
+    ],
+    "boston": [
+        "1861",
+        "1864",
+        "1859"
+    ],
+    "cairo": [
+        "1861",
+        "1862"
+    ],
+    "wheeling": [
+        "1861"
+    ],
+    "milledgeville": [
+        "1861"
+    ],
+    "port royal": [
+        "1861",
+        "1862"
+    ],
+    "poughkeepsie": [
+        "1861",
+        "1859"
+    ],
+    "montgomery": [
+        "1861",
+        "1863",
+        "1864"
+    ],
+    "ethiopia": [
+        "1862"
+    ],
+    "frankfort": [
+        "1862"
+    ],
+    "sedgwick": [
+        "1862"
+    ],
+    "strasburg": [
+        "1862"
+    ],
+    "lynn": [
+        "1862"
+    ],
+    "yorktown": [
+        "1862"
+    ],
+    "northampton": [
+        "1862"
+    ],
+    "winchester": [
+        "1862"
+    ],
+    "terryville": [
+        "1862"
+    ],
+    "altoona": [
+        "1862"
+    ],
+    "grenada": [
+        "1862"
+    ],
+    "accomac": [
+        "1862"
+    ],
+    "south mountain": [
+        "1862"
+    ],
+    "libby": [
+        "1862"
+    ],
+    "waterloo": [
+        "1862",
+        "1859"
+    ],
+    "fredericksburg": [
+        "1862",
+        "1863"
+    ],
+    "corinth": [
+        "1862"
+    ],
+    "portsmouth": [
+        "1862"
+    ],
+    "martinsburg": [
+        "1862"
+    ],
+    "cumberland": [
+        "1862"
+    ],
+    "gettysburg": [
+        "1862",
+        "1863"
+    ],
+    "harrisonburg": [
+        "1862"
+    ],
+    "gloucester": [
+        "1862"
+    ],
+    "murfreesboro": [
+        "1863"
+    ],
+    "tullahoma": [
+        "1863"
+    ],
+    "knoxville": [
+        "1863"
+    ],
+    "manchester": [
+        "1863"
+    ],
+    "liberia": [
+        "1863"
+    ],
+    "empire": [
+        "1863"
+    ],
+    "keystone": [
+        "1863"
+    ],
+    "worthington": [
+        "1859"
+    ],
+    "kensington": [
+        "1859"
+    ],
+    "parker": [
+        "1859"
+    ],
+    "william penn": [
+        "1816"
+    ],
+    "thomas lincoln": [
+        "1816",
+        "1819",
+        "1822"
+    ],
+    "josiah": [
+        "1816"
+    ],
+    "bullitt county": [
+        "1816"
+    ],
+    "abraham lincoln": [
+        "1816",
+        "1819",
+        "1822",
+        "1832",
+        "1834",
+        "1858",
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "floyd": [
+        "1816",
+        "1860",
+        "1861"
+    ],
+    "nancy hanks": [
+        "1816"
+    ],
+    "daniel boone": [
+        "1816"
+    ],
+    "nolin creek": [
+        "1816"
+    ],
+    "harrison county": [
+        "1816"
+    ],
+    "hancock county": [
+        "1816"
+    ],
+    "hardin county": [
+        "1816"
+    ],
+    "parson elkin": [
+        "1816",
+        "1819"
+    ],
+    "caleb hazel": [
+        "1816"
+    ],
+    "nancy lincoln": [
+        "1816",
+        "1819"
+    ],
+    "mordecai": [
+        "1816"
+    ],
+    "larue county": [
+        "1816"
+    ],
+    "knob creek": [
+        "1816"
+    ],
+    "riney": [
+        "1816"
+    ],
+    "zachariah": [
+        "1816"
+    ],
+    "ralph crume": [
+        "1816"
+    ],
+    "john bunyan": [
+        "1819"
+    ],
+    "ramsay": [
+        "1819"
+    ],
+    "andrew crawford": [
+        "1819"
+    ],
+    "azel w. dorsey": [
+        "1819"
+    ],
+    "sweeney": [
+        "1819"
+    ],
+    "sally johnston": [
+        "1819"
+    ],
+    "weems": [
+        "1819",
+        "1861"
+    ],
+    "henry clay": [
+        "1819",
+        "1832",
+        "1840",
+        "1860"
+    ],
+    "nancy miller": [
+        "1822"
+    ],
+    "john hanks": [
+        "1822"
+    ],
+    "jack armstrong": [
+        "1822",
+        "1852"
+    ],
+    "denton o\ufb00utt": [
+        "1822",
+        "1832"
+    ],
+    "aaron grigsby": [
+        "1822"
+    ],
+    "pottawatomies": [
+        "1832"
+    ],
+    "reuben radford": [
+        "1832"
+    ],
+    "john t. stuart": [
+        "1832",
+        "1834"
+    ],
+    "john calhoun": [
+        "1832"
+    ],
+    "daniel webster": [
+        "1832",
+        "1860"
+    ],
+    "atkinson": [
+        "1832"
+    ],
+    "black hawk": [
+        "1832"
+    ],
+    "lecompton": [
+        "1832",
+        "1841",
+        "1858",
+        "1860"
+    ],
+    "richard yates": [
+        "1832"
+    ],
+    "dixon": [
+        "1832",
+        "1841",
+        "1862",
+        "1859"
+    ],
+    "zachary taylor": [
+        "1832"
+    ],
+    "whiteside": [
+        "1832"
+    ],
+    "james short": [
+        "1832"
+    ],
+    "kirkpatrick": [
+        "1832"
+    ],
+    "rock river": [
+        "1832"
+    ],
+    "william g. greene": [
+        "1832"
+    ],
+    "pugh": [
+        "1832",
+        "1863"
+    ],
+    "rock island": [
+        "1832"
+    ],
+    "hon": [
+        "1832",
+        "1837",
+        "1840",
+        "1858",
+        "1860",
+        "1865",
+        "1861",
+        "1862",
+        "1863",
+        "1864",
+        "1859"
+    ],
+    "jesse k. dubois": [
+        "1834"
+    ],
+    "ninian": [
+        "1834"
+    ],
+    "john moore": [
+        "1834"
+    ],
+    "newton cloud": [
+        "1834"
+    ],
+    "stephen a. douglas": [
+        "1834",
+        "1846",
+        "1865"
+    ],
+    "robert smith": [
+        "1834"
+    ],
+    "john hogan": [
+        "1834"
+    ],
+    "james shields": [
+        "1834",
+        "1840",
+        "1852"
+    ],
+    "john j. hardin": [
+        "1834"
+    ],
+    "james semple": [
+        "1834"
+    ],
+    "john dement": [
+        "1834"
+    ],
+    "dan stone": [
+        "1834"
+    ],
+    "abe lincoln": [
+        "1837",
+        "1860"
+    ],
+    "wabash county": [
+        "1837"
+    ],
+    "van buren": [
+        "1837",
+        "1846"
+    ],
+    "william butler": [
+        "1837"
+    ],
+    "ewing": [
+        "1837"
+    ],
+    "simeon francis": [
+        "1840"
+    ],
+    "bloody island": [
+        "1840"
+    ],
+    "linder": [
+        "1840",
+        "1846"
+    ],
+    "cogdal": [
+        "1840"
+    ],
+    "miss e.": [
+        "1840"
+    ],
+    "jacob collamer": [
+        "1846",
+        "1860"
+    ],
+    "allison": [
+        "1846"
+    ],
+    "robert toombs": [
+        "1846",
+        "1861"
+    ],
+    "alexander h. stephens": [
+        "1846",
+        "1865"
+    ],
+    "joshua r. giddings": [
+        "1846",
+        "1860"
+    ],
+    "henry w. hilliard": [
+        "1846"
+    ],
+    "butter\ufb01eld": [
+        "1846"
+    ],
+    "gott": [
+        "1846"
+    ],
+    "seaton": [
+        "1846"
+    ],
+    "dred scott": [
+        "1846",
+        "1858",
+        "1860"
+    ],
+    "george ashmun": [
+        "1846",
+        "1860",
+        "1859"
+    ],
+    "john quincy adams": [
+        "1846"
+    ],
+    "defrees": [
+        "1846",
+        "1861"
+    ],
+    "matteson": [
+        "1846",
+        "1852"
+    ],
+    "thomas butler king": [
+        "1846"
+    ],
+    "bourbon county": [
+        "1846"
+    ],
+    "samuel f. vinton": [
+        "1846"
+    ],
+    "herndon": [
+        "1852",
+        "1858",
+        "1861"
+    ],
+    "divine providence": [
+        "1852",
+        "1860",
+        "1861"
+    ],
+    "hinkle": [
+        "1852"
+    ],
+    "thomas drummond": [
+        "1852"
+    ],
+    "caton": [
+        "1852"
+    ],
+    "lyman trumbull": [
+        "1852"
+    ],
+    "breese": [
+        "1852"
+    ],
+    "mchenry": [
+        "1852"
+    ],
+    "david davis": [
+        "1852",
+        "1861"
+    ],
+    "stringfellow": [
+        "1841"
+    ],
+    "reeder": [
+        "1841"
+    ],
+    "william h. bissell": [
+        "1841"
+    ],
+    "roger": [
+        "1858",
+        "1861"
+    ],
+    "john c. fremont": [
+        "1860",
+        "1861"
+    ],
+    "judd": [
+        "1860",
+        "1861"
+    ],
+    "simon cameron": [
+        "1860",
+        "1861"
+    ],
+    "william l. dayton": [
+        "1860"
+    ],
+    "bryant": [
+        "1860"
+    ],
+    "knox county": [
+        "1860"
+    ],
+    "george bancroft": [
+        "1860"
+    ],
+    "hamlin": [
+        "1860",
+        "1865",
+        "1861",
+        "1864"
+    ],
+    "edward bates": [
+        "1860",
+        "1865",
+        "1861"
+    ],
+    "benjamin f. wade": [
+        "1860",
+        "1864"
+    ],
+    "cobb": [
+        "1860",
+        "1861"
+    ],
+    "john brown": [
+        "1860",
+        "1865"
+    ],
+    "john bell": [
+        "1860",
+        "1865",
+        "1861"
+    ],
+    "william h. seward": [
+        "1860"
+    ],
+    "corwin": [
+        "1860"
+    ],
+    "edward everett": [
+        "1860"
+    ],
+    "cartter": [
+        "1860"
+    ],
+    "george w. curtis": [
+        "1860"
+    ],
+    "john c. breckinridge": [
+        "1860",
+        "1865",
+        "1863"
+    ],
+    "yancey": [
+        "1860"
+    ],
+    "madison county": [
+        "1860"
+    ],
+    "carl schurz": [
+        "1860"
+    ],
+    "alexander hamilton": [
+        "1860"
+    ],
+    "benjamin franklin": [
+        "1860"
+    ],
+    "thomas hanks": [
+        "1860"
+    ],
+    "stephenson county": [
+        "1860"
+    ],
+    "charles sumner": [
+        "1860"
+    ],
+    "delano": [
+        "1860"
+    ],
+    "oglesby": [
+        "1860",
+        "1859"
+    ],
+    "john mclean": [
+        "1860"
+    ],
+    "canby": [
+        "1865"
+    ],
+    "linkum": [
+        "1865",
+        "1862"
+    ],
+    "james river": [
+        "1865",
+        "1862"
+    ],
+    "river queen": [
+        "1865"
+    ],
+    "averysboro": [
+        "1865"
+    ],
+    "david todd": [
+        "1865"
+    ],
+    "hugh mcculloch": [
+        "1865"
+    ],
+    "weitzel": [
+        "1865"
+    ],
+    "scho\ufb01eld": [
+        "1865",
+        "1863"
+    ],
+    "bateman": [
+        "1865"
+    ],
+    "james speed": [
+        "1865"
+    ],
+    "wadsworth": [
+        "1865",
+        "1862"
+    ],
+    "fessenden": [
+        "1865"
+    ],
+    "kilpatrick": [
+        "1865"
+    ],
+    "washburne": [
+        "1861",
+        "1859"
+    ],
+    "boyd": [
+        "1861"
+    ],
+    "garnett": [
+        "1861"
+    ],
+    "euclid street": [
+        "1861",
+        "1859"
+    ],
+    "hammond": [
+        "1861",
+        "1862"
+    ],
+    "je\ufb00erson davis": [
+        "1861",
+        "1864"
+    ],
+    "buckner": [
+        "1861",
+        "1863"
+    ],
+    "buell": [
+        "1861",
+        "1862"
+    ],
+    "john tyler": [
+        "1861"
+    ],
+    "steubenville": [
+        "1861"
+    ],
+    "harney": [
+        "1861"
+    ],
+    "holt": [
+        "1861"
+    ],
+    "bonham": [
+        "1861"
+    ],
+    "fernando wood": [
+        "1861",
+        "1862",
+        "1864"
+    ],
+    "je\ufb00erson city": [
+        "1861"
+    ],
+    "foote": [
+        "1861"
+    ],
+    "wigfall": [
+        "1861"
+    ],
+    "ben wood": [
+        "1861"
+    ],
+    "norton": [
+        "1861"
+    ],
+    "ashmore": [
+        "1861"
+    ],
+    "forsyth": [
+        "1861"
+    ],
+    "rich mountain": [
+        "1861"
+    ],
+    "beauregard": [
+        "1861",
+        "1862"
+    ],
+    "winthrop": [
+        "1861"
+    ],
+    "byrne": [
+        "1861"
+    ],
+    "crittenden": [
+        "1861",
+        "1862"
+    ],
+    "james jackson": [
+        "1861"
+    ],
+    "je\ufb00 thompson": [
+        "1861"
+    ],
+    "mcqueen": [
+        "1861"
+    ],
+    "rosecrans": [
+        "1861",
+        "1862",
+        "1863"
+    ],
+    "este": [
+        "1861"
+    ],
+    "sigel": [
+        "1861",
+        "1862"
+    ],
+    "bladensburgh": [
+        "1861"
+    ],
+    "pegram": [
+        "1861"
+    ],
+    "pickens": [
+        "1861"
+    ],
+    "howell": [
+        "1861"
+    ],
+    "thomas l. snead": [
+        "1861"
+    ],
+    "john m. hay": [
+        "1861"
+    ],
+    "george b. mcclellan": [
+        "1861",
+        "1864"
+    ],
+    "greble": [
+        "1861"
+    ],
+    "stringham": [
+        "1861"
+    ],
+    "nicolay": [
+        "1861"
+    ],
+    "ben mcculloch": [
+        "1861"
+    ],
+    "fort sumter": [
+        "1861",
+        "1862"
+    ],
+    "gideon": [
+        "1861"
+    ],
+    "mcdowell": [
+        "1861",
+        "1862"
+    ],
+    "chesnut": [
+        "1861"
+    ],
+    "halleck": [
+        "1861",
+        "1862",
+        "1863"
+    ],
+    "brownell": [
+        "1861"
+    ],
+    "patterson": [
+        "1861"
+    ],
+    "terre bonne": [
+        "1862"
+    ],
+    "gar\ufb01eld": [
+        "1862"
+    ],
+    "edwin m. stanton": [
+        "1862"
+    ],
+    "captain wilkes": [
+        "1862"
+    ],
+    "george s. boutwell": [
+        "1862",
+        "1864"
+    ],
+    "magruder": [
+        "1862",
+        "1863"
+    ],
+    "front royal": [
+        "1862"
+    ],
+    "theodora": [
+        "1862"
+    ],
+    "elizabeth city": [
+        "1862"
+    ],
+    "fisk": [
+        "1862"
+    ],
+    "loomis": [
+        "1862"
+    ],
+    "roanoke island": [
+        "1862"
+    ],
+    "horace greeley": [
+        "1862",
+        "1864"
+    ],
+    "geary": [
+        "1862"
+    ],
+    "earl russell": [
+        "1862"
+    ],
+    "duryea": [
+        "1862"
+    ],
+    "alexander cummings": [
+        "1862"
+    ],
+    "heintzelman": [
+        "1862"
+    ],
+    "donelson": [
+        "1862"
+    ],
+    "john porter": [
+        "1862"
+    ],
+    "james m. mason": [
+        "1862"
+    ],
+    "hodges": [
+        "1862"
+    ],
+    "san jacinto": [
+        "1862"
+    ],
+    "randolph": [
+        "1862"
+    ],
+    "schuyler": [
+        "1862"
+    ],
+    "plaquemine": [
+        "1862"
+    ],
+    "wherein": [
+        "1862"
+    ],
+    "warwick river": [
+        "1862"
+    ],
+    "mulberry island": [
+        "1862"
+    ],
+    "marie": [
+        "1862"
+    ],
+    "manassas junction": [
+        "1862"
+    ],
+    "whereof": [
+        "1862"
+    ],
+    "willie": [
+        "1862",
+        "1859"
+    ],
+    "john todd": [
+        "1862"
+    ],
+    "york river": [
+        "1862"
+    ],
+    "leesburgh": [
+        "1862"
+    ],
+    "haymarket": [
+        "1862"
+    ],
+    "slidell": [
+        "1862"
+    ],
+    "colfax": [
+        "1862",
+        "1863",
+        "1859"
+    ],
+    "aldie": [
+        "1862"
+    ],
+    "bishop james": [
+        "1862"
+    ],
+    "acquia creek": [
+        "1862"
+    ],
+    "pemberton": [
+        "1863"
+    ],
+    "longstreet": [
+        "1863"
+    ],
+    "conkling": [
+        "1863"
+    ],
+    "robert e. lee": [
+        "1863"
+    ],
+    "curtin": [
+        "1863"
+    ],
+    "louiallier": [
+        "1863"
+    ],
+    "port gibson": [
+        "1863"
+    ],
+    "grand gulf": [
+        "1863"
+    ],
+    "erastus": [
+        "1863"
+    ],
+    "clement l. vallandigham": [
+        "1863"
+    ],
+    "william b. preston": [
+        "1863"
+    ],
+    "leavitt": [
+        "1863"
+    ],
+    "port hudson": [
+        "1863"
+    ],
+    "clement c. clay": [
+        "1864"
+    ],
+    "phillips": [
+        "1864"
+    ],
+    "henry j. raymond": [
+        "1864"
+    ],
+    "niagara falls": [
+        "1864"
+    ],
+    "holcombe": [
+        "1864"
+    ],
+    "george h. pendleton": [
+        "1864"
+    ],
+    "henry winter davis": [
+        "1864"
+    ],
+    "george n. saunders": [
+        "1864"
+    ],
+    "wendell": [
+        "1864"
+    ],
+    "andrew johnson": [
+        "1864",
+        "1859"
+    ],
+    "frederick douglass": [
+        "1864"
+    ],
+    "cochrane": [
+        "1864"
+    ],
+    "bixby": [
+        "1864"
+    ],
+    "jewett": [
+        "1864"
+    ],
+    "jacob thompson": [
+        "1864"
+    ],
+    "lellyett": [
+        "1864"
+    ],
+    "william dennison": [
+        "1864"
+    ],
+    "john covode": [
+        "1864"
+    ],
+    "junius brutus booth": [
+        "1859"
+    ],
+    "charles county": [
+        "1859"
+    ],
+    "mary e. surratt": [
+        "1859"
+    ],
+    "harrill": [
+        "1859"
+    ],
+    "william garratt": [
+        "1859"
+    ],
+    "mcilvaine": [
+        "1859"
+    ],
+    "bishop simpson": [
+        "1859"
+    ],
+    "rathbone": [
+        "1859"
+    ],
+    "joseph hooker": [
+        "1859"
+    ],
+    "co\ufb00roth": [
+        "1859"
+    ],
+    "samuel arnold": [
+        "1859"
+    ],
+    "edward spangler": [
+        "1859"
+    ],
+    "lewis payne powell": [
+        "1859"
+    ],
+    "david e. harold": [
+        "1859"
+    ],
+    "john wilkes booth": [
+        "1859"
+    ],
+    "samuel mudd": [
+        "1859"
+    ],
+    "david c. harold": [
+        "1859"
+    ],
+    "goldwin smith": [
+        "1859"
+    ],
+    "john bigelow": [
+        "1859"
+    ],
+    "george a. atzerodt": [
+        "1859"
+    ],
+    "meigs": [
+        "1859"
+    ]
+}

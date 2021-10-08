@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Resources -->
+    <script src="http://www.amcharts.com/lib/3/amcharts.js" type="text/javascript"></script>
+    <script src="http://www.amcharts.com/lib/3/serial.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <div id="chartdiv1" style="width: 60%; height: 400px; float: left;"></div>
+    <div id="chartdiv2" style="width: 60%; height: 400px; float: left;"></div>
+    <script>
+        AmCharts.ready(function () {
+
+            // LINE CHART
+            var chart1 = new AmCharts.AmSerialChart();
+            chart1.pathToImages = "http://www.amcharts.com/lib/images";
+
+            chart1.dataProvider = {{ chart_data | safe }};
+            chart1.marginRight = 0;
+            chart1.categoryField = "date";
+
+            var categoryAxis = chart1.categoryAxis;
+            // categoryAxis.parseDates = true;
+            categoryAxis.dashLength = 5;
+            categoryAxis.equalSpacing = true;
+            categoryAxis.startOnAxis = false;
+            categoryAxis.axisAlpha = 0;
+            categoryAxis.autoGridCount = false;
+            categoryAxis.gridCount = 8;
+            categoryAxis.showFirstLabel = true;
+
+            var valueAxis1 = new AmCharts.ValueAxis();
+            valueAxis1.axisAlpha = 0;
+            valueAxis1.dashLength = 5;
+            valueAxis1.inside = true;
+            chart1.addValueAxis(valueAxis1);
+
+
+            var graph1 = new AmCharts.AmGraph();
+            graph1.bullet = "round";
+            graph1.bulletSize = 10;
+            graph1.valueField = "nodes";
+            chart1.addGraph(graph1);
+
+            var graph2 = new AmCharts.AmGraph();
+            graph2.type = "column";
+            graph2.valueField = "edges";
+            graph2.fillAlphas = 0.5;
+            chart1.addGraph(graph2);
+
+            var chartCursor = new AmCharts.ChartCursor();
+            chartCursor.zoomable = false;
+            chart1.addChartCursor(chartCursor);
+
+            chart1.write("chartdiv1");
+        });
+    </script>
+
+<script>
+    AmCharts.ready(function () {
+
+        // LINE CHART
+        var chart1 = new AmCharts.AmSerialChart();
+        chart1.pathToImages = "http://www.amcharts.com/lib/images";
+
+        chart1.dataProvider = {{ chart_data | safe }};
+        chart1.marginRight = 0;
+        chart1.categoryField = "date";
+
+        var categoryAxis = chart1.categoryAxis;
+        // categoryAxis.parseDates = true;
+        categoryAxis.dashLength = 5;
+        categoryAxis.equalSpacing = true;
+        categoryAxis.startOnAxis = false;
+        categoryAxis.axisAlpha = 0;
+        categoryAxis.autoGridCount = false;
+        categoryAxis.gridCount = 8;
+        categoryAxis.showFirstLabel = true;
+
+        var valueAxis1 = new AmCharts.ValueAxis();
+        valueAxis1.axisAlpha = 0;
+        valueAxis1.dashLength = 5;
+        valueAxis1.inside = true;
+        chart1.addValueAxis(valueAxis1);
+
+
+        var graph2 = new AmCharts.AmGraph();
+        graph2.type = "column";
+        graph2.valueField = "jaccard_score";
+        graph2.fillAlphas = 0.5;
+        chart1.addGraph(graph2);
+
+        var chartCursor = new AmCharts.ChartCursor();
+        chartCursor.zoomable = false;
+        chart1.addChartCursor(chartCursor);
+
+        chart1.write("chartdiv2");
+    });
+</script>
+
+</body>
+
+
+
+</html>
