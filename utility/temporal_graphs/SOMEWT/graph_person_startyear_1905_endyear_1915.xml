@@ -1,0 +1,3778 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Babu Bhupendranath Basu"/>
+<node id="Crewe"/>
+<node id="Abbas"/>
+<node id="Acharya Ramadevji"/>
+<node id="Jayakar"/>
+<node id="Punjabhai"/>
+<node id="Kaul"/>
+<node id="Keshavrao Deshpande"/>
+<node id="Maulana Abdul Bari Saheb"/>
+<node id="Pearson"/>
+<node id="Motilalji"/>
+<node id="Hakim Saheb"/>
+<node id="Mahadev Desai"/>
+<node id="Shrimatis Avantikabai"/>
+<node id="Jivraj Mehta"/>
+<node id="Malaviyaji"/>
+<node id="Pragji"/>
+<node id="Michael O'Dwyer"/>
+<node id="Gaya Babu"/>
+<node id="Bepin"/>
+<node id="Umar Sobani"/>
+<node id="Edward Gait"/>
+<node id="Kuhne"/>
+<node id="Sorabji Adajania"/>
+<node id="Shambhaubabu"/>
+<node id="Shrimati Vasumatibehn"/>
+<node id="Jeramdas"/>
+<node id="Gangabehn Majmundar"/>
+<node id="Ranade"/>
+<node id="Babasaheb Soman"/>
+<node id="Kelkar"/>
+<node id="Maulana Mazharul Haq"/>
+<node id="Kripalani"/>
+<node id="Phadke"/>
+<node id="Valji"/>
+<node id="Shankarlal Parikh"/>
+<node id="Chhotalal"/>
+<node id="Hasrat Saheb"/>
+<node id="Devdas"/>
+<node id="Danibehn"/>
+<node id="Sushil Rudra"/>
+<node id="Janakdharibabu"/>
+<node id="Maganlal"/>
+<node id="Amritlal Thakkar"/>
+<node id="Jagadanandbabu"/>
+<node id="Ambalal Sarabhai"/>
+<node id="Mohanlal"/>
+<node id="Yashvantprasad Desai"/>
+<node id="Dada Abdulla"/>
+<node id="Ramnavmi Prasad"/>
+<node id="Lala Harkishanlal"/>
+<node id="Kakasaheb"/>
+<node id="Gorakhbabu"/>
+<node id="Gangadharrao"/>
+<node id="Allinson"/>
+<node id="Ramibai Kamdar"/>
+<node id="Choithram"/>
+<node id="Kitchlu"/>
+<node id="Mahatma Munshiramji"/>
+<node id="Gokhale"/>
+<node id="Babu Brajkishore Prasad"/>
+<node id="Sharadbabu"/>
+<node id="Chintaman"/>
+<node id="Manilal"/>
+<node id="Chhaganlal Gandhi"/>
+<node id="Kalelkar"/>
+<node id="Shivji"/>
+<node id="Sinha"/>
+<node id="Patwardhan"/>
+<node id="Babu Dharanidhar Prasad"/>
+<node id="Chelmsford"/>
+<node id="Kasturbai"/>
+<node id="Jehangir Petit"/>
+<node id="Jivanlal"/>
+<node id="Shrimati Anandibai"/>
+<node id="Hakim Ajmal Khan Saheb"/>
+<node id="Nishkulanand"/>
+<node id="Rajkumar Shukla"/>
+<node id="Malkani"/>
+<node id="Polak"/>
+<node id="Vaidyanathadham"/>
+<node id="Lakshmidas"/>
+<node id="Brajkishorebabu"/>
+<node id="Harihar Sharma"/>
+<node id="Thakkar Bapa"/>
+<node id="Deshabandhu"/>
+<node id="Rajendra Babu"/>
+<node id="Shrimati Durga Desai"/>
+<node id="Brajkishore Babu"/>
+<node id="Ramdas"/>
+<node id="Satyapal"/>
+<node id="Nagenbabu"/>
+<node id="Hermann Kallenbach"/>
+<edge source="Babu Bhupendranath Basu" target="Kasturbai"/>
+<edge source="Babu Bhupendranath Basu" target="Malaviyaji"/>
+<edge source="Babu Bhupendranath Basu" target="Jehangir Petit"/>
+<edge source="Babu Bhupendranath Basu" target="Yashvantprasad Desai"/>
+<edge source="Babu Bhupendranath Basu" target="Michael O'Dwyer"/>
+<edge source="Babu Bhupendranath Basu" target="Gaya Babu"/>
+<edge source="Babu Bhupendranath Basu" target="Bepin"/>
+<edge source="Babu Bhupendranath Basu" target="Abbas"/>
+<edge source="Babu Bhupendranath Basu" target="Ramnavmi Prasad"/>
+<edge source="Babu Bhupendranath Basu" target="Edward Gait"/>
+<edge source="Babu Bhupendranath Basu" target="Lala Harkishanlal"/>
+<edge source="Babu Bhupendranath Basu" target="Jivanlal"/>
+<edge source="Babu Bhupendranath Basu" target="Kuhne"/>
+<edge source="Babu Bhupendranath Basu" target="Shrimati Anandibai"/>
+<edge source="Babu Bhupendranath Basu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Babu Bhupendranath Basu" target="Shrimati Vasumatibehn"/>
+<edge source="Babu Bhupendranath Basu" target="Chintaman"/>
+<edge source="Babu Bhupendranath Basu" target="Patwardhan"/>
+<edge source="Babu Bhupendranath Basu" target="Shambhaubabu"/>
+<edge source="Babu Bhupendranath Basu" target="Nagenbabu"/>
+<edge source="Babu Bhupendranath Basu" target="Acharya Ramadevji"/>
+<edge source="Babu Bhupendranath Basu" target="Kakasaheb"/>
+<edge source="Babu Bhupendranath Basu" target="Gorakhbabu"/>
+<edge source="Babu Bhupendranath Basu" target="Manilal"/>
+<edge source="Babu Bhupendranath Basu" target="Jeramdas"/>
+<edge source="Babu Bhupendranath Basu" target="Gangabehn Majmundar"/>
+<edge source="Babu Bhupendranath Basu" target="Punjabhai"/>
+<edge source="Babu Bhupendranath Basu" target="Babasaheb Soman"/>
+<edge source="Babu Bhupendranath Basu" target="Gangadharrao"/>
+<edge source="Babu Bhupendranath Basu" target="Dada Abdulla"/>
+<edge source="Babu Bhupendranath Basu" target="Kaul"/>
+<edge source="Babu Bhupendranath Basu" target="Polak"/>
+<edge source="Babu Bhupendranath Basu" target="Ramibai Kamdar"/>
+<edge source="Babu Bhupendranath Basu" target="Maulana Mazharul Haq"/>
+<edge source="Babu Bhupendranath Basu" target="Kripalani"/>
+<edge source="Babu Bhupendranath Basu" target="Crewe"/>
+<edge source="Babu Bhupendranath Basu" target="Phadke"/>
+<edge source="Babu Bhupendranath Basu" target="Choithram"/>
+<edge source="Babu Bhupendranath Basu" target="Kitchlu"/>
+<edge source="Babu Bhupendranath Basu" target="Babu Brajkishore Prasad"/>
+<edge source="Babu Bhupendranath Basu" target="Shankarlal Parikh"/>
+<edge source="Babu Bhupendranath Basu" target="Lakshmidas"/>
+<edge source="Babu Bhupendranath Basu" target="Hasrat Saheb"/>
+<edge source="Babu Bhupendranath Basu" target="Motilalji"/>
+<edge source="Babu Bhupendranath Basu" target="Hakim Saheb"/>
+<edge source="Babu Bhupendranath Basu" target="Devdas"/>
+<edge source="Babu Bhupendranath Basu" target="Mahatma Munshiramji"/>
+<edge source="Babu Bhupendranath Basu" target="Sushil Rudra"/>
+<edge source="Babu Bhupendranath Basu" target="Pearson"/>
+<edge source="Babu Bhupendranath Basu" target="Kalelkar"/>
+<edge source="Babu Bhupendranath Basu" target="Mohanlal"/>
+<edge source="Babu Bhupendranath Basu" target="Janakdharibabu"/>
+<edge source="Babu Bhupendranath Basu" target="Shrimatis Avantikabai"/>
+<edge source="Babu Bhupendranath Basu" target="Brajkishorebabu"/>
+<edge source="Babu Bhupendranath Basu" target="Thakkar Bapa"/>
+<edge source="Babu Bhupendranath Basu" target="Sharadbabu"/>
+<edge source="Babu Bhupendranath Basu" target="Jayakar"/>
+<edge source="Babu Bhupendranath Basu" target="Danibehn"/>
+<edge source="Babu Bhupendranath Basu" target="Amritlal Thakkar"/>
+<edge source="Babu Bhupendranath Basu" target="Jagadanandbabu"/>
+<edge source="Babu Bhupendranath Basu" target="Rajendra Babu"/>
+<edge source="Babu Bhupendranath Basu" target="Deshabandhu"/>
+<edge source="Babu Bhupendranath Basu" target="Chhaganlal Gandhi"/>
+<edge source="Babu Bhupendranath Basu" target="Shrimati Durga Desai"/>
+<edge source="Babu Bhupendranath Basu" target="Ambalal Sarabhai"/>
+<edge source="Babu Bhupendranath Basu" target="Brajkishore Babu"/>
+<edge source="Babu Bhupendranath Basu" target="Malkani"/>
+<edge source="Babu Bhupendranath Basu" target="Babu Dharanidhar Prasad"/>
+<edge source="Babu Bhupendranath Basu" target="Shivji"/>
+<edge source="Babu Bhupendranath Basu" target="Ramdas"/>
+<edge source="Babu Bhupendranath Basu" target="Rajkumar Shukla"/>
+<edge source="Babu Bhupendranath Basu" target="Mahadev Desai"/>
+<edge source="Babu Bhupendranath Basu" target="Gokhale"/>
+<edge source="Babu Bhupendranath Basu" target="Chhotalal"/>
+<edge source="Babu Bhupendranath Basu" target="Sorabji Adajania"/>
+<edge source="Babu Bhupendranath Basu" target="Satyapal"/>
+<edge source="Babu Bhupendranath Basu" target="Sinha"/>
+<edge source="Babu Bhupendranath Basu" target="Kelkar"/>
+<edge source="Babu Bhupendranath Basu" target="Maulana Abdul Bari Saheb"/>
+<edge source="Babu Bhupendranath Basu" target="Jivraj Mehta"/>
+<edge source="Babu Bhupendranath Basu" target="Umar Sobani"/>
+<edge source="Babu Bhupendranath Basu" target="Chelmsford"/>
+<edge source="Babu Bhupendranath Basu" target="Keshavrao Deshpande"/>
+<edge source="Babu Bhupendranath Basu" target="Vaidyanathadham"/>
+<edge source="Babu Bhupendranath Basu" target="Harihar Sharma"/>
+<edge source="Crewe" target="Kasturbai"/>
+<edge source="Crewe" target="Malaviyaji"/>
+<edge source="Crewe" target="Jehangir Petit"/>
+<edge source="Crewe" target="Yashvantprasad Desai"/>
+<edge source="Crewe" target="Michael O'Dwyer"/>
+<edge source="Crewe" target="Gaya Babu"/>
+<edge source="Crewe" target="Dada Abdulla"/>
+<edge source="Crewe" target="Abbas"/>
+<edge source="Crewe" target="Ramnavmi Prasad"/>
+<edge source="Crewe" target="Chelmsford"/>
+<edge source="Crewe" target="Edward Gait"/>
+<edge source="Crewe" target="Lala Harkishanlal"/>
+<edge source="Crewe" target="Jivanlal"/>
+<edge source="Crewe" target="Kuhne"/>
+<edge source="Crewe" target="Shrimati Anandibai"/>
+<edge source="Crewe" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Crewe" target="Acharya Ramadevji"/>
+<edge source="Crewe" target="Chintaman"/>
+<edge source="Crewe" target="Patwardhan"/>
+<edge source="Crewe" target="Shambhaubabu"/>
+<edge source="Crewe" target="Nagenbabu"/>
+<edge source="Crewe" target="Shrimati Vasumatibehn"/>
+<edge source="Crewe" target="Kakasaheb"/>
+<edge source="Crewe" target="Gorakhbabu"/>
+<edge source="Crewe" target="Jeramdas"/>
+<edge source="Crewe" target="Gangabehn Majmundar"/>
+<edge source="Crewe" target="Punjabhai"/>
+<edge source="Crewe" target="Babasaheb Soman"/>
+<edge source="Crewe" target="Gangadharrao"/>
+<edge source="Crewe" target="Kaul"/>
+<edge source="Crewe" target="Polak"/>
+<edge source="Crewe" target="Ramibai Kamdar"/>
+<edge source="Crewe" target="Pearson"/>
+<edge source="Crewe" target="Maulana Mazharul Haq"/>
+<edge source="Crewe" target="Kripalani"/>
+<edge source="Crewe" target="Mahatma Munshiramji"/>
+<edge source="Crewe" target="Phadke"/>
+<edge source="Crewe" target="Choithram"/>
+<edge source="Crewe" target="Kitchlu"/>
+<edge source="Crewe" target="Babu Brajkishore Prasad"/>
+<edge source="Crewe" target="Shankarlal Parikh"/>
+<edge source="Crewe" target="Lakshmidas"/>
+<edge source="Crewe" target="Hasrat Saheb"/>
+<edge source="Crewe" target="Motilalji"/>
+<edge source="Crewe" target="Hakim Saheb"/>
+<edge source="Crewe" target="Devdas"/>
+<edge source="Crewe" target="Bepin"/>
+<edge source="Crewe" target="Sushil Rudra"/>
+<edge source="Crewe" target="Gokhale"/>
+<edge source="Crewe" target="Ambalal Sarabhai"/>
+<edge source="Crewe" target="Mohanlal"/>
+<edge source="Crewe" target="Janakdharibabu"/>
+<edge source="Crewe" target="Shrimatis Avantikabai"/>
+<edge source="Crewe" target="Brajkishorebabu"/>
+<edge source="Crewe" target="Thakkar Bapa"/>
+<edge source="Crewe" target="Sharadbabu"/>
+<edge source="Crewe" target="Jayakar"/>
+<edge source="Crewe" target="Manilal"/>
+<edge source="Crewe" target="Amritlal Thakkar"/>
+<edge source="Crewe" target="Jagadanandbabu"/>
+<edge source="Crewe" target="Rajendra Babu"/>
+<edge source="Crewe" target="Deshabandhu"/>
+<edge source="Crewe" target="Chhaganlal Gandhi"/>
+<edge source="Crewe" target="Shrimati Durga Desai"/>
+<edge source="Crewe" target="Sorabji Adajania"/>
+<edge source="Crewe" target="Brajkishore Babu"/>
+<edge source="Crewe" target="Malkani"/>
+<edge source="Crewe" target="Babu Dharanidhar Prasad"/>
+<edge source="Crewe" target="Jivraj Mehta"/>
+<edge source="Crewe" target="Ramdas"/>
+<edge source="Crewe" target="Rajkumar Shukla"/>
+<edge source="Crewe" target="Mahadev Desai"/>
+<edge source="Crewe" target="Chhotalal"/>
+<edge source="Crewe" target="Satyapal"/>
+<edge source="Crewe" target="Sinha"/>
+<edge source="Crewe" target="Kelkar"/>
+<edge source="Crewe" target="Maulana Abdul Bari Saheb"/>
+<edge source="Crewe" target="Shivji"/>
+<edge source="Crewe" target="Danibehn"/>
+<edge source="Crewe" target="Umar Sobani"/>
+<edge source="Crewe" target="Kalelkar"/>
+<edge source="Crewe" target="Keshavrao Deshpande"/>
+<edge source="Crewe" target="Vaidyanathadham"/>
+<edge source="Crewe" target="Harihar Sharma"/>
+<edge source="Abbas" target="Kasturbai"/>
+<edge source="Abbas" target="Malaviyaji"/>
+<edge source="Abbas" target="Jehangir Petit"/>
+<edge source="Abbas" target="Yashvantprasad Desai"/>
+<edge source="Abbas" target="Michael O'Dwyer"/>
+<edge source="Abbas" target="Gaya Babu"/>
+<edge source="Abbas" target="Bepin"/>
+<edge source="Abbas" target="Umar Sobani"/>
+<edge source="Abbas" target="Ramnavmi Prasad"/>
+<edge source="Abbas" target="Edward Gait"/>
+<edge source="Abbas" target="Lala Harkishanlal"/>
+<edge source="Abbas" target="Jivanlal"/>
+<edge source="Abbas" target="Kuhne"/>
+<edge source="Abbas" target="Shrimati Anandibai"/>
+<edge source="Abbas" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Abbas" target="Shrimati Vasumatibehn"/>
+<edge source="Abbas" target="Chintaman"/>
+<edge source="Abbas" target="Patwardhan"/>
+<edge source="Abbas" target="Shambhaubabu"/>
+<edge source="Abbas" target="Nagenbabu"/>
+<edge source="Abbas" target="Acharya Ramadevji"/>
+<edge source="Abbas" target="Kakasaheb"/>
+<edge source="Abbas" target="Gorakhbabu"/>
+<edge source="Abbas" target="Manilal"/>
+<edge source="Abbas" target="Jeramdas"/>
+<edge source="Abbas" target="Gangabehn Majmundar"/>
+<edge source="Abbas" target="Punjabhai"/>
+<edge source="Abbas" target="Babasaheb Soman"/>
+<edge source="Abbas" target="Gangadharrao"/>
+<edge source="Abbas" target="Dada Abdulla"/>
+<edge source="Abbas" target="Kaul"/>
+<edge source="Abbas" target="Polak"/>
+<edge source="Abbas" target="Ramibai Kamdar"/>
+<edge source="Abbas" target="Maulana Mazharul Haq"/>
+<edge source="Abbas" target="Kripalani"/>
+<edge source="Abbas" target="Phadke"/>
+<edge source="Abbas" target="Choithram"/>
+<edge source="Abbas" target="Kitchlu"/>
+<edge source="Abbas" target="Babu Brajkishore Prasad"/>
+<edge source="Abbas" target="Shankarlal Parikh"/>
+<edge source="Abbas" target="Lakshmidas"/>
+<edge source="Abbas" target="Hasrat Saheb"/>
+<edge source="Abbas" target="Motilalji"/>
+<edge source="Abbas" target="Hakim Saheb"/>
+<edge source="Abbas" target="Devdas"/>
+<edge source="Abbas" target="Mahatma Munshiramji"/>
+<edge source="Abbas" target="Sushil Rudra"/>
+<edge source="Abbas" target="Pearson"/>
+<edge source="Abbas" target="Kalelkar"/>
+<edge source="Abbas" target="Mohanlal"/>
+<edge source="Abbas" target="Janakdharibabu"/>
+<edge source="Abbas" target="Shrimatis Avantikabai"/>
+<edge source="Abbas" target="Brajkishorebabu"/>
+<edge source="Abbas" target="Thakkar Bapa"/>
+<edge source="Abbas" target="Sharadbabu"/>
+<edge source="Abbas" target="Jayakar"/>
+<edge source="Abbas" target="Danibehn"/>
+<edge source="Abbas" target="Amritlal Thakkar"/>
+<edge source="Abbas" target="Jagadanandbabu"/>
+<edge source="Abbas" target="Rajendra Babu"/>
+<edge source="Abbas" target="Deshabandhu"/>
+<edge source="Abbas" target="Chhaganlal Gandhi"/>
+<edge source="Abbas" target="Shrimati Durga Desai"/>
+<edge source="Abbas" target="Ambalal Sarabhai"/>
+<edge source="Abbas" target="Brajkishore Babu"/>
+<edge source="Abbas" target="Malkani"/>
+<edge source="Abbas" target="Babu Dharanidhar Prasad"/>
+<edge source="Abbas" target="Shivji"/>
+<edge source="Abbas" target="Ramdas"/>
+<edge source="Abbas" target="Rajkumar Shukla"/>
+<edge source="Abbas" target="Mahadev Desai"/>
+<edge source="Abbas" target="Gokhale"/>
+<edge source="Abbas" target="Chhotalal"/>
+<edge source="Abbas" target="Sorabji Adajania"/>
+<edge source="Abbas" target="Satyapal"/>
+<edge source="Abbas" target="Sinha"/>
+<edge source="Abbas" target="Kelkar"/>
+<edge source="Abbas" target="Maulana Abdul Bari Saheb"/>
+<edge source="Abbas" target="Jivraj Mehta"/>
+<edge source="Abbas" target="Chelmsford"/>
+<edge source="Abbas" target="Keshavrao Deshpande"/>
+<edge source="Abbas" target="Vaidyanathadham"/>
+<edge source="Abbas" target="Harihar Sharma"/>
+<edge source="Acharya Ramadevji" target="Kasturbai"/>
+<edge source="Acharya Ramadevji" target="Malaviyaji"/>
+<edge source="Acharya Ramadevji" target="Jehangir Petit"/>
+<edge source="Acharya Ramadevji" target="Yashvantprasad Desai"/>
+<edge source="Acharya Ramadevji" target="Michael O'Dwyer"/>
+<edge source="Acharya Ramadevji" target="Gaya Babu"/>
+<edge source="Acharya Ramadevji" target="Bepin"/>
+<edge source="Acharya Ramadevji" target="Ramnavmi Prasad"/>
+<edge source="Acharya Ramadevji" target="Edward Gait"/>
+<edge source="Acharya Ramadevji" target="Lala Harkishanlal"/>
+<edge source="Acharya Ramadevji" target="Jivanlal"/>
+<edge source="Acharya Ramadevji" target="Kuhne"/>
+<edge source="Acharya Ramadevji" target="Shrimati Anandibai"/>
+<edge source="Acharya Ramadevji" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Acharya Ramadevji" target="Shrimati Vasumatibehn"/>
+<edge source="Acharya Ramadevji" target="Chintaman"/>
+<edge source="Acharya Ramadevji" target="Patwardhan"/>
+<edge source="Acharya Ramadevji" target="Shambhaubabu"/>
+<edge source="Acharya Ramadevji" target="Nagenbabu"/>
+<edge source="Acharya Ramadevji" target="Brajkishorebabu"/>
+<edge source="Acharya Ramadevji" target="Kakasaheb"/>
+<edge source="Acharya Ramadevji" target="Gorakhbabu"/>
+<edge source="Acharya Ramadevji" target="Manilal"/>
+<edge source="Acharya Ramadevji" target="Jeramdas"/>
+<edge source="Acharya Ramadevji" target="Gangabehn Majmundar"/>
+<edge source="Acharya Ramadevji" target="Punjabhai"/>
+<edge source="Acharya Ramadevji" target="Babasaheb Soman"/>
+<edge source="Acharya Ramadevji" target="Gangadharrao"/>
+<edge source="Acharya Ramadevji" target="Dada Abdulla"/>
+<edge source="Acharya Ramadevji" target="Kaul"/>
+<edge source="Acharya Ramadevji" target="Polak"/>
+<edge source="Acharya Ramadevji" target="Ramibai Kamdar"/>
+<edge source="Acharya Ramadevji" target="Maulana Mazharul Haq"/>
+<edge source="Acharya Ramadevji" target="Kripalani"/>
+<edge source="Acharya Ramadevji" target="Phadke"/>
+<edge source="Acharya Ramadevji" target="Choithram"/>
+<edge source="Acharya Ramadevji" target="Kitchlu"/>
+<edge source="Acharya Ramadevji" target="Babu Brajkishore Prasad"/>
+<edge source="Acharya Ramadevji" target="Shankarlal Parikh"/>
+<edge source="Acharya Ramadevji" target="Lakshmidas"/>
+<edge source="Acharya Ramadevji" target="Hasrat Saheb"/>
+<edge source="Acharya Ramadevji" target="Motilalji"/>
+<edge source="Acharya Ramadevji" target="Hakim Saheb"/>
+<edge source="Acharya Ramadevji" target="Devdas"/>
+<edge source="Acharya Ramadevji" target="Mahatma Munshiramji"/>
+<edge source="Acharya Ramadevji" target="Sushil Rudra"/>
+<edge source="Acharya Ramadevji" target="Pearson"/>
+<edge source="Acharya Ramadevji" target="Kalelkar"/>
+<edge source="Acharya Ramadevji" target="Mohanlal"/>
+<edge source="Acharya Ramadevji" target="Janakdharibabu"/>
+<edge source="Acharya Ramadevji" target="Shrimatis Avantikabai"/>
+<edge source="Acharya Ramadevji" target="Keshavrao Deshpande"/>
+<edge source="Acharya Ramadevji" target="Thakkar Bapa"/>
+<edge source="Acharya Ramadevji" target="Sharadbabu"/>
+<edge source="Acharya Ramadevji" target="Jayakar"/>
+<edge source="Acharya Ramadevji" target="Danibehn"/>
+<edge source="Acharya Ramadevji" target="Amritlal Thakkar"/>
+<edge source="Acharya Ramadevji" target="Jagadanandbabu"/>
+<edge source="Acharya Ramadevji" target="Rajendra Babu"/>
+<edge source="Acharya Ramadevji" target="Deshabandhu"/>
+<edge source="Acharya Ramadevji" target="Chhaganlal Gandhi"/>
+<edge source="Acharya Ramadevji" target="Shrimati Durga Desai"/>
+<edge source="Acharya Ramadevji" target="Ambalal Sarabhai"/>
+<edge source="Acharya Ramadevji" target="Brajkishore Babu"/>
+<edge source="Acharya Ramadevji" target="Malkani"/>
+<edge source="Acharya Ramadevji" target="Babu Dharanidhar Prasad"/>
+<edge source="Acharya Ramadevji" target="Shivji"/>
+<edge source="Acharya Ramadevji" target="Ramdas"/>
+<edge source="Acharya Ramadevji" target="Rajkumar Shukla"/>
+<edge source="Acharya Ramadevji" target="Mahadev Desai"/>
+<edge source="Acharya Ramadevji" target="Gokhale"/>
+<edge source="Acharya Ramadevji" target="Chhotalal"/>
+<edge source="Acharya Ramadevji" target="Sorabji Adajania"/>
+<edge source="Acharya Ramadevji" target="Satyapal"/>
+<edge source="Acharya Ramadevji" target="Sinha"/>
+<edge source="Acharya Ramadevji" target="Kelkar"/>
+<edge source="Acharya Ramadevji" target="Maulana Abdul Bari Saheb"/>
+<edge source="Acharya Ramadevji" target="Jivraj Mehta"/>
+<edge source="Acharya Ramadevji" target="Umar Sobani"/>
+<edge source="Acharya Ramadevji" target="Chelmsford"/>
+<edge source="Acharya Ramadevji" target="Vaidyanathadham"/>
+<edge source="Acharya Ramadevji" target="Harihar Sharma"/>
+<edge source="Jayakar" target="Kasturbai"/>
+<edge source="Jayakar" target="Malaviyaji"/>
+<edge source="Jayakar" target="Jehangir Petit"/>
+<edge source="Jayakar" target="Yashvantprasad Desai"/>
+<edge source="Jayakar" target="Michael O'Dwyer"/>
+<edge source="Jayakar" target="Gaya Babu"/>
+<edge source="Jayakar" target="Bepin"/>
+<edge source="Jayakar" target="Ramnavmi Prasad"/>
+<edge source="Jayakar" target="Edward Gait"/>
+<edge source="Jayakar" target="Lala Harkishanlal"/>
+<edge source="Jayakar" target="Jivanlal"/>
+<edge source="Jayakar" target="Kuhne"/>
+<edge source="Jayakar" target="Shrimati Anandibai"/>
+<edge source="Jayakar" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Jayakar" target="Shrimati Vasumatibehn"/>
+<edge source="Jayakar" target="Deshabandhu"/>
+<edge source="Jayakar" target="Patwardhan"/>
+<edge source="Jayakar" target="Shambhaubabu"/>
+<edge source="Jayakar" target="Nagenbabu"/>
+<edge source="Jayakar" target="Kakasaheb"/>
+<edge source="Jayakar" target="Gorakhbabu"/>
+<edge source="Jayakar" target="Manilal"/>
+<edge source="Jayakar" target="Jeramdas"/>
+<edge source="Jayakar" target="Gangabehn Majmundar"/>
+<edge source="Jayakar" target="Punjabhai"/>
+<edge source="Jayakar" target="Babasaheb Soman"/>
+<edge source="Jayakar" target="Gangadharrao"/>
+<edge source="Jayakar" target="Dada Abdulla"/>
+<edge source="Jayakar" target="Kaul"/>
+<edge source="Jayakar" target="Polak"/>
+<edge source="Jayakar" target="Ramibai Kamdar"/>
+<edge source="Jayakar" target="Maulana Mazharul Haq"/>
+<edge source="Jayakar" target="Kripalani"/>
+<edge source="Jayakar" target="Phadke"/>
+<edge source="Jayakar" target="Choithram"/>
+<edge source="Jayakar" target="Kitchlu"/>
+<edge source="Jayakar" target="Babu Brajkishore Prasad"/>
+<edge source="Jayakar" target="Shankarlal Parikh"/>
+<edge source="Jayakar" target="Lakshmidas"/>
+<edge source="Jayakar" target="Hasrat Saheb"/>
+<edge source="Jayakar" target="Motilalji"/>
+<edge source="Jayakar" target="Hakim Saheb"/>
+<edge source="Jayakar" target="Devdas"/>
+<edge source="Jayakar" target="Mahatma Munshiramji"/>
+<edge source="Jayakar" target="Sushil Rudra"/>
+<edge source="Jayakar" target="Pearson"/>
+<edge source="Jayakar" target="Kalelkar"/>
+<edge source="Jayakar" target="Mohanlal"/>
+<edge source="Jayakar" target="Janakdharibabu"/>
+<edge source="Jayakar" target="Shrimatis Avantikabai"/>
+<edge source="Jayakar" target="Brajkishorebabu"/>
+<edge source="Jayakar" target="Thakkar Bapa"/>
+<edge source="Jayakar" target="Sharadbabu"/>
+<edge source="Jayakar" target="Chintaman"/>
+<edge source="Jayakar" target="Danibehn"/>
+<edge source="Jayakar" target="Amritlal Thakkar"/>
+<edge source="Jayakar" target="Jagadanandbabu"/>
+<edge source="Jayakar" target="Rajendra Babu"/>
+<edge source="Jayakar" target="Chhaganlal Gandhi"/>
+<edge source="Jayakar" target="Shrimati Durga Desai"/>
+<edge source="Jayakar" target="Ambalal Sarabhai"/>
+<edge source="Jayakar" target="Brajkishore Babu"/>
+<edge source="Jayakar" target="Malkani"/>
+<edge source="Jayakar" target="Babu Dharanidhar Prasad"/>
+<edge source="Jayakar" target="Shivji"/>
+<edge source="Jayakar" target="Ramdas"/>
+<edge source="Jayakar" target="Rajkumar Shukla"/>
+<edge source="Jayakar" target="Mahadev Desai"/>
+<edge source="Jayakar" target="Gokhale"/>
+<edge source="Jayakar" target="Chhotalal"/>
+<edge source="Jayakar" target="Sorabji Adajania"/>
+<edge source="Jayakar" target="Satyapal"/>
+<edge source="Jayakar" target="Sinha"/>
+<edge source="Jayakar" target="Kelkar"/>
+<edge source="Jayakar" target="Maulana Abdul Bari Saheb"/>
+<edge source="Jayakar" target="Jivraj Mehta"/>
+<edge source="Jayakar" target="Umar Sobani"/>
+<edge source="Jayakar" target="Chelmsford"/>
+<edge source="Jayakar" target="Keshavrao Deshpande"/>
+<edge source="Jayakar" target="Vaidyanathadham"/>
+<edge source="Jayakar" target="Harihar Sharma"/>
+<edge source="Punjabhai" target="Kasturbai"/>
+<edge source="Punjabhai" target="Malaviyaji"/>
+<edge source="Punjabhai" target="Jehangir Petit"/>
+<edge source="Punjabhai" target="Yashvantprasad Desai"/>
+<edge source="Punjabhai" target="Michael O'Dwyer"/>
+<edge source="Punjabhai" target="Gaya Babu"/>
+<edge source="Punjabhai" target="Bepin"/>
+<edge source="Punjabhai" target="Ramnavmi Prasad"/>
+<edge source="Punjabhai" target="Edward Gait"/>
+<edge source="Punjabhai" target="Lala Harkishanlal"/>
+<edge source="Punjabhai" target="Jivanlal"/>
+<edge source="Punjabhai" target="Kuhne"/>
+<edge source="Punjabhai" target="Shrimati Anandibai"/>
+<edge source="Punjabhai" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Punjabhai" target="Shrimati Vasumatibehn"/>
+<edge source="Punjabhai" target="Chintaman"/>
+<edge source="Punjabhai" target="Patwardhan"/>
+<edge source="Punjabhai" target="Shambhaubabu"/>
+<edge source="Punjabhai" target="Nagenbabu"/>
+<edge source="Punjabhai" target="Kakasaheb"/>
+<edge source="Punjabhai" target="Gorakhbabu"/>
+<edge source="Punjabhai" target="Manilal"/>
+<edge source="Punjabhai" target="Jeramdas"/>
+<edge source="Punjabhai" target="Gangabehn Majmundar"/>
+<edge source="Punjabhai" target="Babasaheb Soman"/>
+<edge source="Punjabhai" target="Gangadharrao"/>
+<edge source="Punjabhai" target="Dada Abdulla"/>
+<edge source="Punjabhai" target="Kaul"/>
+<edge source="Punjabhai" target="Polak"/>
+<edge source="Punjabhai" target="Ramibai Kamdar"/>
+<edge source="Punjabhai" target="Maulana Mazharul Haq"/>
+<edge source="Punjabhai" target="Kripalani"/>
+<edge source="Punjabhai" target="Phadke"/>
+<edge source="Punjabhai" target="Choithram"/>
+<edge source="Punjabhai" target="Kitchlu"/>
+<edge source="Punjabhai" target="Babu Brajkishore Prasad"/>
+<edge source="Punjabhai" target="Shankarlal Parikh"/>
+<edge source="Punjabhai" target="Lakshmidas"/>
+<edge source="Punjabhai" target="Hasrat Saheb"/>
+<edge source="Punjabhai" target="Motilalji"/>
+<edge source="Punjabhai" target="Hakim Saheb"/>
+<edge source="Punjabhai" target="Devdas"/>
+<edge source="Punjabhai" target="Mahatma Munshiramji"/>
+<edge source="Punjabhai" target="Sushil Rudra"/>
+<edge source="Punjabhai" target="Pearson"/>
+<edge source="Punjabhai" target="Kalelkar"/>
+<edge source="Punjabhai" target="Mohanlal"/>
+<edge source="Punjabhai" target="Janakdharibabu"/>
+<edge source="Punjabhai" target="Shrimatis Avantikabai"/>
+<edge source="Punjabhai" target="Brajkishorebabu"/>
+<edge source="Punjabhai" target="Thakkar Bapa"/>
+<edge source="Punjabhai" target="Sharadbabu"/>
+<edge source="Punjabhai" target="Danibehn"/>
+<edge source="Punjabhai" target="Amritlal Thakkar"/>
+<edge source="Punjabhai" target="Jagadanandbabu"/>
+<edge source="Punjabhai" target="Rajendra Babu"/>
+<edge source="Punjabhai" target="Deshabandhu"/>
+<edge source="Punjabhai" target="Chhaganlal Gandhi"/>
+<edge source="Punjabhai" target="Shrimati Durga Desai"/>
+<edge source="Punjabhai" target="Ambalal Sarabhai"/>
+<edge source="Punjabhai" target="Brajkishore Babu"/>
+<edge source="Punjabhai" target="Malkani"/>
+<edge source="Punjabhai" target="Babu Dharanidhar Prasad"/>
+<edge source="Punjabhai" target="Shivji"/>
+<edge source="Punjabhai" target="Ramdas"/>
+<edge source="Punjabhai" target="Rajkumar Shukla"/>
+<edge source="Punjabhai" target="Mahadev Desai"/>
+<edge source="Punjabhai" target="Gokhale"/>
+<edge source="Punjabhai" target="Chhotalal"/>
+<edge source="Punjabhai" target="Sorabji Adajania"/>
+<edge source="Punjabhai" target="Satyapal"/>
+<edge source="Punjabhai" target="Sinha"/>
+<edge source="Punjabhai" target="Kelkar"/>
+<edge source="Punjabhai" target="Maulana Abdul Bari Saheb"/>
+<edge source="Punjabhai" target="Jivraj Mehta"/>
+<edge source="Punjabhai" target="Umar Sobani"/>
+<edge source="Punjabhai" target="Chelmsford"/>
+<edge source="Punjabhai" target="Keshavrao Deshpande"/>
+<edge source="Punjabhai" target="Vaidyanathadham"/>
+<edge source="Punjabhai" target="Harihar Sharma"/>
+<edge source="Kaul" target="Kasturbai"/>
+<edge source="Kaul" target="Malaviyaji"/>
+<edge source="Kaul" target="Jehangir Petit"/>
+<edge source="Kaul" target="Yashvantprasad Desai"/>
+<edge source="Kaul" target="Michael O'Dwyer"/>
+<edge source="Kaul" target="Gaya Babu"/>
+<edge source="Kaul" target="Bepin"/>
+<edge source="Kaul" target="Ramnavmi Prasad"/>
+<edge source="Kaul" target="Edward Gait"/>
+<edge source="Kaul" target="Lala Harkishanlal"/>
+<edge source="Kaul" target="Jivanlal"/>
+<edge source="Kaul" target="Kuhne"/>
+<edge source="Kaul" target="Shrimati Anandibai"/>
+<edge source="Kaul" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kaul" target="Shrimati Vasumatibehn"/>
+<edge source="Kaul" target="Chintaman"/>
+<edge source="Kaul" target="Patwardhan"/>
+<edge source="Kaul" target="Shambhaubabu"/>
+<edge source="Kaul" target="Nagenbabu"/>
+<edge source="Kaul" target="Kakasaheb"/>
+<edge source="Kaul" target="Gorakhbabu"/>
+<edge source="Kaul" target="Manilal"/>
+<edge source="Kaul" target="Jeramdas"/>
+<edge source="Kaul" target="Gangabehn Majmundar"/>
+<edge source="Kaul" target="Babasaheb Soman"/>
+<edge source="Kaul" target="Gangadharrao"/>
+<edge source="Kaul" target="Dada Abdulla"/>
+<edge source="Kaul" target="Polak"/>
+<edge source="Kaul" target="Ramibai Kamdar"/>
+<edge source="Kaul" target="Maulana Mazharul Haq"/>
+<edge source="Kaul" target="Kripalani"/>
+<edge source="Kaul" target="Phadke"/>
+<edge source="Kaul" target="Choithram"/>
+<edge source="Kaul" target="Kitchlu"/>
+<edge source="Kaul" target="Babu Brajkishore Prasad"/>
+<edge source="Kaul" target="Shankarlal Parikh"/>
+<edge source="Kaul" target="Lakshmidas"/>
+<edge source="Kaul" target="Hasrat Saheb"/>
+<edge source="Kaul" target="Motilalji"/>
+<edge source="Kaul" target="Hakim Saheb"/>
+<edge source="Kaul" target="Devdas"/>
+<edge source="Kaul" target="Mahatma Munshiramji"/>
+<edge source="Kaul" target="Sushil Rudra"/>
+<edge source="Kaul" target="Pearson"/>
+<edge source="Kaul" target="Kalelkar"/>
+<edge source="Kaul" target="Mohanlal"/>
+<edge source="Kaul" target="Janakdharibabu"/>
+<edge source="Kaul" target="Shrimatis Avantikabai"/>
+<edge source="Kaul" target="Brajkishorebabu"/>
+<edge source="Kaul" target="Thakkar Bapa"/>
+<edge source="Kaul" target="Sharadbabu"/>
+<edge source="Kaul" target="Danibehn"/>
+<edge source="Kaul" target="Amritlal Thakkar"/>
+<edge source="Kaul" target="Jagadanandbabu"/>
+<edge source="Kaul" target="Rajendra Babu"/>
+<edge source="Kaul" target="Deshabandhu"/>
+<edge source="Kaul" target="Chhaganlal Gandhi"/>
+<edge source="Kaul" target="Shrimati Durga Desai"/>
+<edge source="Kaul" target="Ambalal Sarabhai"/>
+<edge source="Kaul" target="Brajkishore Babu"/>
+<edge source="Kaul" target="Malkani"/>
+<edge source="Kaul" target="Babu Dharanidhar Prasad"/>
+<edge source="Kaul" target="Shivji"/>
+<edge source="Kaul" target="Ramdas"/>
+<edge source="Kaul" target="Rajkumar Shukla"/>
+<edge source="Kaul" target="Mahadev Desai"/>
+<edge source="Kaul" target="Gokhale"/>
+<edge source="Kaul" target="Chhotalal"/>
+<edge source="Kaul" target="Sorabji Adajania"/>
+<edge source="Kaul" target="Satyapal"/>
+<edge source="Kaul" target="Sinha"/>
+<edge source="Kaul" target="Kelkar"/>
+<edge source="Kaul" target="Maulana Abdul Bari Saheb"/>
+<edge source="Kaul" target="Jivraj Mehta"/>
+<edge source="Kaul" target="Umar Sobani"/>
+<edge source="Kaul" target="Chelmsford"/>
+<edge source="Kaul" target="Keshavrao Deshpande"/>
+<edge source="Kaul" target="Vaidyanathadham"/>
+<edge source="Kaul" target="Harihar Sharma"/>
+<edge source="Keshavrao Deshpande" target="Kasturbai"/>
+<edge source="Keshavrao Deshpande" target="Malaviyaji"/>
+<edge source="Keshavrao Deshpande" target="Jehangir Petit"/>
+<edge source="Keshavrao Deshpande" target="Yashvantprasad Desai"/>
+<edge source="Keshavrao Deshpande" target="Michael O'Dwyer"/>
+<edge source="Keshavrao Deshpande" target="Gaya Babu"/>
+<edge source="Keshavrao Deshpande" target="Bepin"/>
+<edge source="Keshavrao Deshpande" target="Ramnavmi Prasad"/>
+<edge source="Keshavrao Deshpande" target="Edward Gait"/>
+<edge source="Keshavrao Deshpande" target="Lala Harkishanlal"/>
+<edge source="Keshavrao Deshpande" target="Jivanlal"/>
+<edge source="Keshavrao Deshpande" target="Kuhne"/>
+<edge source="Keshavrao Deshpande" target="Shrimati Anandibai"/>
+<edge source="Keshavrao Deshpande" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Keshavrao Deshpande" target="Shrimati Vasumatibehn"/>
+<edge source="Keshavrao Deshpande" target="Chintaman"/>
+<edge source="Keshavrao Deshpande" target="Patwardhan"/>
+<edge source="Keshavrao Deshpande" target="Shambhaubabu"/>
+<edge source="Keshavrao Deshpande" target="Nagenbabu"/>
+<edge source="Keshavrao Deshpande" target="Kakasaheb"/>
+<edge source="Keshavrao Deshpande" target="Gorakhbabu"/>
+<edge source="Keshavrao Deshpande" target="Manilal"/>
+<edge source="Keshavrao Deshpande" target="Jeramdas"/>
+<edge source="Keshavrao Deshpande" target="Gangabehn Majmundar"/>
+<edge source="Keshavrao Deshpande" target="Babasaheb Soman"/>
+<edge source="Keshavrao Deshpande" target="Gangadharrao"/>
+<edge source="Keshavrao Deshpande" target="Dada Abdulla"/>
+<edge source="Keshavrao Deshpande" target="Polak"/>
+<edge source="Keshavrao Deshpande" target="Ramibai Kamdar"/>
+<edge source="Keshavrao Deshpande" target="Maulana Mazharul Haq"/>
+<edge source="Keshavrao Deshpande" target="Kripalani"/>
+<edge source="Keshavrao Deshpande" target="Phadke"/>
+<edge source="Keshavrao Deshpande" target="Choithram"/>
+<edge source="Keshavrao Deshpande" target="Kitchlu"/>
+<edge source="Keshavrao Deshpande" target="Babu Brajkishore Prasad"/>
+<edge source="Keshavrao Deshpande" target="Shankarlal Parikh"/>
+<edge source="Keshavrao Deshpande" target="Lakshmidas"/>
+<edge source="Keshavrao Deshpande" target="Hasrat Saheb"/>
+<edge source="Keshavrao Deshpande" target="Motilalji"/>
+<edge source="Keshavrao Deshpande" target="Hakim Saheb"/>
+<edge source="Keshavrao Deshpande" target="Devdas"/>
+<edge source="Keshavrao Deshpande" target="Mahatma Munshiramji"/>
+<edge source="Keshavrao Deshpande" target="Sushil Rudra"/>
+<edge source="Keshavrao Deshpande" target="Pearson"/>
+<edge source="Keshavrao Deshpande" target="Kalelkar"/>
+<edge source="Keshavrao Deshpande" target="Mohanlal"/>
+<edge source="Keshavrao Deshpande" target="Janakdharibabu"/>
+<edge source="Keshavrao Deshpande" target="Shrimatis Avantikabai"/>
+<edge source="Keshavrao Deshpande" target="Brajkishorebabu"/>
+<edge source="Keshavrao Deshpande" target="Thakkar Bapa"/>
+<edge source="Keshavrao Deshpande" target="Sharadbabu"/>
+<edge source="Keshavrao Deshpande" target="Danibehn"/>
+<edge source="Keshavrao Deshpande" target="Amritlal Thakkar"/>
+<edge source="Keshavrao Deshpande" target="Jagadanandbabu"/>
+<edge source="Keshavrao Deshpande" target="Rajendra Babu"/>
+<edge source="Keshavrao Deshpande" target="Deshabandhu"/>
+<edge source="Keshavrao Deshpande" target="Chhaganlal Gandhi"/>
+<edge source="Keshavrao Deshpande" target="Shrimati Durga Desai"/>
+<edge source="Keshavrao Deshpande" target="Ambalal Sarabhai"/>
+<edge source="Keshavrao Deshpande" target="Brajkishore Babu"/>
+<edge source="Keshavrao Deshpande" target="Malkani"/>
+<edge source="Keshavrao Deshpande" target="Babu Dharanidhar Prasad"/>
+<edge source="Keshavrao Deshpande" target="Shivji"/>
+<edge source="Keshavrao Deshpande" target="Ramdas"/>
+<edge source="Keshavrao Deshpande" target="Rajkumar Shukla"/>
+<edge source="Keshavrao Deshpande" target="Mahadev Desai"/>
+<edge source="Keshavrao Deshpande" target="Gokhale"/>
+<edge source="Keshavrao Deshpande" target="Chhotalal"/>
+<edge source="Keshavrao Deshpande" target="Sorabji Adajania"/>
+<edge source="Keshavrao Deshpande" target="Satyapal"/>
+<edge source="Keshavrao Deshpande" target="Sinha"/>
+<edge source="Keshavrao Deshpande" target="Kelkar"/>
+<edge source="Keshavrao Deshpande" target="Maulana Abdul Bari Saheb"/>
+<edge source="Keshavrao Deshpande" target="Jivraj Mehta"/>
+<edge source="Keshavrao Deshpande" target="Umar Sobani"/>
+<edge source="Keshavrao Deshpande" target="Chelmsford"/>
+<edge source="Keshavrao Deshpande" target="Vaidyanathadham"/>
+<edge source="Keshavrao Deshpande" target="Harihar Sharma"/>
+<edge source="Maulana Abdul Bari Saheb" target="Kasturbai"/>
+<edge source="Maulana Abdul Bari Saheb" target="Malaviyaji"/>
+<edge source="Maulana Abdul Bari Saheb" target="Jehangir Petit"/>
+<edge source="Maulana Abdul Bari Saheb" target="Yashvantprasad Desai"/>
+<edge source="Maulana Abdul Bari Saheb" target="Michael O'Dwyer"/>
+<edge source="Maulana Abdul Bari Saheb" target="Gaya Babu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Bepin"/>
+<edge source="Maulana Abdul Bari Saheb" target="Ramnavmi Prasad"/>
+<edge source="Maulana Abdul Bari Saheb" target="Edward Gait"/>
+<edge source="Maulana Abdul Bari Saheb" target="Lala Harkishanlal"/>
+<edge source="Maulana Abdul Bari Saheb" target="Jivanlal"/>
+<edge source="Maulana Abdul Bari Saheb" target="Kuhne"/>
+<edge source="Maulana Abdul Bari Saheb" target="Shrimati Anandibai"/>
+<edge source="Maulana Abdul Bari Saheb" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Maulana Abdul Bari Saheb" target="Shrimati Vasumatibehn"/>
+<edge source="Maulana Abdul Bari Saheb" target="Chintaman"/>
+<edge source="Maulana Abdul Bari Saheb" target="Patwardhan"/>
+<edge source="Maulana Abdul Bari Saheb" target="Shambhaubabu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Nagenbabu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Kakasaheb"/>
+<edge source="Maulana Abdul Bari Saheb" target="Gorakhbabu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Manilal"/>
+<edge source="Maulana Abdul Bari Saheb" target="Jeramdas"/>
+<edge source="Maulana Abdul Bari Saheb" target="Gangabehn Majmundar"/>
+<edge source="Maulana Abdul Bari Saheb" target="Babasaheb Soman"/>
+<edge source="Maulana Abdul Bari Saheb" target="Gangadharrao"/>
+<edge source="Maulana Abdul Bari Saheb" target="Dada Abdulla"/>
+<edge source="Maulana Abdul Bari Saheb" target="Polak"/>
+<edge source="Maulana Abdul Bari Saheb" target="Ramibai Kamdar"/>
+<edge source="Maulana Abdul Bari Saheb" target="Maulana Mazharul Haq"/>
+<edge source="Maulana Abdul Bari Saheb" target="Kripalani"/>
+<edge source="Maulana Abdul Bari Saheb" target="Phadke"/>
+<edge source="Maulana Abdul Bari Saheb" target="Choithram"/>
+<edge source="Maulana Abdul Bari Saheb" target="Kitchlu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Babu Brajkishore Prasad"/>
+<edge source="Maulana Abdul Bari Saheb" target="Shankarlal Parikh"/>
+<edge source="Maulana Abdul Bari Saheb" target="Lakshmidas"/>
+<edge source="Maulana Abdul Bari Saheb" target="Hasrat Saheb"/>
+<edge source="Maulana Abdul Bari Saheb" target="Motilalji"/>
+<edge source="Maulana Abdul Bari Saheb" target="Hakim Saheb"/>
+<edge source="Maulana Abdul Bari Saheb" target="Devdas"/>
+<edge source="Maulana Abdul Bari Saheb" target="Mahatma Munshiramji"/>
+<edge source="Maulana Abdul Bari Saheb" target="Sushil Rudra"/>
+<edge source="Maulana Abdul Bari Saheb" target="Pearson"/>
+<edge source="Maulana Abdul Bari Saheb" target="Kalelkar"/>
+<edge source="Maulana Abdul Bari Saheb" target="Mohanlal"/>
+<edge source="Maulana Abdul Bari Saheb" target="Janakdharibabu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Shrimatis Avantikabai"/>
+<edge source="Maulana Abdul Bari Saheb" target="Brajkishorebabu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Thakkar Bapa"/>
+<edge source="Maulana Abdul Bari Saheb" target="Sharadbabu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Danibehn"/>
+<edge source="Maulana Abdul Bari Saheb" target="Amritlal Thakkar"/>
+<edge source="Maulana Abdul Bari Saheb" target="Jagadanandbabu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Rajendra Babu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Deshabandhu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Chhaganlal Gandhi"/>
+<edge source="Maulana Abdul Bari Saheb" target="Shrimati Durga Desai"/>
+<edge source="Maulana Abdul Bari Saheb" target="Ambalal Sarabhai"/>
+<edge source="Maulana Abdul Bari Saheb" target="Brajkishore Babu"/>
+<edge source="Maulana Abdul Bari Saheb" target="Malkani"/>
+<edge source="Maulana Abdul Bari Saheb" target="Shivji"/>
+<edge source="Maulana Abdul Bari Saheb" target="Ramdas"/>
+<edge source="Maulana Abdul Bari Saheb" target="Rajkumar Shukla"/>
+<edge source="Maulana Abdul Bari Saheb" target="Mahadev Desai"/>
+<edge source="Maulana Abdul Bari Saheb" target="Gokhale"/>
+<edge source="Maulana Abdul Bari Saheb" target="Chhotalal"/>
+<edge source="Maulana Abdul Bari Saheb" target="Sorabji Adajania"/>
+<edge source="Maulana Abdul Bari Saheb" target="Satyapal"/>
+<edge source="Maulana Abdul Bari Saheb" target="Sinha"/>
+<edge source="Maulana Abdul Bari Saheb" target="Kelkar"/>
+<edge source="Maulana Abdul Bari Saheb" target="Babu Dharanidhar Prasad"/>
+<edge source="Maulana Abdul Bari Saheb" target="Jivraj Mehta"/>
+<edge source="Maulana Abdul Bari Saheb" target="Umar Sobani"/>
+<edge source="Maulana Abdul Bari Saheb" target="Chelmsford"/>
+<edge source="Maulana Abdul Bari Saheb" target="Vaidyanathadham"/>
+<edge source="Maulana Abdul Bari Saheb" target="Harihar Sharma"/>
+<edge source="Pearson" target="Kasturbai"/>
+<edge source="Pearson" target="Malaviyaji"/>
+<edge source="Pearson" target="Jehangir Petit"/>
+<edge source="Pearson" target="Yashvantprasad Desai"/>
+<edge source="Pearson" target="Michael O'Dwyer"/>
+<edge source="Pearson" target="Gaya Babu"/>
+<edge source="Pearson" target="Bepin"/>
+<edge source="Pearson" target="Ramnavmi Prasad"/>
+<edge source="Pearson" target="Edward Gait"/>
+<edge source="Pearson" target="Lala Harkishanlal"/>
+<edge source="Pearson" target="Jivanlal"/>
+<edge source="Pearson" target="Kuhne"/>
+<edge source="Pearson" target="Shrimati Anandibai"/>
+<edge source="Pearson" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Pearson" target="Shrimati Vasumatibehn"/>
+<edge source="Pearson" target="Chintaman"/>
+<edge source="Pearson" target="Patwardhan"/>
+<edge source="Pearson" target="Shambhaubabu"/>
+<edge source="Pearson" target="Nagenbabu"/>
+<edge source="Pearson" target="Kakasaheb"/>
+<edge source="Pearson" target="Gorakhbabu"/>
+<edge source="Pearson" target="Manilal"/>
+<edge source="Pearson" target="Jeramdas"/>
+<edge source="Pearson" target="Gangabehn Majmundar"/>
+<edge source="Pearson" target="Babasaheb Soman"/>
+<edge source="Pearson" target="Gangadharrao"/>
+<edge source="Pearson" target="Dada Abdulla"/>
+<edge source="Pearson" target="Polak"/>
+<edge source="Pearson" target="Ramibai Kamdar"/>
+<edge source="Pearson" target="Maulana Mazharul Haq"/>
+<edge source="Pearson" target="Kripalani"/>
+<edge source="Pearson" target="Phadke"/>
+<edge source="Pearson" target="Choithram"/>
+<edge source="Pearson" target="Kitchlu"/>
+<edge source="Pearson" target="Babu Brajkishore Prasad"/>
+<edge source="Pearson" target="Shankarlal Parikh"/>
+<edge source="Pearson" target="Lakshmidas"/>
+<edge source="Pearson" target="Hasrat Saheb"/>
+<edge source="Pearson" target="Motilalji"/>
+<edge source="Pearson" target="Hakim Saheb"/>
+<edge source="Pearson" target="Devdas"/>
+<edge source="Pearson" target="Mahatma Munshiramji"/>
+<edge source="Pearson" target="Sushil Rudra"/>
+<edge source="Pearson" target="Gokhale"/>
+<edge source="Pearson" target="Kalelkar"/>
+<edge source="Pearson" target="Mohanlal"/>
+<edge source="Pearson" target="Janakdharibabu"/>
+<edge source="Pearson" target="Shrimatis Avantikabai"/>
+<edge source="Pearson" target="Brajkishorebabu"/>
+<edge source="Pearson" target="Thakkar Bapa"/>
+<edge source="Pearson" target="Sharadbabu"/>
+<edge source="Pearson" target="Danibehn"/>
+<edge source="Pearson" target="Amritlal Thakkar"/>
+<edge source="Pearson" target="Jagadanandbabu"/>
+<edge source="Pearson" target="Rajendra Babu"/>
+<edge source="Pearson" target="Deshabandhu"/>
+<edge source="Pearson" target="Chhaganlal Gandhi"/>
+<edge source="Pearson" target="Shrimati Durga Desai"/>
+<edge source="Pearson" target="Ambalal Sarabhai"/>
+<edge source="Pearson" target="Brajkishore Babu"/>
+<edge source="Pearson" target="Malkani"/>
+<edge source="Pearson" target="Babu Dharanidhar Prasad"/>
+<edge source="Pearson" target="Shivji"/>
+<edge source="Pearson" target="Ramdas"/>
+<edge source="Pearson" target="Rajkumar Shukla"/>
+<edge source="Pearson" target="Mahadev Desai"/>
+<edge source="Pearson" target="Chhotalal"/>
+<edge source="Pearson" target="Sorabji Adajania"/>
+<edge source="Pearson" target="Satyapal"/>
+<edge source="Pearson" target="Sinha"/>
+<edge source="Pearson" target="Kelkar"/>
+<edge source="Pearson" target="Jivraj Mehta"/>
+<edge source="Pearson" target="Umar Sobani"/>
+<edge source="Pearson" target="Chelmsford"/>
+<edge source="Pearson" target="Vaidyanathadham"/>
+<edge source="Pearson" target="Harihar Sharma"/>
+<edge source="Motilalji" target="Kasturbai"/>
+<edge source="Motilalji" target="Malaviyaji"/>
+<edge source="Motilalji" target="Jehangir Petit"/>
+<edge source="Motilalji" target="Yashvantprasad Desai"/>
+<edge source="Motilalji" target="Michael O'Dwyer"/>
+<edge source="Motilalji" target="Gaya Babu"/>
+<edge source="Motilalji" target="Bepin"/>
+<edge source="Motilalji" target="Ramnavmi Prasad"/>
+<edge source="Motilalji" target="Edward Gait"/>
+<edge source="Motilalji" target="Lala Harkishanlal"/>
+<edge source="Motilalji" target="Jivanlal"/>
+<edge source="Motilalji" target="Kuhne"/>
+<edge source="Motilalji" target="Shrimati Anandibai"/>
+<edge source="Motilalji" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Motilalji" target="Shrimati Vasumatibehn"/>
+<edge source="Motilalji" target="Chintaman"/>
+<edge source="Motilalji" target="Patwardhan"/>
+<edge source="Motilalji" target="Shambhaubabu"/>
+<edge source="Motilalji" target="Nagenbabu"/>
+<edge source="Motilalji" target="Kakasaheb"/>
+<edge source="Motilalji" target="Gorakhbabu"/>
+<edge source="Motilalji" target="Manilal"/>
+<edge source="Motilalji" target="Jeramdas"/>
+<edge source="Motilalji" target="Gangabehn Majmundar"/>
+<edge source="Motilalji" target="Babasaheb Soman"/>
+<edge source="Motilalji" target="Gangadharrao"/>
+<edge source="Motilalji" target="Dada Abdulla"/>
+<edge source="Motilalji" target="Polak"/>
+<edge source="Motilalji" target="Ramibai Kamdar"/>
+<edge source="Motilalji" target="Maulana Mazharul Haq"/>
+<edge source="Motilalji" target="Kripalani"/>
+<edge source="Motilalji" target="Phadke"/>
+<edge source="Motilalji" target="Choithram"/>
+<edge source="Motilalji" target="Kitchlu"/>
+<edge source="Motilalji" target="Babu Brajkishore Prasad"/>
+<edge source="Motilalji" target="Shankarlal Parikh"/>
+<edge source="Motilalji" target="Lakshmidas"/>
+<edge source="Motilalji" target="Hasrat Saheb"/>
+<edge source="Motilalji" target="Hakim Saheb"/>
+<edge source="Motilalji" target="Devdas"/>
+<edge source="Motilalji" target="Mahatma Munshiramji"/>
+<edge source="Motilalji" target="Sushil Rudra"/>
+<edge source="Motilalji" target="Kalelkar"/>
+<edge source="Motilalji" target="Mohanlal"/>
+<edge source="Motilalji" target="Janakdharibabu"/>
+<edge source="Motilalji" target="Shrimatis Avantikabai"/>
+<edge source="Motilalji" target="Brajkishorebabu"/>
+<edge source="Motilalji" target="Thakkar Bapa"/>
+<edge source="Motilalji" target="Sharadbabu"/>
+<edge source="Motilalji" target="Danibehn"/>
+<edge source="Motilalji" target="Amritlal Thakkar"/>
+<edge source="Motilalji" target="Jagadanandbabu"/>
+<edge source="Motilalji" target="Rajendra Babu"/>
+<edge source="Motilalji" target="Deshabandhu"/>
+<edge source="Motilalji" target="Chhaganlal Gandhi"/>
+<edge source="Motilalji" target="Shrimati Durga Desai"/>
+<edge source="Motilalji" target="Ambalal Sarabhai"/>
+<edge source="Motilalji" target="Brajkishore Babu"/>
+<edge source="Motilalji" target="Malkani"/>
+<edge source="Motilalji" target="Babu Dharanidhar Prasad"/>
+<edge source="Motilalji" target="Shivji"/>
+<edge source="Motilalji" target="Ramdas"/>
+<edge source="Motilalji" target="Rajkumar Shukla"/>
+<edge source="Motilalji" target="Mahadev Desai"/>
+<edge source="Motilalji" target="Gokhale"/>
+<edge source="Motilalji" target="Chhotalal"/>
+<edge source="Motilalji" target="Sorabji Adajania"/>
+<edge source="Motilalji" target="Satyapal"/>
+<edge source="Motilalji" target="Sinha"/>
+<edge source="Motilalji" target="Kelkar"/>
+<edge source="Motilalji" target="Jivraj Mehta"/>
+<edge source="Motilalji" target="Umar Sobani"/>
+<edge source="Motilalji" target="Chelmsford"/>
+<edge source="Motilalji" target="Vaidyanathadham"/>
+<edge source="Motilalji" target="Harihar Sharma"/>
+<edge source="Hakim Saheb" target="Kasturbai"/>
+<edge source="Hakim Saheb" target="Malaviyaji"/>
+<edge source="Hakim Saheb" target="Jehangir Petit"/>
+<edge source="Hakim Saheb" target="Yashvantprasad Desai"/>
+<edge source="Hakim Saheb" target="Michael O'Dwyer"/>
+<edge source="Hakim Saheb" target="Gaya Babu"/>
+<edge source="Hakim Saheb" target="Bepin"/>
+<edge source="Hakim Saheb" target="Ramnavmi Prasad"/>
+<edge source="Hakim Saheb" target="Edward Gait"/>
+<edge source="Hakim Saheb" target="Lala Harkishanlal"/>
+<edge source="Hakim Saheb" target="Jivanlal"/>
+<edge source="Hakim Saheb" target="Kuhne"/>
+<edge source="Hakim Saheb" target="Shrimati Anandibai"/>
+<edge source="Hakim Saheb" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Hakim Saheb" target="Shrimati Vasumatibehn"/>
+<edge source="Hakim Saheb" target="Chintaman"/>
+<edge source="Hakim Saheb" target="Patwardhan"/>
+<edge source="Hakim Saheb" target="Shambhaubabu"/>
+<edge source="Hakim Saheb" target="Nagenbabu"/>
+<edge source="Hakim Saheb" target="Kakasaheb"/>
+<edge source="Hakim Saheb" target="Gorakhbabu"/>
+<edge source="Hakim Saheb" target="Manilal"/>
+<edge source="Hakim Saheb" target="Jeramdas"/>
+<edge source="Hakim Saheb" target="Gangabehn Majmundar"/>
+<edge source="Hakim Saheb" target="Babasaheb Soman"/>
+<edge source="Hakim Saheb" target="Gangadharrao"/>
+<edge source="Hakim Saheb" target="Dada Abdulla"/>
+<edge source="Hakim Saheb" target="Polak"/>
+<edge source="Hakim Saheb" target="Ramibai Kamdar"/>
+<edge source="Hakim Saheb" target="Maulana Mazharul Haq"/>
+<edge source="Hakim Saheb" target="Kripalani"/>
+<edge source="Hakim Saheb" target="Phadke"/>
+<edge source="Hakim Saheb" target="Choithram"/>
+<edge source="Hakim Saheb" target="Kitchlu"/>
+<edge source="Hakim Saheb" target="Babu Brajkishore Prasad"/>
+<edge source="Hakim Saheb" target="Shankarlal Parikh"/>
+<edge source="Hakim Saheb" target="Lakshmidas"/>
+<edge source="Hakim Saheb" target="Hasrat Saheb"/>
+<edge source="Hakim Saheb" target="Devdas"/>
+<edge source="Hakim Saheb" target="Mahatma Munshiramji"/>
+<edge source="Hakim Saheb" target="Sushil Rudra"/>
+<edge source="Hakim Saheb" target="Kalelkar"/>
+<edge source="Hakim Saheb" target="Mohanlal"/>
+<edge source="Hakim Saheb" target="Janakdharibabu"/>
+<edge source="Hakim Saheb" target="Shrimatis Avantikabai"/>
+<edge source="Hakim Saheb" target="Brajkishorebabu"/>
+<edge source="Hakim Saheb" target="Thakkar Bapa"/>
+<edge source="Hakim Saheb" target="Sharadbabu"/>
+<edge source="Hakim Saheb" target="Danibehn"/>
+<edge source="Hakim Saheb" target="Amritlal Thakkar"/>
+<edge source="Hakim Saheb" target="Jagadanandbabu"/>
+<edge source="Hakim Saheb" target="Rajendra Babu"/>
+<edge source="Hakim Saheb" target="Deshabandhu"/>
+<edge source="Hakim Saheb" target="Chhaganlal Gandhi"/>
+<edge source="Hakim Saheb" target="Shrimati Durga Desai"/>
+<edge source="Hakim Saheb" target="Ambalal Sarabhai"/>
+<edge source="Hakim Saheb" target="Brajkishore Babu"/>
+<edge source="Hakim Saheb" target="Malkani"/>
+<edge source="Hakim Saheb" target="Babu Dharanidhar Prasad"/>
+<edge source="Hakim Saheb" target="Shivji"/>
+<edge source="Hakim Saheb" target="Ramdas"/>
+<edge source="Hakim Saheb" target="Rajkumar Shukla"/>
+<edge source="Hakim Saheb" target="Mahadev Desai"/>
+<edge source="Hakim Saheb" target="Gokhale"/>
+<edge source="Hakim Saheb" target="Chhotalal"/>
+<edge source="Hakim Saheb" target="Sorabji Adajania"/>
+<edge source="Hakim Saheb" target="Satyapal"/>
+<edge source="Hakim Saheb" target="Sinha"/>
+<edge source="Hakim Saheb" target="Kelkar"/>
+<edge source="Hakim Saheb" target="Jivraj Mehta"/>
+<edge source="Hakim Saheb" target="Umar Sobani"/>
+<edge source="Hakim Saheb" target="Chelmsford"/>
+<edge source="Hakim Saheb" target="Vaidyanathadham"/>
+<edge source="Hakim Saheb" target="Harihar Sharma"/>
+<edge source="Mahadev Desai" target="Kasturbai"/>
+<edge source="Mahadev Desai" target="Malaviyaji"/>
+<edge source="Mahadev Desai" target="Jehangir Petit"/>
+<edge source="Mahadev Desai" target="Yashvantprasad Desai"/>
+<edge source="Mahadev Desai" target="Michael O'Dwyer"/>
+<edge source="Mahadev Desai" target="Gaya Babu"/>
+<edge source="Mahadev Desai" target="Bepin"/>
+<edge source="Mahadev Desai" target="Ramnavmi Prasad"/>
+<edge source="Mahadev Desai" target="Edward Gait"/>
+<edge source="Mahadev Desai" target="Lala Harkishanlal"/>
+<edge source="Mahadev Desai" target="Jivanlal"/>
+<edge source="Mahadev Desai" target="Kuhne"/>
+<edge source="Mahadev Desai" target="Shrimati Anandibai"/>
+<edge source="Mahadev Desai" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Mahadev Desai" target="Shrimati Vasumatibehn"/>
+<edge source="Mahadev Desai" target="Chintaman"/>
+<edge source="Mahadev Desai" target="Patwardhan"/>
+<edge source="Mahadev Desai" target="Shambhaubabu"/>
+<edge source="Mahadev Desai" target="Nagenbabu"/>
+<edge source="Mahadev Desai" target="Kakasaheb"/>
+<edge source="Mahadev Desai" target="Gorakhbabu"/>
+<edge source="Mahadev Desai" target="Manilal"/>
+<edge source="Mahadev Desai" target="Jeramdas"/>
+<edge source="Mahadev Desai" target="Gangabehn Majmundar"/>
+<edge source="Mahadev Desai" target="Babasaheb Soman"/>
+<edge source="Mahadev Desai" target="Gangadharrao"/>
+<edge source="Mahadev Desai" target="Dada Abdulla"/>
+<edge source="Mahadev Desai" target="Polak"/>
+<edge source="Mahadev Desai" target="Ramibai Kamdar"/>
+<edge source="Mahadev Desai" target="Maulana Mazharul Haq"/>
+<edge source="Mahadev Desai" target="Kripalani"/>
+<edge source="Mahadev Desai" target="Phadke"/>
+<edge source="Mahadev Desai" target="Choithram"/>
+<edge source="Mahadev Desai" target="Kitchlu"/>
+<edge source="Mahadev Desai" target="Babu Brajkishore Prasad"/>
+<edge source="Mahadev Desai" target="Shankarlal Parikh"/>
+<edge source="Mahadev Desai" target="Lakshmidas"/>
+<edge source="Mahadev Desai" target="Hasrat Saheb"/>
+<edge source="Mahadev Desai" target="Devdas"/>
+<edge source="Mahadev Desai" target="Mahatma Munshiramji"/>
+<edge source="Mahadev Desai" target="Sushil Rudra"/>
+<edge source="Mahadev Desai" target="Kalelkar"/>
+<edge source="Mahadev Desai" target="Mohanlal"/>
+<edge source="Mahadev Desai" target="Janakdharibabu"/>
+<edge source="Mahadev Desai" target="Shrimatis Avantikabai"/>
+<edge source="Mahadev Desai" target="Brajkishorebabu"/>
+<edge source="Mahadev Desai" target="Thakkar Bapa"/>
+<edge source="Mahadev Desai" target="Sharadbabu"/>
+<edge source="Mahadev Desai" target="Danibehn"/>
+<edge source="Mahadev Desai" target="Amritlal Thakkar"/>
+<edge source="Mahadev Desai" target="Jagadanandbabu"/>
+<edge source="Mahadev Desai" target="Rajendra Babu"/>
+<edge source="Mahadev Desai" target="Deshabandhu"/>
+<edge source="Mahadev Desai" target="Chhaganlal Gandhi"/>
+<edge source="Mahadev Desai" target="Shrimati Durga Desai"/>
+<edge source="Mahadev Desai" target="Ambalal Sarabhai"/>
+<edge source="Mahadev Desai" target="Brajkishore Babu"/>
+<edge source="Mahadev Desai" target="Malkani"/>
+<edge source="Mahadev Desai" target="Babu Dharanidhar Prasad"/>
+<edge source="Mahadev Desai" target="Shivji"/>
+<edge source="Mahadev Desai" target="Ramdas"/>
+<edge source="Mahadev Desai" target="Rajkumar Shukla"/>
+<edge source="Mahadev Desai" target="Sorabji Adajania"/>
+<edge source="Mahadev Desai" target="Gokhale"/>
+<edge source="Mahadev Desai" target="Chhotalal"/>
+<edge source="Mahadev Desai" target="Satyapal"/>
+<edge source="Mahadev Desai" target="Sinha"/>
+<edge source="Mahadev Desai" target="Kelkar"/>
+<edge source="Mahadev Desai" target="Jivraj Mehta"/>
+<edge source="Mahadev Desai" target="Umar Sobani"/>
+<edge source="Mahadev Desai" target="Chelmsford"/>
+<edge source="Mahadev Desai" target="Vaidyanathadham"/>
+<edge source="Mahadev Desai" target="Harihar Sharma"/>
+<edge source="Shrimatis Avantikabai" target="Kasturbai"/>
+<edge source="Shrimatis Avantikabai" target="Malaviyaji"/>
+<edge source="Shrimatis Avantikabai" target="Jehangir Petit"/>
+<edge source="Shrimatis Avantikabai" target="Yashvantprasad Desai"/>
+<edge source="Shrimatis Avantikabai" target="Michael O'Dwyer"/>
+<edge source="Shrimatis Avantikabai" target="Gaya Babu"/>
+<edge source="Shrimatis Avantikabai" target="Bepin"/>
+<edge source="Shrimatis Avantikabai" target="Ramnavmi Prasad"/>
+<edge source="Shrimatis Avantikabai" target="Edward Gait"/>
+<edge source="Shrimatis Avantikabai" target="Lala Harkishanlal"/>
+<edge source="Shrimatis Avantikabai" target="Jivanlal"/>
+<edge source="Shrimatis Avantikabai" target="Kuhne"/>
+<edge source="Shrimatis Avantikabai" target="Shrimati Anandibai"/>
+<edge source="Shrimatis Avantikabai" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Shrimatis Avantikabai" target="Shrimati Vasumatibehn"/>
+<edge source="Shrimatis Avantikabai" target="Chintaman"/>
+<edge source="Shrimatis Avantikabai" target="Patwardhan"/>
+<edge source="Shrimatis Avantikabai" target="Shambhaubabu"/>
+<edge source="Shrimatis Avantikabai" target="Nagenbabu"/>
+<edge source="Shrimatis Avantikabai" target="Kakasaheb"/>
+<edge source="Shrimatis Avantikabai" target="Gorakhbabu"/>
+<edge source="Shrimatis Avantikabai" target="Manilal"/>
+<edge source="Shrimatis Avantikabai" target="Jeramdas"/>
+<edge source="Shrimatis Avantikabai" target="Gangabehn Majmundar"/>
+<edge source="Shrimatis Avantikabai" target="Babasaheb Soman"/>
+<edge source="Shrimatis Avantikabai" target="Gangadharrao"/>
+<edge source="Shrimatis Avantikabai" target="Dada Abdulla"/>
+<edge source="Shrimatis Avantikabai" target="Polak"/>
+<edge source="Shrimatis Avantikabai" target="Ramibai Kamdar"/>
+<edge source="Shrimatis Avantikabai" target="Maulana Mazharul Haq"/>
+<edge source="Shrimatis Avantikabai" target="Kripalani"/>
+<edge source="Shrimatis Avantikabai" target="Phadke"/>
+<edge source="Shrimatis Avantikabai" target="Choithram"/>
+<edge source="Shrimatis Avantikabai" target="Kitchlu"/>
+<edge source="Shrimatis Avantikabai" target="Shankarlal Parikh"/>
+<edge source="Shrimatis Avantikabai" target="Lakshmidas"/>
+<edge source="Shrimatis Avantikabai" target="Hasrat Saheb"/>
+<edge source="Shrimatis Avantikabai" target="Devdas"/>
+<edge source="Shrimatis Avantikabai" target="Mahatma Munshiramji"/>
+<edge source="Shrimatis Avantikabai" target="Sushil Rudra"/>
+<edge source="Shrimatis Avantikabai" target="Kalelkar"/>
+<edge source="Shrimatis Avantikabai" target="Mohanlal"/>
+<edge source="Shrimatis Avantikabai" target="Janakdharibabu"/>
+<edge source="Shrimatis Avantikabai" target="Babu Brajkishore Prasad"/>
+<edge source="Shrimatis Avantikabai" target="Brajkishorebabu"/>
+<edge source="Shrimatis Avantikabai" target="Thakkar Bapa"/>
+<edge source="Shrimatis Avantikabai" target="Sharadbabu"/>
+<edge source="Shrimatis Avantikabai" target="Danibehn"/>
+<edge source="Shrimatis Avantikabai" target="Amritlal Thakkar"/>
+<edge source="Shrimatis Avantikabai" target="Jagadanandbabu"/>
+<edge source="Shrimatis Avantikabai" target="Rajendra Babu"/>
+<edge source="Shrimatis Avantikabai" target="Deshabandhu"/>
+<edge source="Shrimatis Avantikabai" target="Chhaganlal Gandhi"/>
+<edge source="Shrimatis Avantikabai" target="Shrimati Durga Desai"/>
+<edge source="Shrimatis Avantikabai" target="Ambalal Sarabhai"/>
+<edge source="Shrimatis Avantikabai" target="Brajkishore Babu"/>
+<edge source="Shrimatis Avantikabai" target="Malkani"/>
+<edge source="Shrimatis Avantikabai" target="Babu Dharanidhar Prasad"/>
+<edge source="Shrimatis Avantikabai" target="Shivji"/>
+<edge source="Shrimatis Avantikabai" target="Ramdas"/>
+<edge source="Shrimatis Avantikabai" target="Rajkumar Shukla"/>
+<edge source="Shrimatis Avantikabai" target="Gokhale"/>
+<edge source="Shrimatis Avantikabai" target="Chhotalal"/>
+<edge source="Shrimatis Avantikabai" target="Sorabji Adajania"/>
+<edge source="Shrimatis Avantikabai" target="Satyapal"/>
+<edge source="Shrimatis Avantikabai" target="Sinha"/>
+<edge source="Shrimatis Avantikabai" target="Kelkar"/>
+<edge source="Shrimatis Avantikabai" target="Jivraj Mehta"/>
+<edge source="Shrimatis Avantikabai" target="Umar Sobani"/>
+<edge source="Shrimatis Avantikabai" target="Chelmsford"/>
+<edge source="Shrimatis Avantikabai" target="Vaidyanathadham"/>
+<edge source="Shrimatis Avantikabai" target="Harihar Sharma"/>
+<edge source="Jivraj Mehta" target="Jeramdas"/>
+<edge source="Jivraj Mehta" target="Jehangir Petit"/>
+<edge source="Jivraj Mehta" target="Yashvantprasad Desai"/>
+<edge source="Jivraj Mehta" target="Kasturbai"/>
+<edge source="Jivraj Mehta" target="Gaya Babu"/>
+<edge source="Jivraj Mehta" target="Dada Abdulla"/>
+<edge source="Jivraj Mehta" target="Ramnavmi Prasad"/>
+<edge source="Jivraj Mehta" target="Chelmsford"/>
+<edge source="Jivraj Mehta" target="Edward Gait"/>
+<edge source="Jivraj Mehta" target="Lala Harkishanlal"/>
+<edge source="Jivraj Mehta" target="Jivanlal"/>
+<edge source="Jivraj Mehta" target="Kuhne"/>
+<edge source="Jivraj Mehta" target="Shrimati Anandibai"/>
+<edge source="Jivraj Mehta" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Jivraj Mehta" target="Chintaman"/>
+<edge source="Jivraj Mehta" target="Patwardhan"/>
+<edge source="Jivraj Mehta" target="Shambhaubabu"/>
+<edge source="Jivraj Mehta" target="Nagenbabu"/>
+<edge source="Jivraj Mehta" target="Shrimati Vasumatibehn"/>
+<edge source="Jivraj Mehta" target="Kakasaheb"/>
+<edge source="Jivraj Mehta" target="Gorakhbabu"/>
+<edge source="Jivraj Mehta" target="Michael O'Dwyer"/>
+<edge source="Jivraj Mehta" target="Gangabehn Majmundar"/>
+<edge source="Jivraj Mehta" target="Babasaheb Soman"/>
+<edge source="Jivraj Mehta" target="Gangadharrao"/>
+<edge source="Jivraj Mehta" target="Polak"/>
+<edge source="Jivraj Mehta" target="Ramibai Kamdar"/>
+<edge source="Jivraj Mehta" target="Maulana Mazharul Haq"/>
+<edge source="Jivraj Mehta" target="Kripalani"/>
+<edge source="Jivraj Mehta" target="Mahatma Munshiramji"/>
+<edge source="Jivraj Mehta" target="Phadke"/>
+<edge source="Jivraj Mehta" target="Choithram"/>
+<edge source="Jivraj Mehta" target="Kitchlu"/>
+<edge source="Jivraj Mehta" target="Babu Brajkishore Prasad"/>
+<edge source="Jivraj Mehta" target="Shankarlal Parikh"/>
+<edge source="Jivraj Mehta" target="Lakshmidas"/>
+<edge source="Jivraj Mehta" target="Hasrat Saheb"/>
+<edge source="Jivraj Mehta" target="Devdas"/>
+<edge source="Jivraj Mehta" target="Bepin"/>
+<edge source="Jivraj Mehta" target="Sushil Rudra"/>
+<edge source="Jivraj Mehta" target="Gokhale"/>
+<edge source="Jivraj Mehta" target="Ambalal Sarabhai"/>
+<edge source="Jivraj Mehta" target="Mohanlal"/>
+<edge source="Jivraj Mehta" target="Janakdharibabu"/>
+<edge source="Jivraj Mehta" target="Brajkishorebabu"/>
+<edge source="Jivraj Mehta" target="Thakkar Bapa"/>
+<edge source="Jivraj Mehta" target="Sharadbabu"/>
+<edge source="Jivraj Mehta" target="Manilal"/>
+<edge source="Jivraj Mehta" target="Amritlal Thakkar"/>
+<edge source="Jivraj Mehta" target="Jagadanandbabu"/>
+<edge source="Jivraj Mehta" target="Rajendra Babu"/>
+<edge source="Jivraj Mehta" target="Deshabandhu"/>
+<edge source="Jivraj Mehta" target="Chhaganlal Gandhi"/>
+<edge source="Jivraj Mehta" target="Shrimati Durga Desai"/>
+<edge source="Jivraj Mehta" target="Sorabji Adajania"/>
+<edge source="Jivraj Mehta" target="Brajkishore Babu"/>
+<edge source="Jivraj Mehta" target="Malkani"/>
+<edge source="Jivraj Mehta" target="Babu Dharanidhar Prasad"/>
+<edge source="Jivraj Mehta" target="Shivji"/>
+<edge source="Jivraj Mehta" target="Ramdas"/>
+<edge source="Jivraj Mehta" target="Rajkumar Shukla"/>
+<edge source="Jivraj Mehta" target="Chhotalal"/>
+<edge source="Jivraj Mehta" target="Satyapal"/>
+<edge source="Jivraj Mehta" target="Sinha"/>
+<edge source="Jivraj Mehta" target="Malaviyaji"/>
+<edge source="Jivraj Mehta" target="Kelkar"/>
+<edge source="Jivraj Mehta" target="Danibehn"/>
+<edge source="Jivraj Mehta" target="Umar Sobani"/>
+<edge source="Jivraj Mehta" target="Kalelkar"/>
+<edge source="Jivraj Mehta" target="Vaidyanathadham"/>
+<edge source="Jivraj Mehta" target="Harihar Sharma"/>
+<edge source="Malaviyaji" target="Kasturbai"/>
+<edge source="Malaviyaji" target="Jehangir Petit"/>
+<edge source="Malaviyaji" target="Yashvantprasad Desai"/>
+<edge source="Malaviyaji" target="Michael O'Dwyer"/>
+<edge source="Malaviyaji" target="Gaya Babu"/>
+<edge source="Malaviyaji" target="Bepin"/>
+<edge source="Malaviyaji" target="Ramnavmi Prasad"/>
+<edge source="Malaviyaji" target="Edward Gait"/>
+<edge source="Malaviyaji" target="Lala Harkishanlal"/>
+<edge source="Malaviyaji" target="Jivanlal"/>
+<edge source="Malaviyaji" target="Kuhne"/>
+<edge source="Malaviyaji" target="Shrimati Anandibai"/>
+<edge source="Malaviyaji" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Malaviyaji" target="Shrimati Vasumatibehn"/>
+<edge source="Malaviyaji" target="Chintaman"/>
+<edge source="Malaviyaji" target="Patwardhan"/>
+<edge source="Malaviyaji" target="Shambhaubabu"/>
+<edge source="Malaviyaji" target="Nagenbabu"/>
+<edge source="Malaviyaji" target="Kakasaheb"/>
+<edge source="Malaviyaji" target="Gorakhbabu"/>
+<edge source="Malaviyaji" target="Manilal"/>
+<edge source="Malaviyaji" target="Jeramdas"/>
+<edge source="Malaviyaji" target="Gangabehn Majmundar"/>
+<edge source="Malaviyaji" target="Babasaheb Soman"/>
+<edge source="Malaviyaji" target="Gangadharrao"/>
+<edge source="Malaviyaji" target="Dada Abdulla"/>
+<edge source="Malaviyaji" target="Polak"/>
+<edge source="Malaviyaji" target="Ramibai Kamdar"/>
+<edge source="Malaviyaji" target="Maulana Mazharul Haq"/>
+<edge source="Malaviyaji" target="Kripalani"/>
+<edge source="Malaviyaji" target="Phadke"/>
+<edge source="Malaviyaji" target="Choithram"/>
+<edge source="Malaviyaji" target="Kitchlu"/>
+<edge source="Malaviyaji" target="Babu Brajkishore Prasad"/>
+<edge source="Malaviyaji" target="Shankarlal Parikh"/>
+<edge source="Malaviyaji" target="Lakshmidas"/>
+<edge source="Malaviyaji" target="Hasrat Saheb"/>
+<edge source="Malaviyaji" target="Devdas"/>
+<edge source="Malaviyaji" target="Mahatma Munshiramji"/>
+<edge source="Malaviyaji" target="Sushil Rudra"/>
+<edge source="Malaviyaji" target="Kalelkar"/>
+<edge source="Malaviyaji" target="Mohanlal"/>
+<edge source="Malaviyaji" target="Janakdharibabu"/>
+<edge source="Malaviyaji" target="Brajkishorebabu"/>
+<edge source="Malaviyaji" target="Thakkar Bapa"/>
+<edge source="Malaviyaji" target="Sharadbabu"/>
+<edge source="Malaviyaji" target="Danibehn"/>
+<edge source="Malaviyaji" target="Amritlal Thakkar"/>
+<edge source="Malaviyaji" target="Jagadanandbabu"/>
+<edge source="Malaviyaji" target="Rajendra Babu"/>
+<edge source="Malaviyaji" target="Deshabandhu"/>
+<edge source="Malaviyaji" target="Chhaganlal Gandhi"/>
+<edge source="Malaviyaji" target="Shrimati Durga Desai"/>
+<edge source="Malaviyaji" target="Ambalal Sarabhai"/>
+<edge source="Malaviyaji" target="Brajkishore Babu"/>
+<edge source="Malaviyaji" target="Malkani"/>
+<edge source="Malaviyaji" target="Babu Dharanidhar Prasad"/>
+<edge source="Malaviyaji" target="Shivji"/>
+<edge source="Malaviyaji" target="Ramdas"/>
+<edge source="Malaviyaji" target="Rajkumar Shukla"/>
+<edge source="Malaviyaji" target="Gokhale"/>
+<edge source="Malaviyaji" target="Chhotalal"/>
+<edge source="Malaviyaji" target="Sorabji Adajania"/>
+<edge source="Malaviyaji" target="Satyapal"/>
+<edge source="Malaviyaji" target="Sinha"/>
+<edge source="Malaviyaji" target="Kelkar"/>
+<edge source="Malaviyaji" target="Umar Sobani"/>
+<edge source="Malaviyaji" target="Chelmsford"/>
+<edge source="Malaviyaji" target="Vaidyanathadham"/>
+<edge source="Malaviyaji" target="Harihar Sharma"/>
+<edge source="Pragji" target="Kasturbai"/>
+<edge source="Michael O'Dwyer" target="Kasturbai"/>
+<edge source="Michael O'Dwyer" target="Jehangir Petit"/>
+<edge source="Michael O'Dwyer" target="Yashvantprasad Desai"/>
+<edge source="Michael O'Dwyer" target="Gaya Babu"/>
+<edge source="Michael O'Dwyer" target="Bepin"/>
+<edge source="Michael O'Dwyer" target="Ramnavmi Prasad"/>
+<edge source="Michael O'Dwyer" target="Edward Gait"/>
+<edge source="Michael O'Dwyer" target="Lala Harkishanlal"/>
+<edge source="Michael O'Dwyer" target="Jivanlal"/>
+<edge source="Michael O'Dwyer" target="Kuhne"/>
+<edge source="Michael O'Dwyer" target="Shrimati Anandibai"/>
+<edge source="Michael O'Dwyer" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Michael O'Dwyer" target="Shrimati Vasumatibehn"/>
+<edge source="Michael O'Dwyer" target="Chintaman"/>
+<edge source="Michael O'Dwyer" target="Patwardhan"/>
+<edge source="Michael O'Dwyer" target="Shambhaubabu"/>
+<edge source="Michael O'Dwyer" target="Nagenbabu"/>
+<edge source="Michael O'Dwyer" target="Kakasaheb"/>
+<edge source="Michael O'Dwyer" target="Gorakhbabu"/>
+<edge source="Michael O'Dwyer" target="Manilal"/>
+<edge source="Michael O'Dwyer" target="Jeramdas"/>
+<edge source="Michael O'Dwyer" target="Gangabehn Majmundar"/>
+<edge source="Michael O'Dwyer" target="Babasaheb Soman"/>
+<edge source="Michael O'Dwyer" target="Gangadharrao"/>
+<edge source="Michael O'Dwyer" target="Dada Abdulla"/>
+<edge source="Michael O'Dwyer" target="Polak"/>
+<edge source="Michael O'Dwyer" target="Ramibai Kamdar"/>
+<edge source="Michael O'Dwyer" target="Maulana Mazharul Haq"/>
+<edge source="Michael O'Dwyer" target="Kripalani"/>
+<edge source="Michael O'Dwyer" target="Phadke"/>
+<edge source="Michael O'Dwyer" target="Choithram"/>
+<edge source="Michael O'Dwyer" target="Kitchlu"/>
+<edge source="Michael O'Dwyer" target="Babu Brajkishore Prasad"/>
+<edge source="Michael O'Dwyer" target="Shankarlal Parikh"/>
+<edge source="Michael O'Dwyer" target="Lakshmidas"/>
+<edge source="Michael O'Dwyer" target="Hasrat Saheb"/>
+<edge source="Michael O'Dwyer" target="Devdas"/>
+<edge source="Michael O'Dwyer" target="Mahatma Munshiramji"/>
+<edge source="Michael O'Dwyer" target="Sushil Rudra"/>
+<edge source="Michael O'Dwyer" target="Kalelkar"/>
+<edge source="Michael O'Dwyer" target="Mohanlal"/>
+<edge source="Michael O'Dwyer" target="Janakdharibabu"/>
+<edge source="Michael O'Dwyer" target="Brajkishorebabu"/>
+<edge source="Michael O'Dwyer" target="Thakkar Bapa"/>
+<edge source="Michael O'Dwyer" target="Sharadbabu"/>
+<edge source="Michael O'Dwyer" target="Danibehn"/>
+<edge source="Michael O'Dwyer" target="Amritlal Thakkar"/>
+<edge source="Michael O'Dwyer" target="Jagadanandbabu"/>
+<edge source="Michael O'Dwyer" target="Rajendra Babu"/>
+<edge source="Michael O'Dwyer" target="Deshabandhu"/>
+<edge source="Michael O'Dwyer" target="Chhaganlal Gandhi"/>
+<edge source="Michael O'Dwyer" target="Shrimati Durga Desai"/>
+<edge source="Michael O'Dwyer" target="Ambalal Sarabhai"/>
+<edge source="Michael O'Dwyer" target="Brajkishore Babu"/>
+<edge source="Michael O'Dwyer" target="Malkani"/>
+<edge source="Michael O'Dwyer" target="Babu Dharanidhar Prasad"/>
+<edge source="Michael O'Dwyer" target="Shivji"/>
+<edge source="Michael O'Dwyer" target="Ramdas"/>
+<edge source="Michael O'Dwyer" target="Rajkumar Shukla"/>
+<edge source="Michael O'Dwyer" target="Gokhale"/>
+<edge source="Michael O'Dwyer" target="Chhotalal"/>
+<edge source="Michael O'Dwyer" target="Sorabji Adajania"/>
+<edge source="Michael O'Dwyer" target="Satyapal"/>
+<edge source="Michael O'Dwyer" target="Sinha"/>
+<edge source="Michael O'Dwyer" target="Kelkar"/>
+<edge source="Michael O'Dwyer" target="Umar Sobani"/>
+<edge source="Michael O'Dwyer" target="Chelmsford"/>
+<edge source="Michael O'Dwyer" target="Vaidyanathadham"/>
+<edge source="Michael O'Dwyer" target="Harihar Sharma"/>
+<edge source="Gaya Babu" target="Kasturbai"/>
+<edge source="Gaya Babu" target="Jehangir Petit"/>
+<edge source="Gaya Babu" target="Yashvantprasad Desai"/>
+<edge source="Gaya Babu" target="Brajkishorebabu"/>
+<edge source="Gaya Babu" target="Bepin"/>
+<edge source="Gaya Babu" target="Ramnavmi Prasad"/>
+<edge source="Gaya Babu" target="Edward Gait"/>
+<edge source="Gaya Babu" target="Lala Harkishanlal"/>
+<edge source="Gaya Babu" target="Jivanlal"/>
+<edge source="Gaya Babu" target="Kuhne"/>
+<edge source="Gaya Babu" target="Shrimati Anandibai"/>
+<edge source="Gaya Babu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Gaya Babu" target="Shrimati Vasumatibehn"/>
+<edge source="Gaya Babu" target="Chintaman"/>
+<edge source="Gaya Babu" target="Patwardhan"/>
+<edge source="Gaya Babu" target="Shambhaubabu"/>
+<edge source="Gaya Babu" target="Nagenbabu"/>
+<edge source="Gaya Babu" target="Kakasaheb"/>
+<edge source="Gaya Babu" target="Gorakhbabu"/>
+<edge source="Gaya Babu" target="Manilal"/>
+<edge source="Gaya Babu" target="Jeramdas"/>
+<edge source="Gaya Babu" target="Gangabehn Majmundar"/>
+<edge source="Gaya Babu" target="Babasaheb Soman"/>
+<edge source="Gaya Babu" target="Gangadharrao"/>
+<edge source="Gaya Babu" target="Dada Abdulla"/>
+<edge source="Gaya Babu" target="Polak"/>
+<edge source="Gaya Babu" target="Ramibai Kamdar"/>
+<edge source="Gaya Babu" target="Maulana Mazharul Haq"/>
+<edge source="Gaya Babu" target="Kripalani"/>
+<edge source="Gaya Babu" target="Phadke"/>
+<edge source="Gaya Babu" target="Choithram"/>
+<edge source="Gaya Babu" target="Kitchlu"/>
+<edge source="Gaya Babu" target="Babu Brajkishore Prasad"/>
+<edge source="Gaya Babu" target="Shankarlal Parikh"/>
+<edge source="Gaya Babu" target="Lakshmidas"/>
+<edge source="Gaya Babu" target="Hasrat Saheb"/>
+<edge source="Gaya Babu" target="Devdas"/>
+<edge source="Gaya Babu" target="Mahatma Munshiramji"/>
+<edge source="Gaya Babu" target="Sushil Rudra"/>
+<edge source="Gaya Babu" target="Kalelkar"/>
+<edge source="Gaya Babu" target="Mohanlal"/>
+<edge source="Gaya Babu" target="Janakdharibabu"/>
+<edge source="Gaya Babu" target="Thakkar Bapa"/>
+<edge source="Gaya Babu" target="Sharadbabu"/>
+<edge source="Gaya Babu" target="Danibehn"/>
+<edge source="Gaya Babu" target="Amritlal Thakkar"/>
+<edge source="Gaya Babu" target="Jagadanandbabu"/>
+<edge source="Gaya Babu" target="Rajendra Babu"/>
+<edge source="Gaya Babu" target="Deshabandhu"/>
+<edge source="Gaya Babu" target="Chhaganlal Gandhi"/>
+<edge source="Gaya Babu" target="Shrimati Durga Desai"/>
+<edge source="Gaya Babu" target="Ambalal Sarabhai"/>
+<edge source="Gaya Babu" target="Brajkishore Babu"/>
+<edge source="Gaya Babu" target="Malkani"/>
+<edge source="Gaya Babu" target="Babu Dharanidhar Prasad"/>
+<edge source="Gaya Babu" target="Shivji"/>
+<edge source="Gaya Babu" target="Ramdas"/>
+<edge source="Gaya Babu" target="Rajkumar Shukla"/>
+<edge source="Gaya Babu" target="Gokhale"/>
+<edge source="Gaya Babu" target="Chhotalal"/>
+<edge source="Gaya Babu" target="Sorabji Adajania"/>
+<edge source="Gaya Babu" target="Satyapal"/>
+<edge source="Gaya Babu" target="Sinha"/>
+<edge source="Gaya Babu" target="Kelkar"/>
+<edge source="Gaya Babu" target="Umar Sobani"/>
+<edge source="Gaya Babu" target="Chelmsford"/>
+<edge source="Gaya Babu" target="Vaidyanathadham"/>
+<edge source="Gaya Babu" target="Harihar Sharma"/>
+<edge source="Bepin" target="Kasturbai"/>
+<edge source="Bepin" target="Jehangir Petit"/>
+<edge source="Bepin" target="Yashvantprasad Desai"/>
+<edge source="Bepin" target="Mahatma Munshiramji"/>
+<edge source="Bepin" target="Ramnavmi Prasad"/>
+<edge source="Bepin" target="Edward Gait"/>
+<edge source="Bepin" target="Lala Harkishanlal"/>
+<edge source="Bepin" target="Jivanlal"/>
+<edge source="Bepin" target="Kuhne"/>
+<edge source="Bepin" target="Shrimati Anandibai"/>
+<edge source="Bepin" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Bepin" target="Shrimati Vasumatibehn"/>
+<edge source="Bepin" target="Chintaman"/>
+<edge source="Bepin" target="Patwardhan"/>
+<edge source="Bepin" target="Shambhaubabu"/>
+<edge source="Bepin" target="Nagenbabu"/>
+<edge source="Bepin" target="Kakasaheb"/>
+<edge source="Bepin" target="Gorakhbabu"/>
+<edge source="Bepin" target="Jeramdas"/>
+<edge source="Bepin" target="Gangabehn Majmundar"/>
+<edge source="Bepin" target="Babasaheb Soman"/>
+<edge source="Bepin" target="Gangadharrao"/>
+<edge source="Bepin" target="Dada Abdulla"/>
+<edge source="Bepin" target="Polak"/>
+<edge source="Bepin" target="Ramibai Kamdar"/>
+<edge source="Bepin" target="Maulana Mazharul Haq"/>
+<edge source="Bepin" target="Kripalani"/>
+<edge source="Bepin" target="Phadke"/>
+<edge source="Bepin" target="Choithram"/>
+<edge source="Bepin" target="Kitchlu"/>
+<edge source="Bepin" target="Babu Brajkishore Prasad"/>
+<edge source="Bepin" target="Shankarlal Parikh"/>
+<edge source="Bepin" target="Lakshmidas"/>
+<edge source="Bepin" target="Hasrat Saheb"/>
+<edge source="Bepin" target="Devdas"/>
+<edge source="Bepin" target="Danibehn"/>
+<edge source="Bepin" target="Sushil Rudra"/>
+<edge source="Bepin" target="Kalelkar"/>
+<edge source="Bepin" target="Mohanlal"/>
+<edge source="Bepin" target="Janakdharibabu"/>
+<edge source="Bepin" target="Brajkishorebabu"/>
+<edge source="Bepin" target="Thakkar Bapa"/>
+<edge source="Bepin" target="Sharadbabu"/>
+<edge source="Bepin" target="Manilal"/>
+<edge source="Bepin" target="Amritlal Thakkar"/>
+<edge source="Bepin" target="Jagadanandbabu"/>
+<edge source="Bepin" target="Rajendra Babu"/>
+<edge source="Bepin" target="Deshabandhu"/>
+<edge source="Bepin" target="Chhaganlal Gandhi"/>
+<edge source="Bepin" target="Shrimati Durga Desai"/>
+<edge source="Bepin" target="Ambalal Sarabhai"/>
+<edge source="Bepin" target="Brajkishore Babu"/>
+<edge source="Bepin" target="Malkani"/>
+<edge source="Bepin" target="Babu Dharanidhar Prasad"/>
+<edge source="Bepin" target="Shivji"/>
+<edge source="Bepin" target="Ramdas"/>
+<edge source="Bepin" target="Rajkumar Shukla"/>
+<edge source="Bepin" target="Gokhale"/>
+<edge source="Bepin" target="Chhotalal"/>
+<edge source="Bepin" target="Sorabji Adajania"/>
+<edge source="Bepin" target="Satyapal"/>
+<edge source="Bepin" target="Sinha"/>
+<edge source="Bepin" target="Kelkar"/>
+<edge source="Bepin" target="Umar Sobani"/>
+<edge source="Bepin" target="Chelmsford"/>
+<edge source="Bepin" target="Vaidyanathadham"/>
+<edge source="Bepin" target="Harihar Sharma"/>
+<edge source="Umar Sobani" target="Kasturbai"/>
+<edge source="Umar Sobani" target="Jehangir Petit"/>
+<edge source="Umar Sobani" target="Yashvantprasad Desai"/>
+<edge source="Umar Sobani" target="Ramnavmi Prasad"/>
+<edge source="Umar Sobani" target="Edward Gait"/>
+<edge source="Umar Sobani" target="Lala Harkishanlal"/>
+<edge source="Umar Sobani" target="Jivanlal"/>
+<edge source="Umar Sobani" target="Kuhne"/>
+<edge source="Umar Sobani" target="Shrimati Anandibai"/>
+<edge source="Umar Sobani" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Umar Sobani" target="Shrimati Vasumatibehn"/>
+<edge source="Umar Sobani" target="Chintaman"/>
+<edge source="Umar Sobani" target="Patwardhan"/>
+<edge source="Umar Sobani" target="Shambhaubabu"/>
+<edge source="Umar Sobani" target="Nagenbabu"/>
+<edge source="Umar Sobani" target="Kakasaheb"/>
+<edge source="Umar Sobani" target="Gorakhbabu"/>
+<edge source="Umar Sobani" target="Manilal"/>
+<edge source="Umar Sobani" target="Jeramdas"/>
+<edge source="Umar Sobani" target="Gangabehn Majmundar"/>
+<edge source="Umar Sobani" target="Babasaheb Soman"/>
+<edge source="Umar Sobani" target="Gangadharrao"/>
+<edge source="Umar Sobani" target="Dada Abdulla"/>
+<edge source="Umar Sobani" target="Polak"/>
+<edge source="Umar Sobani" target="Ramibai Kamdar"/>
+<edge source="Umar Sobani" target="Maulana Mazharul Haq"/>
+<edge source="Umar Sobani" target="Kripalani"/>
+<edge source="Umar Sobani" target="Phadke"/>
+<edge source="Umar Sobani" target="Choithram"/>
+<edge source="Umar Sobani" target="Kitchlu"/>
+<edge source="Umar Sobani" target="Babu Brajkishore Prasad"/>
+<edge source="Umar Sobani" target="Shankarlal Parikh"/>
+<edge source="Umar Sobani" target="Lakshmidas"/>
+<edge source="Umar Sobani" target="Hasrat Saheb"/>
+<edge source="Umar Sobani" target="Devdas"/>
+<edge source="Umar Sobani" target="Mahatma Munshiramji"/>
+<edge source="Umar Sobani" target="Sushil Rudra"/>
+<edge source="Umar Sobani" target="Kalelkar"/>
+<edge source="Umar Sobani" target="Mohanlal"/>
+<edge source="Umar Sobani" target="Janakdharibabu"/>
+<edge source="Umar Sobani" target="Brajkishorebabu"/>
+<edge source="Umar Sobani" target="Thakkar Bapa"/>
+<edge source="Umar Sobani" target="Sharadbabu"/>
+<edge source="Umar Sobani" target="Danibehn"/>
+<edge source="Umar Sobani" target="Amritlal Thakkar"/>
+<edge source="Umar Sobani" target="Jagadanandbabu"/>
+<edge source="Umar Sobani" target="Rajendra Babu"/>
+<edge source="Umar Sobani" target="Deshabandhu"/>
+<edge source="Umar Sobani" target="Chhaganlal Gandhi"/>
+<edge source="Umar Sobani" target="Shrimati Durga Desai"/>
+<edge source="Umar Sobani" target="Ambalal Sarabhai"/>
+<edge source="Umar Sobani" target="Brajkishore Babu"/>
+<edge source="Umar Sobani" target="Malkani"/>
+<edge source="Umar Sobani" target="Babu Dharanidhar Prasad"/>
+<edge source="Umar Sobani" target="Shivji"/>
+<edge source="Umar Sobani" target="Ramdas"/>
+<edge source="Umar Sobani" target="Rajkumar Shukla"/>
+<edge source="Umar Sobani" target="Gokhale"/>
+<edge source="Umar Sobani" target="Chhotalal"/>
+<edge source="Umar Sobani" target="Sorabji Adajania"/>
+<edge source="Umar Sobani" target="Satyapal"/>
+<edge source="Umar Sobani" target="Sinha"/>
+<edge source="Umar Sobani" target="Kelkar"/>
+<edge source="Umar Sobani" target="Chelmsford"/>
+<edge source="Umar Sobani" target="Vaidyanathadham"/>
+<edge source="Umar Sobani" target="Harihar Sharma"/>
+<edge source="Edward Gait" target="Kasturbai"/>
+<edge source="Edward Gait" target="Jehangir Petit"/>
+<edge source="Edward Gait" target="Yashvantprasad Desai"/>
+<edge source="Edward Gait" target="Ramnavmi Prasad"/>
+<edge source="Edward Gait" target="Lala Harkishanlal"/>
+<edge source="Edward Gait" target="Jivanlal"/>
+<edge source="Edward Gait" target="Kuhne"/>
+<edge source="Edward Gait" target="Shrimati Anandibai"/>
+<edge source="Edward Gait" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Edward Gait" target="Shrimati Vasumatibehn"/>
+<edge source="Edward Gait" target="Chintaman"/>
+<edge source="Edward Gait" target="Patwardhan"/>
+<edge source="Edward Gait" target="Shambhaubabu"/>
+<edge source="Edward Gait" target="Nagenbabu"/>
+<edge source="Edward Gait" target="Kakasaheb"/>
+<edge source="Edward Gait" target="Gorakhbabu"/>
+<edge source="Edward Gait" target="Manilal"/>
+<edge source="Edward Gait" target="Jeramdas"/>
+<edge source="Edward Gait" target="Gangabehn Majmundar"/>
+<edge source="Edward Gait" target="Babasaheb Soman"/>
+<edge source="Edward Gait" target="Gangadharrao"/>
+<edge source="Edward Gait" target="Dada Abdulla"/>
+<edge source="Edward Gait" target="Polak"/>
+<edge source="Edward Gait" target="Ramibai Kamdar"/>
+<edge source="Edward Gait" target="Maulana Mazharul Haq"/>
+<edge source="Edward Gait" target="Kripalani"/>
+<edge source="Edward Gait" target="Phadke"/>
+<edge source="Edward Gait" target="Choithram"/>
+<edge source="Edward Gait" target="Kitchlu"/>
+<edge source="Edward Gait" target="Babu Brajkishore Prasad"/>
+<edge source="Edward Gait" target="Shankarlal Parikh"/>
+<edge source="Edward Gait" target="Lakshmidas"/>
+<edge source="Edward Gait" target="Hasrat Saheb"/>
+<edge source="Edward Gait" target="Devdas"/>
+<edge source="Edward Gait" target="Mahatma Munshiramji"/>
+<edge source="Edward Gait" target="Sushil Rudra"/>
+<edge source="Edward Gait" target="Gokhale"/>
+<edge source="Edward Gait" target="Kalelkar"/>
+<edge source="Edward Gait" target="Mohanlal"/>
+<edge source="Edward Gait" target="Janakdharibabu"/>
+<edge source="Edward Gait" target="Brajkishorebabu"/>
+<edge source="Edward Gait" target="Thakkar Bapa"/>
+<edge source="Edward Gait" target="Sharadbabu"/>
+<edge source="Edward Gait" target="Danibehn"/>
+<edge source="Edward Gait" target="Amritlal Thakkar"/>
+<edge source="Edward Gait" target="Jagadanandbabu"/>
+<edge source="Edward Gait" target="Rajendra Babu"/>
+<edge source="Edward Gait" target="Deshabandhu"/>
+<edge source="Edward Gait" target="Chhaganlal Gandhi"/>
+<edge source="Edward Gait" target="Shrimati Durga Desai"/>
+<edge source="Edward Gait" target="Ambalal Sarabhai"/>
+<edge source="Edward Gait" target="Brajkishore Babu"/>
+<edge source="Edward Gait" target="Malkani"/>
+<edge source="Edward Gait" target="Babu Dharanidhar Prasad"/>
+<edge source="Edward Gait" target="Shivji"/>
+<edge source="Edward Gait" target="Ramdas"/>
+<edge source="Edward Gait" target="Rajkumar Shukla"/>
+<edge source="Edward Gait" target="Chhotalal"/>
+<edge source="Edward Gait" target="Sorabji Adajania"/>
+<edge source="Edward Gait" target="Satyapal"/>
+<edge source="Edward Gait" target="Sinha"/>
+<edge source="Edward Gait" target="Kelkar"/>
+<edge source="Edward Gait" target="Chelmsford"/>
+<edge source="Edward Gait" target="Vaidyanathadham"/>
+<edge source="Edward Gait" target="Harihar Sharma"/>
+<edge source="Kuhne" target="Jeramdas"/>
+<edge source="Kuhne" target="Jehangir Petit"/>
+<edge source="Kuhne" target="Yashvantprasad Desai"/>
+<edge source="Kuhne" target="Kasturbai"/>
+<edge source="Kuhne" target="Dada Abdulla"/>
+<edge source="Kuhne" target="Ramnavmi Prasad"/>
+<edge source="Kuhne" target="Chelmsford"/>
+<edge source="Kuhne" target="Lala Harkishanlal"/>
+<edge source="Kuhne" target="Jivanlal"/>
+<edge source="Kuhne" target="Danibehn"/>
+<edge source="Kuhne" target="Shrimati Anandibai"/>
+<edge source="Kuhne" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kuhne" target="Chintaman"/>
+<edge source="Kuhne" target="Patwardhan"/>
+<edge source="Kuhne" target="Shambhaubabu"/>
+<edge source="Kuhne" target="Nagenbabu"/>
+<edge source="Kuhne" target="Shrimati Vasumatibehn"/>
+<edge source="Kuhne" target="Kakasaheb"/>
+<edge source="Kuhne" target="Gorakhbabu"/>
+<edge source="Kuhne" target="Gangabehn Majmundar"/>
+<edge source="Kuhne" target="Babasaheb Soman"/>
+<edge source="Kuhne" target="Gangadharrao"/>
+<edge source="Kuhne" target="Polak"/>
+<edge source="Kuhne" target="Ramibai Kamdar"/>
+<edge source="Kuhne" target="Maulana Mazharul Haq"/>
+<edge source="Kuhne" target="Kripalani"/>
+<edge source="Kuhne" target="Mahatma Munshiramji"/>
+<edge source="Kuhne" target="Phadke"/>
+<edge source="Kuhne" target="Choithram"/>
+<edge source="Kuhne" target="Kitchlu"/>
+<edge source="Kuhne" target="Babu Brajkishore Prasad"/>
+<edge source="Kuhne" target="Shankarlal Parikh"/>
+<edge source="Kuhne" target="Lakshmidas"/>
+<edge source="Kuhne" target="Hasrat Saheb"/>
+<edge source="Kuhne" target="Devdas"/>
+<edge source="Kuhne" target="Sushil Rudra"/>
+<edge source="Kuhne" target="Gokhale"/>
+<edge source="Kuhne" target="Ambalal Sarabhai"/>
+<edge source="Kuhne" target="Mohanlal"/>
+<edge source="Kuhne" target="Janakdharibabu"/>
+<edge source="Kuhne" target="Brajkishorebabu"/>
+<edge source="Kuhne" target="Thakkar Bapa"/>
+<edge source="Kuhne" target="Sharadbabu"/>
+<edge source="Kuhne" target="Manilal"/>
+<edge source="Kuhne" target="Amritlal Thakkar"/>
+<edge source="Kuhne" target="Jagadanandbabu"/>
+<edge source="Kuhne" target="Rajendra Babu"/>
+<edge source="Kuhne" target="Deshabandhu"/>
+<edge source="Kuhne" target="Chhaganlal Gandhi"/>
+<edge source="Kuhne" target="Shrimati Durga Desai"/>
+<edge source="Kuhne" target="Sorabji Adajania"/>
+<edge source="Kuhne" target="Brajkishore Babu"/>
+<edge source="Kuhne" target="Malkani"/>
+<edge source="Kuhne" target="Babu Dharanidhar Prasad"/>
+<edge source="Kuhne" target="Ramdas"/>
+<edge source="Kuhne" target="Rajkumar Shukla"/>
+<edge source="Kuhne" target="Chhotalal"/>
+<edge source="Kuhne" target="Satyapal"/>
+<edge source="Kuhne" target="Sinha"/>
+<edge source="Kuhne" target="Kelkar"/>
+<edge source="Kuhne" target="Shivji"/>
+<edge source="Kuhne" target="Kalelkar"/>
+<edge source="Kuhne" target="Vaidyanathadham"/>
+<edge source="Kuhne" target="Harihar Sharma"/>
+<edge source="Sorabji Adajania" target="Jeramdas"/>
+<edge source="Sorabji Adajania" target="Jehangir Petit"/>
+<edge source="Sorabji Adajania" target="Yashvantprasad Desai"/>
+<edge source="Sorabji Adajania" target="Kasturbai"/>
+<edge source="Sorabji Adajania" target="Dada Abdulla"/>
+<edge source="Sorabji Adajania" target="Ramnavmi Prasad"/>
+<edge source="Sorabji Adajania" target="Lala Harkishanlal"/>
+<edge source="Sorabji Adajania" target="Jivanlal"/>
+<edge source="Sorabji Adajania" target="Shrimati Anandibai"/>
+<edge source="Sorabji Adajania" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Sorabji Adajania" target="Chintaman"/>
+<edge source="Sorabji Adajania" target="Patwardhan"/>
+<edge source="Sorabji Adajania" target="Shambhaubabu"/>
+<edge source="Sorabji Adajania" target="Nagenbabu"/>
+<edge source="Sorabji Adajania" target="Shrimati Vasumatibehn"/>
+<edge source="Sorabji Adajania" target="Kakasaheb"/>
+<edge source="Sorabji Adajania" target="Gorakhbabu"/>
+<edge source="Sorabji Adajania" target="Gangabehn Majmundar"/>
+<edge source="Sorabji Adajania" target="Babasaheb Soman"/>
+<edge source="Sorabji Adajania" target="Gangadharrao"/>
+<edge source="Sorabji Adajania" target="Polak"/>
+<edge source="Sorabji Adajania" target="Ramibai Kamdar"/>
+<edge source="Sorabji Adajania" target="Maulana Mazharul Haq"/>
+<edge source="Sorabji Adajania" target="Kripalani"/>
+<edge source="Sorabji Adajania" target="Mahatma Munshiramji"/>
+<edge source="Sorabji Adajania" target="Phadke"/>
+<edge source="Sorabji Adajania" target="Choithram"/>
+<edge source="Sorabji Adajania" target="Kitchlu"/>
+<edge source="Sorabji Adajania" target="Babu Brajkishore Prasad"/>
+<edge source="Sorabji Adajania" target="Shankarlal Parikh"/>
+<edge source="Sorabji Adajania" target="Lakshmidas"/>
+<edge source="Sorabji Adajania" target="Hasrat Saheb"/>
+<edge source="Sorabji Adajania" target="Devdas"/>
+<edge source="Sorabji Adajania" target="Sushil Rudra"/>
+<edge source="Sorabji Adajania" target="Gokhale"/>
+<edge source="Sorabji Adajania" target="Kalelkar"/>
+<edge source="Sorabji Adajania" target="Mohanlal"/>
+<edge source="Sorabji Adajania" target="Janakdharibabu"/>
+<edge source="Sorabji Adajania" target="Brajkishorebabu"/>
+<edge source="Sorabji Adajania" target="Thakkar Bapa"/>
+<edge source="Sorabji Adajania" target="Sharadbabu"/>
+<edge source="Sorabji Adajania" target="Manilal"/>
+<edge source="Sorabji Adajania" target="Amritlal Thakkar"/>
+<edge source="Sorabji Adajania" target="Jagadanandbabu"/>
+<edge source="Sorabji Adajania" target="Rajendra Babu"/>
+<edge source="Sorabji Adajania" target="Deshabandhu"/>
+<edge source="Sorabji Adajania" target="Chhaganlal Gandhi"/>
+<edge source="Sorabji Adajania" target="Shrimati Durga Desai"/>
+<edge source="Sorabji Adajania" target="Ambalal Sarabhai"/>
+<edge source="Sorabji Adajania" target="Brajkishore Babu"/>
+<edge source="Sorabji Adajania" target="Malkani"/>
+<edge source="Sorabji Adajania" target="Babu Dharanidhar Prasad"/>
+<edge source="Sorabji Adajania" target="Ramdas"/>
+<edge source="Sorabji Adajania" target="Rajkumar Shukla"/>
+<edge source="Sorabji Adajania" target="Chhotalal"/>
+<edge source="Sorabji Adajania" target="Satyapal"/>
+<edge source="Sorabji Adajania" target="Sinha"/>
+<edge source="Sorabji Adajania" target="Kelkar"/>
+<edge source="Sorabji Adajania" target="Shivji"/>
+<edge source="Sorabji Adajania" target="Danibehn"/>
+<edge source="Sorabji Adajania" target="Chelmsford"/>
+<edge source="Sorabji Adajania" target="Vaidyanathadham"/>
+<edge source="Sorabji Adajania" target="Harihar Sharma"/>
+<edge source="Shambhaubabu" target="Kasturbai"/>
+<edge source="Shambhaubabu" target="Jehangir Petit"/>
+<edge source="Shambhaubabu" target="Yashvantprasad Desai"/>
+<edge source="Shambhaubabu" target="Ramnavmi Prasad"/>
+<edge source="Shambhaubabu" target="Lala Harkishanlal"/>
+<edge source="Shambhaubabu" target="Jivanlal"/>
+<edge source="Shambhaubabu" target="Shrimati Anandibai"/>
+<edge source="Shambhaubabu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Shambhaubabu" target="Shrimati Vasumatibehn"/>
+<edge source="Shambhaubabu" target="Chintaman"/>
+<edge source="Shambhaubabu" target="Patwardhan"/>
+<edge source="Shambhaubabu" target="Nagenbabu"/>
+<edge source="Shambhaubabu" target="Kakasaheb"/>
+<edge source="Shambhaubabu" target="Gorakhbabu"/>
+<edge source="Shambhaubabu" target="Manilal"/>
+<edge source="Shambhaubabu" target="Jeramdas"/>
+<edge source="Shambhaubabu" target="Gangabehn Majmundar"/>
+<edge source="Shambhaubabu" target="Babasaheb Soman"/>
+<edge source="Shambhaubabu" target="Gangadharrao"/>
+<edge source="Shambhaubabu" target="Dada Abdulla"/>
+<edge source="Shambhaubabu" target="Polak"/>
+<edge source="Shambhaubabu" target="Ramibai Kamdar"/>
+<edge source="Shambhaubabu" target="Maulana Mazharul Haq"/>
+<edge source="Shambhaubabu" target="Kripalani"/>
+<edge source="Shambhaubabu" target="Phadke"/>
+<edge source="Shambhaubabu" target="Choithram"/>
+<edge source="Shambhaubabu" target="Kitchlu"/>
+<edge source="Shambhaubabu" target="Babu Brajkishore Prasad"/>
+<edge source="Shambhaubabu" target="Shankarlal Parikh"/>
+<edge source="Shambhaubabu" target="Lakshmidas"/>
+<edge source="Shambhaubabu" target="Hasrat Saheb"/>
+<edge source="Shambhaubabu" target="Devdas"/>
+<edge source="Shambhaubabu" target="Mahatma Munshiramji"/>
+<edge source="Shambhaubabu" target="Sushil Rudra"/>
+<edge source="Shambhaubabu" target="Kalelkar"/>
+<edge source="Shambhaubabu" target="Mohanlal"/>
+<edge source="Shambhaubabu" target="Janakdharibabu"/>
+<edge source="Shambhaubabu" target="Brajkishorebabu"/>
+<edge source="Shambhaubabu" target="Thakkar Bapa"/>
+<edge source="Shambhaubabu" target="Sharadbabu"/>
+<edge source="Shambhaubabu" target="Danibehn"/>
+<edge source="Shambhaubabu" target="Amritlal Thakkar"/>
+<edge source="Shambhaubabu" target="Jagadanandbabu"/>
+<edge source="Shambhaubabu" target="Rajendra Babu"/>
+<edge source="Shambhaubabu" target="Deshabandhu"/>
+<edge source="Shambhaubabu" target="Chhaganlal Gandhi"/>
+<edge source="Shambhaubabu" target="Shrimati Durga Desai"/>
+<edge source="Shambhaubabu" target="Ambalal Sarabhai"/>
+<edge source="Shambhaubabu" target="Brajkishore Babu"/>
+<edge source="Shambhaubabu" target="Malkani"/>
+<edge source="Shambhaubabu" target="Babu Dharanidhar Prasad"/>
+<edge source="Shambhaubabu" target="Shivji"/>
+<edge source="Shambhaubabu" target="Ramdas"/>
+<edge source="Shambhaubabu" target="Rajkumar Shukla"/>
+<edge source="Shambhaubabu" target="Gokhale"/>
+<edge source="Shambhaubabu" target="Chhotalal"/>
+<edge source="Shambhaubabu" target="Satyapal"/>
+<edge source="Shambhaubabu" target="Sinha"/>
+<edge source="Shambhaubabu" target="Kelkar"/>
+<edge source="Shambhaubabu" target="Chelmsford"/>
+<edge source="Shambhaubabu" target="Vaidyanathadham"/>
+<edge source="Shambhaubabu" target="Harihar Sharma"/>
+<edge source="Shrimati Vasumatibehn" target="Kasturbai"/>
+<edge source="Shrimati Vasumatibehn" target="Jehangir Petit"/>
+<edge source="Shrimati Vasumatibehn" target="Yashvantprasad Desai"/>
+<edge source="Shrimati Vasumatibehn" target="Ramnavmi Prasad"/>
+<edge source="Shrimati Vasumatibehn" target="Lala Harkishanlal"/>
+<edge source="Shrimati Vasumatibehn" target="Jivanlal"/>
+<edge source="Shrimati Vasumatibehn" target="Shrimati Anandibai"/>
+<edge source="Shrimati Vasumatibehn" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Shrimati Vasumatibehn" target="Chintaman"/>
+<edge source="Shrimati Vasumatibehn" target="Patwardhan"/>
+<edge source="Shrimati Vasumatibehn" target="Nagenbabu"/>
+<edge source="Shrimati Vasumatibehn" target="Brajkishorebabu"/>
+<edge source="Shrimati Vasumatibehn" target="Kakasaheb"/>
+<edge source="Shrimati Vasumatibehn" target="Gorakhbabu"/>
+<edge source="Shrimati Vasumatibehn" target="Manilal"/>
+<edge source="Shrimati Vasumatibehn" target="Jeramdas"/>
+<edge source="Shrimati Vasumatibehn" target="Gangabehn Majmundar"/>
+<edge source="Shrimati Vasumatibehn" target="Babasaheb Soman"/>
+<edge source="Shrimati Vasumatibehn" target="Gangadharrao"/>
+<edge source="Shrimati Vasumatibehn" target="Dada Abdulla"/>
+<edge source="Shrimati Vasumatibehn" target="Polak"/>
+<edge source="Shrimati Vasumatibehn" target="Ramibai Kamdar"/>
+<edge source="Shrimati Vasumatibehn" target="Maulana Mazharul Haq"/>
+<edge source="Shrimati Vasumatibehn" target="Kripalani"/>
+<edge source="Shrimati Vasumatibehn" target="Phadke"/>
+<edge source="Shrimati Vasumatibehn" target="Choithram"/>
+<edge source="Shrimati Vasumatibehn" target="Kitchlu"/>
+<edge source="Shrimati Vasumatibehn" target="Babu Brajkishore Prasad"/>
+<edge source="Shrimati Vasumatibehn" target="Shankarlal Parikh"/>
+<edge source="Shrimati Vasumatibehn" target="Lakshmidas"/>
+<edge source="Shrimati Vasumatibehn" target="Hasrat Saheb"/>
+<edge source="Shrimati Vasumatibehn" target="Devdas"/>
+<edge source="Shrimati Vasumatibehn" target="Mahatma Munshiramji"/>
+<edge source="Shrimati Vasumatibehn" target="Sushil Rudra"/>
+<edge source="Shrimati Vasumatibehn" target="Kalelkar"/>
+<edge source="Shrimati Vasumatibehn" target="Mohanlal"/>
+<edge source="Shrimati Vasumatibehn" target="Janakdharibabu"/>
+<edge source="Shrimati Vasumatibehn" target="Thakkar Bapa"/>
+<edge source="Shrimati Vasumatibehn" target="Sharadbabu"/>
+<edge source="Shrimati Vasumatibehn" target="Danibehn"/>
+<edge source="Shrimati Vasumatibehn" target="Amritlal Thakkar"/>
+<edge source="Shrimati Vasumatibehn" target="Jagadanandbabu"/>
+<edge source="Shrimati Vasumatibehn" target="Rajendra Babu"/>
+<edge source="Shrimati Vasumatibehn" target="Deshabandhu"/>
+<edge source="Shrimati Vasumatibehn" target="Chhaganlal Gandhi"/>
+<edge source="Shrimati Vasumatibehn" target="Shrimati Durga Desai"/>
+<edge source="Shrimati Vasumatibehn" target="Ambalal Sarabhai"/>
+<edge source="Shrimati Vasumatibehn" target="Brajkishore Babu"/>
+<edge source="Shrimati Vasumatibehn" target="Malkani"/>
+<edge source="Shrimati Vasumatibehn" target="Babu Dharanidhar Prasad"/>
+<edge source="Shrimati Vasumatibehn" target="Shivji"/>
+<edge source="Shrimati Vasumatibehn" target="Ramdas"/>
+<edge source="Shrimati Vasumatibehn" target="Rajkumar Shukla"/>
+<edge source="Shrimati Vasumatibehn" target="Gokhale"/>
+<edge source="Shrimati Vasumatibehn" target="Chhotalal"/>
+<edge source="Shrimati Vasumatibehn" target="Satyapal"/>
+<edge source="Shrimati Vasumatibehn" target="Sinha"/>
+<edge source="Shrimati Vasumatibehn" target="Kelkar"/>
+<edge source="Shrimati Vasumatibehn" target="Chelmsford"/>
+<edge source="Shrimati Vasumatibehn" target="Vaidyanathadham"/>
+<edge source="Shrimati Vasumatibehn" target="Harihar Sharma"/>
+<edge source="Jeramdas" target="Gangabehn Majmundar"/>
+<edge source="Jeramdas" target="Ranade"/>
+<edge source="Jeramdas" target="Babasaheb Soman"/>
+<edge source="Jeramdas" target="Kelkar"/>
+<edge source="Jeramdas" target="Maulana Mazharul Haq"/>
+<edge source="Jeramdas" target="Kripalani"/>
+<edge source="Jeramdas" target="Phadke"/>
+<edge source="Jeramdas" target="Valji"/>
+<edge source="Jeramdas" target="Shankarlal Parikh"/>
+<edge source="Jeramdas" target="Chhotalal"/>
+<edge source="Jeramdas" target="Hasrat Saheb"/>
+<edge source="Jeramdas" target="Devdas"/>
+<edge source="Jeramdas" target="Danibehn"/>
+<edge source="Jeramdas" target="Sushil Rudra"/>
+<edge source="Jeramdas" target="Janakdharibabu"/>
+<edge source="Jeramdas" target="Maganlal"/>
+<edge source="Jeramdas" target="Amritlal Thakkar"/>
+<edge source="Jeramdas" target="Jagadanandbabu"/>
+<edge source="Jeramdas" target="Ambalal Sarabhai"/>
+<edge source="Jeramdas" target="Mohanlal"/>
+<edge source="Jeramdas" target="Yashvantprasad Desai"/>
+<edge source="Jeramdas" target="Dada Abdulla"/>
+<edge source="Jeramdas" target="Ramnavmi Prasad"/>
+<edge source="Jeramdas" target="Lala Harkishanlal"/>
+<edge source="Jeramdas" target="Kakasaheb"/>
+<edge source="Jeramdas" target="Gorakhbabu"/>
+<edge source="Jeramdas" target="Gangadharrao"/>
+<edge source="Jeramdas" target="Allinson"/>
+<edge source="Jeramdas" target="Ramibai Kamdar"/>
+<edge source="Jeramdas" target="Choithram"/>
+<edge source="Jeramdas" target="Kitchlu"/>
+<edge source="Jeramdas" target="Mahatma Munshiramji"/>
+<edge source="Jeramdas" target="Gokhale"/>
+<edge source="Jeramdas" target="Babu Brajkishore Prasad"/>
+<edge source="Jeramdas" target="Sharadbabu"/>
+<edge source="Jeramdas" target="Chintaman"/>
+<edge source="Jeramdas" target="Manilal"/>
+<edge source="Jeramdas" target="Chhaganlal Gandhi"/>
+<edge source="Jeramdas" target="Kalelkar"/>
+<edge source="Jeramdas" target="Shivji"/>
+<edge source="Jeramdas" target="Sinha"/>
+<edge source="Jeramdas" target="Patwardhan"/>
+<edge source="Jeramdas" target="Babu Dharanidhar Prasad"/>
+<edge source="Jeramdas" target="Chelmsford"/>
+<edge source="Jeramdas" target="Kasturbai"/>
+<edge source="Jeramdas" target="Jehangir Petit"/>
+<edge source="Jeramdas" target="Jivanlal"/>
+<edge source="Jeramdas" target="Shrimati Anandibai"/>
+<edge source="Jeramdas" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Jeramdas" target="Nishkulanand"/>
+<edge source="Jeramdas" target="Rajkumar Shukla"/>
+<edge source="Jeramdas" target="Malkani"/>
+<edge source="Jeramdas" target="Polak"/>
+<edge source="Jeramdas" target="Vaidyanathadham"/>
+<edge source="Jeramdas" target="Lakshmidas"/>
+<edge source="Jeramdas" target="Brajkishorebabu"/>
+<edge source="Jeramdas" target="Harihar Sharma"/>
+<edge source="Jeramdas" target="Thakkar Bapa"/>
+<edge source="Jeramdas" target="Deshabandhu"/>
+<edge source="Jeramdas" target="Rajendra Babu"/>
+<edge source="Jeramdas" target="Shrimati Durga Desai"/>
+<edge source="Jeramdas" target="Brajkishore Babu"/>
+<edge source="Jeramdas" target="Ramdas"/>
+<edge source="Jeramdas" target="Satyapal"/>
+<edge source="Jeramdas" target="Nagenbabu"/>
+<edge source="Jeramdas" target="Hermann Kallenbach"/>
+<edge source="Gangabehn Majmundar" target="Kasturbai"/>
+<edge source="Gangabehn Majmundar" target="Jehangir Petit"/>
+<edge source="Gangabehn Majmundar" target="Yashvantprasad Desai"/>
+<edge source="Gangabehn Majmundar" target="Ramnavmi Prasad"/>
+<edge source="Gangabehn Majmundar" target="Lala Harkishanlal"/>
+<edge source="Gangabehn Majmundar" target="Jivanlal"/>
+<edge source="Gangabehn Majmundar" target="Shrimati Anandibai"/>
+<edge source="Gangabehn Majmundar" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Gangabehn Majmundar" target="Chintaman"/>
+<edge source="Gangabehn Majmundar" target="Patwardhan"/>
+<edge source="Gangabehn Majmundar" target="Kakasaheb"/>
+<edge source="Gangabehn Majmundar" target="Gorakhbabu"/>
+<edge source="Gangabehn Majmundar" target="Manilal"/>
+<edge source="Gangabehn Majmundar" target="Nagenbabu"/>
+<edge source="Gangabehn Majmundar" target="Babasaheb Soman"/>
+<edge source="Gangabehn Majmundar" target="Gangadharrao"/>
+<edge source="Gangabehn Majmundar" target="Dada Abdulla"/>
+<edge source="Gangabehn Majmundar" target="Polak"/>
+<edge source="Gangabehn Majmundar" target="Ramibai Kamdar"/>
+<edge source="Gangabehn Majmundar" target="Maulana Mazharul Haq"/>
+<edge source="Gangabehn Majmundar" target="Kripalani"/>
+<edge source="Gangabehn Majmundar" target="Phadke"/>
+<edge source="Gangabehn Majmundar" target="Choithram"/>
+<edge source="Gangabehn Majmundar" target="Kitchlu"/>
+<edge source="Gangabehn Majmundar" target="Babu Brajkishore Prasad"/>
+<edge source="Gangabehn Majmundar" target="Shankarlal Parikh"/>
+<edge source="Gangabehn Majmundar" target="Lakshmidas"/>
+<edge source="Gangabehn Majmundar" target="Hasrat Saheb"/>
+<edge source="Gangabehn Majmundar" target="Devdas"/>
+<edge source="Gangabehn Majmundar" target="Mahatma Munshiramji"/>
+<edge source="Gangabehn Majmundar" target="Sushil Rudra"/>
+<edge source="Gangabehn Majmundar" target="Kalelkar"/>
+<edge source="Gangabehn Majmundar" target="Mohanlal"/>
+<edge source="Gangabehn Majmundar" target="Janakdharibabu"/>
+<edge source="Gangabehn Majmundar" target="Brajkishorebabu"/>
+<edge source="Gangabehn Majmundar" target="Thakkar Bapa"/>
+<edge source="Gangabehn Majmundar" target="Sharadbabu"/>
+<edge source="Gangabehn Majmundar" target="Danibehn"/>
+<edge source="Gangabehn Majmundar" target="Amritlal Thakkar"/>
+<edge source="Gangabehn Majmundar" target="Jagadanandbabu"/>
+<edge source="Gangabehn Majmundar" target="Rajendra Babu"/>
+<edge source="Gangabehn Majmundar" target="Deshabandhu"/>
+<edge source="Gangabehn Majmundar" target="Chhaganlal Gandhi"/>
+<edge source="Gangabehn Majmundar" target="Shrimati Durga Desai"/>
+<edge source="Gangabehn Majmundar" target="Ambalal Sarabhai"/>
+<edge source="Gangabehn Majmundar" target="Brajkishore Babu"/>
+<edge source="Gangabehn Majmundar" target="Malkani"/>
+<edge source="Gangabehn Majmundar" target="Babu Dharanidhar Prasad"/>
+<edge source="Gangabehn Majmundar" target="Shivji"/>
+<edge source="Gangabehn Majmundar" target="Ramdas"/>
+<edge source="Gangabehn Majmundar" target="Rajkumar Shukla"/>
+<edge source="Gangabehn Majmundar" target="Gokhale"/>
+<edge source="Gangabehn Majmundar" target="Chhotalal"/>
+<edge source="Gangabehn Majmundar" target="Satyapal"/>
+<edge source="Gangabehn Majmundar" target="Sinha"/>
+<edge source="Gangabehn Majmundar" target="Kelkar"/>
+<edge source="Gangabehn Majmundar" target="Chelmsford"/>
+<edge source="Gangabehn Majmundar" target="Vaidyanathadham"/>
+<edge source="Gangabehn Majmundar" target="Harihar Sharma"/>
+<edge source="Ranade" target="Valji"/>
+<edge source="Ranade" target="Gokhale"/>
+<edge source="Ranade" target="Allinson"/>
+<edge source="Ranade" target="Maganlal"/>
+<edge source="Ranade" target="Hermann Kallenbach"/>
+<edge source="Ranade" target="Nishkulanand"/>
+<edge source="Babasaheb Soman" target="Kasturbai"/>
+<edge source="Babasaheb Soman" target="Jehangir Petit"/>
+<edge source="Babasaheb Soman" target="Yashvantprasad Desai"/>
+<edge source="Babasaheb Soman" target="Ramnavmi Prasad"/>
+<edge source="Babasaheb Soman" target="Lala Harkishanlal"/>
+<edge source="Babasaheb Soman" target="Jivanlal"/>
+<edge source="Babasaheb Soman" target="Shrimati Anandibai"/>
+<edge source="Babasaheb Soman" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Babasaheb Soman" target="Chintaman"/>
+<edge source="Babasaheb Soman" target="Patwardhan"/>
+<edge source="Babasaheb Soman" target="Nagenbabu"/>
+<edge source="Babasaheb Soman" target="Kakasaheb"/>
+<edge source="Babasaheb Soman" target="Gorakhbabu"/>
+<edge source="Babasaheb Soman" target="Manilal"/>
+<edge source="Babasaheb Soman" target="Gangadharrao"/>
+<edge source="Babasaheb Soman" target="Dada Abdulla"/>
+<edge source="Babasaheb Soman" target="Polak"/>
+<edge source="Babasaheb Soman" target="Ramibai Kamdar"/>
+<edge source="Babasaheb Soman" target="Maulana Mazharul Haq"/>
+<edge source="Babasaheb Soman" target="Kripalani"/>
+<edge source="Babasaheb Soman" target="Phadke"/>
+<edge source="Babasaheb Soman" target="Choithram"/>
+<edge source="Babasaheb Soman" target="Kitchlu"/>
+<edge source="Babasaheb Soman" target="Babu Brajkishore Prasad"/>
+<edge source="Babasaheb Soman" target="Shankarlal Parikh"/>
+<edge source="Babasaheb Soman" target="Lakshmidas"/>
+<edge source="Babasaheb Soman" target="Hasrat Saheb"/>
+<edge source="Babasaheb Soman" target="Devdas"/>
+<edge source="Babasaheb Soman" target="Mahatma Munshiramji"/>
+<edge source="Babasaheb Soman" target="Sushil Rudra"/>
+<edge source="Babasaheb Soman" target="Kalelkar"/>
+<edge source="Babasaheb Soman" target="Mohanlal"/>
+<edge source="Babasaheb Soman" target="Janakdharibabu"/>
+<edge source="Babasaheb Soman" target="Brajkishorebabu"/>
+<edge source="Babasaheb Soman" target="Thakkar Bapa"/>
+<edge source="Babasaheb Soman" target="Sharadbabu"/>
+<edge source="Babasaheb Soman" target="Danibehn"/>
+<edge source="Babasaheb Soman" target="Amritlal Thakkar"/>
+<edge source="Babasaheb Soman" target="Jagadanandbabu"/>
+<edge source="Babasaheb Soman" target="Rajendra Babu"/>
+<edge source="Babasaheb Soman" target="Deshabandhu"/>
+<edge source="Babasaheb Soman" target="Chhaganlal Gandhi"/>
+<edge source="Babasaheb Soman" target="Shrimati Durga Desai"/>
+<edge source="Babasaheb Soman" target="Ambalal Sarabhai"/>
+<edge source="Babasaheb Soman" target="Brajkishore Babu"/>
+<edge source="Babasaheb Soman" target="Malkani"/>
+<edge source="Babasaheb Soman" target="Babu Dharanidhar Prasad"/>
+<edge source="Babasaheb Soman" target="Shivji"/>
+<edge source="Babasaheb Soman" target="Ramdas"/>
+<edge source="Babasaheb Soman" target="Rajkumar Shukla"/>
+<edge source="Babasaheb Soman" target="Gokhale"/>
+<edge source="Babasaheb Soman" target="Chhotalal"/>
+<edge source="Babasaheb Soman" target="Satyapal"/>
+<edge source="Babasaheb Soman" target="Sinha"/>
+<edge source="Babasaheb Soman" target="Kelkar"/>
+<edge source="Babasaheb Soman" target="Chelmsford"/>
+<edge source="Babasaheb Soman" target="Vaidyanathadham"/>
+<edge source="Babasaheb Soman" target="Harihar Sharma"/>
+<edge source="Kelkar" target="Kasturbai"/>
+<edge source="Kelkar" target="Jehangir Petit"/>
+<edge source="Kelkar" target="Yashvantprasad Desai"/>
+<edge source="Kelkar" target="Ramnavmi Prasad"/>
+<edge source="Kelkar" target="Lala Harkishanlal"/>
+<edge source="Kelkar" target="Jivanlal"/>
+<edge source="Kelkar" target="Shrimati Anandibai"/>
+<edge source="Kelkar" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kelkar" target="Chintaman"/>
+<edge source="Kelkar" target="Patwardhan"/>
+<edge source="Kelkar" target="Nagenbabu"/>
+<edge source="Kelkar" target="Kakasaheb"/>
+<edge source="Kelkar" target="Gorakhbabu"/>
+<edge source="Kelkar" target="Manilal"/>
+<edge source="Kelkar" target="Gangadharrao"/>
+<edge source="Kelkar" target="Dada Abdulla"/>
+<edge source="Kelkar" target="Polak"/>
+<edge source="Kelkar" target="Ramibai Kamdar"/>
+<edge source="Kelkar" target="Maulana Mazharul Haq"/>
+<edge source="Kelkar" target="Kripalani"/>
+<edge source="Kelkar" target="Phadke"/>
+<edge source="Kelkar" target="Choithram"/>
+<edge source="Kelkar" target="Kitchlu"/>
+<edge source="Kelkar" target="Babu Brajkishore Prasad"/>
+<edge source="Kelkar" target="Shankarlal Parikh"/>
+<edge source="Kelkar" target="Lakshmidas"/>
+<edge source="Kelkar" target="Hasrat Saheb"/>
+<edge source="Kelkar" target="Devdas"/>
+<edge source="Kelkar" target="Mahatma Munshiramji"/>
+<edge source="Kelkar" target="Sushil Rudra"/>
+<edge source="Kelkar" target="Kalelkar"/>
+<edge source="Kelkar" target="Janakdharibabu"/>
+<edge source="Kelkar" target="Brajkishorebabu"/>
+<edge source="Kelkar" target="Thakkar Bapa"/>
+<edge source="Kelkar" target="Sharadbabu"/>
+<edge source="Kelkar" target="Danibehn"/>
+<edge source="Kelkar" target="Amritlal Thakkar"/>
+<edge source="Kelkar" target="Jagadanandbabu"/>
+<edge source="Kelkar" target="Rajendra Babu"/>
+<edge source="Kelkar" target="Deshabandhu"/>
+<edge source="Kelkar" target="Chhaganlal Gandhi"/>
+<edge source="Kelkar" target="Shrimati Durga Desai"/>
+<edge source="Kelkar" target="Ambalal Sarabhai"/>
+<edge source="Kelkar" target="Brajkishore Babu"/>
+<edge source="Kelkar" target="Malkani"/>
+<edge source="Kelkar" target="Babu Dharanidhar Prasad"/>
+<edge source="Kelkar" target="Shivji"/>
+<edge source="Kelkar" target="Ramdas"/>
+<edge source="Kelkar" target="Rajkumar Shukla"/>
+<edge source="Kelkar" target="Gokhale"/>
+<edge source="Kelkar" target="Chhotalal"/>
+<edge source="Kelkar" target="Satyapal"/>
+<edge source="Kelkar" target="Sinha"/>
+<edge source="Kelkar" target="Mohanlal"/>
+<edge source="Kelkar" target="Chelmsford"/>
+<edge source="Kelkar" target="Vaidyanathadham"/>
+<edge source="Kelkar" target="Harihar Sharma"/>
+<edge source="Maulana Mazharul Haq" target="Kasturbai"/>
+<edge source="Maulana Mazharul Haq" target="Jehangir Petit"/>
+<edge source="Maulana Mazharul Haq" target="Yashvantprasad Desai"/>
+<edge source="Maulana Mazharul Haq" target="Ramnavmi Prasad"/>
+<edge source="Maulana Mazharul Haq" target="Lala Harkishanlal"/>
+<edge source="Maulana Mazharul Haq" target="Jivanlal"/>
+<edge source="Maulana Mazharul Haq" target="Shrimati Anandibai"/>
+<edge source="Maulana Mazharul Haq" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Maulana Mazharul Haq" target="Chintaman"/>
+<edge source="Maulana Mazharul Haq" target="Patwardhan"/>
+<edge source="Maulana Mazharul Haq" target="Nagenbabu"/>
+<edge source="Maulana Mazharul Haq" target="Kakasaheb"/>
+<edge source="Maulana Mazharul Haq" target="Gorakhbabu"/>
+<edge source="Maulana Mazharul Haq" target="Manilal"/>
+<edge source="Maulana Mazharul Haq" target="Gangadharrao"/>
+<edge source="Maulana Mazharul Haq" target="Dada Abdulla"/>
+<edge source="Maulana Mazharul Haq" target="Polak"/>
+<edge source="Maulana Mazharul Haq" target="Ramibai Kamdar"/>
+<edge source="Maulana Mazharul Haq" target="Kripalani"/>
+<edge source="Maulana Mazharul Haq" target="Phadke"/>
+<edge source="Maulana Mazharul Haq" target="Choithram"/>
+<edge source="Maulana Mazharul Haq" target="Kitchlu"/>
+<edge source="Maulana Mazharul Haq" target="Babu Brajkishore Prasad"/>
+<edge source="Maulana Mazharul Haq" target="Shankarlal Parikh"/>
+<edge source="Maulana Mazharul Haq" target="Lakshmidas"/>
+<edge source="Maulana Mazharul Haq" target="Hasrat Saheb"/>
+<edge source="Maulana Mazharul Haq" target="Devdas"/>
+<edge source="Maulana Mazharul Haq" target="Mahatma Munshiramji"/>
+<edge source="Maulana Mazharul Haq" target="Sushil Rudra"/>
+<edge source="Maulana Mazharul Haq" target="Kalelkar"/>
+<edge source="Maulana Mazharul Haq" target="Mohanlal"/>
+<edge source="Maulana Mazharul Haq" target="Janakdharibabu"/>
+<edge source="Maulana Mazharul Haq" target="Brajkishorebabu"/>
+<edge source="Maulana Mazharul Haq" target="Thakkar Bapa"/>
+<edge source="Maulana Mazharul Haq" target="Sharadbabu"/>
+<edge source="Maulana Mazharul Haq" target="Danibehn"/>
+<edge source="Maulana Mazharul Haq" target="Amritlal Thakkar"/>
+<edge source="Maulana Mazharul Haq" target="Jagadanandbabu"/>
+<edge source="Maulana Mazharul Haq" target="Rajendra Babu"/>
+<edge source="Maulana Mazharul Haq" target="Deshabandhu"/>
+<edge source="Maulana Mazharul Haq" target="Chhaganlal Gandhi"/>
+<edge source="Maulana Mazharul Haq" target="Shrimati Durga Desai"/>
+<edge source="Maulana Mazharul Haq" target="Ambalal Sarabhai"/>
+<edge source="Maulana Mazharul Haq" target="Brajkishore Babu"/>
+<edge source="Maulana Mazharul Haq" target="Malkani"/>
+<edge source="Maulana Mazharul Haq" target="Babu Dharanidhar Prasad"/>
+<edge source="Maulana Mazharul Haq" target="Shivji"/>
+<edge source="Maulana Mazharul Haq" target="Ramdas"/>
+<edge source="Maulana Mazharul Haq" target="Rajkumar Shukla"/>
+<edge source="Maulana Mazharul Haq" target="Gokhale"/>
+<edge source="Maulana Mazharul Haq" target="Chhotalal"/>
+<edge source="Maulana Mazharul Haq" target="Satyapal"/>
+<edge source="Maulana Mazharul Haq" target="Sinha"/>
+<edge source="Maulana Mazharul Haq" target="Chelmsford"/>
+<edge source="Maulana Mazharul Haq" target="Vaidyanathadham"/>
+<edge source="Maulana Mazharul Haq" target="Harihar Sharma"/>
+<edge source="Kripalani" target="Kasturbai"/>
+<edge source="Kripalani" target="Jehangir Petit"/>
+<edge source="Kripalani" target="Yashvantprasad Desai"/>
+<edge source="Kripalani" target="Ramnavmi Prasad"/>
+<edge source="Kripalani" target="Lala Harkishanlal"/>
+<edge source="Kripalani" target="Jivanlal"/>
+<edge source="Kripalani" target="Shrimati Anandibai"/>
+<edge source="Kripalani" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kripalani" target="Chintaman"/>
+<edge source="Kripalani" target="Patwardhan"/>
+<edge source="Kripalani" target="Nagenbabu"/>
+<edge source="Kripalani" target="Kakasaheb"/>
+<edge source="Kripalani" target="Gorakhbabu"/>
+<edge source="Kripalani" target="Manilal"/>
+<edge source="Kripalani" target="Gangadharrao"/>
+<edge source="Kripalani" target="Dada Abdulla"/>
+<edge source="Kripalani" target="Polak"/>
+<edge source="Kripalani" target="Ramibai Kamdar"/>
+<edge source="Kripalani" target="Phadke"/>
+<edge source="Kripalani" target="Choithram"/>
+<edge source="Kripalani" target="Kitchlu"/>
+<edge source="Kripalani" target="Babu Brajkishore Prasad"/>
+<edge source="Kripalani" target="Shankarlal Parikh"/>
+<edge source="Kripalani" target="Lakshmidas"/>
+<edge source="Kripalani" target="Hasrat Saheb"/>
+<edge source="Kripalani" target="Devdas"/>
+<edge source="Kripalani" target="Mahatma Munshiramji"/>
+<edge source="Kripalani" target="Sushil Rudra"/>
+<edge source="Kripalani" target="Kalelkar"/>
+<edge source="Kripalani" target="Mohanlal"/>
+<edge source="Kripalani" target="Janakdharibabu"/>
+<edge source="Kripalani" target="Brajkishorebabu"/>
+<edge source="Kripalani" target="Thakkar Bapa"/>
+<edge source="Kripalani" target="Sharadbabu"/>
+<edge source="Kripalani" target="Danibehn"/>
+<edge source="Kripalani" target="Amritlal Thakkar"/>
+<edge source="Kripalani" target="Jagadanandbabu"/>
+<edge source="Kripalani" target="Rajendra Babu"/>
+<edge source="Kripalani" target="Deshabandhu"/>
+<edge source="Kripalani" target="Chhaganlal Gandhi"/>
+<edge source="Kripalani" target="Shrimati Durga Desai"/>
+<edge source="Kripalani" target="Ambalal Sarabhai"/>
+<edge source="Kripalani" target="Brajkishore Babu"/>
+<edge source="Kripalani" target="Malkani"/>
+<edge source="Kripalani" target="Babu Dharanidhar Prasad"/>
+<edge source="Kripalani" target="Shivji"/>
+<edge source="Kripalani" target="Ramdas"/>
+<edge source="Kripalani" target="Rajkumar Shukla"/>
+<edge source="Kripalani" target="Gokhale"/>
+<edge source="Kripalani" target="Chhotalal"/>
+<edge source="Kripalani" target="Satyapal"/>
+<edge source="Kripalani" target="Sinha"/>
+<edge source="Kripalani" target="Chelmsford"/>
+<edge source="Kripalani" target="Vaidyanathadham"/>
+<edge source="Kripalani" target="Harihar Sharma"/>
+<edge source="Phadke" target="Kasturbai"/>
+<edge source="Phadke" target="Jehangir Petit"/>
+<edge source="Phadke" target="Yashvantprasad Desai"/>
+<edge source="Phadke" target="Ramnavmi Prasad"/>
+<edge source="Phadke" target="Lala Harkishanlal"/>
+<edge source="Phadke" target="Jivanlal"/>
+<edge source="Phadke" target="Shrimati Anandibai"/>
+<edge source="Phadke" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Phadke" target="Chintaman"/>
+<edge source="Phadke" target="Patwardhan"/>
+<edge source="Phadke" target="Nagenbabu"/>
+<edge source="Phadke" target="Kakasaheb"/>
+<edge source="Phadke" target="Gorakhbabu"/>
+<edge source="Phadke" target="Manilal"/>
+<edge source="Phadke" target="Gangadharrao"/>
+<edge source="Phadke" target="Dada Abdulla"/>
+<edge source="Phadke" target="Polak"/>
+<edge source="Phadke" target="Ramibai Kamdar"/>
+<edge source="Phadke" target="Mohanlal"/>
+<edge source="Phadke" target="Choithram"/>
+<edge source="Phadke" target="Kitchlu"/>
+<edge source="Phadke" target="Babu Brajkishore Prasad"/>
+<edge source="Phadke" target="Shankarlal Parikh"/>
+<edge source="Phadke" target="Lakshmidas"/>
+<edge source="Phadke" target="Hasrat Saheb"/>
+<edge source="Phadke" target="Devdas"/>
+<edge source="Phadke" target="Mahatma Munshiramji"/>
+<edge source="Phadke" target="Sushil Rudra"/>
+<edge source="Phadke" target="Kalelkar"/>
+<edge source="Phadke" target="Janakdharibabu"/>
+<edge source="Phadke" target="Brajkishorebabu"/>
+<edge source="Phadke" target="Thakkar Bapa"/>
+<edge source="Phadke" target="Sharadbabu"/>
+<edge source="Phadke" target="Danibehn"/>
+<edge source="Phadke" target="Amritlal Thakkar"/>
+<edge source="Phadke" target="Jagadanandbabu"/>
+<edge source="Phadke" target="Rajendra Babu"/>
+<edge source="Phadke" target="Deshabandhu"/>
+<edge source="Phadke" target="Chhaganlal Gandhi"/>
+<edge source="Phadke" target="Shrimati Durga Desai"/>
+<edge source="Phadke" target="Ambalal Sarabhai"/>
+<edge source="Phadke" target="Brajkishore Babu"/>
+<edge source="Phadke" target="Malkani"/>
+<edge source="Phadke" target="Babu Dharanidhar Prasad"/>
+<edge source="Phadke" target="Shivji"/>
+<edge source="Phadke" target="Ramdas"/>
+<edge source="Phadke" target="Rajkumar Shukla"/>
+<edge source="Phadke" target="Gokhale"/>
+<edge source="Phadke" target="Chhotalal"/>
+<edge source="Phadke" target="Satyapal"/>
+<edge source="Phadke" target="Sinha"/>
+<edge source="Phadke" target="Chelmsford"/>
+<edge source="Phadke" target="Vaidyanathadham"/>
+<edge source="Phadke" target="Harihar Sharma"/>
+<edge source="Valji" target="Gokhale"/>
+<edge source="Valji" target="Allinson"/>
+<edge source="Valji" target="Maganlal"/>
+<edge source="Valji" target="Hermann Kallenbach"/>
+<edge source="Valji" target="Nishkulanand"/>
+<edge source="Shankarlal Parikh" target="Kasturbai"/>
+<edge source="Shankarlal Parikh" target="Jehangir Petit"/>
+<edge source="Shankarlal Parikh" target="Yashvantprasad Desai"/>
+<edge source="Shankarlal Parikh" target="Ramnavmi Prasad"/>
+<edge source="Shankarlal Parikh" target="Lala Harkishanlal"/>
+<edge source="Shankarlal Parikh" target="Jivanlal"/>
+<edge source="Shankarlal Parikh" target="Shrimati Anandibai"/>
+<edge source="Shankarlal Parikh" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Shankarlal Parikh" target="Chintaman"/>
+<edge source="Shankarlal Parikh" target="Patwardhan"/>
+<edge source="Shankarlal Parikh" target="Nagenbabu"/>
+<edge source="Shankarlal Parikh" target="Kakasaheb"/>
+<edge source="Shankarlal Parikh" target="Gorakhbabu"/>
+<edge source="Shankarlal Parikh" target="Manilal"/>
+<edge source="Shankarlal Parikh" target="Gangadharrao"/>
+<edge source="Shankarlal Parikh" target="Dada Abdulla"/>
+<edge source="Shankarlal Parikh" target="Polak"/>
+<edge source="Shankarlal Parikh" target="Ramibai Kamdar"/>
+<edge source="Shankarlal Parikh" target="Choithram"/>
+<edge source="Shankarlal Parikh" target="Kitchlu"/>
+<edge source="Shankarlal Parikh" target="Babu Brajkishore Prasad"/>
+<edge source="Shankarlal Parikh" target="Lakshmidas"/>
+<edge source="Shankarlal Parikh" target="Hasrat Saheb"/>
+<edge source="Shankarlal Parikh" target="Devdas"/>
+<edge source="Shankarlal Parikh" target="Mahatma Munshiramji"/>
+<edge source="Shankarlal Parikh" target="Sushil Rudra"/>
+<edge source="Shankarlal Parikh" target="Kalelkar"/>
+<edge source="Shankarlal Parikh" target="Mohanlal"/>
+<edge source="Shankarlal Parikh" target="Janakdharibabu"/>
+<edge source="Shankarlal Parikh" target="Brajkishorebabu"/>
+<edge source="Shankarlal Parikh" target="Thakkar Bapa"/>
+<edge source="Shankarlal Parikh" target="Sharadbabu"/>
+<edge source="Shankarlal Parikh" target="Danibehn"/>
+<edge source="Shankarlal Parikh" target="Amritlal Thakkar"/>
+<edge source="Shankarlal Parikh" target="Jagadanandbabu"/>
+<edge source="Shankarlal Parikh" target="Rajendra Babu"/>
+<edge source="Shankarlal Parikh" target="Deshabandhu"/>
+<edge source="Shankarlal Parikh" target="Chhaganlal Gandhi"/>
+<edge source="Shankarlal Parikh" target="Shrimati Durga Desai"/>
+<edge source="Shankarlal Parikh" target="Ambalal Sarabhai"/>
+<edge source="Shankarlal Parikh" target="Brajkishore Babu"/>
+<edge source="Shankarlal Parikh" target="Malkani"/>
+<edge source="Shankarlal Parikh" target="Babu Dharanidhar Prasad"/>
+<edge source="Shankarlal Parikh" target="Shivji"/>
+<edge source="Shankarlal Parikh" target="Ramdas"/>
+<edge source="Shankarlal Parikh" target="Rajkumar Shukla"/>
+<edge source="Shankarlal Parikh" target="Gokhale"/>
+<edge source="Shankarlal Parikh" target="Chhotalal"/>
+<edge source="Shankarlal Parikh" target="Satyapal"/>
+<edge source="Shankarlal Parikh" target="Sinha"/>
+<edge source="Shankarlal Parikh" target="Chelmsford"/>
+<edge source="Shankarlal Parikh" target="Vaidyanathadham"/>
+<edge source="Shankarlal Parikh" target="Harihar Sharma"/>
+<edge source="Chhotalal" target="Kasturbai"/>
+<edge source="Chhotalal" target="Jehangir Petit"/>
+<edge source="Chhotalal" target="Yashvantprasad Desai"/>
+<edge source="Chhotalal" target="Ramnavmi Prasad"/>
+<edge source="Chhotalal" target="Lala Harkishanlal"/>
+<edge source="Chhotalal" target="Jivanlal"/>
+<edge source="Chhotalal" target="Shrimati Anandibai"/>
+<edge source="Chhotalal" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Chhotalal" target="Chintaman"/>
+<edge source="Chhotalal" target="Patwardhan"/>
+<edge source="Chhotalal" target="Nagenbabu"/>
+<edge source="Chhotalal" target="Kakasaheb"/>
+<edge source="Chhotalal" target="Gorakhbabu"/>
+<edge source="Chhotalal" target="Manilal"/>
+<edge source="Chhotalal" target="Gangadharrao"/>
+<edge source="Chhotalal" target="Dada Abdulla"/>
+<edge source="Chhotalal" target="Polak"/>
+<edge source="Chhotalal" target="Ramibai Kamdar"/>
+<edge source="Chhotalal" target="Choithram"/>
+<edge source="Chhotalal" target="Kitchlu"/>
+<edge source="Chhotalal" target="Babu Brajkishore Prasad"/>
+<edge source="Chhotalal" target="Lakshmidas"/>
+<edge source="Chhotalal" target="Hasrat Saheb"/>
+<edge source="Chhotalal" target="Devdas"/>
+<edge source="Chhotalal" target="Mahatma Munshiramji"/>
+<edge source="Chhotalal" target="Sushil Rudra"/>
+<edge source="Chhotalal" target="Kalelkar"/>
+<edge source="Chhotalal" target="Mohanlal"/>
+<edge source="Chhotalal" target="Janakdharibabu"/>
+<edge source="Chhotalal" target="Brajkishorebabu"/>
+<edge source="Chhotalal" target="Thakkar Bapa"/>
+<edge source="Chhotalal" target="Sharadbabu"/>
+<edge source="Chhotalal" target="Danibehn"/>
+<edge source="Chhotalal" target="Amritlal Thakkar"/>
+<edge source="Chhotalal" target="Jagadanandbabu"/>
+<edge source="Chhotalal" target="Rajendra Babu"/>
+<edge source="Chhotalal" target="Deshabandhu"/>
+<edge source="Chhotalal" target="Chhaganlal Gandhi"/>
+<edge source="Chhotalal" target="Shrimati Durga Desai"/>
+<edge source="Chhotalal" target="Ambalal Sarabhai"/>
+<edge source="Chhotalal" target="Brajkishore Babu"/>
+<edge source="Chhotalal" target="Malkani"/>
+<edge source="Chhotalal" target="Babu Dharanidhar Prasad"/>
+<edge source="Chhotalal" target="Shivji"/>
+<edge source="Chhotalal" target="Ramdas"/>
+<edge source="Chhotalal" target="Rajkumar Shukla"/>
+<edge source="Chhotalal" target="Gokhale"/>
+<edge source="Chhotalal" target="Satyapal"/>
+<edge source="Chhotalal" target="Sinha"/>
+<edge source="Chhotalal" target="Chelmsford"/>
+<edge source="Chhotalal" target="Vaidyanathadham"/>
+<edge source="Chhotalal" target="Harihar Sharma"/>
+<edge source="Hasrat Saheb" target="Kasturbai"/>
+<edge source="Hasrat Saheb" target="Jehangir Petit"/>
+<edge source="Hasrat Saheb" target="Yashvantprasad Desai"/>
+<edge source="Hasrat Saheb" target="Ramnavmi Prasad"/>
+<edge source="Hasrat Saheb" target="Lala Harkishanlal"/>
+<edge source="Hasrat Saheb" target="Jivanlal"/>
+<edge source="Hasrat Saheb" target="Shrimati Anandibai"/>
+<edge source="Hasrat Saheb" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Hasrat Saheb" target="Chintaman"/>
+<edge source="Hasrat Saheb" target="Patwardhan"/>
+<edge source="Hasrat Saheb" target="Nagenbabu"/>
+<edge source="Hasrat Saheb" target="Kakasaheb"/>
+<edge source="Hasrat Saheb" target="Gorakhbabu"/>
+<edge source="Hasrat Saheb" target="Manilal"/>
+<edge source="Hasrat Saheb" target="Gangadharrao"/>
+<edge source="Hasrat Saheb" target="Dada Abdulla"/>
+<edge source="Hasrat Saheb" target="Polak"/>
+<edge source="Hasrat Saheb" target="Ramibai Kamdar"/>
+<edge source="Hasrat Saheb" target="Choithram"/>
+<edge source="Hasrat Saheb" target="Kitchlu"/>
+<edge source="Hasrat Saheb" target="Babu Brajkishore Prasad"/>
+<edge source="Hasrat Saheb" target="Lakshmidas"/>
+<edge source="Hasrat Saheb" target="Devdas"/>
+<edge source="Hasrat Saheb" target="Mahatma Munshiramji"/>
+<edge source="Hasrat Saheb" target="Sushil Rudra"/>
+<edge source="Hasrat Saheb" target="Kalelkar"/>
+<edge source="Hasrat Saheb" target="Mohanlal"/>
+<edge source="Hasrat Saheb" target="Janakdharibabu"/>
+<edge source="Hasrat Saheb" target="Brajkishorebabu"/>
+<edge source="Hasrat Saheb" target="Thakkar Bapa"/>
+<edge source="Hasrat Saheb" target="Sharadbabu"/>
+<edge source="Hasrat Saheb" target="Danibehn"/>
+<edge source="Hasrat Saheb" target="Amritlal Thakkar"/>
+<edge source="Hasrat Saheb" target="Jagadanandbabu"/>
+<edge source="Hasrat Saheb" target="Rajendra Babu"/>
+<edge source="Hasrat Saheb" target="Deshabandhu"/>
+<edge source="Hasrat Saheb" target="Chhaganlal Gandhi"/>
+<edge source="Hasrat Saheb" target="Shrimati Durga Desai"/>
+<edge source="Hasrat Saheb" target="Ambalal Sarabhai"/>
+<edge source="Hasrat Saheb" target="Brajkishore Babu"/>
+<edge source="Hasrat Saheb" target="Malkani"/>
+<edge source="Hasrat Saheb" target="Babu Dharanidhar Prasad"/>
+<edge source="Hasrat Saheb" target="Shivji"/>
+<edge source="Hasrat Saheb" target="Ramdas"/>
+<edge source="Hasrat Saheb" target="Rajkumar Shukla"/>
+<edge source="Hasrat Saheb" target="Gokhale"/>
+<edge source="Hasrat Saheb" target="Satyapal"/>
+<edge source="Hasrat Saheb" target="Sinha"/>
+<edge source="Hasrat Saheb" target="Chelmsford"/>
+<edge source="Hasrat Saheb" target="Vaidyanathadham"/>
+<edge source="Hasrat Saheb" target="Harihar Sharma"/>
+<edge source="Devdas" target="Kasturbai"/>
+<edge source="Devdas" target="Jehangir Petit"/>
+<edge source="Devdas" target="Yashvantprasad Desai"/>
+<edge source="Devdas" target="Ramnavmi Prasad"/>
+<edge source="Devdas" target="Lala Harkishanlal"/>
+<edge source="Devdas" target="Jivanlal"/>
+<edge source="Devdas" target="Shrimati Anandibai"/>
+<edge source="Devdas" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Devdas" target="Chintaman"/>
+<edge source="Devdas" target="Patwardhan"/>
+<edge source="Devdas" target="Nagenbabu"/>
+<edge source="Devdas" target="Kakasaheb"/>
+<edge source="Devdas" target="Gorakhbabu"/>
+<edge source="Devdas" target="Manilal"/>
+<edge source="Devdas" target="Gangadharrao"/>
+<edge source="Devdas" target="Dada Abdulla"/>
+<edge source="Devdas" target="Polak"/>
+<edge source="Devdas" target="Ramibai Kamdar"/>
+<edge source="Devdas" target="Choithram"/>
+<edge source="Devdas" target="Kitchlu"/>
+<edge source="Devdas" target="Babu Brajkishore Prasad"/>
+<edge source="Devdas" target="Lakshmidas"/>
+<edge source="Devdas" target="Mahatma Munshiramji"/>
+<edge source="Devdas" target="Sushil Rudra"/>
+<edge source="Devdas" target="Kalelkar"/>
+<edge source="Devdas" target="Mohanlal"/>
+<edge source="Devdas" target="Janakdharibabu"/>
+<edge source="Devdas" target="Brajkishorebabu"/>
+<edge source="Devdas" target="Thakkar Bapa"/>
+<edge source="Devdas" target="Sharadbabu"/>
+<edge source="Devdas" target="Danibehn"/>
+<edge source="Devdas" target="Amritlal Thakkar"/>
+<edge source="Devdas" target="Jagadanandbabu"/>
+<edge source="Devdas" target="Rajendra Babu"/>
+<edge source="Devdas" target="Deshabandhu"/>
+<edge source="Devdas" target="Chhaganlal Gandhi"/>
+<edge source="Devdas" target="Shrimati Durga Desai"/>
+<edge source="Devdas" target="Ambalal Sarabhai"/>
+<edge source="Devdas" target="Brajkishore Babu"/>
+<edge source="Devdas" target="Malkani"/>
+<edge source="Devdas" target="Babu Dharanidhar Prasad"/>
+<edge source="Devdas" target="Shivji"/>
+<edge source="Devdas" target="Ramdas"/>
+<edge source="Devdas" target="Rajkumar Shukla"/>
+<edge source="Devdas" target="Gokhale"/>
+<edge source="Devdas" target="Satyapal"/>
+<edge source="Devdas" target="Sinha"/>
+<edge source="Devdas" target="Chelmsford"/>
+<edge source="Devdas" target="Vaidyanathadham"/>
+<edge source="Devdas" target="Harihar Sharma"/>
+<edge source="Danibehn" target="Kasturbai"/>
+<edge source="Danibehn" target="Jehangir Petit"/>
+<edge source="Danibehn" target="Yashvantprasad Desai"/>
+<edge source="Danibehn" target="Ramnavmi Prasad"/>
+<edge source="Danibehn" target="Lala Harkishanlal"/>
+<edge source="Danibehn" target="Jivanlal"/>
+<edge source="Danibehn" target="Shrimati Anandibai"/>
+<edge source="Danibehn" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Danibehn" target="Chintaman"/>
+<edge source="Danibehn" target="Patwardhan"/>
+<edge source="Danibehn" target="Nagenbabu"/>
+<edge source="Danibehn" target="Kakasaheb"/>
+<edge source="Danibehn" target="Gorakhbabu"/>
+<edge source="Danibehn" target="Gangadharrao"/>
+<edge source="Danibehn" target="Dada Abdulla"/>
+<edge source="Danibehn" target="Polak"/>
+<edge source="Danibehn" target="Ramibai Kamdar"/>
+<edge source="Danibehn" target="Choithram"/>
+<edge source="Danibehn" target="Kitchlu"/>
+<edge source="Danibehn" target="Babu Brajkishore Prasad"/>
+<edge source="Danibehn" target="Lakshmidas"/>
+<edge source="Danibehn" target="Mahatma Munshiramji"/>
+<edge source="Danibehn" target="Sushil Rudra"/>
+<edge source="Danibehn" target="Kalelkar"/>
+<edge source="Danibehn" target="Mohanlal"/>
+<edge source="Danibehn" target="Janakdharibabu"/>
+<edge source="Danibehn" target="Brajkishorebabu"/>
+<edge source="Danibehn" target="Thakkar Bapa"/>
+<edge source="Danibehn" target="Sharadbabu"/>
+<edge source="Danibehn" target="Manilal"/>
+<edge source="Danibehn" target="Amritlal Thakkar"/>
+<edge source="Danibehn" target="Jagadanandbabu"/>
+<edge source="Danibehn" target="Rajendra Babu"/>
+<edge source="Danibehn" target="Deshabandhu"/>
+<edge source="Danibehn" target="Chhaganlal Gandhi"/>
+<edge source="Danibehn" target="Shrimati Durga Desai"/>
+<edge source="Danibehn" target="Ambalal Sarabhai"/>
+<edge source="Danibehn" target="Brajkishore Babu"/>
+<edge source="Danibehn" target="Malkani"/>
+<edge source="Danibehn" target="Babu Dharanidhar Prasad"/>
+<edge source="Danibehn" target="Shivji"/>
+<edge source="Danibehn" target="Ramdas"/>
+<edge source="Danibehn" target="Rajkumar Shukla"/>
+<edge source="Danibehn" target="Gokhale"/>
+<edge source="Danibehn" target="Satyapal"/>
+<edge source="Danibehn" target="Sinha"/>
+<edge source="Danibehn" target="Chelmsford"/>
+<edge source="Danibehn" target="Vaidyanathadham"/>
+<edge source="Danibehn" target="Harihar Sharma"/>
+<edge source="Sushil Rudra" target="Kasturbai"/>
+<edge source="Sushil Rudra" target="Jehangir Petit"/>
+<edge source="Sushil Rudra" target="Yashvantprasad Desai"/>
+<edge source="Sushil Rudra" target="Ramnavmi Prasad"/>
+<edge source="Sushil Rudra" target="Lala Harkishanlal"/>
+<edge source="Sushil Rudra" target="Jivanlal"/>
+<edge source="Sushil Rudra" target="Shrimati Anandibai"/>
+<edge source="Sushil Rudra" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Sushil Rudra" target="Chintaman"/>
+<edge source="Sushil Rudra" target="Patwardhan"/>
+<edge source="Sushil Rudra" target="Nagenbabu"/>
+<edge source="Sushil Rudra" target="Kakasaheb"/>
+<edge source="Sushil Rudra" target="Gorakhbabu"/>
+<edge source="Sushil Rudra" target="Manilal"/>
+<edge source="Sushil Rudra" target="Gangadharrao"/>
+<edge source="Sushil Rudra" target="Dada Abdulla"/>
+<edge source="Sushil Rudra" target="Polak"/>
+<edge source="Sushil Rudra" target="Ramibai Kamdar"/>
+<edge source="Sushil Rudra" target="Choithram"/>
+<edge source="Sushil Rudra" target="Kitchlu"/>
+<edge source="Sushil Rudra" target="Babu Brajkishore Prasad"/>
+<edge source="Sushil Rudra" target="Lakshmidas"/>
+<edge source="Sushil Rudra" target="Mahatma Munshiramji"/>
+<edge source="Sushil Rudra" target="Kalelkar"/>
+<edge source="Sushil Rudra" target="Mohanlal"/>
+<edge source="Sushil Rudra" target="Janakdharibabu"/>
+<edge source="Sushil Rudra" target="Brajkishorebabu"/>
+<edge source="Sushil Rudra" target="Thakkar Bapa"/>
+<edge source="Sushil Rudra" target="Sharadbabu"/>
+<edge source="Sushil Rudra" target="Amritlal Thakkar"/>
+<edge source="Sushil Rudra" target="Jagadanandbabu"/>
+<edge source="Sushil Rudra" target="Rajendra Babu"/>
+<edge source="Sushil Rudra" target="Deshabandhu"/>
+<edge source="Sushil Rudra" target="Chhaganlal Gandhi"/>
+<edge source="Sushil Rudra" target="Shrimati Durga Desai"/>
+<edge source="Sushil Rudra" target="Ambalal Sarabhai"/>
+<edge source="Sushil Rudra" target="Brajkishore Babu"/>
+<edge source="Sushil Rudra" target="Malkani"/>
+<edge source="Sushil Rudra" target="Babu Dharanidhar Prasad"/>
+<edge source="Sushil Rudra" target="Shivji"/>
+<edge source="Sushil Rudra" target="Ramdas"/>
+<edge source="Sushil Rudra" target="Rajkumar Shukla"/>
+<edge source="Sushil Rudra" target="Gokhale"/>
+<edge source="Sushil Rudra" target="Satyapal"/>
+<edge source="Sushil Rudra" target="Sinha"/>
+<edge source="Sushil Rudra" target="Chelmsford"/>
+<edge source="Sushil Rudra" target="Vaidyanathadham"/>
+<edge source="Sushil Rudra" target="Harihar Sharma"/>
+<edge source="Janakdharibabu" target="Kasturbai"/>
+<edge source="Janakdharibabu" target="Jehangir Petit"/>
+<edge source="Janakdharibabu" target="Yashvantprasad Desai"/>
+<edge source="Janakdharibabu" target="Ramnavmi Prasad"/>
+<edge source="Janakdharibabu" target="Lala Harkishanlal"/>
+<edge source="Janakdharibabu" target="Jivanlal"/>
+<edge source="Janakdharibabu" target="Shrimati Anandibai"/>
+<edge source="Janakdharibabu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Janakdharibabu" target="Chintaman"/>
+<edge source="Janakdharibabu" target="Patwardhan"/>
+<edge source="Janakdharibabu" target="Nagenbabu"/>
+<edge source="Janakdharibabu" target="Kakasaheb"/>
+<edge source="Janakdharibabu" target="Gorakhbabu"/>
+<edge source="Janakdharibabu" target="Manilal"/>
+<edge source="Janakdharibabu" target="Gangadharrao"/>
+<edge source="Janakdharibabu" target="Dada Abdulla"/>
+<edge source="Janakdharibabu" target="Polak"/>
+<edge source="Janakdharibabu" target="Ramibai Kamdar"/>
+<edge source="Janakdharibabu" target="Choithram"/>
+<edge source="Janakdharibabu" target="Kitchlu"/>
+<edge source="Janakdharibabu" target="Babu Brajkishore Prasad"/>
+<edge source="Janakdharibabu" target="Lakshmidas"/>
+<edge source="Janakdharibabu" target="Mahatma Munshiramji"/>
+<edge source="Janakdharibabu" target="Kalelkar"/>
+<edge source="Janakdharibabu" target="Mohanlal"/>
+<edge source="Janakdharibabu" target="Harihar Sharma"/>
+<edge source="Janakdharibabu" target="Brajkishorebabu"/>
+<edge source="Janakdharibabu" target="Thakkar Bapa"/>
+<edge source="Janakdharibabu" target="Sharadbabu"/>
+<edge source="Janakdharibabu" target="Amritlal Thakkar"/>
+<edge source="Janakdharibabu" target="Jagadanandbabu"/>
+<edge source="Janakdharibabu" target="Rajendra Babu"/>
+<edge source="Janakdharibabu" target="Deshabandhu"/>
+<edge source="Janakdharibabu" target="Chhaganlal Gandhi"/>
+<edge source="Janakdharibabu" target="Shrimati Durga Desai"/>
+<edge source="Janakdharibabu" target="Ambalal Sarabhai"/>
+<edge source="Janakdharibabu" target="Brajkishore Babu"/>
+<edge source="Janakdharibabu" target="Malkani"/>
+<edge source="Janakdharibabu" target="Babu Dharanidhar Prasad"/>
+<edge source="Janakdharibabu" target="Shivji"/>
+<edge source="Janakdharibabu" target="Ramdas"/>
+<edge source="Janakdharibabu" target="Rajkumar Shukla"/>
+<edge source="Janakdharibabu" target="Gokhale"/>
+<edge source="Janakdharibabu" target="Satyapal"/>
+<edge source="Janakdharibabu" target="Sinha"/>
+<edge source="Janakdharibabu" target="Vaidyanathadham"/>
+<edge source="Janakdharibabu" target="Chelmsford"/>
+<edge source="Maganlal" target="Gokhale"/>
+<edge source="Maganlal" target="Allinson"/>
+<edge source="Maganlal" target="Hermann Kallenbach"/>
+<edge source="Maganlal" target="Nishkulanand"/>
+<edge source="Amritlal Thakkar" target="Kasturbai"/>
+<edge source="Amritlal Thakkar" target="Jehangir Petit"/>
+<edge source="Amritlal Thakkar" target="Yashvantprasad Desai"/>
+<edge source="Amritlal Thakkar" target="Ramnavmi Prasad"/>
+<edge source="Amritlal Thakkar" target="Lala Harkishanlal"/>
+<edge source="Amritlal Thakkar" target="Jivanlal"/>
+<edge source="Amritlal Thakkar" target="Shrimati Anandibai"/>
+<edge source="Amritlal Thakkar" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Amritlal Thakkar" target="Chintaman"/>
+<edge source="Amritlal Thakkar" target="Patwardhan"/>
+<edge source="Amritlal Thakkar" target="Nagenbabu"/>
+<edge source="Amritlal Thakkar" target="Kakasaheb"/>
+<edge source="Amritlal Thakkar" target="Gorakhbabu"/>
+<edge source="Amritlal Thakkar" target="Manilal"/>
+<edge source="Amritlal Thakkar" target="Gangadharrao"/>
+<edge source="Amritlal Thakkar" target="Dada Abdulla"/>
+<edge source="Amritlal Thakkar" target="Polak"/>
+<edge source="Amritlal Thakkar" target="Ramibai Kamdar"/>
+<edge source="Amritlal Thakkar" target="Choithram"/>
+<edge source="Amritlal Thakkar" target="Kitchlu"/>
+<edge source="Amritlal Thakkar" target="Babu Brajkishore Prasad"/>
+<edge source="Amritlal Thakkar" target="Lakshmidas"/>
+<edge source="Amritlal Thakkar" target="Mahatma Munshiramji"/>
+<edge source="Amritlal Thakkar" target="Kalelkar"/>
+<edge source="Amritlal Thakkar" target="Mohanlal"/>
+<edge source="Amritlal Thakkar" target="Brajkishorebabu"/>
+<edge source="Amritlal Thakkar" target="Thakkar Bapa"/>
+<edge source="Amritlal Thakkar" target="Sharadbabu"/>
+<edge source="Amritlal Thakkar" target="Jagadanandbabu"/>
+<edge source="Amritlal Thakkar" target="Rajendra Babu"/>
+<edge source="Amritlal Thakkar" target="Deshabandhu"/>
+<edge source="Amritlal Thakkar" target="Chhaganlal Gandhi"/>
+<edge source="Amritlal Thakkar" target="Shrimati Durga Desai"/>
+<edge source="Amritlal Thakkar" target="Ambalal Sarabhai"/>
+<edge source="Amritlal Thakkar" target="Brajkishore Babu"/>
+<edge source="Amritlal Thakkar" target="Malkani"/>
+<edge source="Amritlal Thakkar" target="Babu Dharanidhar Prasad"/>
+<edge source="Amritlal Thakkar" target="Shivji"/>
+<edge source="Amritlal Thakkar" target="Ramdas"/>
+<edge source="Amritlal Thakkar" target="Rajkumar Shukla"/>
+<edge source="Amritlal Thakkar" target="Gokhale"/>
+<edge source="Amritlal Thakkar" target="Satyapal"/>
+<edge source="Amritlal Thakkar" target="Sinha"/>
+<edge source="Amritlal Thakkar" target="Chelmsford"/>
+<edge source="Amritlal Thakkar" target="Vaidyanathadham"/>
+<edge source="Amritlal Thakkar" target="Harihar Sharma"/>
+<edge source="Jagadanandbabu" target="Kasturbai"/>
+<edge source="Jagadanandbabu" target="Jehangir Petit"/>
+<edge source="Jagadanandbabu" target="Yashvantprasad Desai"/>
+<edge source="Jagadanandbabu" target="Ramnavmi Prasad"/>
+<edge source="Jagadanandbabu" target="Lala Harkishanlal"/>
+<edge source="Jagadanandbabu" target="Jivanlal"/>
+<edge source="Jagadanandbabu" target="Shrimati Anandibai"/>
+<edge source="Jagadanandbabu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Jagadanandbabu" target="Chintaman"/>
+<edge source="Jagadanandbabu" target="Patwardhan"/>
+<edge source="Jagadanandbabu" target="Nagenbabu"/>
+<edge source="Jagadanandbabu" target="Kakasaheb"/>
+<edge source="Jagadanandbabu" target="Gorakhbabu"/>
+<edge source="Jagadanandbabu" target="Manilal"/>
+<edge source="Jagadanandbabu" target="Gangadharrao"/>
+<edge source="Jagadanandbabu" target="Dada Abdulla"/>
+<edge source="Jagadanandbabu" target="Polak"/>
+<edge source="Jagadanandbabu" target="Ramibai Kamdar"/>
+<edge source="Jagadanandbabu" target="Choithram"/>
+<edge source="Jagadanandbabu" target="Kitchlu"/>
+<edge source="Jagadanandbabu" target="Babu Brajkishore Prasad"/>
+<edge source="Jagadanandbabu" target="Lakshmidas"/>
+<edge source="Jagadanandbabu" target="Mahatma Munshiramji"/>
+<edge source="Jagadanandbabu" target="Kalelkar"/>
+<edge source="Jagadanandbabu" target="Mohanlal"/>
+<edge source="Jagadanandbabu" target="Brajkishorebabu"/>
+<edge source="Jagadanandbabu" target="Thakkar Bapa"/>
+<edge source="Jagadanandbabu" target="Sharadbabu"/>
+<edge source="Jagadanandbabu" target="Rajendra Babu"/>
+<edge source="Jagadanandbabu" target="Deshabandhu"/>
+<edge source="Jagadanandbabu" target="Chhaganlal Gandhi"/>
+<edge source="Jagadanandbabu" target="Shrimati Durga Desai"/>
+<edge source="Jagadanandbabu" target="Ambalal Sarabhai"/>
+<edge source="Jagadanandbabu" target="Brajkishore Babu"/>
+<edge source="Jagadanandbabu" target="Malkani"/>
+<edge source="Jagadanandbabu" target="Babu Dharanidhar Prasad"/>
+<edge source="Jagadanandbabu" target="Shivji"/>
+<edge source="Jagadanandbabu" target="Ramdas"/>
+<edge source="Jagadanandbabu" target="Rajkumar Shukla"/>
+<edge source="Jagadanandbabu" target="Gokhale"/>
+<edge source="Jagadanandbabu" target="Satyapal"/>
+<edge source="Jagadanandbabu" target="Sinha"/>
+<edge source="Jagadanandbabu" target="Chelmsford"/>
+<edge source="Jagadanandbabu" target="Vaidyanathadham"/>
+<edge source="Jagadanandbabu" target="Harihar Sharma"/>
+<edge source="Ambalal Sarabhai" target="Kasturbai"/>
+<edge source="Ambalal Sarabhai" target="Jehangir Petit"/>
+<edge source="Ambalal Sarabhai" target="Yashvantprasad Desai"/>
+<edge source="Ambalal Sarabhai" target="Ramnavmi Prasad"/>
+<edge source="Ambalal Sarabhai" target="Lala Harkishanlal"/>
+<edge source="Ambalal Sarabhai" target="Jivanlal"/>
+<edge source="Ambalal Sarabhai" target="Shrimati Anandibai"/>
+<edge source="Ambalal Sarabhai" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Ambalal Sarabhai" target="Chintaman"/>
+<edge source="Ambalal Sarabhai" target="Patwardhan"/>
+<edge source="Ambalal Sarabhai" target="Nagenbabu"/>
+<edge source="Ambalal Sarabhai" target="Kakasaheb"/>
+<edge source="Ambalal Sarabhai" target="Gorakhbabu"/>
+<edge source="Ambalal Sarabhai" target="Manilal"/>
+<edge source="Ambalal Sarabhai" target="Gangadharrao"/>
+<edge source="Ambalal Sarabhai" target="Dada Abdulla"/>
+<edge source="Ambalal Sarabhai" target="Polak"/>
+<edge source="Ambalal Sarabhai" target="Ramibai Kamdar"/>
+<edge source="Ambalal Sarabhai" target="Choithram"/>
+<edge source="Ambalal Sarabhai" target="Kitchlu"/>
+<edge source="Ambalal Sarabhai" target="Babu Brajkishore Prasad"/>
+<edge source="Ambalal Sarabhai" target="Lakshmidas"/>
+<edge source="Ambalal Sarabhai" target="Mahatma Munshiramji"/>
+<edge source="Ambalal Sarabhai" target="Brajkishorebabu"/>
+<edge source="Ambalal Sarabhai" target="Mohanlal"/>
+<edge source="Ambalal Sarabhai" target="Thakkar Bapa"/>
+<edge source="Ambalal Sarabhai" target="Sharadbabu"/>
+<edge source="Ambalal Sarabhai" target="Rajendra Babu"/>
+<edge source="Ambalal Sarabhai" target="Deshabandhu"/>
+<edge source="Ambalal Sarabhai" target="Chhaganlal Gandhi"/>
+<edge source="Ambalal Sarabhai" target="Shrimati Durga Desai"/>
+<edge source="Ambalal Sarabhai" target="Kalelkar"/>
+<edge source="Ambalal Sarabhai" target="Brajkishore Babu"/>
+<edge source="Ambalal Sarabhai" target="Malkani"/>
+<edge source="Ambalal Sarabhai" target="Babu Dharanidhar Prasad"/>
+<edge source="Ambalal Sarabhai" target="Shivji"/>
+<edge source="Ambalal Sarabhai" target="Ramdas"/>
+<edge source="Ambalal Sarabhai" target="Rajkumar Shukla"/>
+<edge source="Ambalal Sarabhai" target="Gokhale"/>
+<edge source="Ambalal Sarabhai" target="Satyapal"/>
+<edge source="Ambalal Sarabhai" target="Sinha"/>
+<edge source="Ambalal Sarabhai" target="Chelmsford"/>
+<edge source="Ambalal Sarabhai" target="Vaidyanathadham"/>
+<edge source="Ambalal Sarabhai" target="Harihar Sharma"/>
+<edge source="Mohanlal" target="Kasturbai"/>
+<edge source="Mohanlal" target="Jehangir Petit"/>
+<edge source="Mohanlal" target="Yashvantprasad Desai"/>
+<edge source="Mohanlal" target="Ramnavmi Prasad"/>
+<edge source="Mohanlal" target="Lala Harkishanlal"/>
+<edge source="Mohanlal" target="Jivanlal"/>
+<edge source="Mohanlal" target="Shrimati Anandibai"/>
+<edge source="Mohanlal" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Mohanlal" target="Chintaman"/>
+<edge source="Mohanlal" target="Patwardhan"/>
+<edge source="Mohanlal" target="Nagenbabu"/>
+<edge source="Mohanlal" target="Kakasaheb"/>
+<edge source="Mohanlal" target="Gorakhbabu"/>
+<edge source="Mohanlal" target="Manilal"/>
+<edge source="Mohanlal" target="Gangadharrao"/>
+<edge source="Mohanlal" target="Dada Abdulla"/>
+<edge source="Mohanlal" target="Polak"/>
+<edge source="Mohanlal" target="Ramibai Kamdar"/>
+<edge source="Mohanlal" target="Choithram"/>
+<edge source="Mohanlal" target="Kitchlu"/>
+<edge source="Mohanlal" target="Babu Brajkishore Prasad"/>
+<edge source="Mohanlal" target="Lakshmidas"/>
+<edge source="Mohanlal" target="Mahatma Munshiramji"/>
+<edge source="Mohanlal" target="Kalelkar"/>
+<edge source="Mohanlal" target="Brajkishorebabu"/>
+<edge source="Mohanlal" target="Thakkar Bapa"/>
+<edge source="Mohanlal" target="Sharadbabu"/>
+<edge source="Mohanlal" target="Rajendra Babu"/>
+<edge source="Mohanlal" target="Deshabandhu"/>
+<edge source="Mohanlal" target="Chhaganlal Gandhi"/>
+<edge source="Mohanlal" target="Shrimati Durga Desai"/>
+<edge source="Mohanlal" target="Brajkishore Babu"/>
+<edge source="Mohanlal" target="Malkani"/>
+<edge source="Mohanlal" target="Babu Dharanidhar Prasad"/>
+<edge source="Mohanlal" target="Shivji"/>
+<edge source="Mohanlal" target="Ramdas"/>
+<edge source="Mohanlal" target="Rajkumar Shukla"/>
+<edge source="Mohanlal" target="Gokhale"/>
+<edge source="Mohanlal" target="Satyapal"/>
+<edge source="Mohanlal" target="Sinha"/>
+<edge source="Mohanlal" target="Chelmsford"/>
+<edge source="Mohanlal" target="Vaidyanathadham"/>
+<edge source="Mohanlal" target="Harihar Sharma"/>
+<edge source="Yashvantprasad Desai" target="Kasturbai"/>
+<edge source="Yashvantprasad Desai" target="Jehangir Petit"/>
+<edge source="Yashvantprasad Desai" target="Babu Brajkishore Prasad"/>
+<edge source="Yashvantprasad Desai" target="Ramnavmi Prasad"/>
+<edge source="Yashvantprasad Desai" target="Lala Harkishanlal"/>
+<edge source="Yashvantprasad Desai" target="Jivanlal"/>
+<edge source="Yashvantprasad Desai" target="Shrimati Anandibai"/>
+<edge source="Yashvantprasad Desai" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Yashvantprasad Desai" target="Chintaman"/>
+<edge source="Yashvantprasad Desai" target="Patwardhan"/>
+<edge source="Yashvantprasad Desai" target="Nagenbabu"/>
+<edge source="Yashvantprasad Desai" target="Kakasaheb"/>
+<edge source="Yashvantprasad Desai" target="Gorakhbabu"/>
+<edge source="Yashvantprasad Desai" target="Manilal"/>
+<edge source="Yashvantprasad Desai" target="Gangadharrao"/>
+<edge source="Yashvantprasad Desai" target="Dada Abdulla"/>
+<edge source="Yashvantprasad Desai" target="Polak"/>
+<edge source="Yashvantprasad Desai" target="Ramibai Kamdar"/>
+<edge source="Yashvantprasad Desai" target="Choithram"/>
+<edge source="Yashvantprasad Desai" target="Kitchlu"/>
+<edge source="Yashvantprasad Desai" target="Lakshmidas"/>
+<edge source="Yashvantprasad Desai" target="Mahatma Munshiramji"/>
+<edge source="Yashvantprasad Desai" target="Kalelkar"/>
+<edge source="Yashvantprasad Desai" target="Brajkishorebabu"/>
+<edge source="Yashvantprasad Desai" target="Thakkar Bapa"/>
+<edge source="Yashvantprasad Desai" target="Sharadbabu"/>
+<edge source="Yashvantprasad Desai" target="Rajendra Babu"/>
+<edge source="Yashvantprasad Desai" target="Deshabandhu"/>
+<edge source="Yashvantprasad Desai" target="Chhaganlal Gandhi"/>
+<edge source="Yashvantprasad Desai" target="Shrimati Durga Desai"/>
+<edge source="Yashvantprasad Desai" target="Brajkishore Babu"/>
+<edge source="Yashvantprasad Desai" target="Malkani"/>
+<edge source="Yashvantprasad Desai" target="Babu Dharanidhar Prasad"/>
+<edge source="Yashvantprasad Desai" target="Shivji"/>
+<edge source="Yashvantprasad Desai" target="Ramdas"/>
+<edge source="Yashvantprasad Desai" target="Rajkumar Shukla"/>
+<edge source="Yashvantprasad Desai" target="Gokhale"/>
+<edge source="Yashvantprasad Desai" target="Satyapal"/>
+<edge source="Yashvantprasad Desai" target="Sinha"/>
+<edge source="Yashvantprasad Desai" target="Chelmsford"/>
+<edge source="Yashvantprasad Desai" target="Vaidyanathadham"/>
+<edge source="Yashvantprasad Desai" target="Harihar Sharma"/>
+<edge source="Dada Abdulla" target="Jehangir Petit"/>
+<edge source="Dada Abdulla" target="Kasturbai"/>
+<edge source="Dada Abdulla" target="Ramnavmi Prasad"/>
+<edge source="Dada Abdulla" target="Chelmsford"/>
+<edge source="Dada Abdulla" target="Lala Harkishanlal"/>
+<edge source="Dada Abdulla" target="Jivanlal"/>
+<edge source="Dada Abdulla" target="Shrimati Anandibai"/>
+<edge source="Dada Abdulla" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Dada Abdulla" target="Chintaman"/>
+<edge source="Dada Abdulla" target="Patwardhan"/>
+<edge source="Dada Abdulla" target="Nagenbabu"/>
+<edge source="Dada Abdulla" target="Kakasaheb"/>
+<edge source="Dada Abdulla" target="Gorakhbabu"/>
+<edge source="Dada Abdulla" target="Gangadharrao"/>
+<edge source="Dada Abdulla" target="Polak"/>
+<edge source="Dada Abdulla" target="Ramibai Kamdar"/>
+<edge source="Dada Abdulla" target="Choithram"/>
+<edge source="Dada Abdulla" target="Kitchlu"/>
+<edge source="Dada Abdulla" target="Babu Brajkishore Prasad"/>
+<edge source="Dada Abdulla" target="Lakshmidas"/>
+<edge source="Dada Abdulla" target="Mahatma Munshiramji"/>
+<edge source="Dada Abdulla" target="Gokhale"/>
+<edge source="Dada Abdulla" target="Brajkishorebabu"/>
+<edge source="Dada Abdulla" target="Thakkar Bapa"/>
+<edge source="Dada Abdulla" target="Sharadbabu"/>
+<edge source="Dada Abdulla" target="Manilal"/>
+<edge source="Dada Abdulla" target="Rajendra Babu"/>
+<edge source="Dada Abdulla" target="Deshabandhu"/>
+<edge source="Dada Abdulla" target="Chhaganlal Gandhi"/>
+<edge source="Dada Abdulla" target="Shrimati Durga Desai"/>
+<edge source="Dada Abdulla" target="Brajkishore Babu"/>
+<edge source="Dada Abdulla" target="Malkani"/>
+<edge source="Dada Abdulla" target="Babu Dharanidhar Prasad"/>
+<edge source="Dada Abdulla" target="Ramdas"/>
+<edge source="Dada Abdulla" target="Rajkumar Shukla"/>
+<edge source="Dada Abdulla" target="Satyapal"/>
+<edge source="Dada Abdulla" target="Sinha"/>
+<edge source="Dada Abdulla" target="Shivji"/>
+<edge source="Dada Abdulla" target="Kalelkar"/>
+<edge source="Dada Abdulla" target="Vaidyanathadham"/>
+<edge source="Dada Abdulla" target="Harihar Sharma"/>
+<edge source="Ramnavmi Prasad" target="Kasturbai"/>
+<edge source="Ramnavmi Prasad" target="Jehangir Petit"/>
+<edge source="Ramnavmi Prasad" target="Lala Harkishanlal"/>
+<edge source="Ramnavmi Prasad" target="Jivanlal"/>
+<edge source="Ramnavmi Prasad" target="Shrimati Anandibai"/>
+<edge source="Ramnavmi Prasad" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Ramnavmi Prasad" target="Chintaman"/>
+<edge source="Ramnavmi Prasad" target="Patwardhan"/>
+<edge source="Ramnavmi Prasad" target="Nagenbabu"/>
+<edge source="Ramnavmi Prasad" target="Kakasaheb"/>
+<edge source="Ramnavmi Prasad" target="Gorakhbabu"/>
+<edge source="Ramnavmi Prasad" target="Manilal"/>
+<edge source="Ramnavmi Prasad" target="Gangadharrao"/>
+<edge source="Ramnavmi Prasad" target="Polak"/>
+<edge source="Ramnavmi Prasad" target="Ramibai Kamdar"/>
+<edge source="Ramnavmi Prasad" target="Choithram"/>
+<edge source="Ramnavmi Prasad" target="Kitchlu"/>
+<edge source="Ramnavmi Prasad" target="Babu Brajkishore Prasad"/>
+<edge source="Ramnavmi Prasad" target="Lakshmidas"/>
+<edge source="Ramnavmi Prasad" target="Mahatma Munshiramji"/>
+<edge source="Ramnavmi Prasad" target="Kalelkar"/>
+<edge source="Ramnavmi Prasad" target="Brajkishorebabu"/>
+<edge source="Ramnavmi Prasad" target="Thakkar Bapa"/>
+<edge source="Ramnavmi Prasad" target="Sharadbabu"/>
+<edge source="Ramnavmi Prasad" target="Rajendra Babu"/>
+<edge source="Ramnavmi Prasad" target="Deshabandhu"/>
+<edge source="Ramnavmi Prasad" target="Chhaganlal Gandhi"/>
+<edge source="Ramnavmi Prasad" target="Shrimati Durga Desai"/>
+<edge source="Ramnavmi Prasad" target="Brajkishore Babu"/>
+<edge source="Ramnavmi Prasad" target="Malkani"/>
+<edge source="Ramnavmi Prasad" target="Babu Dharanidhar Prasad"/>
+<edge source="Ramnavmi Prasad" target="Shivji"/>
+<edge source="Ramnavmi Prasad" target="Ramdas"/>
+<edge source="Ramnavmi Prasad" target="Rajkumar Shukla"/>
+<edge source="Ramnavmi Prasad" target="Gokhale"/>
+<edge source="Ramnavmi Prasad" target="Satyapal"/>
+<edge source="Ramnavmi Prasad" target="Sinha"/>
+<edge source="Ramnavmi Prasad" target="Chelmsford"/>
+<edge source="Ramnavmi Prasad" target="Vaidyanathadham"/>
+<edge source="Ramnavmi Prasad" target="Harihar Sharma"/>
+<edge source="Lala Harkishanlal" target="Kasturbai"/>
+<edge source="Lala Harkishanlal" target="Jehangir Petit"/>
+<edge source="Lala Harkishanlal" target="Jivanlal"/>
+<edge source="Lala Harkishanlal" target="Shrimati Anandibai"/>
+<edge source="Lala Harkishanlal" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Lala Harkishanlal" target="Chintaman"/>
+<edge source="Lala Harkishanlal" target="Patwardhan"/>
+<edge source="Lala Harkishanlal" target="Nagenbabu"/>
+<edge source="Lala Harkishanlal" target="Kakasaheb"/>
+<edge source="Lala Harkishanlal" target="Gorakhbabu"/>
+<edge source="Lala Harkishanlal" target="Manilal"/>
+<edge source="Lala Harkishanlal" target="Gangadharrao"/>
+<edge source="Lala Harkishanlal" target="Polak"/>
+<edge source="Lala Harkishanlal" target="Ramibai Kamdar"/>
+<edge source="Lala Harkishanlal" target="Choithram"/>
+<edge source="Lala Harkishanlal" target="Kitchlu"/>
+<edge source="Lala Harkishanlal" target="Babu Brajkishore Prasad"/>
+<edge source="Lala Harkishanlal" target="Lakshmidas"/>
+<edge source="Lala Harkishanlal" target="Mahatma Munshiramji"/>
+<edge source="Lala Harkishanlal" target="Kalelkar"/>
+<edge source="Lala Harkishanlal" target="Brajkishorebabu"/>
+<edge source="Lala Harkishanlal" target="Thakkar Bapa"/>
+<edge source="Lala Harkishanlal" target="Sharadbabu"/>
+<edge source="Lala Harkishanlal" target="Rajendra Babu"/>
+<edge source="Lala Harkishanlal" target="Deshabandhu"/>
+<edge source="Lala Harkishanlal" target="Chhaganlal Gandhi"/>
+<edge source="Lala Harkishanlal" target="Shrimati Durga Desai"/>
+<edge source="Lala Harkishanlal" target="Brajkishore Babu"/>
+<edge source="Lala Harkishanlal" target="Malkani"/>
+<edge source="Lala Harkishanlal" target="Babu Dharanidhar Prasad"/>
+<edge source="Lala Harkishanlal" target="Shivji"/>
+<edge source="Lala Harkishanlal" target="Ramdas"/>
+<edge source="Lala Harkishanlal" target="Rajkumar Shukla"/>
+<edge source="Lala Harkishanlal" target="Gokhale"/>
+<edge source="Lala Harkishanlal" target="Satyapal"/>
+<edge source="Lala Harkishanlal" target="Sinha"/>
+<edge source="Lala Harkishanlal" target="Chelmsford"/>
+<edge source="Lala Harkishanlal" target="Vaidyanathadham"/>
+<edge source="Lala Harkishanlal" target="Harihar Sharma"/>
+<edge source="Kakasaheb" target="Kasturbai"/>
+<edge source="Kakasaheb" target="Jehangir Petit"/>
+<edge source="Kakasaheb" target="Jivanlal"/>
+<edge source="Kakasaheb" target="Shrimati Anandibai"/>
+<edge source="Kakasaheb" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kakasaheb" target="Chintaman"/>
+<edge source="Kakasaheb" target="Patwardhan"/>
+<edge source="Kakasaheb" target="Nagenbabu"/>
+<edge source="Kakasaheb" target="Rajkumar Shukla"/>
+<edge source="Kakasaheb" target="Gorakhbabu"/>
+<edge source="Kakasaheb" target="Manilal"/>
+<edge source="Kakasaheb" target="Gangadharrao"/>
+<edge source="Kakasaheb" target="Polak"/>
+<edge source="Kakasaheb" target="Ramibai Kamdar"/>
+<edge source="Kakasaheb" target="Choithram"/>
+<edge source="Kakasaheb" target="Kitchlu"/>
+<edge source="Kakasaheb" target="Babu Brajkishore Prasad"/>
+<edge source="Kakasaheb" target="Lakshmidas"/>
+<edge source="Kakasaheb" target="Mahatma Munshiramji"/>
+<edge source="Kakasaheb" target="Kalelkar"/>
+<edge source="Kakasaheb" target="Brajkishorebabu"/>
+<edge source="Kakasaheb" target="Thakkar Bapa"/>
+<edge source="Kakasaheb" target="Sharadbabu"/>
+<edge source="Kakasaheb" target="Rajendra Babu"/>
+<edge source="Kakasaheb" target="Deshabandhu"/>
+<edge source="Kakasaheb" target="Chhaganlal Gandhi"/>
+<edge source="Kakasaheb" target="Shrimati Durga Desai"/>
+<edge source="Kakasaheb" target="Brajkishore Babu"/>
+<edge source="Kakasaheb" target="Malkani"/>
+<edge source="Kakasaheb" target="Babu Dharanidhar Prasad"/>
+<edge source="Kakasaheb" target="Shivji"/>
+<edge source="Kakasaheb" target="Ramdas"/>
+<edge source="Kakasaheb" target="Gokhale"/>
+<edge source="Kakasaheb" target="Satyapal"/>
+<edge source="Kakasaheb" target="Sinha"/>
+<edge source="Kakasaheb" target="Chelmsford"/>
+<edge source="Kakasaheb" target="Vaidyanathadham"/>
+<edge source="Kakasaheb" target="Harihar Sharma"/>
+<edge source="Gorakhbabu" target="Kasturbai"/>
+<edge source="Gorakhbabu" target="Jehangir Petit"/>
+<edge source="Gorakhbabu" target="Jivanlal"/>
+<edge source="Gorakhbabu" target="Shrimati Anandibai"/>
+<edge source="Gorakhbabu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Gorakhbabu" target="Chintaman"/>
+<edge source="Gorakhbabu" target="Patwardhan"/>
+<edge source="Gorakhbabu" target="Nagenbabu"/>
+<edge source="Gorakhbabu" target="Malkani"/>
+<edge source="Gorakhbabu" target="Manilal"/>
+<edge source="Gorakhbabu" target="Gangadharrao"/>
+<edge source="Gorakhbabu" target="Polak"/>
+<edge source="Gorakhbabu" target="Ramibai Kamdar"/>
+<edge source="Gorakhbabu" target="Choithram"/>
+<edge source="Gorakhbabu" target="Kitchlu"/>
+<edge source="Gorakhbabu" target="Babu Brajkishore Prasad"/>
+<edge source="Gorakhbabu" target="Lakshmidas"/>
+<edge source="Gorakhbabu" target="Mahatma Munshiramji"/>
+<edge source="Gorakhbabu" target="Kalelkar"/>
+<edge source="Gorakhbabu" target="Brajkishorebabu"/>
+<edge source="Gorakhbabu" target="Thakkar Bapa"/>
+<edge source="Gorakhbabu" target="Sharadbabu"/>
+<edge source="Gorakhbabu" target="Rajendra Babu"/>
+<edge source="Gorakhbabu" target="Deshabandhu"/>
+<edge source="Gorakhbabu" target="Chhaganlal Gandhi"/>
+<edge source="Gorakhbabu" target="Shrimati Durga Desai"/>
+<edge source="Gorakhbabu" target="Brajkishore Babu"/>
+<edge source="Gorakhbabu" target="Babu Dharanidhar Prasad"/>
+<edge source="Gorakhbabu" target="Shivji"/>
+<edge source="Gorakhbabu" target="Ramdas"/>
+<edge source="Gorakhbabu" target="Rajkumar Shukla"/>
+<edge source="Gorakhbabu" target="Gokhale"/>
+<edge source="Gorakhbabu" target="Satyapal"/>
+<edge source="Gorakhbabu" target="Sinha"/>
+<edge source="Gorakhbabu" target="Chelmsford"/>
+<edge source="Gorakhbabu" target="Vaidyanathadham"/>
+<edge source="Gorakhbabu" target="Harihar Sharma"/>
+<edge source="Gangadharrao" target="Kasturbai"/>
+<edge source="Gangadharrao" target="Jehangir Petit"/>
+<edge source="Gangadharrao" target="Jivanlal"/>
+<edge source="Gangadharrao" target="Shrimati Anandibai"/>
+<edge source="Gangadharrao" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Gangadharrao" target="Chintaman"/>
+<edge source="Gangadharrao" target="Patwardhan"/>
+<edge source="Gangadharrao" target="Nagenbabu"/>
+<edge source="Gangadharrao" target="Manilal"/>
+<edge source="Gangadharrao" target="Polak"/>
+<edge source="Gangadharrao" target="Ramibai Kamdar"/>
+<edge source="Gangadharrao" target="Choithram"/>
+<edge source="Gangadharrao" target="Kitchlu"/>
+<edge source="Gangadharrao" target="Babu Brajkishore Prasad"/>
+<edge source="Gangadharrao" target="Lakshmidas"/>
+<edge source="Gangadharrao" target="Mahatma Munshiramji"/>
+<edge source="Gangadharrao" target="Kalelkar"/>
+<edge source="Gangadharrao" target="Brajkishorebabu"/>
+<edge source="Gangadharrao" target="Thakkar Bapa"/>
+<edge source="Gangadharrao" target="Sharadbabu"/>
+<edge source="Gangadharrao" target="Rajendra Babu"/>
+<edge source="Gangadharrao" target="Deshabandhu"/>
+<edge source="Gangadharrao" target="Chhaganlal Gandhi"/>
+<edge source="Gangadharrao" target="Shrimati Durga Desai"/>
+<edge source="Gangadharrao" target="Brajkishore Babu"/>
+<edge source="Gangadharrao" target="Malkani"/>
+<edge source="Gangadharrao" target="Babu Dharanidhar Prasad"/>
+<edge source="Gangadharrao" target="Shivji"/>
+<edge source="Gangadharrao" target="Ramdas"/>
+<edge source="Gangadharrao" target="Rajkumar Shukla"/>
+<edge source="Gangadharrao" target="Gokhale"/>
+<edge source="Gangadharrao" target="Satyapal"/>
+<edge source="Gangadharrao" target="Sinha"/>
+<edge source="Gangadharrao" target="Chelmsford"/>
+<edge source="Gangadharrao" target="Vaidyanathadham"/>
+<edge source="Gangadharrao" target="Harihar Sharma"/>
+<edge source="Allinson" target="Gokhale"/>
+<edge source="Allinson" target="Hermann Kallenbach"/>
+<edge source="Allinson" target="Nishkulanand"/>
+<edge source="Ramibai Kamdar" target="Kasturbai"/>
+<edge source="Ramibai Kamdar" target="Jehangir Petit"/>
+<edge source="Ramibai Kamdar" target="Jivanlal"/>
+<edge source="Ramibai Kamdar" target="Shrimati Anandibai"/>
+<edge source="Ramibai Kamdar" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Ramibai Kamdar" target="Chintaman"/>
+<edge source="Ramibai Kamdar" target="Patwardhan"/>
+<edge source="Ramibai Kamdar" target="Nagenbabu"/>
+<edge source="Ramibai Kamdar" target="Manilal"/>
+<edge source="Ramibai Kamdar" target="Polak"/>
+<edge source="Ramibai Kamdar" target="Choithram"/>
+<edge source="Ramibai Kamdar" target="Kitchlu"/>
+<edge source="Ramibai Kamdar" target="Babu Brajkishore Prasad"/>
+<edge source="Ramibai Kamdar" target="Lakshmidas"/>
+<edge source="Ramibai Kamdar" target="Mahatma Munshiramji"/>
+<edge source="Ramibai Kamdar" target="Kalelkar"/>
+<edge source="Ramibai Kamdar" target="Brajkishorebabu"/>
+<edge source="Ramibai Kamdar" target="Thakkar Bapa"/>
+<edge source="Ramibai Kamdar" target="Sharadbabu"/>
+<edge source="Ramibai Kamdar" target="Rajendra Babu"/>
+<edge source="Ramibai Kamdar" target="Deshabandhu"/>
+<edge source="Ramibai Kamdar" target="Chhaganlal Gandhi"/>
+<edge source="Ramibai Kamdar" target="Shrimati Durga Desai"/>
+<edge source="Ramibai Kamdar" target="Brajkishore Babu"/>
+<edge source="Ramibai Kamdar" target="Malkani"/>
+<edge source="Ramibai Kamdar" target="Babu Dharanidhar Prasad"/>
+<edge source="Ramibai Kamdar" target="Shivji"/>
+<edge source="Ramibai Kamdar" target="Ramdas"/>
+<edge source="Ramibai Kamdar" target="Rajkumar Shukla"/>
+<edge source="Ramibai Kamdar" target="Gokhale"/>
+<edge source="Ramibai Kamdar" target="Satyapal"/>
+<edge source="Ramibai Kamdar" target="Sinha"/>
+<edge source="Ramibai Kamdar" target="Chelmsford"/>
+<edge source="Ramibai Kamdar" target="Vaidyanathadham"/>
+<edge source="Ramibai Kamdar" target="Harihar Sharma"/>
+<edge source="Choithram" target="Kasturbai"/>
+<edge source="Choithram" target="Jehangir Petit"/>
+<edge source="Choithram" target="Jivanlal"/>
+<edge source="Choithram" target="Shrimati Anandibai"/>
+<edge source="Choithram" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Choithram" target="Chintaman"/>
+<edge source="Choithram" target="Patwardhan"/>
+<edge source="Choithram" target="Nagenbabu"/>
+<edge source="Choithram" target="Manilal"/>
+<edge source="Choithram" target="Polak"/>
+<edge source="Choithram" target="Kitchlu"/>
+<edge source="Choithram" target="Babu Brajkishore Prasad"/>
+<edge source="Choithram" target="Lakshmidas"/>
+<edge source="Choithram" target="Mahatma Munshiramji"/>
+<edge source="Choithram" target="Kalelkar"/>
+<edge source="Choithram" target="Brajkishorebabu"/>
+<edge source="Choithram" target="Thakkar Bapa"/>
+<edge source="Choithram" target="Sharadbabu"/>
+<edge source="Choithram" target="Rajendra Babu"/>
+<edge source="Choithram" target="Deshabandhu"/>
+<edge source="Choithram" target="Chhaganlal Gandhi"/>
+<edge source="Choithram" target="Shrimati Durga Desai"/>
+<edge source="Choithram" target="Brajkishore Babu"/>
+<edge source="Choithram" target="Malkani"/>
+<edge source="Choithram" target="Babu Dharanidhar Prasad"/>
+<edge source="Choithram" target="Shivji"/>
+<edge source="Choithram" target="Ramdas"/>
+<edge source="Choithram" target="Rajkumar Shukla"/>
+<edge source="Choithram" target="Gokhale"/>
+<edge source="Choithram" target="Satyapal"/>
+<edge source="Choithram" target="Sinha"/>
+<edge source="Choithram" target="Chelmsford"/>
+<edge source="Choithram" target="Vaidyanathadham"/>
+<edge source="Choithram" target="Harihar Sharma"/>
+<edge source="Kitchlu" target="Kasturbai"/>
+<edge source="Kitchlu" target="Jehangir Petit"/>
+<edge source="Kitchlu" target="Jivanlal"/>
+<edge source="Kitchlu" target="Shrimati Anandibai"/>
+<edge source="Kitchlu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kitchlu" target="Chintaman"/>
+<edge source="Kitchlu" target="Patwardhan"/>
+<edge source="Kitchlu" target="Nagenbabu"/>
+<edge source="Kitchlu" target="Manilal"/>
+<edge source="Kitchlu" target="Polak"/>
+<edge source="Kitchlu" target="Babu Brajkishore Prasad"/>
+<edge source="Kitchlu" target="Lakshmidas"/>
+<edge source="Kitchlu" target="Mahatma Munshiramji"/>
+<edge source="Kitchlu" target="Gokhale"/>
+<edge source="Kitchlu" target="Kalelkar"/>
+<edge source="Kitchlu" target="Brajkishorebabu"/>
+<edge source="Kitchlu" target="Thakkar Bapa"/>
+<edge source="Kitchlu" target="Sharadbabu"/>
+<edge source="Kitchlu" target="Rajendra Babu"/>
+<edge source="Kitchlu" target="Deshabandhu"/>
+<edge source="Kitchlu" target="Chhaganlal Gandhi"/>
+<edge source="Kitchlu" target="Shrimati Durga Desai"/>
+<edge source="Kitchlu" target="Brajkishore Babu"/>
+<edge source="Kitchlu" target="Malkani"/>
+<edge source="Kitchlu" target="Babu Dharanidhar Prasad"/>
+<edge source="Kitchlu" target="Shivji"/>
+<edge source="Kitchlu" target="Ramdas"/>
+<edge source="Kitchlu" target="Rajkumar Shukla"/>
+<edge source="Kitchlu" target="Satyapal"/>
+<edge source="Kitchlu" target="Sinha"/>
+<edge source="Kitchlu" target="Chelmsford"/>
+<edge source="Kitchlu" target="Vaidyanathadham"/>
+<edge source="Kitchlu" target="Harihar Sharma"/>
+<edge source="Mahatma Munshiramji" target="Kasturbai"/>
+<edge source="Mahatma Munshiramji" target="Jehangir Petit"/>
+<edge source="Mahatma Munshiramji" target="Jivanlal"/>
+<edge source="Mahatma Munshiramji" target="Shrimati Anandibai"/>
+<edge source="Mahatma Munshiramji" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Mahatma Munshiramji" target="Chintaman"/>
+<edge source="Mahatma Munshiramji" target="Patwardhan"/>
+<edge source="Mahatma Munshiramji" target="Nagenbabu"/>
+<edge source="Mahatma Munshiramji" target="Polak"/>
+<edge source="Mahatma Munshiramji" target="Babu Brajkishore Prasad"/>
+<edge source="Mahatma Munshiramji" target="Lakshmidas"/>
+<edge source="Mahatma Munshiramji" target="Kalelkar"/>
+<edge source="Mahatma Munshiramji" target="Brajkishorebabu"/>
+<edge source="Mahatma Munshiramji" target="Thakkar Bapa"/>
+<edge source="Mahatma Munshiramji" target="Sharadbabu"/>
+<edge source="Mahatma Munshiramji" target="Manilal"/>
+<edge source="Mahatma Munshiramji" target="Rajendra Babu"/>
+<edge source="Mahatma Munshiramji" target="Deshabandhu"/>
+<edge source="Mahatma Munshiramji" target="Chhaganlal Gandhi"/>
+<edge source="Mahatma Munshiramji" target="Shrimati Durga Desai"/>
+<edge source="Mahatma Munshiramji" target="Brajkishore Babu"/>
+<edge source="Mahatma Munshiramji" target="Malkani"/>
+<edge source="Mahatma Munshiramji" target="Babu Dharanidhar Prasad"/>
+<edge source="Mahatma Munshiramji" target="Shivji"/>
+<edge source="Mahatma Munshiramji" target="Ramdas"/>
+<edge source="Mahatma Munshiramji" target="Rajkumar Shukla"/>
+<edge source="Mahatma Munshiramji" target="Gokhale"/>
+<edge source="Mahatma Munshiramji" target="Satyapal"/>
+<edge source="Mahatma Munshiramji" target="Sinha"/>
+<edge source="Mahatma Munshiramji" target="Chelmsford"/>
+<edge source="Mahatma Munshiramji" target="Vaidyanathadham"/>
+<edge source="Mahatma Munshiramji" target="Harihar Sharma"/>
+<edge source="Gokhale" target="Babu Brajkishore Prasad"/>
+<edge source="Gokhale" target="Sharadbabu"/>
+<edge source="Gokhale" target="Chintaman"/>
+<edge source="Gokhale" target="Manilal"/>
+<edge source="Gokhale" target="Chhaganlal Gandhi"/>
+<edge source="Gokhale" target="Kalelkar"/>
+<edge source="Gokhale" target="Shivji"/>
+<edge source="Gokhale" target="Sinha"/>
+<edge source="Gokhale" target="Patwardhan"/>
+<edge source="Gokhale" target="Babu Dharanidhar Prasad"/>
+<edge source="Gokhale" target="Chelmsford"/>
+<edge source="Gokhale" target="Kasturbai"/>
+<edge source="Gokhale" target="Jehangir Petit"/>
+<edge source="Gokhale" target="Jivanlal"/>
+<edge source="Gokhale" target="Shrimati Anandibai"/>
+<edge source="Gokhale" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Gokhale" target="Nishkulanand"/>
+<edge source="Gokhale" target="Rajkumar Shukla"/>
+<edge source="Gokhale" target="Malkani"/>
+<edge source="Gokhale" target="Polak"/>
+<edge source="Gokhale" target="Vaidyanathadham"/>
+<edge source="Gokhale" target="Lakshmidas"/>
+<edge source="Gokhale" target="Brajkishorebabu"/>
+<edge source="Gokhale" target="Harihar Sharma"/>
+<edge source="Gokhale" target="Thakkar Bapa"/>
+<edge source="Gokhale" target="Deshabandhu"/>
+<edge source="Gokhale" target="Rajendra Babu"/>
+<edge source="Gokhale" target="Shrimati Durga Desai"/>
+<edge source="Gokhale" target="Brajkishore Babu"/>
+<edge source="Gokhale" target="Ramdas"/>
+<edge source="Gokhale" target="Satyapal"/>
+<edge source="Gokhale" target="Nagenbabu"/>
+<edge source="Gokhale" target="Hermann Kallenbach"/>
+<edge source="Babu Brajkishore Prasad" target="Kasturbai"/>
+<edge source="Babu Brajkishore Prasad" target="Jehangir Petit"/>
+<edge source="Babu Brajkishore Prasad" target="Jivanlal"/>
+<edge source="Babu Brajkishore Prasad" target="Shrimati Anandibai"/>
+<edge source="Babu Brajkishore Prasad" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Babu Brajkishore Prasad" target="Chintaman"/>
+<edge source="Babu Brajkishore Prasad" target="Patwardhan"/>
+<edge source="Babu Brajkishore Prasad" target="Nagenbabu"/>
+<edge source="Babu Brajkishore Prasad" target="Manilal"/>
+<edge source="Babu Brajkishore Prasad" target="Polak"/>
+<edge source="Babu Brajkishore Prasad" target="Lakshmidas"/>
+<edge source="Babu Brajkishore Prasad" target="Kalelkar"/>
+<edge source="Babu Brajkishore Prasad" target="Brajkishorebabu"/>
+<edge source="Babu Brajkishore Prasad" target="Thakkar Bapa"/>
+<edge source="Babu Brajkishore Prasad" target="Sharadbabu"/>
+<edge source="Babu Brajkishore Prasad" target="Rajendra Babu"/>
+<edge source="Babu Brajkishore Prasad" target="Deshabandhu"/>
+<edge source="Babu Brajkishore Prasad" target="Chhaganlal Gandhi"/>
+<edge source="Babu Brajkishore Prasad" target="Shrimati Durga Desai"/>
+<edge source="Babu Brajkishore Prasad" target="Brajkishore Babu"/>
+<edge source="Babu Brajkishore Prasad" target="Malkani"/>
+<edge source="Babu Brajkishore Prasad" target="Babu Dharanidhar Prasad"/>
+<edge source="Babu Brajkishore Prasad" target="Shivji"/>
+<edge source="Babu Brajkishore Prasad" target="Ramdas"/>
+<edge source="Babu Brajkishore Prasad" target="Rajkumar Shukla"/>
+<edge source="Babu Brajkishore Prasad" target="Satyapal"/>
+<edge source="Babu Brajkishore Prasad" target="Sinha"/>
+<edge source="Babu Brajkishore Prasad" target="Chelmsford"/>
+<edge source="Babu Brajkishore Prasad" target="Vaidyanathadham"/>
+<edge source="Babu Brajkishore Prasad" target="Harihar Sharma"/>
+<edge source="Sharadbabu" target="Kasturbai"/>
+<edge source="Sharadbabu" target="Jehangir Petit"/>
+<edge source="Sharadbabu" target="Jivanlal"/>
+<edge source="Sharadbabu" target="Shrimati Anandibai"/>
+<edge source="Sharadbabu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Sharadbabu" target="Chintaman"/>
+<edge source="Sharadbabu" target="Patwardhan"/>
+<edge source="Sharadbabu" target="Nagenbabu"/>
+<edge source="Sharadbabu" target="Manilal"/>
+<edge source="Sharadbabu" target="Polak"/>
+<edge source="Sharadbabu" target="Lakshmidas"/>
+<edge source="Sharadbabu" target="Kalelkar"/>
+<edge source="Sharadbabu" target="Brajkishorebabu"/>
+<edge source="Sharadbabu" target="Thakkar Bapa"/>
+<edge source="Sharadbabu" target="Rajkumar Shukla"/>
+<edge source="Sharadbabu" target="Rajendra Babu"/>
+<edge source="Sharadbabu" target="Deshabandhu"/>
+<edge source="Sharadbabu" target="Chhaganlal Gandhi"/>
+<edge source="Sharadbabu" target="Shrimati Durga Desai"/>
+<edge source="Sharadbabu" target="Brajkishore Babu"/>
+<edge source="Sharadbabu" target="Malkani"/>
+<edge source="Sharadbabu" target="Babu Dharanidhar Prasad"/>
+<edge source="Sharadbabu" target="Shivji"/>
+<edge source="Sharadbabu" target="Ramdas"/>
+<edge source="Sharadbabu" target="Satyapal"/>
+<edge source="Sharadbabu" target="Sinha"/>
+<edge source="Sharadbabu" target="Chelmsford"/>
+<edge source="Sharadbabu" target="Vaidyanathadham"/>
+<edge source="Sharadbabu" target="Harihar Sharma"/>
+<edge source="Chintaman" target="Kasturbai"/>
+<edge source="Chintaman" target="Jehangir Petit"/>
+<edge source="Chintaman" target="Jivanlal"/>
+<edge source="Chintaman" target="Shrimati Anandibai"/>
+<edge source="Chintaman" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Chintaman" target="Deshabandhu"/>
+<edge source="Chintaman" target="Patwardhan"/>
+<edge source="Chintaman" target="Nagenbabu"/>
+<edge source="Chintaman" target="Manilal"/>
+<edge source="Chintaman" target="Polak"/>
+<edge source="Chintaman" target="Lakshmidas"/>
+<edge source="Chintaman" target="Kalelkar"/>
+<edge source="Chintaman" target="Brajkishorebabu"/>
+<edge source="Chintaman" target="Thakkar Bapa"/>
+<edge source="Chintaman" target="Rajendra Babu"/>
+<edge source="Chintaman" target="Chhaganlal Gandhi"/>
+<edge source="Chintaman" target="Shrimati Durga Desai"/>
+<edge source="Chintaman" target="Brajkishore Babu"/>
+<edge source="Chintaman" target="Malkani"/>
+<edge source="Chintaman" target="Babu Dharanidhar Prasad"/>
+<edge source="Chintaman" target="Shivji"/>
+<edge source="Chintaman" target="Ramdas"/>
+<edge source="Chintaman" target="Rajkumar Shukla"/>
+<edge source="Chintaman" target="Satyapal"/>
+<edge source="Chintaman" target="Sinha"/>
+<edge source="Chintaman" target="Chelmsford"/>
+<edge source="Chintaman" target="Vaidyanathadham"/>
+<edge source="Chintaman" target="Harihar Sharma"/>
+<edge source="Manilal" target="Jehangir Petit"/>
+<edge source="Manilal" target="Kasturbai"/>
+<edge source="Manilal" target="Chelmsford"/>
+<edge source="Manilal" target="Jivanlal"/>
+<edge source="Manilal" target="Shrimati Anandibai"/>
+<edge source="Manilal" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Manilal" target="Patwardhan"/>
+<edge source="Manilal" target="Nagenbabu"/>
+<edge source="Manilal" target="Polak"/>
+<edge source="Manilal" target="Lakshmidas"/>
+<edge source="Manilal" target="Brajkishorebabu"/>
+<edge source="Manilal" target="Thakkar Bapa"/>
+<edge source="Manilal" target="Rajendra Babu"/>
+<edge source="Manilal" target="Deshabandhu"/>
+<edge source="Manilal" target="Chhaganlal Gandhi"/>
+<edge source="Manilal" target="Shrimati Durga Desai"/>
+<edge source="Manilal" target="Brajkishore Babu"/>
+<edge source="Manilal" target="Malkani"/>
+<edge source="Manilal" target="Babu Dharanidhar Prasad"/>
+<edge source="Manilal" target="Ramdas"/>
+<edge source="Manilal" target="Rajkumar Shukla"/>
+<edge source="Manilal" target="Satyapal"/>
+<edge source="Manilal" target="Sinha"/>
+<edge source="Manilal" target="Shivji"/>
+<edge source="Manilal" target="Kalelkar"/>
+<edge source="Manilal" target="Vaidyanathadham"/>
+<edge source="Manilal" target="Harihar Sharma"/>
+<edge source="Chhaganlal Gandhi" target="Kasturbai"/>
+<edge source="Chhaganlal Gandhi" target="Jehangir Petit"/>
+<edge source="Chhaganlal Gandhi" target="Jivanlal"/>
+<edge source="Chhaganlal Gandhi" target="Shrimati Anandibai"/>
+<edge source="Chhaganlal Gandhi" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Chhaganlal Gandhi" target="Patwardhan"/>
+<edge source="Chhaganlal Gandhi" target="Nagenbabu"/>
+<edge source="Chhaganlal Gandhi" target="Polak"/>
+<edge source="Chhaganlal Gandhi" target="Lakshmidas"/>
+<edge source="Chhaganlal Gandhi" target="Kalelkar"/>
+<edge source="Chhaganlal Gandhi" target="Brajkishorebabu"/>
+<edge source="Chhaganlal Gandhi" target="Thakkar Bapa"/>
+<edge source="Chhaganlal Gandhi" target="Rajendra Babu"/>
+<edge source="Chhaganlal Gandhi" target="Deshabandhu"/>
+<edge source="Chhaganlal Gandhi" target="Shrimati Durga Desai"/>
+<edge source="Chhaganlal Gandhi" target="Brajkishore Babu"/>
+<edge source="Chhaganlal Gandhi" target="Malkani"/>
+<edge source="Chhaganlal Gandhi" target="Babu Dharanidhar Prasad"/>
+<edge source="Chhaganlal Gandhi" target="Shivji"/>
+<edge source="Chhaganlal Gandhi" target="Ramdas"/>
+<edge source="Chhaganlal Gandhi" target="Rajkumar Shukla"/>
+<edge source="Chhaganlal Gandhi" target="Satyapal"/>
+<edge source="Chhaganlal Gandhi" target="Sinha"/>
+<edge source="Chhaganlal Gandhi" target="Chelmsford"/>
+<edge source="Chhaganlal Gandhi" target="Vaidyanathadham"/>
+<edge source="Chhaganlal Gandhi" target="Harihar Sharma"/>
+<edge source="Kalelkar" target="Kasturbai"/>
+<edge source="Kalelkar" target="Jehangir Petit"/>
+<edge source="Kalelkar" target="Jivanlal"/>
+<edge source="Kalelkar" target="Shrimati Anandibai"/>
+<edge source="Kalelkar" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kalelkar" target="Patwardhan"/>
+<edge source="Kalelkar" target="Nagenbabu"/>
+<edge source="Kalelkar" target="Polak"/>
+<edge source="Kalelkar" target="Lakshmidas"/>
+<edge source="Kalelkar" target="Brajkishorebabu"/>
+<edge source="Kalelkar" target="Thakkar Bapa"/>
+<edge source="Kalelkar" target="Rajendra Babu"/>
+<edge source="Kalelkar" target="Deshabandhu"/>
+<edge source="Kalelkar" target="Shrimati Durga Desai"/>
+<edge source="Kalelkar" target="Brajkishore Babu"/>
+<edge source="Kalelkar" target="Malkani"/>
+<edge source="Kalelkar" target="Babu Dharanidhar Prasad"/>
+<edge source="Kalelkar" target="Shivji"/>
+<edge source="Kalelkar" target="Ramdas"/>
+<edge source="Kalelkar" target="Rajkumar Shukla"/>
+<edge source="Kalelkar" target="Satyapal"/>
+<edge source="Kalelkar" target="Sinha"/>
+<edge source="Kalelkar" target="Chelmsford"/>
+<edge source="Kalelkar" target="Vaidyanathadham"/>
+<edge source="Kalelkar" target="Harihar Sharma"/>
+<edge source="Shivji" target="Kasturbai"/>
+<edge source="Shivji" target="Jehangir Petit"/>
+<edge source="Shivji" target="Jivanlal"/>
+<edge source="Shivji" target="Shrimati Anandibai"/>
+<edge source="Shivji" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Shivji" target="Patwardhan"/>
+<edge source="Shivji" target="Nagenbabu"/>
+<edge source="Shivji" target="Polak"/>
+<edge source="Shivji" target="Lakshmidas"/>
+<edge source="Shivji" target="Brajkishorebabu"/>
+<edge source="Shivji" target="Thakkar Bapa"/>
+<edge source="Shivji" target="Rajendra Babu"/>
+<edge source="Shivji" target="Deshabandhu"/>
+<edge source="Shivji" target="Shrimati Durga Desai"/>
+<edge source="Shivji" target="Brajkishore Babu"/>
+<edge source="Shivji" target="Malkani"/>
+<edge source="Shivji" target="Babu Dharanidhar Prasad"/>
+<edge source="Shivji" target="Ramdas"/>
+<edge source="Shivji" target="Rajkumar Shukla"/>
+<edge source="Shivji" target="Satyapal"/>
+<edge source="Shivji" target="Sinha"/>
+<edge source="Shivji" target="Chelmsford"/>
+<edge source="Shivji" target="Vaidyanathadham"/>
+<edge source="Shivji" target="Harihar Sharma"/>
+<edge source="Sinha" target="Kasturbai"/>
+<edge source="Sinha" target="Jehangir Petit"/>
+<edge source="Sinha" target="Jivanlal"/>
+<edge source="Sinha" target="Shrimati Anandibai"/>
+<edge source="Sinha" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Sinha" target="Patwardhan"/>
+<edge source="Sinha" target="Polak"/>
+<edge source="Sinha" target="Lakshmidas"/>
+<edge source="Sinha" target="Brajkishorebabu"/>
+<edge source="Sinha" target="Thakkar Bapa"/>
+<edge source="Sinha" target="Rajendra Babu"/>
+<edge source="Sinha" target="Deshabandhu"/>
+<edge source="Sinha" target="Shrimati Durga Desai"/>
+<edge source="Sinha" target="Brajkishore Babu"/>
+<edge source="Sinha" target="Malkani"/>
+<edge source="Sinha" target="Babu Dharanidhar Prasad"/>
+<edge source="Sinha" target="Ramdas"/>
+<edge source="Sinha" target="Rajkumar Shukla"/>
+<edge source="Sinha" target="Satyapal"/>
+<edge source="Sinha" target="Nagenbabu"/>
+<edge source="Sinha" target="Chelmsford"/>
+<edge source="Sinha" target="Vaidyanathadham"/>
+<edge source="Sinha" target="Harihar Sharma"/>
+<edge source="Patwardhan" target="Kasturbai"/>
+<edge source="Patwardhan" target="Jehangir Petit"/>
+<edge source="Patwardhan" target="Jivanlal"/>
+<edge source="Patwardhan" target="Shrimati Anandibai"/>
+<edge source="Patwardhan" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Patwardhan" target="Nagenbabu"/>
+<edge source="Patwardhan" target="Polak"/>
+<edge source="Patwardhan" target="Lakshmidas"/>
+<edge source="Patwardhan" target="Brajkishorebabu"/>
+<edge source="Patwardhan" target="Thakkar Bapa"/>
+<edge source="Patwardhan" target="Rajendra Babu"/>
+<edge source="Patwardhan" target="Deshabandhu"/>
+<edge source="Patwardhan" target="Shrimati Durga Desai"/>
+<edge source="Patwardhan" target="Brajkishore Babu"/>
+<edge source="Patwardhan" target="Malkani"/>
+<edge source="Patwardhan" target="Babu Dharanidhar Prasad"/>
+<edge source="Patwardhan" target="Ramdas"/>
+<edge source="Patwardhan" target="Rajkumar Shukla"/>
+<edge source="Patwardhan" target="Satyapal"/>
+<edge source="Patwardhan" target="Chelmsford"/>
+<edge source="Patwardhan" target="Vaidyanathadham"/>
+<edge source="Patwardhan" target="Harihar Sharma"/>
+<edge source="Babu Dharanidhar Prasad" target="Kasturbai"/>
+<edge source="Babu Dharanidhar Prasad" target="Jehangir Petit"/>
+<edge source="Babu Dharanidhar Prasad" target="Jivanlal"/>
+<edge source="Babu Dharanidhar Prasad" target="Shrimati Anandibai"/>
+<edge source="Babu Dharanidhar Prasad" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Babu Dharanidhar Prasad" target="Nagenbabu"/>
+<edge source="Babu Dharanidhar Prasad" target="Polak"/>
+<edge source="Babu Dharanidhar Prasad" target="Lakshmidas"/>
+<edge source="Babu Dharanidhar Prasad" target="Brajkishorebabu"/>
+<edge source="Babu Dharanidhar Prasad" target="Thakkar Bapa"/>
+<edge source="Babu Dharanidhar Prasad" target="Rajendra Babu"/>
+<edge source="Babu Dharanidhar Prasad" target="Deshabandhu"/>
+<edge source="Babu Dharanidhar Prasad" target="Shrimati Durga Desai"/>
+<edge source="Babu Dharanidhar Prasad" target="Brajkishore Babu"/>
+<edge source="Babu Dharanidhar Prasad" target="Malkani"/>
+<edge source="Babu Dharanidhar Prasad" target="Ramdas"/>
+<edge source="Babu Dharanidhar Prasad" target="Rajkumar Shukla"/>
+<edge source="Babu Dharanidhar Prasad" target="Satyapal"/>
+<edge source="Babu Dharanidhar Prasad" target="Chelmsford"/>
+<edge source="Babu Dharanidhar Prasad" target="Vaidyanathadham"/>
+<edge source="Babu Dharanidhar Prasad" target="Harihar Sharma"/>
+<edge source="Chelmsford" target="Kasturbai"/>
+<edge source="Chelmsford" target="Jehangir Petit"/>
+<edge source="Chelmsford" target="Jivanlal"/>
+<edge source="Chelmsford" target="Shrimati Anandibai"/>
+<edge source="Chelmsford" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Chelmsford" target="Nagenbabu"/>
+<edge source="Chelmsford" target="Polak"/>
+<edge source="Chelmsford" target="Lakshmidas"/>
+<edge source="Chelmsford" target="Brajkishorebabu"/>
+<edge source="Chelmsford" target="Thakkar Bapa"/>
+<edge source="Chelmsford" target="Rajendra Babu"/>
+<edge source="Chelmsford" target="Deshabandhu"/>
+<edge source="Chelmsford" target="Shrimati Durga Desai"/>
+<edge source="Chelmsford" target="Brajkishore Babu"/>
+<edge source="Chelmsford" target="Malkani"/>
+<edge source="Chelmsford" target="Ramdas"/>
+<edge source="Chelmsford" target="Rajkumar Shukla"/>
+<edge source="Chelmsford" target="Satyapal"/>
+<edge source="Chelmsford" target="Vaidyanathadham"/>
+<edge source="Chelmsford" target="Harihar Sharma"/>
+<edge source="Kasturbai" target="Jehangir Petit"/>
+<edge source="Kasturbai" target="Jivanlal"/>
+<edge source="Kasturbai" target="Shrimati Anandibai"/>
+<edge source="Kasturbai" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kasturbai" target="Rajkumar Shukla"/>
+<edge source="Kasturbai" target="Malkani"/>
+<edge source="Kasturbai" target="Polak"/>
+<edge source="Kasturbai" target="Vaidyanathadham"/>
+<edge source="Kasturbai" target="Lakshmidas"/>
+<edge source="Kasturbai" target="Brajkishorebabu"/>
+<edge source="Kasturbai" target="Harihar Sharma"/>
+<edge source="Kasturbai" target="Thakkar Bapa"/>
+<edge source="Kasturbai" target="Deshabandhu"/>
+<edge source="Kasturbai" target="Rajendra Babu"/>
+<edge source="Kasturbai" target="Shrimati Durga Desai"/>
+<edge source="Kasturbai" target="Brajkishore Babu"/>
+<edge source="Kasturbai" target="Ramdas"/>
+<edge source="Kasturbai" target="Satyapal"/>
+<edge source="Kasturbai" target="Nagenbabu"/>
+<edge source="Jehangir Petit" target="Jivanlal"/>
+<edge source="Jehangir Petit" target="Shrimati Anandibai"/>
+<edge source="Jehangir Petit" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Jehangir Petit" target="Nagenbabu"/>
+<edge source="Jehangir Petit" target="Polak"/>
+<edge source="Jehangir Petit" target="Lakshmidas"/>
+<edge source="Jehangir Petit" target="Brajkishorebabu"/>
+<edge source="Jehangir Petit" target="Thakkar Bapa"/>
+<edge source="Jehangir Petit" target="Rajendra Babu"/>
+<edge source="Jehangir Petit" target="Deshabandhu"/>
+<edge source="Jehangir Petit" target="Shrimati Durga Desai"/>
+<edge source="Jehangir Petit" target="Brajkishore Babu"/>
+<edge source="Jehangir Petit" target="Malkani"/>
+<edge source="Jehangir Petit" target="Ramdas"/>
+<edge source="Jehangir Petit" target="Rajkumar Shukla"/>
+<edge source="Jehangir Petit" target="Satyapal"/>
+<edge source="Jehangir Petit" target="Vaidyanathadham"/>
+<edge source="Jehangir Petit" target="Harihar Sharma"/>
+<edge source="Jivanlal" target="Shrimati Anandibai"/>
+<edge source="Jivanlal" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Jivanlal" target="Nagenbabu"/>
+<edge source="Jivanlal" target="Polak"/>
+<edge source="Jivanlal" target="Lakshmidas"/>
+<edge source="Jivanlal" target="Brajkishorebabu"/>
+<edge source="Jivanlal" target="Thakkar Bapa"/>
+<edge source="Jivanlal" target="Rajendra Babu"/>
+<edge source="Jivanlal" target="Deshabandhu"/>
+<edge source="Jivanlal" target="Shrimati Durga Desai"/>
+<edge source="Jivanlal" target="Brajkishore Babu"/>
+<edge source="Jivanlal" target="Malkani"/>
+<edge source="Jivanlal" target="Ramdas"/>
+<edge source="Jivanlal" target="Rajkumar Shukla"/>
+<edge source="Jivanlal" target="Satyapal"/>
+<edge source="Jivanlal" target="Vaidyanathadham"/>
+<edge source="Jivanlal" target="Harihar Sharma"/>
+<edge source="Shrimati Anandibai" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Shrimati Anandibai" target="Nagenbabu"/>
+<edge source="Shrimati Anandibai" target="Polak"/>
+<edge source="Shrimati Anandibai" target="Lakshmidas"/>
+<edge source="Shrimati Anandibai" target="Brajkishorebabu"/>
+<edge source="Shrimati Anandibai" target="Thakkar Bapa"/>
+<edge source="Shrimati Anandibai" target="Rajendra Babu"/>
+<edge source="Shrimati Anandibai" target="Deshabandhu"/>
+<edge source="Shrimati Anandibai" target="Shrimati Durga Desai"/>
+<edge source="Shrimati Anandibai" target="Brajkishore Babu"/>
+<edge source="Shrimati Anandibai" target="Malkani"/>
+<edge source="Shrimati Anandibai" target="Ramdas"/>
+<edge source="Shrimati Anandibai" target="Rajkumar Shukla"/>
+<edge source="Shrimati Anandibai" target="Satyapal"/>
+<edge source="Shrimati Anandibai" target="Vaidyanathadham"/>
+<edge source="Shrimati Anandibai" target="Harihar Sharma"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Nagenbabu"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Polak"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Lakshmidas"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Brajkishorebabu"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Thakkar Bapa"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Rajendra Babu"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Deshabandhu"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Shrimati Durga Desai"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Brajkishore Babu"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Malkani"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Ramdas"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Rajkumar Shukla"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Satyapal"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Vaidyanathadham"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Harihar Sharma"/>
+<edge source="Nishkulanand" target="Hermann Kallenbach"/>
+<edge source="Rajkumar Shukla" target="Nagenbabu"/>
+<edge source="Rajkumar Shukla" target="Polak"/>
+<edge source="Rajkumar Shukla" target="Lakshmidas"/>
+<edge source="Rajkumar Shukla" target="Brajkishorebabu"/>
+<edge source="Rajkumar Shukla" target="Thakkar Bapa"/>
+<edge source="Rajkumar Shukla" target="Rajendra Babu"/>
+<edge source="Rajkumar Shukla" target="Deshabandhu"/>
+<edge source="Rajkumar Shukla" target="Shrimati Durga Desai"/>
+<edge source="Rajkumar Shukla" target="Brajkishore Babu"/>
+<edge source="Rajkumar Shukla" target="Malkani"/>
+<edge source="Rajkumar Shukla" target="Ramdas"/>
+<edge source="Rajkumar Shukla" target="Satyapal"/>
+<edge source="Rajkumar Shukla" target="Vaidyanathadham"/>
+<edge source="Rajkumar Shukla" target="Harihar Sharma"/>
+<edge source="Malkani" target="Nagenbabu"/>
+<edge source="Malkani" target="Polak"/>
+<edge source="Malkani" target="Lakshmidas"/>
+<edge source="Malkani" target="Brajkishorebabu"/>
+<edge source="Malkani" target="Thakkar Bapa"/>
+<edge source="Malkani" target="Rajendra Babu"/>
+<edge source="Malkani" target="Deshabandhu"/>
+<edge source="Malkani" target="Shrimati Durga Desai"/>
+<edge source="Malkani" target="Brajkishore Babu"/>
+<edge source="Malkani" target="Ramdas"/>
+<edge source="Malkani" target="Satyapal"/>
+<edge source="Malkani" target="Vaidyanathadham"/>
+<edge source="Malkani" target="Harihar Sharma"/>
+<edge source="Polak" target="Nagenbabu"/>
+<edge source="Polak" target="Lakshmidas"/>
+<edge source="Polak" target="Brajkishorebabu"/>
+<edge source="Polak" target="Thakkar Bapa"/>
+<edge source="Polak" target="Rajendra Babu"/>
+<edge source="Polak" target="Deshabandhu"/>
+<edge source="Polak" target="Shrimati Durga Desai"/>
+<edge source="Polak" target="Brajkishore Babu"/>
+<edge source="Polak" target="Ramdas"/>
+<edge source="Polak" target="Satyapal"/>
+<edge source="Polak" target="Vaidyanathadham"/>
+<edge source="Polak" target="Harihar Sharma"/>
+<edge source="Vaidyanathadham" target="Nagenbabu"/>
+<edge source="Vaidyanathadham" target="Lakshmidas"/>
+<edge source="Vaidyanathadham" target="Brajkishorebabu"/>
+<edge source="Vaidyanathadham" target="Thakkar Bapa"/>
+<edge source="Vaidyanathadham" target="Rajendra Babu"/>
+<edge source="Vaidyanathadham" target="Deshabandhu"/>
+<edge source="Vaidyanathadham" target="Shrimati Durga Desai"/>
+<edge source="Vaidyanathadham" target="Brajkishore Babu"/>
+<edge source="Vaidyanathadham" target="Ramdas"/>
+<edge source="Vaidyanathadham" target="Satyapal"/>
+<edge source="Vaidyanathadham" target="Harihar Sharma"/>
+<edge source="Lakshmidas" target="Nagenbabu"/>
+<edge source="Lakshmidas" target="Brajkishorebabu"/>
+<edge source="Lakshmidas" target="Thakkar Bapa"/>
+<edge source="Lakshmidas" target="Rajendra Babu"/>
+<edge source="Lakshmidas" target="Deshabandhu"/>
+<edge source="Lakshmidas" target="Shrimati Durga Desai"/>
+<edge source="Lakshmidas" target="Brajkishore Babu"/>
+<edge source="Lakshmidas" target="Ramdas"/>
+<edge source="Lakshmidas" target="Satyapal"/>
+<edge source="Lakshmidas" target="Harihar Sharma"/>
+<edge source="Brajkishorebabu" target="Nagenbabu"/>
+<edge source="Brajkishorebabu" target="Thakkar Bapa"/>
+<edge source="Brajkishorebabu" target="Rajendra Babu"/>
+<edge source="Brajkishorebabu" target="Deshabandhu"/>
+<edge source="Brajkishorebabu" target="Shrimati Durga Desai"/>
+<edge source="Brajkishorebabu" target="Brajkishore Babu"/>
+<edge source="Brajkishorebabu" target="Ramdas"/>
+<edge source="Brajkishorebabu" target="Satyapal"/>
+<edge source="Brajkishorebabu" target="Harihar Sharma"/>
+<edge source="Harihar Sharma" target="Nagenbabu"/>
+<edge source="Harihar Sharma" target="Thakkar Bapa"/>
+<edge source="Harihar Sharma" target="Rajendra Babu"/>
+<edge source="Harihar Sharma" target="Deshabandhu"/>
+<edge source="Harihar Sharma" target="Shrimati Durga Desai"/>
+<edge source="Harihar Sharma" target="Brajkishore Babu"/>
+<edge source="Harihar Sharma" target="Ramdas"/>
+<edge source="Harihar Sharma" target="Satyapal"/>
+<edge source="Thakkar Bapa" target="Nagenbabu"/>
+<edge source="Thakkar Bapa" target="Rajendra Babu"/>
+<edge source="Thakkar Bapa" target="Deshabandhu"/>
+<edge source="Thakkar Bapa" target="Shrimati Durga Desai"/>
+<edge source="Thakkar Bapa" target="Brajkishore Babu"/>
+<edge source="Thakkar Bapa" target="Ramdas"/>
+<edge source="Thakkar Bapa" target="Satyapal"/>
+<edge source="Deshabandhu" target="Nagenbabu"/>
+<edge source="Deshabandhu" target="Rajendra Babu"/>
+<edge source="Deshabandhu" target="Shrimati Durga Desai"/>
+<edge source="Deshabandhu" target="Brajkishore Babu"/>
+<edge source="Deshabandhu" target="Ramdas"/>
+<edge source="Deshabandhu" target="Satyapal"/>
+<edge source="Rajendra Babu" target="Nagenbabu"/>
+<edge source="Rajendra Babu" target="Shrimati Durga Desai"/>
+<edge source="Rajendra Babu" target="Brajkishore Babu"/>
+<edge source="Rajendra Babu" target="Ramdas"/>
+<edge source="Rajendra Babu" target="Satyapal"/>
+<edge source="Shrimati Durga Desai" target="Nagenbabu"/>
+<edge source="Shrimati Durga Desai" target="Brajkishore Babu"/>
+<edge source="Shrimati Durga Desai" target="Ramdas"/>
+<edge source="Shrimati Durga Desai" target="Satyapal"/>
+<edge source="Brajkishore Babu" target="Nagenbabu"/>
+<edge source="Brajkishore Babu" target="Ramdas"/>
+<edge source="Brajkishore Babu" target="Satyapal"/>
+<edge source="Ramdas" target="Nagenbabu"/>
+<edge source="Ramdas" target="Satyapal"/>
+<edge source="Satyapal" target="Nagenbabu"/>
+</graph></graphml>

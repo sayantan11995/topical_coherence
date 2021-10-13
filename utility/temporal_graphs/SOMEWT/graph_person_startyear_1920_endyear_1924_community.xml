@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="community" attr.type="int" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="Hakim Saheb">
+  <data key="d0">0</data>
+</node>
+<node id="Lalaji">
+  <data key="d0">0</data>
+</node>
+<node id="Besant">
+  <data key="d0">0</data>
+</node>
+<node id="Patwardhan">
+  <data key="d0">0</data>
+</node>
+<node id="Vijayaraghavachari">
+  <data key="d0">0</data>
+</node>
+<edge source="Hakim Saheb" target="Lalaji"/>
+<edge source="Hakim Saheb" target="Besant"/>
+<edge source="Hakim Saheb" target="Patwardhan"/>
+<edge source="Hakim Saheb" target="Vijayaraghavachari"/>
+<edge source="Lalaji" target="Besant"/>
+<edge source="Lalaji" target="Patwardhan"/>
+<edge source="Lalaji" target="Vijayaraghavachari"/>
+<edge source="Besant" target="Patwardhan"/>
+<edge source="Besant" target="Vijayaraghavachari"/>
+<edge source="Patwardhan" target="Vijayaraghavachari"/>
+</graph></graphml>

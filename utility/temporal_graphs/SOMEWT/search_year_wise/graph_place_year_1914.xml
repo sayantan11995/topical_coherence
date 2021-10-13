@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="England"/>
+<node id="Durban"/>
+<node id="Phoenix"/>
+<node id="South Africa"/>
+<node id="Paris"/>
+<node id="Johannesburg"/>
+<node id="Madeira"/>
+<node id="Ireland"/>
+<node id="London"/>
+<node id="Pretoria"/>
+<edge source="England" target="Durban"/>
+<edge source="England" target="Phoenix"/>
+<edge source="England" target="South Africa"/>
+<edge source="England" target="Paris"/>
+<edge source="England" target="Johannesburg"/>
+<edge source="England" target="Madeira"/>
+<edge source="England" target="Ireland"/>
+<edge source="England" target="London"/>
+<edge source="England" target="Pretoria"/>
+<edge source="Durban" target="Phoenix"/>
+<edge source="Durban" target="South Africa"/>
+<edge source="Durban" target="Paris"/>
+<edge source="Durban" target="Johannesburg"/>
+<edge source="Durban" target="Madeira"/>
+<edge source="Durban" target="Ireland"/>
+<edge source="Durban" target="London"/>
+<edge source="Durban" target="Pretoria"/>
+<edge source="Phoenix" target="South Africa"/>
+<edge source="Phoenix" target="Paris"/>
+<edge source="Phoenix" target="Johannesburg"/>
+<edge source="Phoenix" target="Madeira"/>
+<edge source="Phoenix" target="Ireland"/>
+<edge source="Phoenix" target="London"/>
+<edge source="Phoenix" target="Pretoria"/>
+<edge source="South Africa" target="Paris"/>
+<edge source="South Africa" target="Johannesburg"/>
+<edge source="South Africa" target="Madeira"/>
+<edge source="South Africa" target="Ireland"/>
+<edge source="South Africa" target="London"/>
+<edge source="South Africa" target="Pretoria"/>
+<edge source="Paris" target="Johannesburg"/>
+<edge source="Paris" target="Madeira"/>
+<edge source="Paris" target="Ireland"/>
+<edge source="Paris" target="London"/>
+<edge source="Paris" target="Pretoria"/>
+<edge source="Johannesburg" target="Madeira"/>
+<edge source="Johannesburg" target="Ireland"/>
+<edge source="Johannesburg" target="London"/>
+<edge source="Johannesburg" target="Pretoria"/>
+<edge source="Madeira" target="London"/>
+<edge source="Madeira" target="Ireland"/>
+<edge source="Madeira" target="Pretoria"/>
+<edge source="Ireland" target="London"/>
+<edge source="Ireland" target="Pretoria"/>
+<edge source="London" target="Pretoria"/>
+</graph></graphml>

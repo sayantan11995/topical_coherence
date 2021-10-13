@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Parsi Rustomji"/>
+<node id="James Godfery"/>
+<node id="Muhammad Kasam Kamruddin"/>
+<node id="Dada Abdulla"/>
+<node id="Gandhi"/>
+<node id="Abdul Gani Sheth"/>
+<node id="Tyeb Sheth"/>
+<edge source="Parsi Rustomji" target="James Godfery"/>
+<edge source="Parsi Rustomji" target="Muhammad Kasam Kamruddin"/>
+<edge source="Parsi Rustomji" target="Dada Abdulla"/>
+<edge source="Parsi Rustomji" target="Gandhi"/>
+<edge source="Parsi Rustomji" target="Abdul Gani Sheth"/>
+<edge source="Parsi Rustomji" target="Tyeb Sheth"/>
+<edge source="James Godfery" target="Muhammad Kasam Kamruddin"/>
+<edge source="James Godfery" target="Dada Abdulla"/>
+<edge source="James Godfery" target="Gandhi"/>
+<edge source="James Godfery" target="Abdul Gani Sheth"/>
+<edge source="James Godfery" target="Tyeb Sheth"/>
+<edge source="Muhammad Kasam Kamruddin" target="Dada Abdulla"/>
+<edge source="Muhammad Kasam Kamruddin" target="Gandhi"/>
+<edge source="Muhammad Kasam Kamruddin" target="Abdul Gani Sheth"/>
+<edge source="Muhammad Kasam Kamruddin" target="Tyeb Sheth"/>
+<edge source="Dada Abdulla" target="Gandhi"/>
+<edge source="Dada Abdulla" target="Abdul Gani Sheth"/>
+<edge source="Dada Abdulla" target="Tyeb Sheth"/>
+<edge source="Gandhi" target="Abdul Gani Sheth"/>
+<edge source="Gandhi" target="Tyeb Sheth"/>
+<edge source="Abdul Gani Sheth" target="Tyeb Sheth"/>
+</graph></graphml>

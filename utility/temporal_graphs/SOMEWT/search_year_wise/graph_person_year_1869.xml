@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Sharavana"/>
+<node id="Karamchand Gandhi"/>
+<node id="Tulsidas Gandhi"/>
+<node id="Kaba Gandhi"/>
+<node id="Giles"/>
+<node id="Harishchandra"/>
+<node id="Gandhi"/>
+<node id="Krishnashankar Pandya"/>
+<node id="Putlibai"/>
+<node id="Ota Gandhi"/>
+<node id="Dorabji"/>
+<node id="Nishkulanand"/>
+<edge source="Sharavana" target="Karamchand Gandhi"/>
+<edge source="Sharavana" target="Tulsidas Gandhi"/>
+<edge source="Sharavana" target="Kaba Gandhi"/>
+<edge source="Sharavana" target="Giles"/>
+<edge source="Sharavana" target="Harishchandra"/>
+<edge source="Sharavana" target="Gandhi"/>
+<edge source="Sharavana" target="Krishnashankar Pandya"/>
+<edge source="Sharavana" target="Putlibai"/>
+<edge source="Sharavana" target="Ota Gandhi"/>
+<edge source="Sharavana" target="Dorabji"/>
+<edge source="Sharavana" target="Nishkulanand"/>
+<edge source="Karamchand Gandhi" target="Tulsidas Gandhi"/>
+<edge source="Karamchand Gandhi" target="Kaba Gandhi"/>
+<edge source="Karamchand Gandhi" target="Giles"/>
+<edge source="Karamchand Gandhi" target="Harishchandra"/>
+<edge source="Karamchand Gandhi" target="Gandhi"/>
+<edge source="Karamchand Gandhi" target="Krishnashankar Pandya"/>
+<edge source="Karamchand Gandhi" target="Putlibai"/>
+<edge source="Karamchand Gandhi" target="Ota Gandhi"/>
+<edge source="Karamchand Gandhi" target="Dorabji"/>
+<edge source="Karamchand Gandhi" target="Nishkulanand"/>
+<edge source="Tulsidas Gandhi" target="Kaba Gandhi"/>
+<edge source="Tulsidas Gandhi" target="Giles"/>
+<edge source="Tulsidas Gandhi" target="Harishchandra"/>
+<edge source="Tulsidas Gandhi" target="Gandhi"/>
+<edge source="Tulsidas Gandhi" target="Krishnashankar Pandya"/>
+<edge source="Tulsidas Gandhi" target="Putlibai"/>
+<edge source="Tulsidas Gandhi" target="Ota Gandhi"/>
+<edge source="Tulsidas Gandhi" target="Dorabji"/>
+<edge source="Tulsidas Gandhi" target="Nishkulanand"/>
+<edge source="Kaba Gandhi" target="Giles"/>
+<edge source="Kaba Gandhi" target="Harishchandra"/>
+<edge source="Kaba Gandhi" target="Gandhi"/>
+<edge source="Kaba Gandhi" target="Krishnashankar Pandya"/>
+<edge source="Kaba Gandhi" target="Putlibai"/>
+<edge source="Kaba Gandhi" target="Ota Gandhi"/>
+<edge source="Kaba Gandhi" target="Dorabji"/>
+<edge source="Kaba Gandhi" target="Nishkulanand"/>
+<edge source="Giles" target="Harishchandra"/>
+<edge source="Giles" target="Gandhi"/>
+<edge source="Giles" target="Krishnashankar Pandya"/>
+<edge source="Giles" target="Putlibai"/>
+<edge source="Giles" target="Ota Gandhi"/>
+<edge source="Giles" target="Dorabji"/>
+<edge source="Giles" target="Nishkulanand"/>
+<edge source="Harishchandra" target="Gandhi"/>
+<edge source="Harishchandra" target="Krishnashankar Pandya"/>
+<edge source="Harishchandra" target="Putlibai"/>
+<edge source="Harishchandra" target="Ota Gandhi"/>
+<edge source="Harishchandra" target="Dorabji"/>
+<edge source="Harishchandra" target="Nishkulanand"/>
+<edge source="Gandhi" target="Krishnashankar Pandya"/>
+<edge source="Gandhi" target="Putlibai"/>
+<edge source="Gandhi" target="Ota Gandhi"/>
+<edge source="Gandhi" target="Dorabji"/>
+<edge source="Gandhi" target="Nishkulanand"/>
+<edge source="Krishnashankar Pandya" target="Putlibai"/>
+<edge source="Krishnashankar Pandya" target="Ota Gandhi"/>
+<edge source="Krishnashankar Pandya" target="Dorabji"/>
+<edge source="Krishnashankar Pandya" target="Nishkulanand"/>
+<edge source="Putlibai" target="Dorabji"/>
+<edge source="Putlibai" target="Ota Gandhi"/>
+<edge source="Putlibai" target="Nishkulanand"/>
+<edge source="Ota Gandhi" target="Dorabji"/>
+<edge source="Ota Gandhi" target="Nishkulanand"/>
+<edge source="Dorabji" target="Nishkulanand"/>
+</graph></graphml>

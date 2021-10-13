@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Portsmouth"/>
+<node id="England"/>
+<node id="Durban"/>
+<node id="South Africa"/>
+<node id="Paris"/>
+<node id="India"/>
+<node id="France"/>
+<node id="Richmond"/>
+<node id="Ventnor"/>
+<node id="Johannesburg"/>
+<node id="Natal"/>
+<node id="Germany"/>
+<node id="America"/>
+<node id="London"/>
+<node id="Aden"/>
+<node id="Netley"/>
+<node id="Brighton"/>
+<edge source="Portsmouth" target="America"/>
+<edge source="Portsmouth" target="England"/>
+<edge source="Portsmouth" target="Durban"/>
+<edge source="Portsmouth" target="South Africa"/>
+<edge source="Portsmouth" target="Paris"/>
+<edge source="Portsmouth" target="India"/>
+<edge source="Portsmouth" target="France"/>
+<edge source="Portsmouth" target="Richmond"/>
+<edge source="Portsmouth" target="Ventnor"/>
+<edge source="Portsmouth" target="Johannesburg"/>
+<edge source="Portsmouth" target="Natal"/>
+<edge source="Portsmouth" target="Germany"/>
+<edge source="Portsmouth" target="London"/>
+<edge source="Portsmouth" target="Aden"/>
+<edge source="Portsmouth" target="Netley"/>
+<edge source="Portsmouth" target="Brighton"/>
+<edge source="England" target="Durban"/>
+<edge source="England" target="South Africa"/>
+<edge source="England" target="Paris"/>
+<edge source="England" target="India"/>
+<edge source="England" target="France"/>
+<edge source="England" target="Richmond"/>
+<edge source="England" target="Ventnor"/>
+<edge source="England" target="Johannesburg"/>
+<edge source="England" target="Natal"/>
+<edge source="England" target="Germany"/>
+<edge source="England" target="America"/>
+<edge source="England" target="London"/>
+<edge source="England" target="Aden"/>
+<edge source="England" target="Netley"/>
+<edge source="England" target="Brighton"/>
+<edge source="Durban" target="South Africa"/>
+<edge source="Durban" target="Paris"/>
+<edge source="Durban" target="India"/>
+<edge source="Durban" target="France"/>
+<edge source="Durban" target="Richmond"/>
+<edge source="Durban" target="Ventnor"/>
+<edge source="Durban" target="Johannesburg"/>
+<edge source="Durban" target="Natal"/>
+<edge source="Durban" target="Germany"/>
+<edge source="Durban" target="America"/>
+<edge source="Durban" target="London"/>
+<edge source="Durban" target="Aden"/>
+<edge source="Durban" target="Netley"/>
+<edge source="Durban" target="Brighton"/>
+<edge source="South Africa" target="Paris"/>
+<edge source="South Africa" target="India"/>
+<edge source="South Africa" target="France"/>
+<edge source="South Africa" target="Richmond"/>
+<edge source="South Africa" target="Ventnor"/>
+<edge source="South Africa" target="Johannesburg"/>
+<edge source="South Africa" target="Natal"/>
+<edge source="South Africa" target="Germany"/>
+<edge source="South Africa" target="America"/>
+<edge source="South Africa" target="London"/>
+<edge source="South Africa" target="Aden"/>
+<edge source="South Africa" target="Netley"/>
+<edge source="South Africa" target="Brighton"/>
+<edge source="Paris" target="India"/>
+<edge source="Paris" target="France"/>
+<edge source="Paris" target="Richmond"/>
+<edge source="Paris" target="Ventnor"/>
+<edge source="Paris" target="Johannesburg"/>
+<edge source="Paris" target="Natal"/>
+<edge source="Paris" target="Germany"/>
+<edge source="Paris" target="America"/>
+<edge source="Paris" target="London"/>
+<edge source="Paris" target="Aden"/>
+<edge source="Paris" target="Netley"/>
+<edge source="Paris" target="Brighton"/>
+<edge source="India" target="France"/>
+<edge source="India" target="Richmond"/>
+<edge source="India" target="Ventnor"/>
+<edge source="India" target="Johannesburg"/>
+<edge source="India" target="Natal"/>
+<edge source="India" target="Germany"/>
+<edge source="India" target="America"/>
+<edge source="India" target="London"/>
+<edge source="India" target="Aden"/>
+<edge source="India" target="Netley"/>
+<edge source="India" target="Brighton"/>
+<edge source="France" target="Netley"/>
+<edge source="France" target="Richmond"/>
+<edge source="France" target="Ventnor"/>
+<edge source="France" target="Johannesburg"/>
+<edge source="France" target="Natal"/>
+<edge source="France" target="Germany"/>
+<edge source="France" target="London"/>
+<edge source="France" target="Aden"/>
+<edge source="France" target="America"/>
+<edge source="France" target="Brighton"/>
+<edge source="Richmond" target="Ventnor"/>
+<edge source="Richmond" target="Johannesburg"/>
+<edge source="Richmond" target="Natal"/>
+<edge source="Richmond" target="Germany"/>
+<edge source="Richmond" target="America"/>
+<edge source="Richmond" target="London"/>
+<edge source="Richmond" target="Aden"/>
+<edge source="Richmond" target="Netley"/>
+<edge source="Richmond" target="Brighton"/>
+<edge source="Ventnor" target="Johannesburg"/>
+<edge source="Ventnor" target="Natal"/>
+<edge source="Ventnor" target="Germany"/>
+<edge source="Ventnor" target="America"/>
+<edge source="Ventnor" target="London"/>
+<edge source="Ventnor" target="Aden"/>
+<edge source="Ventnor" target="Netley"/>
+<edge source="Ventnor" target="Brighton"/>
+<edge source="Johannesburg" target="Natal"/>
+<edge source="Johannesburg" target="Germany"/>
+<edge source="Johannesburg" target="America"/>
+<edge source="Johannesburg" target="London"/>
+<edge source="Johannesburg" target="Aden"/>
+<edge source="Johannesburg" target="Netley"/>
+<edge source="Johannesburg" target="Brighton"/>
+<edge source="Natal" target="Germany"/>
+<edge source="Natal" target="America"/>
+<edge source="Natal" target="London"/>
+<edge source="Natal" target="Aden"/>
+<edge source="Natal" target="Netley"/>
+<edge source="Natal" target="Brighton"/>
+<edge source="Germany" target="London"/>
+<edge source="Germany" target="America"/>
+<edge source="Germany" target="Aden"/>
+<edge source="Germany" target="Netley"/>
+<edge source="Germany" target="Brighton"/>
+<edge source="America" target="London"/>
+<edge source="America" target="Aden"/>
+<edge source="America" target="Netley"/>
+<edge source="America" target="Brighton"/>
+<edge source="London" target="Aden"/>
+<edge source="London" target="Netley"/>
+<edge source="London" target="Brighton"/>
+<edge source="Aden" target="Netley"/>
+<edge source="Aden" target="Brighton"/>
+<edge source="Netley" target="Brighton"/>
+</graph></graphml>

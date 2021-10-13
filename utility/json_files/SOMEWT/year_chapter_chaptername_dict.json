@@ -1,0 +1,883 @@
+{
+    "1869": [
+        [
+            "1", 
+            "1", 
+            "Birth And Parentage"
+        ], 
+        [
+            "1", 
+            "3", 
+            "Child Marriage"
+        ], 
+        [
+            "1", 
+            "2", 
+            "Childhood"
+        ], 
+        [
+            "1", 
+            "5", 
+            "At The High School"
+        ], 
+        [
+            "1", 
+            "4", 
+            "Playing The Husband"
+        ]
+    ], 
+    "1920": [
+        [
+            "3", 
+            "1", 
+            "Rumblings Of The Storm"
+        ], 
+        [
+            "3", 
+            "3", 
+            "The Test"
+        ], 
+        [
+            "3", 
+            "2", 
+            "The Storm"
+        ], 
+        [
+            "3", 
+            "5", 
+            "Education Of Children"
+        ], 
+        [
+            "3", 
+            "4", 
+            "The Calm After The Storm"
+        ], 
+        [
+            "3", 
+            "6", 
+            "Spirit Of Service"
+        ], 
+        [
+            "5", 
+            "42", 
+            "Its Rising Tide"
+        ], 
+        [
+            "5", 
+            "43", 
+            "At Nagpur"
+        ], 
+        [
+            "5", 
+            "41", 
+            "An Instructive Dialogue"
+        ]
+    ], 
+    "1921": [
+        [
+            "5", 
+            "44", 
+            "Farewell"
+        ]
+    ], 
+    "1906": [
+        [
+            "3", 
+            "7", 
+            "Brahmacharya - I"
+        ], 
+        [
+            "3", 
+            "9", 
+            "Simple Life"
+        ], 
+        [
+            "3", 
+            "8", 
+            "Brahmacharya - II"
+        ], 
+        [
+            "4", 
+            "25", 
+            "Heart Searchings"
+        ], 
+        [
+            "4", 
+            "26", 
+            "The Birth Of Satyagraha"
+        ], 
+        [
+            "4", 
+            "27", 
+            "More Experiments In Dietetics"
+        ], 
+        [
+            "4", 
+            "9", 
+            "A Tussle With Power"
+        ], 
+        [
+            "4", 
+            "8", 
+            "A Warning"
+        ], 
+        [
+            "4", 
+            "11", 
+            "Intimate European Contacts"
+        ], 
+        [
+            "4", 
+            "10", 
+            "A Sacred Recollection And Penance"
+        ]
+    ], 
+    "1924": [
+        [
+            "2", 
+            "9", 
+            "More Hardships"
+        ], 
+        [
+            "2", 
+            "8", 
+            "On The way To Pretoria"
+        ]
+    ], 
+    "1894": [
+        [
+            "2", 
+            "20", 
+            "Balasundaram"
+        ], 
+        [
+            "2", 
+            "21", 
+            "The \u20a4 3 Tax Comparative"
+        ], 
+        [
+            "2", 
+            "22", 
+            "Study Of Religions"
+        ], 
+        [
+            "2", 
+            "19", 
+            "Natal Indian Congress"
+        ], 
+        [
+            "5", 
+            "11", 
+            "Abolition Of Indentured Emigration"
+        ]
+    ], 
+    "1904": [
+        [
+            "4", 
+            "20", 
+            "The First Night"
+        ], 
+        [
+            "4", 
+            "21", 
+            "Polak Takes The Plunge"
+        ], 
+        [
+            "4", 
+            "13", 
+            "Indian Opinion"
+        ], 
+        [
+            "4", 
+            "12", 
+            "European Contacts (Continued)"
+        ], 
+        [
+            "4", 
+            "15", 
+            "The Black Plague-I"
+        ], 
+        [
+            "4", 
+            "14", 
+            "Coolie Locations Or Ghettos?"
+        ], 
+        [
+            "4", 
+            "17", 
+            "Location In Flames"
+        ], 
+        [
+            "4", 
+            "16", 
+            "The Black Plague-II"
+        ], 
+        [
+            "4", 
+            "19", 
+            "The Phoenix Settlement"
+        ], 
+        [
+            "4", 
+            "18", 
+            "The Magic Spell Of A Book"
+        ]
+    ], 
+    "1897": [
+        [
+            "3", 
+            "11", 
+            "Sanitary Reform And Famine Relief"
+        ], 
+        [
+            "3", 
+            "10", 
+            "The Boer War"
+        ], 
+        [
+            "3", 
+            "12", 
+            "Return To India"
+        ]
+    ], 
+    "1890": [
+        [
+            "1", 
+            "20", 
+            "'Nirbal Ke Bala Rama'"
+        ], 
+        [
+            "1", 
+            "21", 
+            "Narayan Hemchandra"
+        ], 
+        [
+            "1", 
+            "22", 
+            "The Great Exhibition"
+        ], 
+        [
+            "1", 
+            "17", 
+            "Shyness My Shield"
+        ], 
+        [
+            "1", 
+            "16", 
+            "Experiments In Dietetics"
+        ], 
+        [
+            "1", 
+            "19", 
+            "Acquaintance With Religions"
+        ], 
+        [
+            "1", 
+            "18", 
+            "The Canker Of Untruth"
+        ], 
+        [
+            "4", 
+            "46", 
+            "Clients Turned Co-Workers"
+        ], 
+        [
+            "4", 
+            "47", 
+            "How A Client Was Saved"
+        ], 
+        [
+            "4", 
+            "44", 
+            "Some Reminiscences Of The Bar"
+        ], 
+        [
+            "4", 
+            "45", 
+            "Sharp Practice?"
+        ], 
+        [
+            "4", 
+            "42", 
+            "Treatment of Pleurisy"
+        ], 
+        [
+            "4", 
+            "43", 
+            "Homeward"
+        ], 
+        [
+            "4", 
+            "40", 
+            "Miniature Satyagraha"
+        ], 
+        [
+            "4", 
+            "41", 
+            "Gokhale's Charity"
+        ]
+    ], 
+    "1903": [
+        [
+            "4", 
+            "1", 
+            "'Love's Labour's Lost'"
+        ], 
+        [
+            "4", 
+            "3", 
+            "Pocketed The Insult"
+        ], 
+        [
+            "4", 
+            "2", 
+            "Autocrats From Asia"
+        ], 
+        [
+            "4", 
+            "5", 
+            "Result Of Introspection"
+        ], 
+        [
+            "4", 
+            "4", 
+            "Quickened Spirit Of Sacrifice"
+        ], 
+        [
+            "4", 
+            "7", 
+            "Experiments In Earth And Water Treatment"
+        ], 
+        [
+            "4", 
+            "6", 
+            "A Sacrifice To Vegetarianism"
+        ]
+    ], 
+    "1893": [
+        [
+            "2", 
+            "1", 
+            "Raychandbhai"
+        ], 
+        [
+            "2", 
+            "3", 
+            "The First Case"
+        ], 
+        [
+            "2", 
+            "2", 
+            "How I Began Life"
+        ], 
+        [
+            "2", 
+            "5", 
+            "Preparing For South Africa"
+        ], 
+        [
+            "2", 
+            "4", 
+            "The First Shock"
+        ], 
+        [
+            "2", 
+            "7", 
+            "Some Experiences"
+        ], 
+        [
+            "2", 
+            "6", 
+            "Arrival In Natal"
+        ], 
+        [
+            "2", 
+            "11", 
+            "Christian Contacts"
+        ], 
+        [
+            "2", 
+            "12", 
+            "Seeking Touch With Indians"
+        ], 
+        [
+            "2", 
+            "17", 
+            "Settled In Natal"
+        ], 
+        [
+            "2", 
+            "16", 
+            "Man Proposes, God Disposes"
+        ], 
+        [
+            "2", 
+            "18", 
+            "Colour Bar"
+        ]
+    ], 
+    "1891": [
+        [
+            "1", 
+            "23", 
+            "'Called' - But Then?"
+        ]
+    ], 
+    "1857": [
+        [
+            "1", 
+            "24", 
+            "My Helplessness"
+        ]
+    ], 
+    "1901": [
+        [
+            "3", 
+            "13", 
+            "In India Again"
+        ], 
+        [
+            "3", 
+            "15", 
+            "In The Congress"
+        ], 
+        [
+            "3", 
+            "14", 
+            "Clerk And Bearer"
+        ], 
+        [
+            "3", 
+            "16", 
+            "Lord Curson's Darbar"
+        ]
+    ], 
+    "1896": [
+        [
+            "3", 
+            "17", 
+            "A Month With Gokhale - I"
+        ], 
+        [
+            "3", 
+            "19", 
+            "A Month With Gokhale - III"
+        ], 
+        [
+            "3", 
+            "18", 
+            "A Month With Gokhale - II"
+        ], 
+        [
+            "2", 
+            "24", 
+            "Homeward"
+        ], 
+        [
+            "2", 
+            "25", 
+            "In India"
+        ], 
+        [
+            "2", 
+            "26", 
+            "Two Passions"
+        ], 
+        [
+            "2", 
+            "27", 
+            "The Bombay Meeting"
+        ], 
+        [
+            "2", 
+            "23", 
+            "As A Householder"
+        ], 
+        [
+            "2", 
+            "28", 
+            "Poona And Madras"
+        ], 
+        [
+            "2", 
+            "29", 
+            "'Return Soon'"
+        ], 
+        [
+            "4", 
+            "24", 
+            "The Zulu 'Rebellion'"
+        ], 
+        [
+            "4", 
+            "22", 
+            "Whom God Protects"
+        ], 
+        [
+            "4", 
+            "23", 
+            "A Peep Into The Household"
+        ]
+    ], 
+    "1919": [
+        [
+            "3", 
+            "20", 
+            "In Benaras"
+        ], 
+        [
+            "3", 
+            "21", 
+            "Settled In Bombay"
+        ], 
+        [
+            "3", 
+            "22", 
+            "Faith On Its Trail"
+        ], 
+        [
+            "3", 
+            "23", 
+            "To South Africa Again"
+        ], 
+        [
+            "5", 
+            "29", 
+            "The Rowlatt Bills And My Dilemma"
+        ], 
+        [
+            "5", 
+            "24", 
+            "'The Onion Thief'"
+        ], 
+        [
+            "5", 
+            "25", 
+            "End Of Kheda Satyagraha"
+        ], 
+        [
+            "5", 
+            "26", 
+            "Passion For Unity"
+        ], 
+        [
+            "5", 
+            "27", 
+            "Recruiting Campaign"
+        ], 
+        [
+            "5", 
+            "22", 
+            "The Fast"
+        ], 
+        [
+            "5", 
+            "23", 
+            "The Kheda Satyagraha"
+        ], 
+        [
+            "5", 
+            "28", 
+            "Near Death's Door"
+        ], 
+        [
+            "5", 
+            "31", 
+            "That Memorable Week! - I"
+        ], 
+        [
+            "5", 
+            "30", 
+            "That Wonderful Spectacle!"
+        ], 
+        [
+            "5", 
+            "34", 
+            "Navajivan And Young India"
+        ], 
+        [
+            "5", 
+            "33", 
+            "'A Himalayan Miscalculation'"
+        ], 
+        [
+            "5", 
+            "32", 
+            "That Memorable Week! - II"
+        ]
+    ], 
+    "1887": [
+        [
+            "1", 
+            "7", 
+            "Stealing And Atonement"
+        ], 
+        [
+            "1", 
+            "6", 
+            "A Tragedy"
+        ], 
+        [
+            "1", 
+            "9", 
+            "Glimpses of Religion"
+        ], 
+        [
+            "1", 
+            "8", 
+            "My Father's Death And My Double Shame"
+        ], 
+        [
+            "1", 
+            "11", 
+            "Outcaste"
+        ], 
+        [
+            "1", 
+            "10", 
+            "Preparation For England"
+        ], 
+        [
+            "1", 
+            "13", 
+            "My Choice"
+        ], 
+        [
+            "1", 
+            "12", 
+            "In London At last"
+        ], 
+        [
+            "1", 
+            "15", 
+            "Changes"
+        ], 
+        [
+            "1", 
+            "14", 
+            "Playing The English Gentleman"
+        ]
+    ], 
+    "1886": [
+        [
+            "2", 
+            "13", 
+            "What It Is To Be A 'Coolie'"
+        ], 
+        [
+            "2", 
+            "15", 
+            "Religious Ferment"
+        ], 
+        [
+            "2", 
+            "14", 
+            "Preparation For The Case"
+        ]
+    ], 
+    "1912": [
+        [
+            "4", 
+            "31", 
+            "Fasting"
+        ], 
+        [
+            "4", 
+            "30", 
+            "Towards Self -Restraint"
+        ], 
+        [
+            "4", 
+            "32", 
+            "As Schoolmaster"
+        ]
+    ], 
+    "1915": [
+        [
+            "5", 
+            "20", 
+            "In Touch With Labour"
+        ], 
+        [
+            "5", 
+            "21", 
+            "A Peep Into The Ashram"
+        ], 
+        [
+            "5", 
+            "40", 
+            "Found At Last!"
+        ], 
+        [
+            "5", 
+            "1", 
+            "The First Experience"
+        ], 
+        [
+            "5", 
+            "3", 
+            "Was It A Threat?"
+        ], 
+        [
+            "5", 
+            "2", 
+            "With Gokhale In Poona"
+        ], 
+        [
+            "5", 
+            "5", 
+            "Woes Of Third Class Passengers"
+        ], 
+        [
+            "5", 
+            "4", 
+            "Shantiniketan"
+        ], 
+        [
+            "5", 
+            "7", 
+            "Kumbha Mela"
+        ], 
+        [
+            "5", 
+            "6", 
+            "Wooing"
+        ], 
+        [
+            "5", 
+            "9", 
+            "Founding of The Ashram"
+        ], 
+        [
+            "5", 
+            "8", 
+            "Lakshman Jhula"
+        ], 
+        [
+            "5", 
+            "13", 
+            "The Gentle Bihari"
+        ], 
+        [
+            "5", 
+            "10", 
+            "On The Anvil"
+        ], 
+        [
+            "5", 
+            "39", 
+            "The Birth Of Khadi"
+        ], 
+        [
+            "5", 
+            "38", 
+            "Congress Initiation"
+        ], 
+        [
+            "5", 
+            "15", 
+            "Case Withdrawn"
+        ], 
+        [
+            "5", 
+            "14", 
+            "Face To Face With Ahimsa"
+        ], 
+        [
+            "5", 
+            "17", 
+            "Companions"
+        ], 
+        [
+            "5", 
+            "16", 
+            "Methods Of Work"
+        ], 
+        [
+            "5", 
+            "19", 
+            "When A Governor Is Good"
+        ], 
+        [
+            "5", 
+            "18", 
+            "Penetrating The Villages"
+        ], 
+        [
+            "5", 
+            "37", 
+            "The Amritsar Congress"
+        ], 
+        [
+            "5", 
+            "36", 
+            "The Khilafat Against Cow Protection?"
+        ], 
+        [
+            "5", 
+            "35", 
+            "In The Punjab"
+        ]
+    ], 
+    "1914": [
+        [
+            "2", 
+            "10", 
+            "First Day In Pretoria"
+        ], 
+        [
+            "4", 
+            "28", 
+            "Kasturba's Courage"
+        ], 
+        [
+            "4", 
+            "29", 
+            "Domestic Satyagraha"
+        ], 
+        [
+            "4", 
+            "39", 
+            "A Spiritual Dilemma"
+        ], 
+        [
+            "4", 
+            "38", 
+            "My Part In The War"
+        ], 
+        [
+            "4", 
+            "37", 
+            "To Meet Gokhale"
+        ], 
+        [
+            "4", 
+            "36", 
+            "Fasting As Penance"
+        ]
+    ], 
+    "1917": [
+        [
+            "5", 
+            "12", 
+            "The Stain Of Indigo"
+        ]
+    ], 
+    "1911": [
+        [
+            "4", 
+            "35", 
+            "Tares Among The Wheat"
+        ], 
+        [
+            "4", 
+            "34", 
+            "Training Of The Spirit"
+        ], 
+        [
+            "4", 
+            "33", 
+            "Literary Training"
+        ]
+    ]
+}

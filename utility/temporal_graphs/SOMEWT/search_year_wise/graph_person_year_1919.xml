@@ -1,0 +1,1130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Kasturbai"/>
+<node id="Naidu"/>
+<node id="Kuhne"/>
+<node id="Brelvi"/>
+<node id="Michael O'Dwyer"/>
+<node id="Sheth Ambalal"/>
+<node id="Lokamanya Tilak"/>
+<node id="Umar Sobani"/>
+<node id="Kitchlu"/>
+<node id="Dhruva"/>
+<node id="Ramanbhai"/>
+<node id="Hakim Ajmal Khan Saheb"/>
+<node id="Besant"/>
+<node id="Dinabandhu"/>
+<node id="Vithalbhai"/>
+<node id="Samarth"/>
+<node id="Indulal"/>
+<node id="Bowring"/>
+<node id="Rajagopalachari"/>
+<node id="Vithaldas Jerajani"/>
+<node id="Mohanlal"/>
+<node id="Fulchand"/>
+<node id="Vallabhbhai Patel"/>
+<node id="Ansari"/>
+<node id="Kasturi"/>
+<node id="Talvalkar"/>
+<node id="Shankarlal Parikh"/>
+<node id="Kevalram Dave"/>
+<node id="Sayani"/>
+<node id="Hakim Saheb"/>
+<node id="Horniman"/>
+<node id="Gokhale"/>
+<node id="Gandhi"/>
+<node id="Anandshankar"/>
+<node id="Manilal"/>
+<node id="Abdur Rahman"/>
+<node id="Shrimati Anasuyabehn"/>
+<node id="Mahadev Desai"/>
+<node id="Kanuga"/>
+<node id="Mahomed Ali"/>
+<node id="Yajnik"/>
+<node id="Satyapal"/>
+<node id="Shrimati Sarojini Devi"/>
+<node id="Kelkar"/>
+<node id="Sarladevi"/>
+<node id="Shastriji"/>
+<node id="Chelmsford"/>
+<edge source="Kasturbai" target="Naidu"/>
+<edge source="Kasturbai" target="Kuhne"/>
+<edge source="Kasturbai" target="Brelvi"/>
+<edge source="Kasturbai" target="Michael O'Dwyer"/>
+<edge source="Kasturbai" target="Sheth Ambalal"/>
+<edge source="Kasturbai" target="Lokamanya Tilak"/>
+<edge source="Kasturbai" target="Umar Sobani"/>
+<edge source="Kasturbai" target="Kitchlu"/>
+<edge source="Kasturbai" target="Dhruva"/>
+<edge source="Kasturbai" target="Ramanbhai"/>
+<edge source="Kasturbai" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kasturbai" target="Besant"/>
+<edge source="Kasturbai" target="Dinabandhu"/>
+<edge source="Kasturbai" target="Vithalbhai"/>
+<edge source="Kasturbai" target="Samarth"/>
+<edge source="Kasturbai" target="Indulal"/>
+<edge source="Kasturbai" target="Bowring"/>
+<edge source="Kasturbai" target="Rajagopalachari"/>
+<edge source="Kasturbai" target="Vithaldas Jerajani"/>
+<edge source="Kasturbai" target="Mohanlal"/>
+<edge source="Kasturbai" target="Fulchand"/>
+<edge source="Kasturbai" target="Vallabhbhai Patel"/>
+<edge source="Kasturbai" target="Ansari"/>
+<edge source="Kasturbai" target="Kasturi"/>
+<edge source="Kasturbai" target="Talvalkar"/>
+<edge source="Kasturbai" target="Shankarlal Parikh"/>
+<edge source="Kasturbai" target="Kevalram Dave"/>
+<edge source="Kasturbai" target="Sayani"/>
+<edge source="Kasturbai" target="Hakim Saheb"/>
+<edge source="Kasturbai" target="Horniman"/>
+<edge source="Kasturbai" target="Gokhale"/>
+<edge source="Kasturbai" target="Gandhi"/>
+<edge source="Kasturbai" target="Anandshankar"/>
+<edge source="Kasturbai" target="Manilal"/>
+<edge source="Kasturbai" target="Abdur Rahman"/>
+<edge source="Kasturbai" target="Shrimati Anasuyabehn"/>
+<edge source="Kasturbai" target="Mahadev Desai"/>
+<edge source="Kasturbai" target="Kanuga"/>
+<edge source="Kasturbai" target="Mahomed Ali"/>
+<edge source="Kasturbai" target="Yajnik"/>
+<edge source="Kasturbai" target="Satyapal"/>
+<edge source="Kasturbai" target="Shrimati Sarojini Devi"/>
+<edge source="Kasturbai" target="Kelkar"/>
+<edge source="Kasturbai" target="Sarladevi"/>
+<edge source="Kasturbai" target="Shastriji"/>
+<edge source="Kasturbai" target="Chelmsford"/>
+<edge source="Naidu" target="Ramanbhai"/>
+<edge source="Naidu" target="Kuhne"/>
+<edge source="Naidu" target="Brelvi"/>
+<edge source="Naidu" target="Michael O'Dwyer"/>
+<edge source="Naidu" target="Sheth Ambalal"/>
+<edge source="Naidu" target="Lokamanya Tilak"/>
+<edge source="Naidu" target="Umar Sobani"/>
+<edge source="Naidu" target="Kitchlu"/>
+<edge source="Naidu" target="Dhruva"/>
+<edge source="Naidu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Naidu" target="Besant"/>
+<edge source="Naidu" target="Dinabandhu"/>
+<edge source="Naidu" target="Vithalbhai"/>
+<edge source="Naidu" target="Samarth"/>
+<edge source="Naidu" target="Indulal"/>
+<edge source="Naidu" target="Bowring"/>
+<edge source="Naidu" target="Rajagopalachari"/>
+<edge source="Naidu" target="Vithaldas Jerajani"/>
+<edge source="Naidu" target="Mohanlal"/>
+<edge source="Naidu" target="Fulchand"/>
+<edge source="Naidu" target="Vallabhbhai Patel"/>
+<edge source="Naidu" target="Ansari"/>
+<edge source="Naidu" target="Kasturi"/>
+<edge source="Naidu" target="Talvalkar"/>
+<edge source="Naidu" target="Shankarlal Parikh"/>
+<edge source="Naidu" target="Kevalram Dave"/>
+<edge source="Naidu" target="Sayani"/>
+<edge source="Naidu" target="Hakim Saheb"/>
+<edge source="Naidu" target="Horniman"/>
+<edge source="Naidu" target="Gokhale"/>
+<edge source="Naidu" target="Gandhi"/>
+<edge source="Naidu" target="Anandshankar"/>
+<edge source="Naidu" target="Manilal"/>
+<edge source="Naidu" target="Abdur Rahman"/>
+<edge source="Naidu" target="Shrimati Anasuyabehn"/>
+<edge source="Naidu" target="Mahadev Desai"/>
+<edge source="Naidu" target="Kanuga"/>
+<edge source="Naidu" target="Mahomed Ali"/>
+<edge source="Naidu" target="Yajnik"/>
+<edge source="Naidu" target="Satyapal"/>
+<edge source="Naidu" target="Shrimati Sarojini Devi"/>
+<edge source="Naidu" target="Kelkar"/>
+<edge source="Naidu" target="Sarladevi"/>
+<edge source="Naidu" target="Shastriji"/>
+<edge source="Naidu" target="Chelmsford"/>
+<edge source="Kuhne" target="Brelvi"/>
+<edge source="Kuhne" target="Michael O'Dwyer"/>
+<edge source="Kuhne" target="Sheth Ambalal"/>
+<edge source="Kuhne" target="Lokamanya Tilak"/>
+<edge source="Kuhne" target="Umar Sobani"/>
+<edge source="Kuhne" target="Kitchlu"/>
+<edge source="Kuhne" target="Dhruva"/>
+<edge source="Kuhne" target="Ramanbhai"/>
+<edge source="Kuhne" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kuhne" target="Besant"/>
+<edge source="Kuhne" target="Dinabandhu"/>
+<edge source="Kuhne" target="Vithalbhai"/>
+<edge source="Kuhne" target="Samarth"/>
+<edge source="Kuhne" target="Indulal"/>
+<edge source="Kuhne" target="Bowring"/>
+<edge source="Kuhne" target="Rajagopalachari"/>
+<edge source="Kuhne" target="Vithaldas Jerajani"/>
+<edge source="Kuhne" target="Mohanlal"/>
+<edge source="Kuhne" target="Fulchand"/>
+<edge source="Kuhne" target="Vallabhbhai Patel"/>
+<edge source="Kuhne" target="Ansari"/>
+<edge source="Kuhne" target="Kasturi"/>
+<edge source="Kuhne" target="Talvalkar"/>
+<edge source="Kuhne" target="Shankarlal Parikh"/>
+<edge source="Kuhne" target="Kevalram Dave"/>
+<edge source="Kuhne" target="Sayani"/>
+<edge source="Kuhne" target="Hakim Saheb"/>
+<edge source="Kuhne" target="Horniman"/>
+<edge source="Kuhne" target="Gokhale"/>
+<edge source="Kuhne" target="Gandhi"/>
+<edge source="Kuhne" target="Anandshankar"/>
+<edge source="Kuhne" target="Manilal"/>
+<edge source="Kuhne" target="Abdur Rahman"/>
+<edge source="Kuhne" target="Shrimati Anasuyabehn"/>
+<edge source="Kuhne" target="Mahadev Desai"/>
+<edge source="Kuhne" target="Kanuga"/>
+<edge source="Kuhne" target="Mahomed Ali"/>
+<edge source="Kuhne" target="Yajnik"/>
+<edge source="Kuhne" target="Satyapal"/>
+<edge source="Kuhne" target="Shrimati Sarojini Devi"/>
+<edge source="Kuhne" target="Kelkar"/>
+<edge source="Kuhne" target="Sarladevi"/>
+<edge source="Kuhne" target="Shastriji"/>
+<edge source="Kuhne" target="Chelmsford"/>
+<edge source="Brelvi" target="Michael O'Dwyer"/>
+<edge source="Brelvi" target="Sheth Ambalal"/>
+<edge source="Brelvi" target="Lokamanya Tilak"/>
+<edge source="Brelvi" target="Umar Sobani"/>
+<edge source="Brelvi" target="Kitchlu"/>
+<edge source="Brelvi" target="Dhruva"/>
+<edge source="Brelvi" target="Ramanbhai"/>
+<edge source="Brelvi" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Brelvi" target="Besant"/>
+<edge source="Brelvi" target="Dinabandhu"/>
+<edge source="Brelvi" target="Vithalbhai"/>
+<edge source="Brelvi" target="Samarth"/>
+<edge source="Brelvi" target="Indulal"/>
+<edge source="Brelvi" target="Bowring"/>
+<edge source="Brelvi" target="Rajagopalachari"/>
+<edge source="Brelvi" target="Vithaldas Jerajani"/>
+<edge source="Brelvi" target="Mohanlal"/>
+<edge source="Brelvi" target="Fulchand"/>
+<edge source="Brelvi" target="Vallabhbhai Patel"/>
+<edge source="Brelvi" target="Ansari"/>
+<edge source="Brelvi" target="Kasturi"/>
+<edge source="Brelvi" target="Talvalkar"/>
+<edge source="Brelvi" target="Shankarlal Parikh"/>
+<edge source="Brelvi" target="Kevalram Dave"/>
+<edge source="Brelvi" target="Sayani"/>
+<edge source="Brelvi" target="Hakim Saheb"/>
+<edge source="Brelvi" target="Horniman"/>
+<edge source="Brelvi" target="Gokhale"/>
+<edge source="Brelvi" target="Gandhi"/>
+<edge source="Brelvi" target="Anandshankar"/>
+<edge source="Brelvi" target="Manilal"/>
+<edge source="Brelvi" target="Abdur Rahman"/>
+<edge source="Brelvi" target="Shrimati Anasuyabehn"/>
+<edge source="Brelvi" target="Mahadev Desai"/>
+<edge source="Brelvi" target="Kanuga"/>
+<edge source="Brelvi" target="Mahomed Ali"/>
+<edge source="Brelvi" target="Yajnik"/>
+<edge source="Brelvi" target="Satyapal"/>
+<edge source="Brelvi" target="Shrimati Sarojini Devi"/>
+<edge source="Brelvi" target="Kelkar"/>
+<edge source="Brelvi" target="Sarladevi"/>
+<edge source="Brelvi" target="Shastriji"/>
+<edge source="Brelvi" target="Chelmsford"/>
+<edge source="Michael O'Dwyer" target="Sheth Ambalal"/>
+<edge source="Michael O'Dwyer" target="Lokamanya Tilak"/>
+<edge source="Michael O'Dwyer" target="Umar Sobani"/>
+<edge source="Michael O'Dwyer" target="Kitchlu"/>
+<edge source="Michael O'Dwyer" target="Dhruva"/>
+<edge source="Michael O'Dwyer" target="Ramanbhai"/>
+<edge source="Michael O'Dwyer" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Michael O'Dwyer" target="Besant"/>
+<edge source="Michael O'Dwyer" target="Dinabandhu"/>
+<edge source="Michael O'Dwyer" target="Vithalbhai"/>
+<edge source="Michael O'Dwyer" target="Samarth"/>
+<edge source="Michael O'Dwyer" target="Indulal"/>
+<edge source="Michael O'Dwyer" target="Bowring"/>
+<edge source="Michael O'Dwyer" target="Rajagopalachari"/>
+<edge source="Michael O'Dwyer" target="Vithaldas Jerajani"/>
+<edge source="Michael O'Dwyer" target="Mohanlal"/>
+<edge source="Michael O'Dwyer" target="Fulchand"/>
+<edge source="Michael O'Dwyer" target="Vallabhbhai Patel"/>
+<edge source="Michael O'Dwyer" target="Ansari"/>
+<edge source="Michael O'Dwyer" target="Kasturi"/>
+<edge source="Michael O'Dwyer" target="Talvalkar"/>
+<edge source="Michael O'Dwyer" target="Shankarlal Parikh"/>
+<edge source="Michael O'Dwyer" target="Kevalram Dave"/>
+<edge source="Michael O'Dwyer" target="Sayani"/>
+<edge source="Michael O'Dwyer" target="Hakim Saheb"/>
+<edge source="Michael O'Dwyer" target="Horniman"/>
+<edge source="Michael O'Dwyer" target="Gokhale"/>
+<edge source="Michael O'Dwyer" target="Gandhi"/>
+<edge source="Michael O'Dwyer" target="Anandshankar"/>
+<edge source="Michael O'Dwyer" target="Manilal"/>
+<edge source="Michael O'Dwyer" target="Abdur Rahman"/>
+<edge source="Michael O'Dwyer" target="Shrimati Anasuyabehn"/>
+<edge source="Michael O'Dwyer" target="Mahadev Desai"/>
+<edge source="Michael O'Dwyer" target="Kanuga"/>
+<edge source="Michael O'Dwyer" target="Mahomed Ali"/>
+<edge source="Michael O'Dwyer" target="Yajnik"/>
+<edge source="Michael O'Dwyer" target="Satyapal"/>
+<edge source="Michael O'Dwyer" target="Shrimati Sarojini Devi"/>
+<edge source="Michael O'Dwyer" target="Kelkar"/>
+<edge source="Michael O'Dwyer" target="Sarladevi"/>
+<edge source="Michael O'Dwyer" target="Shastriji"/>
+<edge source="Michael O'Dwyer" target="Chelmsford"/>
+<edge source="Sheth Ambalal" target="Talvalkar"/>
+<edge source="Sheth Ambalal" target="Lokamanya Tilak"/>
+<edge source="Sheth Ambalal" target="Umar Sobani"/>
+<edge source="Sheth Ambalal" target="Dhruva"/>
+<edge source="Sheth Ambalal" target="Ramanbhai"/>
+<edge source="Sheth Ambalal" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Sheth Ambalal" target="Besant"/>
+<edge source="Sheth Ambalal" target="Dinabandhu"/>
+<edge source="Sheth Ambalal" target="Vithalbhai"/>
+<edge source="Sheth Ambalal" target="Samarth"/>
+<edge source="Sheth Ambalal" target="Indulal"/>
+<edge source="Sheth Ambalal" target="Bowring"/>
+<edge source="Sheth Ambalal" target="Rajagopalachari"/>
+<edge source="Sheth Ambalal" target="Vithaldas Jerajani"/>
+<edge source="Sheth Ambalal" target="Mohanlal"/>
+<edge source="Sheth Ambalal" target="Fulchand"/>
+<edge source="Sheth Ambalal" target="Vallabhbhai Patel"/>
+<edge source="Sheth Ambalal" target="Ansari"/>
+<edge source="Sheth Ambalal" target="Kasturi"/>
+<edge source="Sheth Ambalal" target="Kitchlu"/>
+<edge source="Sheth Ambalal" target="Shankarlal Parikh"/>
+<edge source="Sheth Ambalal" target="Kevalram Dave"/>
+<edge source="Sheth Ambalal" target="Sayani"/>
+<edge source="Sheth Ambalal" target="Hakim Saheb"/>
+<edge source="Sheth Ambalal" target="Horniman"/>
+<edge source="Sheth Ambalal" target="Gokhale"/>
+<edge source="Sheth Ambalal" target="Gandhi"/>
+<edge source="Sheth Ambalal" target="Anandshankar"/>
+<edge source="Sheth Ambalal" target="Manilal"/>
+<edge source="Sheth Ambalal" target="Abdur Rahman"/>
+<edge source="Sheth Ambalal" target="Shrimati Anasuyabehn"/>
+<edge source="Sheth Ambalal" target="Mahadev Desai"/>
+<edge source="Sheth Ambalal" target="Kanuga"/>
+<edge source="Sheth Ambalal" target="Mahomed Ali"/>
+<edge source="Sheth Ambalal" target="Yajnik"/>
+<edge source="Sheth Ambalal" target="Satyapal"/>
+<edge source="Sheth Ambalal" target="Shrimati Sarojini Devi"/>
+<edge source="Sheth Ambalal" target="Kelkar"/>
+<edge source="Sheth Ambalal" target="Sarladevi"/>
+<edge source="Sheth Ambalal" target="Shastriji"/>
+<edge source="Sheth Ambalal" target="Chelmsford"/>
+<edge source="Lokamanya Tilak" target="Umar Sobani"/>
+<edge source="Lokamanya Tilak" target="Kitchlu"/>
+<edge source="Lokamanya Tilak" target="Dhruva"/>
+<edge source="Lokamanya Tilak" target="Ramanbhai"/>
+<edge source="Lokamanya Tilak" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Lokamanya Tilak" target="Besant"/>
+<edge source="Lokamanya Tilak" target="Dinabandhu"/>
+<edge source="Lokamanya Tilak" target="Vithalbhai"/>
+<edge source="Lokamanya Tilak" target="Samarth"/>
+<edge source="Lokamanya Tilak" target="Indulal"/>
+<edge source="Lokamanya Tilak" target="Bowring"/>
+<edge source="Lokamanya Tilak" target="Rajagopalachari"/>
+<edge source="Lokamanya Tilak" target="Vithaldas Jerajani"/>
+<edge source="Lokamanya Tilak" target="Mohanlal"/>
+<edge source="Lokamanya Tilak" target="Fulchand"/>
+<edge source="Lokamanya Tilak" target="Vallabhbhai Patel"/>
+<edge source="Lokamanya Tilak" target="Ansari"/>
+<edge source="Lokamanya Tilak" target="Kasturi"/>
+<edge source="Lokamanya Tilak" target="Talvalkar"/>
+<edge source="Lokamanya Tilak" target="Shankarlal Parikh"/>
+<edge source="Lokamanya Tilak" target="Kevalram Dave"/>
+<edge source="Lokamanya Tilak" target="Sayani"/>
+<edge source="Lokamanya Tilak" target="Hakim Saheb"/>
+<edge source="Lokamanya Tilak" target="Horniman"/>
+<edge source="Lokamanya Tilak" target="Gokhale"/>
+<edge source="Lokamanya Tilak" target="Gandhi"/>
+<edge source="Lokamanya Tilak" target="Anandshankar"/>
+<edge source="Lokamanya Tilak" target="Manilal"/>
+<edge source="Lokamanya Tilak" target="Abdur Rahman"/>
+<edge source="Lokamanya Tilak" target="Shrimati Anasuyabehn"/>
+<edge source="Lokamanya Tilak" target="Mahadev Desai"/>
+<edge source="Lokamanya Tilak" target="Kanuga"/>
+<edge source="Lokamanya Tilak" target="Mahomed Ali"/>
+<edge source="Lokamanya Tilak" target="Yajnik"/>
+<edge source="Lokamanya Tilak" target="Satyapal"/>
+<edge source="Lokamanya Tilak" target="Shrimati Sarojini Devi"/>
+<edge source="Lokamanya Tilak" target="Kelkar"/>
+<edge source="Lokamanya Tilak" target="Sarladevi"/>
+<edge source="Lokamanya Tilak" target="Shastriji"/>
+<edge source="Lokamanya Tilak" target="Chelmsford"/>
+<edge source="Umar Sobani" target="Shrimati Anasuyabehn"/>
+<edge source="Umar Sobani" target="Kitchlu"/>
+<edge source="Umar Sobani" target="Dhruva"/>
+<edge source="Umar Sobani" target="Ramanbhai"/>
+<edge source="Umar Sobani" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Umar Sobani" target="Besant"/>
+<edge source="Umar Sobani" target="Dinabandhu"/>
+<edge source="Umar Sobani" target="Vithalbhai"/>
+<edge source="Umar Sobani" target="Samarth"/>
+<edge source="Umar Sobani" target="Indulal"/>
+<edge source="Umar Sobani" target="Bowring"/>
+<edge source="Umar Sobani" target="Rajagopalachari"/>
+<edge source="Umar Sobani" target="Vithaldas Jerajani"/>
+<edge source="Umar Sobani" target="Mohanlal"/>
+<edge source="Umar Sobani" target="Fulchand"/>
+<edge source="Umar Sobani" target="Vallabhbhai Patel"/>
+<edge source="Umar Sobani" target="Ansari"/>
+<edge source="Umar Sobani" target="Kasturi"/>
+<edge source="Umar Sobani" target="Talvalkar"/>
+<edge source="Umar Sobani" target="Shankarlal Parikh"/>
+<edge source="Umar Sobani" target="Kevalram Dave"/>
+<edge source="Umar Sobani" target="Sayani"/>
+<edge source="Umar Sobani" target="Hakim Saheb"/>
+<edge source="Umar Sobani" target="Horniman"/>
+<edge source="Umar Sobani" target="Gokhale"/>
+<edge source="Umar Sobani" target="Gandhi"/>
+<edge source="Umar Sobani" target="Anandshankar"/>
+<edge source="Umar Sobani" target="Manilal"/>
+<edge source="Umar Sobani" target="Abdur Rahman"/>
+<edge source="Umar Sobani" target="Mahadev Desai"/>
+<edge source="Umar Sobani" target="Kanuga"/>
+<edge source="Umar Sobani" target="Mahomed Ali"/>
+<edge source="Umar Sobani" target="Yajnik"/>
+<edge source="Umar Sobani" target="Satyapal"/>
+<edge source="Umar Sobani" target="Shrimati Sarojini Devi"/>
+<edge source="Umar Sobani" target="Kelkar"/>
+<edge source="Umar Sobani" target="Sarladevi"/>
+<edge source="Umar Sobani" target="Shastriji"/>
+<edge source="Umar Sobani" target="Chelmsford"/>
+<edge source="Kitchlu" target="Dhruva"/>
+<edge source="Kitchlu" target="Ramanbhai"/>
+<edge source="Kitchlu" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Kitchlu" target="Besant"/>
+<edge source="Kitchlu" target="Dinabandhu"/>
+<edge source="Kitchlu" target="Vithalbhai"/>
+<edge source="Kitchlu" target="Samarth"/>
+<edge source="Kitchlu" target="Indulal"/>
+<edge source="Kitchlu" target="Bowring"/>
+<edge source="Kitchlu" target="Rajagopalachari"/>
+<edge source="Kitchlu" target="Vithaldas Jerajani"/>
+<edge source="Kitchlu" target="Mohanlal"/>
+<edge source="Kitchlu" target="Fulchand"/>
+<edge source="Kitchlu" target="Vallabhbhai Patel"/>
+<edge source="Kitchlu" target="Ansari"/>
+<edge source="Kitchlu" target="Kasturi"/>
+<edge source="Kitchlu" target="Talvalkar"/>
+<edge source="Kitchlu" target="Shankarlal Parikh"/>
+<edge source="Kitchlu" target="Kevalram Dave"/>
+<edge source="Kitchlu" target="Sayani"/>
+<edge source="Kitchlu" target="Hakim Saheb"/>
+<edge source="Kitchlu" target="Horniman"/>
+<edge source="Kitchlu" target="Gokhale"/>
+<edge source="Kitchlu" target="Gandhi"/>
+<edge source="Kitchlu" target="Anandshankar"/>
+<edge source="Kitchlu" target="Manilal"/>
+<edge source="Kitchlu" target="Abdur Rahman"/>
+<edge source="Kitchlu" target="Shrimati Anasuyabehn"/>
+<edge source="Kitchlu" target="Mahadev Desai"/>
+<edge source="Kitchlu" target="Kanuga"/>
+<edge source="Kitchlu" target="Mahomed Ali"/>
+<edge source="Kitchlu" target="Yajnik"/>
+<edge source="Kitchlu" target="Satyapal"/>
+<edge source="Kitchlu" target="Shrimati Sarojini Devi"/>
+<edge source="Kitchlu" target="Kelkar"/>
+<edge source="Kitchlu" target="Sarladevi"/>
+<edge source="Kitchlu" target="Shastriji"/>
+<edge source="Kitchlu" target="Chelmsford"/>
+<edge source="Dhruva" target="Ramanbhai"/>
+<edge source="Dhruva" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Dhruva" target="Besant"/>
+<edge source="Dhruva" target="Dinabandhu"/>
+<edge source="Dhruva" target="Vithalbhai"/>
+<edge source="Dhruva" target="Samarth"/>
+<edge source="Dhruva" target="Indulal"/>
+<edge source="Dhruva" target="Bowring"/>
+<edge source="Dhruva" target="Rajagopalachari"/>
+<edge source="Dhruva" target="Vithaldas Jerajani"/>
+<edge source="Dhruva" target="Mohanlal"/>
+<edge source="Dhruva" target="Fulchand"/>
+<edge source="Dhruva" target="Vallabhbhai Patel"/>
+<edge source="Dhruva" target="Ansari"/>
+<edge source="Dhruva" target="Kasturi"/>
+<edge source="Dhruva" target="Talvalkar"/>
+<edge source="Dhruva" target="Shankarlal Parikh"/>
+<edge source="Dhruva" target="Kevalram Dave"/>
+<edge source="Dhruva" target="Sayani"/>
+<edge source="Dhruva" target="Hakim Saheb"/>
+<edge source="Dhruva" target="Horniman"/>
+<edge source="Dhruva" target="Gokhale"/>
+<edge source="Dhruva" target="Gandhi"/>
+<edge source="Dhruva" target="Anandshankar"/>
+<edge source="Dhruva" target="Manilal"/>
+<edge source="Dhruva" target="Abdur Rahman"/>
+<edge source="Dhruva" target="Shrimati Anasuyabehn"/>
+<edge source="Dhruva" target="Mahadev Desai"/>
+<edge source="Dhruva" target="Kanuga"/>
+<edge source="Dhruva" target="Mahomed Ali"/>
+<edge source="Dhruva" target="Yajnik"/>
+<edge source="Dhruva" target="Satyapal"/>
+<edge source="Dhruva" target="Shrimati Sarojini Devi"/>
+<edge source="Dhruva" target="Kelkar"/>
+<edge source="Dhruva" target="Sarladevi"/>
+<edge source="Dhruva" target="Shastriji"/>
+<edge source="Dhruva" target="Chelmsford"/>
+<edge source="Ramanbhai" target="Hakim Ajmal Khan Saheb"/>
+<edge source="Ramanbhai" target="Besant"/>
+<edge source="Ramanbhai" target="Dinabandhu"/>
+<edge source="Ramanbhai" target="Vithalbhai"/>
+<edge source="Ramanbhai" target="Samarth"/>
+<edge source="Ramanbhai" target="Indulal"/>
+<edge source="Ramanbhai" target="Bowring"/>
+<edge source="Ramanbhai" target="Rajagopalachari"/>
+<edge source="Ramanbhai" target="Vithaldas Jerajani"/>
+<edge source="Ramanbhai" target="Mohanlal"/>
+<edge source="Ramanbhai" target="Fulchand"/>
+<edge source="Ramanbhai" target="Vallabhbhai Patel"/>
+<edge source="Ramanbhai" target="Ansari"/>
+<edge source="Ramanbhai" target="Kasturi"/>
+<edge source="Ramanbhai" target="Talvalkar"/>
+<edge source="Ramanbhai" target="Shankarlal Parikh"/>
+<edge source="Ramanbhai" target="Kevalram Dave"/>
+<edge source="Ramanbhai" target="Sayani"/>
+<edge source="Ramanbhai" target="Hakim Saheb"/>
+<edge source="Ramanbhai" target="Horniman"/>
+<edge source="Ramanbhai" target="Gokhale"/>
+<edge source="Ramanbhai" target="Gandhi"/>
+<edge source="Ramanbhai" target="Anandshankar"/>
+<edge source="Ramanbhai" target="Manilal"/>
+<edge source="Ramanbhai" target="Abdur Rahman"/>
+<edge source="Ramanbhai" target="Shrimati Anasuyabehn"/>
+<edge source="Ramanbhai" target="Mahadev Desai"/>
+<edge source="Ramanbhai" target="Kanuga"/>
+<edge source="Ramanbhai" target="Mahomed Ali"/>
+<edge source="Ramanbhai" target="Yajnik"/>
+<edge source="Ramanbhai" target="Satyapal"/>
+<edge source="Ramanbhai" target="Shrimati Sarojini Devi"/>
+<edge source="Ramanbhai" target="Kelkar"/>
+<edge source="Ramanbhai" target="Sarladevi"/>
+<edge source="Ramanbhai" target="Shastriji"/>
+<edge source="Ramanbhai" target="Chelmsford"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Besant"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Dinabandhu"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Vithalbhai"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Samarth"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Indulal"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Bowring"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Rajagopalachari"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Vithaldas Jerajani"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Mohanlal"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Fulchand"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Vallabhbhai Patel"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Ansari"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Kasturi"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Talvalkar"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Shankarlal Parikh"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Kevalram Dave"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Sayani"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Hakim Saheb"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Horniman"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Gokhale"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Gandhi"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Anandshankar"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Manilal"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Abdur Rahman"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Shrimati Anasuyabehn"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Mahadev Desai"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Kanuga"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Mahomed Ali"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Yajnik"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Satyapal"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Shrimati Sarojini Devi"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Kelkar"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Sarladevi"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Shastriji"/>
+<edge source="Hakim Ajmal Khan Saheb" target="Chelmsford"/>
+<edge source="Besant" target="Talvalkar"/>
+<edge source="Besant" target="Samarth"/>
+<edge source="Besant" target="Dinabandhu"/>
+<edge source="Besant" target="Vithalbhai"/>
+<edge source="Besant" target="Indulal"/>
+<edge source="Besant" target="Bowring"/>
+<edge source="Besant" target="Rajagopalachari"/>
+<edge source="Besant" target="Vithaldas Jerajani"/>
+<edge source="Besant" target="Mohanlal"/>
+<edge source="Besant" target="Fulchand"/>
+<edge source="Besant" target="Vallabhbhai Patel"/>
+<edge source="Besant" target="Ansari"/>
+<edge source="Besant" target="Kasturi"/>
+<edge source="Besant" target="Shankarlal Parikh"/>
+<edge source="Besant" target="Kevalram Dave"/>
+<edge source="Besant" target="Sayani"/>
+<edge source="Besant" target="Hakim Saheb"/>
+<edge source="Besant" target="Horniman"/>
+<edge source="Besant" target="Gokhale"/>
+<edge source="Besant" target="Gandhi"/>
+<edge source="Besant" target="Anandshankar"/>
+<edge source="Besant" target="Manilal"/>
+<edge source="Besant" target="Abdur Rahman"/>
+<edge source="Besant" target="Shrimati Anasuyabehn"/>
+<edge source="Besant" target="Mahadev Desai"/>
+<edge source="Besant" target="Kanuga"/>
+<edge source="Besant" target="Mahomed Ali"/>
+<edge source="Besant" target="Yajnik"/>
+<edge source="Besant" target="Satyapal"/>
+<edge source="Besant" target="Shrimati Sarojini Devi"/>
+<edge source="Besant" target="Kelkar"/>
+<edge source="Besant" target="Sarladevi"/>
+<edge source="Besant" target="Shastriji"/>
+<edge source="Besant" target="Chelmsford"/>
+<edge source="Dinabandhu" target="Ansari"/>
+<edge source="Dinabandhu" target="Vithalbhai"/>
+<edge source="Dinabandhu" target="Samarth"/>
+<edge source="Dinabandhu" target="Indulal"/>
+<edge source="Dinabandhu" target="Bowring"/>
+<edge source="Dinabandhu" target="Rajagopalachari"/>
+<edge source="Dinabandhu" target="Vithaldas Jerajani"/>
+<edge source="Dinabandhu" target="Mohanlal"/>
+<edge source="Dinabandhu" target="Fulchand"/>
+<edge source="Dinabandhu" target="Vallabhbhai Patel"/>
+<edge source="Dinabandhu" target="Kasturi"/>
+<edge source="Dinabandhu" target="Talvalkar"/>
+<edge source="Dinabandhu" target="Shankarlal Parikh"/>
+<edge source="Dinabandhu" target="Kevalram Dave"/>
+<edge source="Dinabandhu" target="Sayani"/>
+<edge source="Dinabandhu" target="Hakim Saheb"/>
+<edge source="Dinabandhu" target="Horniman"/>
+<edge source="Dinabandhu" target="Gokhale"/>
+<edge source="Dinabandhu" target="Gandhi"/>
+<edge source="Dinabandhu" target="Anandshankar"/>
+<edge source="Dinabandhu" target="Manilal"/>
+<edge source="Dinabandhu" target="Abdur Rahman"/>
+<edge source="Dinabandhu" target="Shrimati Anasuyabehn"/>
+<edge source="Dinabandhu" target="Mahadev Desai"/>
+<edge source="Dinabandhu" target="Kanuga"/>
+<edge source="Dinabandhu" target="Mahomed Ali"/>
+<edge source="Dinabandhu" target="Yajnik"/>
+<edge source="Dinabandhu" target="Satyapal"/>
+<edge source="Dinabandhu" target="Shrimati Sarojini Devi"/>
+<edge source="Dinabandhu" target="Kelkar"/>
+<edge source="Dinabandhu" target="Sarladevi"/>
+<edge source="Dinabandhu" target="Shastriji"/>
+<edge source="Dinabandhu" target="Chelmsford"/>
+<edge source="Vithalbhai" target="Samarth"/>
+<edge source="Vithalbhai" target="Indulal"/>
+<edge source="Vithalbhai" target="Bowring"/>
+<edge source="Vithalbhai" target="Rajagopalachari"/>
+<edge source="Vithalbhai" target="Vithaldas Jerajani"/>
+<edge source="Vithalbhai" target="Mohanlal"/>
+<edge source="Vithalbhai" target="Fulchand"/>
+<edge source="Vithalbhai" target="Vallabhbhai Patel"/>
+<edge source="Vithalbhai" target="Ansari"/>
+<edge source="Vithalbhai" target="Kasturi"/>
+<edge source="Vithalbhai" target="Talvalkar"/>
+<edge source="Vithalbhai" target="Shankarlal Parikh"/>
+<edge source="Vithalbhai" target="Kevalram Dave"/>
+<edge source="Vithalbhai" target="Sayani"/>
+<edge source="Vithalbhai" target="Hakim Saheb"/>
+<edge source="Vithalbhai" target="Horniman"/>
+<edge source="Vithalbhai" target="Gokhale"/>
+<edge source="Vithalbhai" target="Gandhi"/>
+<edge source="Vithalbhai" target="Anandshankar"/>
+<edge source="Vithalbhai" target="Manilal"/>
+<edge source="Vithalbhai" target="Abdur Rahman"/>
+<edge source="Vithalbhai" target="Shrimati Anasuyabehn"/>
+<edge source="Vithalbhai" target="Mahadev Desai"/>
+<edge source="Vithalbhai" target="Kanuga"/>
+<edge source="Vithalbhai" target="Mahomed Ali"/>
+<edge source="Vithalbhai" target="Yajnik"/>
+<edge source="Vithalbhai" target="Satyapal"/>
+<edge source="Vithalbhai" target="Shrimati Sarojini Devi"/>
+<edge source="Vithalbhai" target="Kelkar"/>
+<edge source="Vithalbhai" target="Sarladevi"/>
+<edge source="Vithalbhai" target="Shastriji"/>
+<edge source="Vithalbhai" target="Chelmsford"/>
+<edge source="Samarth" target="Talvalkar"/>
+<edge source="Samarth" target="Indulal"/>
+<edge source="Samarth" target="Bowring"/>
+<edge source="Samarth" target="Rajagopalachari"/>
+<edge source="Samarth" target="Vithaldas Jerajani"/>
+<edge source="Samarth" target="Mohanlal"/>
+<edge source="Samarth" target="Fulchand"/>
+<edge source="Samarth" target="Vallabhbhai Patel"/>
+<edge source="Samarth" target="Ansari"/>
+<edge source="Samarth" target="Kasturi"/>
+<edge source="Samarth" target="Shankarlal Parikh"/>
+<edge source="Samarth" target="Kevalram Dave"/>
+<edge source="Samarth" target="Sayani"/>
+<edge source="Samarth" target="Hakim Saheb"/>
+<edge source="Samarth" target="Horniman"/>
+<edge source="Samarth" target="Gokhale"/>
+<edge source="Samarth" target="Gandhi"/>
+<edge source="Samarth" target="Anandshankar"/>
+<edge source="Samarth" target="Manilal"/>
+<edge source="Samarth" target="Abdur Rahman"/>
+<edge source="Samarth" target="Shrimati Anasuyabehn"/>
+<edge source="Samarth" target="Mahadev Desai"/>
+<edge source="Samarth" target="Kanuga"/>
+<edge source="Samarth" target="Mahomed Ali"/>
+<edge source="Samarth" target="Yajnik"/>
+<edge source="Samarth" target="Satyapal"/>
+<edge source="Samarth" target="Shrimati Sarojini Devi"/>
+<edge source="Samarth" target="Kelkar"/>
+<edge source="Samarth" target="Sarladevi"/>
+<edge source="Samarth" target="Shastriji"/>
+<edge source="Samarth" target="Chelmsford"/>
+<edge source="Indulal" target="Bowring"/>
+<edge source="Indulal" target="Rajagopalachari"/>
+<edge source="Indulal" target="Vithaldas Jerajani"/>
+<edge source="Indulal" target="Mohanlal"/>
+<edge source="Indulal" target="Fulchand"/>
+<edge source="Indulal" target="Vallabhbhai Patel"/>
+<edge source="Indulal" target="Ansari"/>
+<edge source="Indulal" target="Kasturi"/>
+<edge source="Indulal" target="Talvalkar"/>
+<edge source="Indulal" target="Shankarlal Parikh"/>
+<edge source="Indulal" target="Kevalram Dave"/>
+<edge source="Indulal" target="Sayani"/>
+<edge source="Indulal" target="Hakim Saheb"/>
+<edge source="Indulal" target="Horniman"/>
+<edge source="Indulal" target="Gokhale"/>
+<edge source="Indulal" target="Gandhi"/>
+<edge source="Indulal" target="Anandshankar"/>
+<edge source="Indulal" target="Manilal"/>
+<edge source="Indulal" target="Abdur Rahman"/>
+<edge source="Indulal" target="Shrimati Anasuyabehn"/>
+<edge source="Indulal" target="Mahadev Desai"/>
+<edge source="Indulal" target="Kanuga"/>
+<edge source="Indulal" target="Mahomed Ali"/>
+<edge source="Indulal" target="Yajnik"/>
+<edge source="Indulal" target="Satyapal"/>
+<edge source="Indulal" target="Shrimati Sarojini Devi"/>
+<edge source="Indulal" target="Kelkar"/>
+<edge source="Indulal" target="Sarladevi"/>
+<edge source="Indulal" target="Shastriji"/>
+<edge source="Indulal" target="Chelmsford"/>
+<edge source="Bowring" target="Rajagopalachari"/>
+<edge source="Bowring" target="Vithaldas Jerajani"/>
+<edge source="Bowring" target="Mohanlal"/>
+<edge source="Bowring" target="Fulchand"/>
+<edge source="Bowring" target="Vallabhbhai Patel"/>
+<edge source="Bowring" target="Ansari"/>
+<edge source="Bowring" target="Kasturi"/>
+<edge source="Bowring" target="Talvalkar"/>
+<edge source="Bowring" target="Shankarlal Parikh"/>
+<edge source="Bowring" target="Kevalram Dave"/>
+<edge source="Bowring" target="Sayani"/>
+<edge source="Bowring" target="Hakim Saheb"/>
+<edge source="Bowring" target="Horniman"/>
+<edge source="Bowring" target="Gokhale"/>
+<edge source="Bowring" target="Gandhi"/>
+<edge source="Bowring" target="Anandshankar"/>
+<edge source="Bowring" target="Manilal"/>
+<edge source="Bowring" target="Abdur Rahman"/>
+<edge source="Bowring" target="Shrimati Anasuyabehn"/>
+<edge source="Bowring" target="Mahadev Desai"/>
+<edge source="Bowring" target="Kanuga"/>
+<edge source="Bowring" target="Mahomed Ali"/>
+<edge source="Bowring" target="Yajnik"/>
+<edge source="Bowring" target="Satyapal"/>
+<edge source="Bowring" target="Shrimati Sarojini Devi"/>
+<edge source="Bowring" target="Kelkar"/>
+<edge source="Bowring" target="Sarladevi"/>
+<edge source="Bowring" target="Shastriji"/>
+<edge source="Bowring" target="Chelmsford"/>
+<edge source="Rajagopalachari" target="Vithaldas Jerajani"/>
+<edge source="Rajagopalachari" target="Mohanlal"/>
+<edge source="Rajagopalachari" target="Fulchand"/>
+<edge source="Rajagopalachari" target="Vallabhbhai Patel"/>
+<edge source="Rajagopalachari" target="Ansari"/>
+<edge source="Rajagopalachari" target="Kasturi"/>
+<edge source="Rajagopalachari" target="Talvalkar"/>
+<edge source="Rajagopalachari" target="Shankarlal Parikh"/>
+<edge source="Rajagopalachari" target="Kevalram Dave"/>
+<edge source="Rajagopalachari" target="Sayani"/>
+<edge source="Rajagopalachari" target="Hakim Saheb"/>
+<edge source="Rajagopalachari" target="Horniman"/>
+<edge source="Rajagopalachari" target="Gokhale"/>
+<edge source="Rajagopalachari" target="Gandhi"/>
+<edge source="Rajagopalachari" target="Anandshankar"/>
+<edge source="Rajagopalachari" target="Manilal"/>
+<edge source="Rajagopalachari" target="Abdur Rahman"/>
+<edge source="Rajagopalachari" target="Shrimati Anasuyabehn"/>
+<edge source="Rajagopalachari" target="Mahadev Desai"/>
+<edge source="Rajagopalachari" target="Kanuga"/>
+<edge source="Rajagopalachari" target="Mahomed Ali"/>
+<edge source="Rajagopalachari" target="Yajnik"/>
+<edge source="Rajagopalachari" target="Satyapal"/>
+<edge source="Rajagopalachari" target="Shrimati Sarojini Devi"/>
+<edge source="Rajagopalachari" target="Kelkar"/>
+<edge source="Rajagopalachari" target="Sarladevi"/>
+<edge source="Rajagopalachari" target="Shastriji"/>
+<edge source="Rajagopalachari" target="Chelmsford"/>
+<edge source="Vithaldas Jerajani" target="Mahomed Ali"/>
+<edge source="Vithaldas Jerajani" target="Mohanlal"/>
+<edge source="Vithaldas Jerajani" target="Fulchand"/>
+<edge source="Vithaldas Jerajani" target="Vallabhbhai Patel"/>
+<edge source="Vithaldas Jerajani" target="Ansari"/>
+<edge source="Vithaldas Jerajani" target="Kasturi"/>
+<edge source="Vithaldas Jerajani" target="Talvalkar"/>
+<edge source="Vithaldas Jerajani" target="Shankarlal Parikh"/>
+<edge source="Vithaldas Jerajani" target="Kevalram Dave"/>
+<edge source="Vithaldas Jerajani" target="Sayani"/>
+<edge source="Vithaldas Jerajani" target="Hakim Saheb"/>
+<edge source="Vithaldas Jerajani" target="Horniman"/>
+<edge source="Vithaldas Jerajani" target="Gokhale"/>
+<edge source="Vithaldas Jerajani" target="Gandhi"/>
+<edge source="Vithaldas Jerajani" target="Anandshankar"/>
+<edge source="Vithaldas Jerajani" target="Manilal"/>
+<edge source="Vithaldas Jerajani" target="Abdur Rahman"/>
+<edge source="Vithaldas Jerajani" target="Shrimati Anasuyabehn"/>
+<edge source="Vithaldas Jerajani" target="Mahadev Desai"/>
+<edge source="Vithaldas Jerajani" target="Kanuga"/>
+<edge source="Vithaldas Jerajani" target="Yajnik"/>
+<edge source="Vithaldas Jerajani" target="Satyapal"/>
+<edge source="Vithaldas Jerajani" target="Shrimati Sarojini Devi"/>
+<edge source="Vithaldas Jerajani" target="Kelkar"/>
+<edge source="Vithaldas Jerajani" target="Sarladevi"/>
+<edge source="Vithaldas Jerajani" target="Shastriji"/>
+<edge source="Vithaldas Jerajani" target="Chelmsford"/>
+<edge source="Mohanlal" target="Fulchand"/>
+<edge source="Mohanlal" target="Vallabhbhai Patel"/>
+<edge source="Mohanlal" target="Ansari"/>
+<edge source="Mohanlal" target="Kasturi"/>
+<edge source="Mohanlal" target="Talvalkar"/>
+<edge source="Mohanlal" target="Shankarlal Parikh"/>
+<edge source="Mohanlal" target="Kevalram Dave"/>
+<edge source="Mohanlal" target="Sayani"/>
+<edge source="Mohanlal" target="Hakim Saheb"/>
+<edge source="Mohanlal" target="Horniman"/>
+<edge source="Mohanlal" target="Gokhale"/>
+<edge source="Mohanlal" target="Gandhi"/>
+<edge source="Mohanlal" target="Anandshankar"/>
+<edge source="Mohanlal" target="Manilal"/>
+<edge source="Mohanlal" target="Abdur Rahman"/>
+<edge source="Mohanlal" target="Shrimati Anasuyabehn"/>
+<edge source="Mohanlal" target="Mahadev Desai"/>
+<edge source="Mohanlal" target="Kanuga"/>
+<edge source="Mohanlal" target="Mahomed Ali"/>
+<edge source="Mohanlal" target="Yajnik"/>
+<edge source="Mohanlal" target="Satyapal"/>
+<edge source="Mohanlal" target="Shrimati Sarojini Devi"/>
+<edge source="Mohanlal" target="Kelkar"/>
+<edge source="Mohanlal" target="Sarladevi"/>
+<edge source="Mohanlal" target="Shastriji"/>
+<edge source="Mohanlal" target="Chelmsford"/>
+<edge source="Fulchand" target="Vallabhbhai Patel"/>
+<edge source="Fulchand" target="Ansari"/>
+<edge source="Fulchand" target="Kasturi"/>
+<edge source="Fulchand" target="Talvalkar"/>
+<edge source="Fulchand" target="Shankarlal Parikh"/>
+<edge source="Fulchand" target="Kevalram Dave"/>
+<edge source="Fulchand" target="Sayani"/>
+<edge source="Fulchand" target="Hakim Saheb"/>
+<edge source="Fulchand" target="Horniman"/>
+<edge source="Fulchand" target="Gokhale"/>
+<edge source="Fulchand" target="Gandhi"/>
+<edge source="Fulchand" target="Anandshankar"/>
+<edge source="Fulchand" target="Manilal"/>
+<edge source="Fulchand" target="Abdur Rahman"/>
+<edge source="Fulchand" target="Shrimati Anasuyabehn"/>
+<edge source="Fulchand" target="Mahadev Desai"/>
+<edge source="Fulchand" target="Kanuga"/>
+<edge source="Fulchand" target="Mahomed Ali"/>
+<edge source="Fulchand" target="Yajnik"/>
+<edge source="Fulchand" target="Satyapal"/>
+<edge source="Fulchand" target="Shrimati Sarojini Devi"/>
+<edge source="Fulchand" target="Kelkar"/>
+<edge source="Fulchand" target="Sarladevi"/>
+<edge source="Fulchand" target="Shastriji"/>
+<edge source="Fulchand" target="Chelmsford"/>
+<edge source="Vallabhbhai Patel" target="Ansari"/>
+<edge source="Vallabhbhai Patel" target="Kasturi"/>
+<edge source="Vallabhbhai Patel" target="Talvalkar"/>
+<edge source="Vallabhbhai Patel" target="Shankarlal Parikh"/>
+<edge source="Vallabhbhai Patel" target="Kevalram Dave"/>
+<edge source="Vallabhbhai Patel" target="Sayani"/>
+<edge source="Vallabhbhai Patel" target="Hakim Saheb"/>
+<edge source="Vallabhbhai Patel" target="Horniman"/>
+<edge source="Vallabhbhai Patel" target="Gokhale"/>
+<edge source="Vallabhbhai Patel" target="Gandhi"/>
+<edge source="Vallabhbhai Patel" target="Anandshankar"/>
+<edge source="Vallabhbhai Patel" target="Manilal"/>
+<edge source="Vallabhbhai Patel" target="Abdur Rahman"/>
+<edge source="Vallabhbhai Patel" target="Shrimati Anasuyabehn"/>
+<edge source="Vallabhbhai Patel" target="Mahadev Desai"/>
+<edge source="Vallabhbhai Patel" target="Kanuga"/>
+<edge source="Vallabhbhai Patel" target="Mahomed Ali"/>
+<edge source="Vallabhbhai Patel" target="Yajnik"/>
+<edge source="Vallabhbhai Patel" target="Satyapal"/>
+<edge source="Vallabhbhai Patel" target="Shrimati Sarojini Devi"/>
+<edge source="Vallabhbhai Patel" target="Kelkar"/>
+<edge source="Vallabhbhai Patel" target="Sarladevi"/>
+<edge source="Vallabhbhai Patel" target="Shastriji"/>
+<edge source="Vallabhbhai Patel" target="Chelmsford"/>
+<edge source="Ansari" target="Kasturi"/>
+<edge source="Ansari" target="Talvalkar"/>
+<edge source="Ansari" target="Shankarlal Parikh"/>
+<edge source="Ansari" target="Kevalram Dave"/>
+<edge source="Ansari" target="Sayani"/>
+<edge source="Ansari" target="Hakim Saheb"/>
+<edge source="Ansari" target="Horniman"/>
+<edge source="Ansari" target="Gokhale"/>
+<edge source="Ansari" target="Gandhi"/>
+<edge source="Ansari" target="Anandshankar"/>
+<edge source="Ansari" target="Manilal"/>
+<edge source="Ansari" target="Abdur Rahman"/>
+<edge source="Ansari" target="Shrimati Anasuyabehn"/>
+<edge source="Ansari" target="Mahadev Desai"/>
+<edge source="Ansari" target="Kanuga"/>
+<edge source="Ansari" target="Mahomed Ali"/>
+<edge source="Ansari" target="Yajnik"/>
+<edge source="Ansari" target="Satyapal"/>
+<edge source="Ansari" target="Shrimati Sarojini Devi"/>
+<edge source="Ansari" target="Kelkar"/>
+<edge source="Ansari" target="Sarladevi"/>
+<edge source="Ansari" target="Shastriji"/>
+<edge source="Ansari" target="Chelmsford"/>
+<edge source="Kasturi" target="Talvalkar"/>
+<edge source="Kasturi" target="Shankarlal Parikh"/>
+<edge source="Kasturi" target="Kevalram Dave"/>
+<edge source="Kasturi" target="Sayani"/>
+<edge source="Kasturi" target="Hakim Saheb"/>
+<edge source="Kasturi" target="Horniman"/>
+<edge source="Kasturi" target="Gokhale"/>
+<edge source="Kasturi" target="Gandhi"/>
+<edge source="Kasturi" target="Anandshankar"/>
+<edge source="Kasturi" target="Manilal"/>
+<edge source="Kasturi" target="Abdur Rahman"/>
+<edge source="Kasturi" target="Shrimati Anasuyabehn"/>
+<edge source="Kasturi" target="Mahadev Desai"/>
+<edge source="Kasturi" target="Kanuga"/>
+<edge source="Kasturi" target="Mahomed Ali"/>
+<edge source="Kasturi" target="Yajnik"/>
+<edge source="Kasturi" target="Satyapal"/>
+<edge source="Kasturi" target="Shrimati Sarojini Devi"/>
+<edge source="Kasturi" target="Kelkar"/>
+<edge source="Kasturi" target="Sarladevi"/>
+<edge source="Kasturi" target="Shastriji"/>
+<edge source="Kasturi" target="Chelmsford"/>
+<edge source="Talvalkar" target="Shankarlal Parikh"/>
+<edge source="Talvalkar" target="Kevalram Dave"/>
+<edge source="Talvalkar" target="Sayani"/>
+<edge source="Talvalkar" target="Hakim Saheb"/>
+<edge source="Talvalkar" target="Horniman"/>
+<edge source="Talvalkar" target="Gokhale"/>
+<edge source="Talvalkar" target="Gandhi"/>
+<edge source="Talvalkar" target="Anandshankar"/>
+<edge source="Talvalkar" target="Manilal"/>
+<edge source="Talvalkar" target="Abdur Rahman"/>
+<edge source="Talvalkar" target="Shrimati Anasuyabehn"/>
+<edge source="Talvalkar" target="Mahadev Desai"/>
+<edge source="Talvalkar" target="Kanuga"/>
+<edge source="Talvalkar" target="Mahomed Ali"/>
+<edge source="Talvalkar" target="Yajnik"/>
+<edge source="Talvalkar" target="Satyapal"/>
+<edge source="Talvalkar" target="Shrimati Sarojini Devi"/>
+<edge source="Talvalkar" target="Kelkar"/>
+<edge source="Talvalkar" target="Sarladevi"/>
+<edge source="Talvalkar" target="Shastriji"/>
+<edge source="Talvalkar" target="Chelmsford"/>
+<edge source="Shankarlal Parikh" target="Mahomed Ali"/>
+<edge source="Shankarlal Parikh" target="Kevalram Dave"/>
+<edge source="Shankarlal Parikh" target="Sayani"/>
+<edge source="Shankarlal Parikh" target="Hakim Saheb"/>
+<edge source="Shankarlal Parikh" target="Horniman"/>
+<edge source="Shankarlal Parikh" target="Gokhale"/>
+<edge source="Shankarlal Parikh" target="Gandhi"/>
+<edge source="Shankarlal Parikh" target="Anandshankar"/>
+<edge source="Shankarlal Parikh" target="Manilal"/>
+<edge source="Shankarlal Parikh" target="Abdur Rahman"/>
+<edge source="Shankarlal Parikh" target="Shrimati Anasuyabehn"/>
+<edge source="Shankarlal Parikh" target="Mahadev Desai"/>
+<edge source="Shankarlal Parikh" target="Kanuga"/>
+<edge source="Shankarlal Parikh" target="Yajnik"/>
+<edge source="Shankarlal Parikh" target="Satyapal"/>
+<edge source="Shankarlal Parikh" target="Shrimati Sarojini Devi"/>
+<edge source="Shankarlal Parikh" target="Kelkar"/>
+<edge source="Shankarlal Parikh" target="Sarladevi"/>
+<edge source="Shankarlal Parikh" target="Shastriji"/>
+<edge source="Shankarlal Parikh" target="Chelmsford"/>
+<edge source="Kevalram Dave" target="Sayani"/>
+<edge source="Kevalram Dave" target="Hakim Saheb"/>
+<edge source="Kevalram Dave" target="Horniman"/>
+<edge source="Kevalram Dave" target="Gokhale"/>
+<edge source="Kevalram Dave" target="Gandhi"/>
+<edge source="Kevalram Dave" target="Anandshankar"/>
+<edge source="Kevalram Dave" target="Manilal"/>
+<edge source="Kevalram Dave" target="Abdur Rahman"/>
+<edge source="Kevalram Dave" target="Shrimati Anasuyabehn"/>
+<edge source="Kevalram Dave" target="Mahadev Desai"/>
+<edge source="Kevalram Dave" target="Kanuga"/>
+<edge source="Kevalram Dave" target="Mahomed Ali"/>
+<edge source="Kevalram Dave" target="Yajnik"/>
+<edge source="Kevalram Dave" target="Satyapal"/>
+<edge source="Kevalram Dave" target="Shrimati Sarojini Devi"/>
+<edge source="Kevalram Dave" target="Kelkar"/>
+<edge source="Kevalram Dave" target="Sarladevi"/>
+<edge source="Kevalram Dave" target="Shastriji"/>
+<edge source="Kevalram Dave" target="Chelmsford"/>
+<edge source="Sayani" target="Hakim Saheb"/>
+<edge source="Sayani" target="Horniman"/>
+<edge source="Sayani" target="Gokhale"/>
+<edge source="Sayani" target="Gandhi"/>
+<edge source="Sayani" target="Anandshankar"/>
+<edge source="Sayani" target="Manilal"/>
+<edge source="Sayani" target="Abdur Rahman"/>
+<edge source="Sayani" target="Shrimati Anasuyabehn"/>
+<edge source="Sayani" target="Mahadev Desai"/>
+<edge source="Sayani" target="Kanuga"/>
+<edge source="Sayani" target="Mahomed Ali"/>
+<edge source="Sayani" target="Yajnik"/>
+<edge source="Sayani" target="Satyapal"/>
+<edge source="Sayani" target="Shrimati Sarojini Devi"/>
+<edge source="Sayani" target="Kelkar"/>
+<edge source="Sayani" target="Sarladevi"/>
+<edge source="Sayani" target="Shastriji"/>
+<edge source="Sayani" target="Chelmsford"/>
+<edge source="Hakim Saheb" target="Horniman"/>
+<edge source="Hakim Saheb" target="Gokhale"/>
+<edge source="Hakim Saheb" target="Gandhi"/>
+<edge source="Hakim Saheb" target="Anandshankar"/>
+<edge source="Hakim Saheb" target="Manilal"/>
+<edge source="Hakim Saheb" target="Abdur Rahman"/>
+<edge source="Hakim Saheb" target="Shrimati Anasuyabehn"/>
+<edge source="Hakim Saheb" target="Mahadev Desai"/>
+<edge source="Hakim Saheb" target="Kanuga"/>
+<edge source="Hakim Saheb" target="Mahomed Ali"/>
+<edge source="Hakim Saheb" target="Yajnik"/>
+<edge source="Hakim Saheb" target="Satyapal"/>
+<edge source="Hakim Saheb" target="Shrimati Sarojini Devi"/>
+<edge source="Hakim Saheb" target="Kelkar"/>
+<edge source="Hakim Saheb" target="Sarladevi"/>
+<edge source="Hakim Saheb" target="Shastriji"/>
+<edge source="Hakim Saheb" target="Chelmsford"/>
+<edge source="Horniman" target="Gokhale"/>
+<edge source="Horniman" target="Gandhi"/>
+<edge source="Horniman" target="Anandshankar"/>
+<edge source="Horniman" target="Manilal"/>
+<edge source="Horniman" target="Abdur Rahman"/>
+<edge source="Horniman" target="Shrimati Anasuyabehn"/>
+<edge source="Horniman" target="Mahadev Desai"/>
+<edge source="Horniman" target="Kanuga"/>
+<edge source="Horniman" target="Mahomed Ali"/>
+<edge source="Horniman" target="Yajnik"/>
+<edge source="Horniman" target="Satyapal"/>
+<edge source="Horniman" target="Shrimati Sarojini Devi"/>
+<edge source="Horniman" target="Kelkar"/>
+<edge source="Horniman" target="Sarladevi"/>
+<edge source="Horniman" target="Shastriji"/>
+<edge source="Horniman" target="Chelmsford"/>
+<edge source="Gokhale" target="Gandhi"/>
+<edge source="Gokhale" target="Anandshankar"/>
+<edge source="Gokhale" target="Manilal"/>
+<edge source="Gokhale" target="Abdur Rahman"/>
+<edge source="Gokhale" target="Shrimati Anasuyabehn"/>
+<edge source="Gokhale" target="Mahadev Desai"/>
+<edge source="Gokhale" target="Kanuga"/>
+<edge source="Gokhale" target="Mahomed Ali"/>
+<edge source="Gokhale" target="Yajnik"/>
+<edge source="Gokhale" target="Satyapal"/>
+<edge source="Gokhale" target="Shrimati Sarojini Devi"/>
+<edge source="Gokhale" target="Kelkar"/>
+<edge source="Gokhale" target="Sarladevi"/>
+<edge source="Gokhale" target="Shastriji"/>
+<edge source="Gokhale" target="Chelmsford"/>
+<edge source="Gandhi" target="Anandshankar"/>
+<edge source="Gandhi" target="Manilal"/>
+<edge source="Gandhi" target="Abdur Rahman"/>
+<edge source="Gandhi" target="Shrimati Anasuyabehn"/>
+<edge source="Gandhi" target="Mahadev Desai"/>
+<edge source="Gandhi" target="Kanuga"/>
+<edge source="Gandhi" target="Mahomed Ali"/>
+<edge source="Gandhi" target="Yajnik"/>
+<edge source="Gandhi" target="Satyapal"/>
+<edge source="Gandhi" target="Shrimati Sarojini Devi"/>
+<edge source="Gandhi" target="Kelkar"/>
+<edge source="Gandhi" target="Sarladevi"/>
+<edge source="Gandhi" target="Shastriji"/>
+<edge source="Gandhi" target="Chelmsford"/>
+<edge source="Anandshankar" target="Manilal"/>
+<edge source="Anandshankar" target="Abdur Rahman"/>
+<edge source="Anandshankar" target="Shrimati Anasuyabehn"/>
+<edge source="Anandshankar" target="Mahadev Desai"/>
+<edge source="Anandshankar" target="Kanuga"/>
+<edge source="Anandshankar" target="Mahomed Ali"/>
+<edge source="Anandshankar" target="Yajnik"/>
+<edge source="Anandshankar" target="Satyapal"/>
+<edge source="Anandshankar" target="Shrimati Sarojini Devi"/>
+<edge source="Anandshankar" target="Kelkar"/>
+<edge source="Anandshankar" target="Sarladevi"/>
+<edge source="Anandshankar" target="Shastriji"/>
+<edge source="Anandshankar" target="Chelmsford"/>
+<edge source="Manilal" target="Abdur Rahman"/>
+<edge source="Manilal" target="Shrimati Anasuyabehn"/>
+<edge source="Manilal" target="Mahadev Desai"/>
+<edge source="Manilal" target="Kanuga"/>
+<edge source="Manilal" target="Mahomed Ali"/>
+<edge source="Manilal" target="Yajnik"/>
+<edge source="Manilal" target="Satyapal"/>
+<edge source="Manilal" target="Shrimati Sarojini Devi"/>
+<edge source="Manilal" target="Kelkar"/>
+<edge source="Manilal" target="Sarladevi"/>
+<edge source="Manilal" target="Shastriji"/>
+<edge source="Manilal" target="Chelmsford"/>
+<edge source="Abdur Rahman" target="Shrimati Anasuyabehn"/>
+<edge source="Abdur Rahman" target="Mahadev Desai"/>
+<edge source="Abdur Rahman" target="Kanuga"/>
+<edge source="Abdur Rahman" target="Mahomed Ali"/>
+<edge source="Abdur Rahman" target="Yajnik"/>
+<edge source="Abdur Rahman" target="Satyapal"/>
+<edge source="Abdur Rahman" target="Shrimati Sarojini Devi"/>
+<edge source="Abdur Rahman" target="Kelkar"/>
+<edge source="Abdur Rahman" target="Sarladevi"/>
+<edge source="Abdur Rahman" target="Shastriji"/>
+<edge source="Abdur Rahman" target="Chelmsford"/>
+<edge source="Shrimati Anasuyabehn" target="Mahadev Desai"/>
+<edge source="Shrimati Anasuyabehn" target="Kanuga"/>
+<edge source="Shrimati Anasuyabehn" target="Mahomed Ali"/>
+<edge source="Shrimati Anasuyabehn" target="Yajnik"/>
+<edge source="Shrimati Anasuyabehn" target="Satyapal"/>
+<edge source="Shrimati Anasuyabehn" target="Shrimati Sarojini Devi"/>
+<edge source="Shrimati Anasuyabehn" target="Kelkar"/>
+<edge source="Shrimati Anasuyabehn" target="Sarladevi"/>
+<edge source="Shrimati Anasuyabehn" target="Shastriji"/>
+<edge source="Shrimati Anasuyabehn" target="Chelmsford"/>
+<edge source="Mahadev Desai" target="Kanuga"/>
+<edge source="Mahadev Desai" target="Mahomed Ali"/>
+<edge source="Mahadev Desai" target="Yajnik"/>
+<edge source="Mahadev Desai" target="Satyapal"/>
+<edge source="Mahadev Desai" target="Shrimati Sarojini Devi"/>
+<edge source="Mahadev Desai" target="Kelkar"/>
+<edge source="Mahadev Desai" target="Sarladevi"/>
+<edge source="Mahadev Desai" target="Shastriji"/>
+<edge source="Mahadev Desai" target="Chelmsford"/>
+<edge source="Kanuga" target="Mahomed Ali"/>
+<edge source="Kanuga" target="Yajnik"/>
+<edge source="Kanuga" target="Satyapal"/>
+<edge source="Kanuga" target="Shrimati Sarojini Devi"/>
+<edge source="Kanuga" target="Kelkar"/>
+<edge source="Kanuga" target="Sarladevi"/>
+<edge source="Kanuga" target="Shastriji"/>
+<edge source="Kanuga" target="Chelmsford"/>
+<edge source="Mahomed Ali" target="Yajnik"/>
+<edge source="Mahomed Ali" target="Satyapal"/>
+<edge source="Mahomed Ali" target="Shrimati Sarojini Devi"/>
+<edge source="Mahomed Ali" target="Kelkar"/>
+<edge source="Mahomed Ali" target="Sarladevi"/>
+<edge source="Mahomed Ali" target="Shastriji"/>
+<edge source="Mahomed Ali" target="Chelmsford"/>
+<edge source="Yajnik" target="Satyapal"/>
+<edge source="Yajnik" target="Shrimati Sarojini Devi"/>
+<edge source="Yajnik" target="Kelkar"/>
+<edge source="Yajnik" target="Sarladevi"/>
+<edge source="Yajnik" target="Shastriji"/>
+<edge source="Yajnik" target="Chelmsford"/>
+<edge source="Satyapal" target="Shrimati Sarojini Devi"/>
+<edge source="Satyapal" target="Kelkar"/>
+<edge source="Satyapal" target="Sarladevi"/>
+<edge source="Satyapal" target="Shastriji"/>
+<edge source="Satyapal" target="Chelmsford"/>
+<edge source="Shrimati Sarojini Devi" target="Kelkar"/>
+<edge source="Shrimati Sarojini Devi" target="Sarladevi"/>
+<edge source="Shrimati Sarojini Devi" target="Shastriji"/>
+<edge source="Shrimati Sarojini Devi" target="Chelmsford"/>
+<edge source="Kelkar" target="Sarladevi"/>
+<edge source="Kelkar" target="Shastriji"/>
+<edge source="Kelkar" target="Chelmsford"/>
+<edge source="Sarladevi" target="Shastriji"/>
+<edge source="Sarladevi" target="Chelmsford"/>
+<edge source="Shastriji" target="Chelmsford"/>
+</graph></graphml>

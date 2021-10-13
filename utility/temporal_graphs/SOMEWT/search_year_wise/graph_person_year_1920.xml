@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Umar Sobani"/>
+<node id="Maulana Abdul Kalam Azad"/>
+<node id="Motilalji"/>
+<node id="Malaviyaji"/>
+<node id="Lalaji"/>
+<node id="Dada Abdulla"/>
+<node id="Mansukhlal Naazar"/>
+<node id="Abbas"/>
+<node id="Tribhuvandas"/>
+<node id="Patwardhan"/>
+<node id="Gandhi"/>
+<node id="Maulana Shaukat Ali"/>
+<node id="Hakim Saheb"/>
+<node id="Escombe"/>
+<node id="Besant"/>
+<edge source="Umar Sobani" target="Hakim Saheb"/>
+<edge source="Umar Sobani" target="Maulana Abdul Kalam Azad"/>
+<edge source="Umar Sobani" target="Motilalji"/>
+<edge source="Umar Sobani" target="Malaviyaji"/>
+<edge source="Umar Sobani" target="Lalaji"/>
+<edge source="Umar Sobani" target="Dada Abdulla"/>
+<edge source="Umar Sobani" target="Mansukhlal Naazar"/>
+<edge source="Umar Sobani" target="Abbas"/>
+<edge source="Umar Sobani" target="Tribhuvandas"/>
+<edge source="Umar Sobani" target="Patwardhan"/>
+<edge source="Umar Sobani" target="Gandhi"/>
+<edge source="Umar Sobani" target="Maulana Shaukat Ali"/>
+<edge source="Umar Sobani" target="Escombe"/>
+<edge source="Umar Sobani" target="Besant"/>
+<edge source="Maulana Abdul Kalam Azad" target="Lalaji"/>
+<edge source="Maulana Abdul Kalam Azad" target="Motilalji"/>
+<edge source="Maulana Abdul Kalam Azad" target="Malaviyaji"/>
+<edge source="Maulana Abdul Kalam Azad" target="Dada Abdulla"/>
+<edge source="Maulana Abdul Kalam Azad" target="Mansukhlal Naazar"/>
+<edge source="Maulana Abdul Kalam Azad" target="Abbas"/>
+<edge source="Maulana Abdul Kalam Azad" target="Tribhuvandas"/>
+<edge source="Maulana Abdul Kalam Azad" target="Patwardhan"/>
+<edge source="Maulana Abdul Kalam Azad" target="Gandhi"/>
+<edge source="Maulana Abdul Kalam Azad" target="Maulana Shaukat Ali"/>
+<edge source="Maulana Abdul Kalam Azad" target="Hakim Saheb"/>
+<edge source="Maulana Abdul Kalam Azad" target="Escombe"/>
+<edge source="Maulana Abdul Kalam Azad" target="Besant"/>
+<edge source="Motilalji" target="Malaviyaji"/>
+<edge source="Motilalji" target="Lalaji"/>
+<edge source="Motilalji" target="Dada Abdulla"/>
+<edge source="Motilalji" target="Mansukhlal Naazar"/>
+<edge source="Motilalji" target="Abbas"/>
+<edge source="Motilalji" target="Tribhuvandas"/>
+<edge source="Motilalji" target="Patwardhan"/>
+<edge source="Motilalji" target="Gandhi"/>
+<edge source="Motilalji" target="Maulana Shaukat Ali"/>
+<edge source="Motilalji" target="Hakim Saheb"/>
+<edge source="Motilalji" target="Escombe"/>
+<edge source="Motilalji" target="Besant"/>
+<edge source="Malaviyaji" target="Lalaji"/>
+<edge source="Malaviyaji" target="Dada Abdulla"/>
+<edge source="Malaviyaji" target="Mansukhlal Naazar"/>
+<edge source="Malaviyaji" target="Abbas"/>
+<edge source="Malaviyaji" target="Tribhuvandas"/>
+<edge source="Malaviyaji" target="Patwardhan"/>
+<edge source="Malaviyaji" target="Gandhi"/>
+<edge source="Malaviyaji" target="Maulana Shaukat Ali"/>
+<edge source="Malaviyaji" target="Hakim Saheb"/>
+<edge source="Malaviyaji" target="Escombe"/>
+<edge source="Malaviyaji" target="Besant"/>
+<edge source="Lalaji" target="Dada Abdulla"/>
+<edge source="Lalaji" target="Mansukhlal Naazar"/>
+<edge source="Lalaji" target="Abbas"/>
+<edge source="Lalaji" target="Tribhuvandas"/>
+<edge source="Lalaji" target="Patwardhan"/>
+<edge source="Lalaji" target="Gandhi"/>
+<edge source="Lalaji" target="Maulana Shaukat Ali"/>
+<edge source="Lalaji" target="Hakim Saheb"/>
+<edge source="Lalaji" target="Escombe"/>
+<edge source="Lalaji" target="Besant"/>
+<edge source="Dada Abdulla" target="Mansukhlal Naazar"/>
+<edge source="Dada Abdulla" target="Abbas"/>
+<edge source="Dada Abdulla" target="Tribhuvandas"/>
+<edge source="Dada Abdulla" target="Patwardhan"/>
+<edge source="Dada Abdulla" target="Gandhi"/>
+<edge source="Dada Abdulla" target="Maulana Shaukat Ali"/>
+<edge source="Dada Abdulla" target="Hakim Saheb"/>
+<edge source="Dada Abdulla" target="Escombe"/>
+<edge source="Dada Abdulla" target="Besant"/>
+<edge source="Mansukhlal Naazar" target="Abbas"/>
+<edge source="Mansukhlal Naazar" target="Tribhuvandas"/>
+<edge source="Mansukhlal Naazar" target="Patwardhan"/>
+<edge source="Mansukhlal Naazar" target="Gandhi"/>
+<edge source="Mansukhlal Naazar" target="Maulana Shaukat Ali"/>
+<edge source="Mansukhlal Naazar" target="Hakim Saheb"/>
+<edge source="Mansukhlal Naazar" target="Escombe"/>
+<edge source="Mansukhlal Naazar" target="Besant"/>
+<edge source="Abbas" target="Hakim Saheb"/>
+<edge source="Abbas" target="Tribhuvandas"/>
+<edge source="Abbas" target="Patwardhan"/>
+<edge source="Abbas" target="Gandhi"/>
+<edge source="Abbas" target="Maulana Shaukat Ali"/>
+<edge source="Abbas" target="Escombe"/>
+<edge source="Abbas" target="Besant"/>
+<edge source="Tribhuvandas" target="Escombe"/>
+<edge source="Tribhuvandas" target="Patwardhan"/>
+<edge source="Tribhuvandas" target="Gandhi"/>
+<edge source="Tribhuvandas" target="Maulana Shaukat Ali"/>
+<edge source="Tribhuvandas" target="Hakim Saheb"/>
+<edge source="Tribhuvandas" target="Besant"/>
+<edge source="Patwardhan" target="Gandhi"/>
+<edge source="Patwardhan" target="Maulana Shaukat Ali"/>
+<edge source="Patwardhan" target="Hakim Saheb"/>
+<edge source="Patwardhan" target="Escombe"/>
+<edge source="Patwardhan" target="Besant"/>
+<edge source="Gandhi" target="Maulana Shaukat Ali"/>
+<edge source="Gandhi" target="Hakim Saheb"/>
+<edge source="Gandhi" target="Escombe"/>
+<edge source="Gandhi" target="Besant"/>
+<edge source="Maulana Shaukat Ali" target="Hakim Saheb"/>
+<edge source="Maulana Shaukat Ali" target="Escombe"/>
+<edge source="Maulana Shaukat Ali" target="Besant"/>
+<edge source="Hakim Saheb" target="Escombe"/>
+<edge source="Hakim Saheb" target="Besant"/>
+<edge source="Escombe" target="Besant"/>
+</graph></graphml>

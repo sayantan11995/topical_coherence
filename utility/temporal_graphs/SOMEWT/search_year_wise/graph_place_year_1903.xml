@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Durban"/>
+<node id="South Africa"/>
+<node id="Johannesburg"/>
+<node id="Natal"/>
+<node id="Manchester"/>
+<node id="America"/>
+<node id="Pretoria"/>
+<edge source="Durban" target="South Africa"/>
+<edge source="Durban" target="Johannesburg"/>
+<edge source="Durban" target="Natal"/>
+<edge source="Durban" target="Manchester"/>
+<edge source="Durban" target="America"/>
+<edge source="Durban" target="Pretoria"/>
+<edge source="South Africa" target="Johannesburg"/>
+<edge source="South Africa" target="Natal"/>
+<edge source="South Africa" target="Manchester"/>
+<edge source="South Africa" target="America"/>
+<edge source="South Africa" target="Pretoria"/>
+<edge source="Johannesburg" target="Natal"/>
+<edge source="Johannesburg" target="Manchester"/>
+<edge source="Johannesburg" target="America"/>
+<edge source="Johannesburg" target="Pretoria"/>
+<edge source="Natal" target="Manchester"/>
+<edge source="Natal" target="America"/>
+<edge source="Natal" target="Pretoria"/>
+<edge source="Manchester" target="America"/>
+<edge source="Manchester" target="Pretoria"/>
+<edge source="America" target="Pretoria"/>
+</graph></graphml>

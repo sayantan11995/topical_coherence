@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="community" attr.type="int" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="Scotland">
+  <data key="d0">0</data>
+</node>
+<node id="England">
+  <data key="d0">1</data>
+</node>
+<node id="Rajkot">
+  <data key="d0">1</data>
+</node>
+<node id="Durban">
+  <data key="d0">0</data>
+</node>
+<node id="Phoenix">
+  <data key="d0">0</data>
+</node>
+<node id="India">
+  <data key="d0">1</data>
+</node>
+<node id="Zanzibar">
+  <data key="d0">1</data>
+</node>
+<node id="South Africa">
+  <data key="d0">0</data>
+</node>
+<node id="Poona">
+  <data key="d0">1</data>
+</node>
+<node id="Young">
+  <data key="d0">0</data>
+</node>
+<node id="London">
+  <data key="d0">1</data>
+</node>
+<node id="Johannesburg">
+  <data key="d0">0</data>
+</node>
+<node id="Natal">
+  <data key="d0">0</data>
+</node>
+<node id="Manchester">
+  <data key="d0">0</data>
+</node>
+<node id="Allahabad">
+  <data key="d0">1</data>
+</node>
+<node id="North">
+  <data key="d0">0</data>
+</node>
+<node id="Empire">
+  <data key="d0">1</data>
+</node>
+<node id="America">
+  <data key="d0">0</data>
+</node>
+<node id="Pretoria">
+  <data key="d0">0</data>
+</node>
+<node id="Leicester">
+  <data key="d0">1</data>
+</node>
+<node id="Louth">
+  <data key="d0">1</data>
+</node>
+<edge source="Scotland" target="England"/>
+<edge source="Scotland" target="Durban"/>
+<edge source="Scotland" target="Phoenix"/>
+<edge source="Scotland" target="South Africa"/>
+<edge source="Scotland" target="Young"/>
+<edge source="Scotland" target="Johannesburg"/>
+<edge source="Scotland" target="Natal"/>
+<edge source="Scotland" target="Manchester"/>
+<edge source="Scotland" target="Louth"/>
+<edge source="Scotland" target="North"/>
+<edge source="Scotland" target="America"/>
+<edge source="Scotland" target="Pretoria"/>
+<edge source="England" target="North"/>
+<edge source="England" target="Rajkot"/>
+<edge source="England" target="Durban"/>
+<edge source="England" target="Phoenix"/>
+<edge source="England" target="Poona"/>
+<edge source="England" target="Zanzibar"/>
+<edge source="England" target="Leicester"/>
+<edge source="England" target="India"/>
+<edge source="England" target="Young"/>
+<edge source="England" target="South Africa"/>
+<edge source="England" target="Johannesburg"/>
+<edge source="England" target="Natal"/>
+<edge source="England" target="Manchester"/>
+<edge source="England" target="Allahabad"/>
+<edge source="England" target="London"/>
+<edge source="England" target="Empire"/>
+<edge source="England" target="America"/>
+<edge source="England" target="Pretoria"/>
+<edge source="England" target="Louth"/>
+<edge source="Rajkot" target="Phoenix"/>
+<edge source="Rajkot" target="Durban"/>
+<edge source="Rajkot" target="South Africa"/>
+<edge source="Rajkot" target="Poona"/>
+<edge source="Rajkot" target="Leicester"/>
+<edge source="Rajkot" target="India"/>
+<edge source="Rajkot" target="Johannesburg"/>
+<edge source="Rajkot" target="Natal"/>
+<edge source="Rajkot" target="London"/>
+<edge source="Rajkot" target="Allahabad"/>
+<edge source="Rajkot" target="Empire"/>
+<edge source="Rajkot" target="Zanzibar"/>
+<edge source="Rajkot" target="Pretoria"/>
+<edge source="Rajkot" target="Louth"/>
+<edge source="Durban" target="Phoenix"/>
+<edge source="Durban" target="Leicester"/>
+<edge source="Durban" target="India"/>
+<edge source="Durban" target="Zanzibar"/>
+<edge source="Durban" target="South Africa"/>
+<edge source="Durban" target="Poona"/>
+<edge source="Durban" target="Young"/>
+<edge source="Durban" target="London"/>
+<edge source="Durban" target="Johannesburg"/>
+<edge source="Durban" target="Natal"/>
+<edge source="Durban" target="Manchester"/>
+<edge source="Durban" target="Allahabad"/>
+<edge source="Durban" target="North"/>
+<edge source="Durban" target="Empire"/>
+<edge source="Durban" target="America"/>
+<edge source="Durban" target="Pretoria"/>
+<edge source="Durban" target="Louth"/>
+<edge source="Phoenix" target="Leicester"/>
+<edge source="Phoenix" target="India"/>
+<edge source="Phoenix" target="Zanzibar"/>
+<edge source="Phoenix" target="South Africa"/>
+<edge source="Phoenix" target="Poona"/>
+<edge source="Phoenix" target="Young"/>
+<edge source="Phoenix" target="London"/>
+<edge source="Phoenix" target="Johannesburg"/>
+<edge source="Phoenix" target="Natal"/>
+<edge source="Phoenix" target="Manchester"/>
+<edge source="Phoenix" target="Allahabad"/>
+<edge source="Phoenix" target="North"/>
+<edge source="Phoenix" target="Empire"/>
+<edge source="Phoenix" target="America"/>
+<edge source="Phoenix" target="Pretoria"/>
+<edge source="Phoenix" target="Louth"/>
+<edge source="India" target="Leicester"/>
+<edge source="India" target="South Africa"/>
+<edge source="India" target="Poona"/>
+<edge source="India" target="Johannesburg"/>
+<edge source="India" target="Natal"/>
+<edge source="India" target="Allahabad"/>
+<edge source="India" target="London"/>
+<edge source="India" target="Empire"/>
+<edge source="India" target="Zanzibar"/>
+<edge source="India" target="Pretoria"/>
+<edge source="India" target="Louth"/>
+<edge source="Zanzibar" target="South Africa"/>
+<edge source="Zanzibar" target="Poona"/>
+<edge source="Zanzibar" target="Johannesburg"/>
+<edge source="Zanzibar" target="Natal"/>
+<edge source="Zanzibar" target="London"/>
+<edge source="Zanzibar" target="Allahabad"/>
+<edge source="Zanzibar" target="Empire"/>
+<edge source="Zanzibar" target="Pretoria"/>
+<edge source="Zanzibar" target="Leicester"/>
+<edge source="Zanzibar" target="Louth"/>
+<edge source="South Africa" target="Leicester"/>
+<edge source="South Africa" target="Poona"/>
+<edge source="South Africa" target="Young"/>
+<edge source="South Africa" target="London"/>
+<edge source="South Africa" target="Johannesburg"/>
+<edge source="South Africa" target="Natal"/>
+<edge source="South Africa" target="Manchester"/>
+<edge source="South Africa" target="Allahabad"/>
+<edge source="South Africa" target="North"/>
+<edge source="South Africa" target="Empire"/>
+<edge source="South Africa" target="America"/>
+<edge source="South Africa" target="Pretoria"/>
+<edge source="South Africa" target="Louth"/>
+<edge source="Poona" target="Leicester"/>
+<edge source="Poona" target="Johannesburg"/>
+<edge source="Poona" target="Natal"/>
+<edge source="Poona" target="Allahabad"/>
+<edge source="Poona" target="London"/>
+<edge source="Poona" target="Empire"/>
+<edge source="Poona" target="Pretoria"/>
+<edge source="Poona" target="Louth"/>
+<edge source="Young" target="Johannesburg"/>
+<edge source="Young" target="Natal"/>
+<edge source="Young" target="Manchester"/>
+<edge source="Young" target="Louth"/>
+<edge source="Young" target="North"/>
+<edge source="Young" target="America"/>
+<edge source="Young" target="Pretoria"/>
+<edge source="London" target="Johannesburg"/>
+<edge source="London" target="Natal"/>
+<edge source="London" target="Allahabad"/>
+<edge source="London" target="Empire"/>
+<edge source="London" target="Pretoria"/>
+<edge source="London" target="Leicester"/>
+<edge source="London" target="Louth"/>
+<edge source="Johannesburg" target="Natal"/>
+<edge source="Johannesburg" target="Manchester"/>
+<edge source="Johannesburg" target="Allahabad"/>
+<edge source="Johannesburg" target="North"/>
+<edge source="Johannesburg" target="Empire"/>
+<edge source="Johannesburg" target="America"/>
+<edge source="Johannesburg" target="Pretoria"/>
+<edge source="Johannesburg" target="Leicester"/>
+<edge source="Johannesburg" target="Louth"/>
+<edge source="Natal" target="Manchester"/>
+<edge source="Natal" target="Allahabad"/>
+<edge source="Natal" target="North"/>
+<edge source="Natal" target="Empire"/>
+<edge source="Natal" target="America"/>
+<edge source="Natal" target="Pretoria"/>
+<edge source="Natal" target="Leicester"/>
+<edge source="Natal" target="Louth"/>
+<edge source="Manchester" target="Louth"/>
+<edge source="Manchester" target="North"/>
+<edge source="Manchester" target="America"/>
+<edge source="Manchester" target="Pretoria"/>
+<edge source="Allahabad" target="Louth"/>
+<edge source="Allahabad" target="Empire"/>
+<edge source="Allahabad" target="Pretoria"/>
+<edge source="Allahabad" target="Leicester"/>
+<edge source="North" target="Louth"/>
+<edge source="North" target="America"/>
+<edge source="North" target="Pretoria"/>
+<edge source="Empire" target="Pretoria"/>
+<edge source="Empire" target="Leicester"/>
+<edge source="Empire" target="Louth"/>
+<edge source="America" target="Louth"/>
+<edge source="America" target="Pretoria"/>
+<edge source="Pretoria" target="Leicester"/>
+<edge source="Pretoria" target="Louth"/>
+<edge source="Leicester" target="Louth"/>
+</graph></graphml>

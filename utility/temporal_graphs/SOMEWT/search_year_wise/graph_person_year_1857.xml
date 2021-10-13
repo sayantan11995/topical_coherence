@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Pincutt"/>
+<node id="Kaye"/>
+<node id="Snell"/>
+<node id="Shemmelpennick"/>
+<node id="Dadabhai Naoroji"/>
+<node id="Gandhi"/>
+<node id="Pherozeshah Mehta"/>
+<edge source="Pincutt" target="Kaye"/>
+<edge source="Pincutt" target="Snell"/>
+<edge source="Pincutt" target="Shemmelpennick"/>
+<edge source="Pincutt" target="Dadabhai Naoroji"/>
+<edge source="Pincutt" target="Gandhi"/>
+<edge source="Pincutt" target="Pherozeshah Mehta"/>
+<edge source="Kaye" target="Snell"/>
+<edge source="Kaye" target="Shemmelpennick"/>
+<edge source="Kaye" target="Dadabhai Naoroji"/>
+<edge source="Kaye" target="Gandhi"/>
+<edge source="Kaye" target="Pherozeshah Mehta"/>
+<edge source="Snell" target="Shemmelpennick"/>
+<edge source="Snell" target="Dadabhai Naoroji"/>
+<edge source="Snell" target="Gandhi"/>
+<edge source="Snell" target="Pherozeshah Mehta"/>
+<edge source="Shemmelpennick" target="Dadabhai Naoroji"/>
+<edge source="Shemmelpennick" target="Gandhi"/>
+<edge source="Shemmelpennick" target="Pherozeshah Mehta"/>
+<edge source="Dadabhai Naoroji" target="Gandhi"/>
+<edge source="Dadabhai Naoroji" target="Pherozeshah Mehta"/>
+<edge source="Gandhi" target="Pherozeshah Mehta"/>
+</graph></graphml>

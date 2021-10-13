@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Gandhi"/>
+<node id="Rajkumar Shukla"/>
+<node id="Rajendra Babu"/>
+<node id="Babu Brajkishore Prasad"/>
+<node id="Brijkishore"/>
+<edge source="Gandhi" target="Rajkumar Shukla"/>
+<edge source="Gandhi" target="Rajendra Babu"/>
+<edge source="Gandhi" target="Babu Brajkishore Prasad"/>
+<edge source="Gandhi" target="Brijkishore"/>
+<edge source="Rajkumar Shukla" target="Rajendra Babu"/>
+<edge source="Rajkumar Shukla" target="Babu Brajkishore Prasad"/>
+<edge source="Rajkumar Shukla" target="Brijkishore"/>
+<edge source="Rajendra Babu" target="Babu Brajkishore Prasad"/>
+<edge source="Rajendra Babu" target="Brijkishore"/>
+<edge source="Babu Brajkishore Prasad" target="Brijkishore"/>
+</graph></graphml>

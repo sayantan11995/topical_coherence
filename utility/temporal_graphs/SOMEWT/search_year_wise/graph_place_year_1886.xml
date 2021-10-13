@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="England"/>
+<node id="South Africa"/>
+<node id="India"/>
+<node id="Wellington"/>
+<node id="Johannesburg"/>
+<node id="Pretoria"/>
+<edge source="England" target="Pretoria"/>
+<edge source="England" target="Johannesburg"/>
+<edge source="England" target="India"/>
+<edge source="England" target="Wellington"/>
+<edge source="England" target="South Africa"/>
+<edge source="South Africa" target="Pretoria"/>
+<edge source="South Africa" target="India"/>
+<edge source="South Africa" target="Johannesburg"/>
+<edge source="South Africa" target="Wellington"/>
+<edge source="India" target="Pretoria"/>
+<edge source="India" target="Johannesburg"/>
+<edge source="India" target="Wellington"/>
+<edge source="Wellington" target="Pretoria"/>
+<edge source="Wellington" target="Johannesburg"/>
+<edge source="Johannesburg" target="Pretoria"/>
+</graph></graphml>

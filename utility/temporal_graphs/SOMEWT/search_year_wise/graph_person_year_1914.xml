@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Crewe"/>
+<node id="Sorabji Adajania"/>
+<node id="Kasturbai"/>
+<node id="Jivraj Mehta"/>
+<node id="Ramdas"/>
+<node id="Dada Abdulla"/>
+<node id="Gokhale"/>
+<node id="Gandhi"/>
+<node id="Kuhne"/>
+<node id="Polak"/>
+<node id="Manilal"/>
+<edge source="Crewe" target="Kasturbai"/>
+<edge source="Crewe" target="Sorabji Adajania"/>
+<edge source="Crewe" target="Jivraj Mehta"/>
+<edge source="Crewe" target="Ramdas"/>
+<edge source="Crewe" target="Dada Abdulla"/>
+<edge source="Crewe" target="Gokhale"/>
+<edge source="Crewe" target="Gandhi"/>
+<edge source="Crewe" target="Kuhne"/>
+<edge source="Crewe" target="Polak"/>
+<edge source="Crewe" target="Manilal"/>
+<edge source="Sorabji Adajania" target="Kasturbai"/>
+<edge source="Sorabji Adajania" target="Jivraj Mehta"/>
+<edge source="Sorabji Adajania" target="Ramdas"/>
+<edge source="Sorabji Adajania" target="Dada Abdulla"/>
+<edge source="Sorabji Adajania" target="Gokhale"/>
+<edge source="Sorabji Adajania" target="Gandhi"/>
+<edge source="Sorabji Adajania" target="Kuhne"/>
+<edge source="Sorabji Adajania" target="Polak"/>
+<edge source="Sorabji Adajania" target="Manilal"/>
+<edge source="Kasturbai" target="Jivraj Mehta"/>
+<edge source="Kasturbai" target="Ramdas"/>
+<edge source="Kasturbai" target="Dada Abdulla"/>
+<edge source="Kasturbai" target="Gokhale"/>
+<edge source="Kasturbai" target="Gandhi"/>
+<edge source="Kasturbai" target="Kuhne"/>
+<edge source="Kasturbai" target="Polak"/>
+<edge source="Kasturbai" target="Manilal"/>
+<edge source="Jivraj Mehta" target="Ramdas"/>
+<edge source="Jivraj Mehta" target="Dada Abdulla"/>
+<edge source="Jivraj Mehta" target="Gokhale"/>
+<edge source="Jivraj Mehta" target="Gandhi"/>
+<edge source="Jivraj Mehta" target="Kuhne"/>
+<edge source="Jivraj Mehta" target="Polak"/>
+<edge source="Jivraj Mehta" target="Manilal"/>
+<edge source="Ramdas" target="Dada Abdulla"/>
+<edge source="Ramdas" target="Gokhale"/>
+<edge source="Ramdas" target="Gandhi"/>
+<edge source="Ramdas" target="Kuhne"/>
+<edge source="Ramdas" target="Polak"/>
+<edge source="Ramdas" target="Manilal"/>
+<edge source="Dada Abdulla" target="Gokhale"/>
+<edge source="Dada Abdulla" target="Gandhi"/>
+<edge source="Dada Abdulla" target="Kuhne"/>
+<edge source="Dada Abdulla" target="Polak"/>
+<edge source="Dada Abdulla" target="Manilal"/>
+<edge source="Gokhale" target="Gandhi"/>
+<edge source="Gokhale" target="Kuhne"/>
+<edge source="Gokhale" target="Polak"/>
+<edge source="Gokhale" target="Manilal"/>
+<edge source="Gandhi" target="Kuhne"/>
+<edge source="Gandhi" target="Polak"/>
+<edge source="Gandhi" target="Manilal"/>
+<edge source="Kuhne" target="Polak"/>
+<edge source="Kuhne" target="Manilal"/>
+<edge source="Polak" target="Manilal"/>
+</graph></graphml>

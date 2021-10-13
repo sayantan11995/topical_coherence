@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Ritch"/>
+<node id="Snell"/>
+<node id="Badri"/>
+<node id="Gandhi"/>
+<node id="Kuhne"/>
+<node id="Patanjali"/>
+<node id="Sheth Tyeb Haji Khanmahomed"/>
+<node id="Tyeb Sheth"/>
+<node id="Revashankarbhai"/>
+<edge source="Ritch" target="Snell"/>
+<edge source="Ritch" target="Badri"/>
+<edge source="Ritch" target="Gandhi"/>
+<edge source="Ritch" target="Kuhne"/>
+<edge source="Ritch" target="Patanjali"/>
+<edge source="Ritch" target="Sheth Tyeb Haji Khanmahomed"/>
+<edge source="Ritch" target="Tyeb Sheth"/>
+<edge source="Ritch" target="Revashankarbhai"/>
+<edge source="Snell" target="Badri"/>
+<edge source="Snell" target="Gandhi"/>
+<edge source="Snell" target="Kuhne"/>
+<edge source="Snell" target="Patanjali"/>
+<edge source="Snell" target="Sheth Tyeb Haji Khanmahomed"/>
+<edge source="Snell" target="Tyeb Sheth"/>
+<edge source="Snell" target="Revashankarbhai"/>
+<edge source="Badri" target="Gandhi"/>
+<edge source="Badri" target="Kuhne"/>
+<edge source="Badri" target="Patanjali"/>
+<edge source="Badri" target="Sheth Tyeb Haji Khanmahomed"/>
+<edge source="Badri" target="Tyeb Sheth"/>
+<edge source="Badri" target="Revashankarbhai"/>
+<edge source="Gandhi" target="Kuhne"/>
+<edge source="Gandhi" target="Patanjali"/>
+<edge source="Gandhi" target="Sheth Tyeb Haji Khanmahomed"/>
+<edge source="Gandhi" target="Tyeb Sheth"/>
+<edge source="Gandhi" target="Revashankarbhai"/>
+<edge source="Kuhne" target="Patanjali"/>
+<edge source="Kuhne" target="Sheth Tyeb Haji Khanmahomed"/>
+<edge source="Kuhne" target="Tyeb Sheth"/>
+<edge source="Kuhne" target="Revashankarbhai"/>
+<edge source="Patanjali" target="Sheth Tyeb Haji Khanmahomed"/>
+<edge source="Patanjali" target="Tyeb Sheth"/>
+<edge source="Patanjali" target="Revashankarbhai"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Tyeb Sheth"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Revashankarbhai"/>
+<edge source="Tyeb Sheth" target="Revashankarbhai"/>
+</graph></graphml>

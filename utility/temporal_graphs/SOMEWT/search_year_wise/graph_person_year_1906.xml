@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Valji"/>
+<node id="Jeramdas"/>
+<node id="Ranade"/>
+<node id="Gokhale"/>
+<node id="Allinson"/>
+<node id="Gandhi"/>
+<node id="Maganlal"/>
+<node id="Hermann Kallenbach"/>
+<node id="Nishkulanand"/>
+<edge source="Valji" target="Jeramdas"/>
+<edge source="Valji" target="Ranade"/>
+<edge source="Valji" target="Gokhale"/>
+<edge source="Valji" target="Allinson"/>
+<edge source="Valji" target="Gandhi"/>
+<edge source="Valji" target="Maganlal"/>
+<edge source="Valji" target="Hermann Kallenbach"/>
+<edge source="Valji" target="Nishkulanand"/>
+<edge source="Jeramdas" target="Ranade"/>
+<edge source="Jeramdas" target="Gokhale"/>
+<edge source="Jeramdas" target="Allinson"/>
+<edge source="Jeramdas" target="Gandhi"/>
+<edge source="Jeramdas" target="Maganlal"/>
+<edge source="Jeramdas" target="Hermann Kallenbach"/>
+<edge source="Jeramdas" target="Nishkulanand"/>
+<edge source="Ranade" target="Gokhale"/>
+<edge source="Ranade" target="Allinson"/>
+<edge source="Ranade" target="Gandhi"/>
+<edge source="Ranade" target="Maganlal"/>
+<edge source="Ranade" target="Hermann Kallenbach"/>
+<edge source="Ranade" target="Nishkulanand"/>
+<edge source="Gokhale" target="Allinson"/>
+<edge source="Gokhale" target="Gandhi"/>
+<edge source="Gokhale" target="Maganlal"/>
+<edge source="Gokhale" target="Hermann Kallenbach"/>
+<edge source="Gokhale" target="Nishkulanand"/>
+<edge source="Allinson" target="Gandhi"/>
+<edge source="Allinson" target="Maganlal"/>
+<edge source="Allinson" target="Hermann Kallenbach"/>
+<edge source="Allinson" target="Nishkulanand"/>
+<edge source="Gandhi" target="Maganlal"/>
+<edge source="Gandhi" target="Hermann Kallenbach"/>
+<edge source="Gandhi" target="Nishkulanand"/>
+<edge source="Maganlal" target="Hermann Kallenbach"/>
+<edge source="Maganlal" target="Nishkulanand"/>
+<edge source="Hermann Kallenbach" target="Nishkulanand"/>
+</graph></graphml>

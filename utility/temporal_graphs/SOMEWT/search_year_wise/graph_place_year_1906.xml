@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="England"/>
+<node id="Durban"/>
+<node id="Phoenix"/>
+<node id="South Africa"/>
+<node id="Johannesburg"/>
+<node id="Natal"/>
+<node id="Pretoria"/>
+<node id="Kheda"/>
+<edge source="England" target="Durban"/>
+<edge source="England" target="Phoenix"/>
+<edge source="England" target="South Africa"/>
+<edge source="England" target="Johannesburg"/>
+<edge source="England" target="Natal"/>
+<edge source="England" target="Pretoria"/>
+<edge source="England" target="Kheda"/>
+<edge source="Durban" target="Phoenix"/>
+<edge source="Durban" target="South Africa"/>
+<edge source="Durban" target="Johannesburg"/>
+<edge source="Durban" target="Natal"/>
+<edge source="Durban" target="Pretoria"/>
+<edge source="Durban" target="Kheda"/>
+<edge source="Phoenix" target="South Africa"/>
+<edge source="Phoenix" target="Johannesburg"/>
+<edge source="Phoenix" target="Natal"/>
+<edge source="Phoenix" target="Pretoria"/>
+<edge source="Phoenix" target="Kheda"/>
+<edge source="South Africa" target="Johannesburg"/>
+<edge source="South Africa" target="Natal"/>
+<edge source="South Africa" target="Pretoria"/>
+<edge source="South Africa" target="Kheda"/>
+<edge source="Johannesburg" target="Natal"/>
+<edge source="Johannesburg" target="Pretoria"/>
+<edge source="Johannesburg" target="Kheda"/>
+<edge source="Natal" target="Pretoria"/>
+<edge source="Natal" target="Kheda"/>
+<edge source="Pretoria" target="Kheda"/>
+</graph></graphml>

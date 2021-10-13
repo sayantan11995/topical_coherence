@@ -1,0 +1,26 @@
+## Run the following command in the terminal to install the required python packages:
+
+pip install nltk pycountry numpy polyglot spacy en_core_web_sm fuzzywuzzy dateparser datefinder date_extractor networkx matplotlib community python-louvain
+
+** If you get "icu" related error while installing "polyglot" package then run the following command: sudo apt-get install libicu-dev
+
+# Before running the file "entity_recognition_nltk.ipynb" run the following commands in jupyter notebook(or in python interface) -
+             
+	nltk.download('averaged_perceptron_tagger')
+	nltk.download('maxent_ne_chunker')
+	nltk.download('punkt')
+	nltk.download('words')
+
+# Before running the file "entity_recognition_polyglot.ipynb" run the following commands in jupyter notebook -
+
+	!polyglot download embeddings2.en
+	!polyglot download ner2.en
+
+# Before running the file "entity_recognition_spacy.ipynb" run the following commands in jupyter notebook -
+
+	!python -m spacy download en_core_web_sm
+
+# Before running the file "pickle_combiner.ipynb" run the following commands in jupyter notebook -	
+
+	nltk.download('wordnet')
+

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="George Muller"/>
+<node id="Dada Abdulla"/>
+<node id="Krause"/>
+<node id="Gandhi"/>
+<node id="Edward Maitland"/>
+<node id="Anna Kingsford"/>
+<node id="Tyeb Sheth"/>
+<edge source="George Muller" target="Dada Abdulla"/>
+<edge source="George Muller" target="Krause"/>
+<edge source="George Muller" target="Gandhi"/>
+<edge source="George Muller" target="Edward Maitland"/>
+<edge source="George Muller" target="Anna Kingsford"/>
+<edge source="George Muller" target="Tyeb Sheth"/>
+<edge source="Dada Abdulla" target="Krause"/>
+<edge source="Dada Abdulla" target="Gandhi"/>
+<edge source="Dada Abdulla" target="Edward Maitland"/>
+<edge source="Dada Abdulla" target="Anna Kingsford"/>
+<edge source="Dada Abdulla" target="Tyeb Sheth"/>
+<edge source="Krause" target="Gandhi"/>
+<edge source="Krause" target="Edward Maitland"/>
+<edge source="Krause" target="Anna Kingsford"/>
+<edge source="Krause" target="Tyeb Sheth"/>
+<edge source="Gandhi" target="Edward Maitland"/>
+<edge source="Gandhi" target="Anna Kingsford"/>
+<edge source="Gandhi" target="Tyeb Sheth"/>
+<edge source="Edward Maitland" target="Anna Kingsford"/>
+<edge source="Edward Maitland" target="Tyeb Sheth"/>
+<edge source="Anna Kingsford" target="Tyeb Sheth"/>
+</graph></graphml>

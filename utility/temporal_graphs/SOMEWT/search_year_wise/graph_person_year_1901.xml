@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Wacha"/>
+<node id="Gokhale"/>
+<node id="Curzon"/>
+<node id="Bhupenbabu"/>
+<node id="Gandhi"/>
+<node id="Chimanlal Setalvad"/>
+<node id="Ghosalbabu"/>
+<edge source="Wacha" target="Gokhale"/>
+<edge source="Wacha" target="Curzon"/>
+<edge source="Wacha" target="Bhupenbabu"/>
+<edge source="Wacha" target="Gandhi"/>
+<edge source="Wacha" target="Chimanlal Setalvad"/>
+<edge source="Wacha" target="Ghosalbabu"/>
+<edge source="Gokhale" target="Curzon"/>
+<edge source="Gokhale" target="Bhupenbabu"/>
+<edge source="Gokhale" target="Gandhi"/>
+<edge source="Gokhale" target="Chimanlal Setalvad"/>
+<edge source="Gokhale" target="Ghosalbabu"/>
+<edge source="Curzon" target="Bhupenbabu"/>
+<edge source="Curzon" target="Gandhi"/>
+<edge source="Curzon" target="Chimanlal Setalvad"/>
+<edge source="Curzon" target="Ghosalbabu"/>
+<edge source="Bhupenbabu" target="Gandhi"/>
+<edge source="Bhupenbabu" target="Chimanlal Setalvad"/>
+<edge source="Bhupenbabu" target="Ghosalbabu"/>
+<edge source="Gandhi" target="Chimanlal Setalvad"/>
+<edge source="Gandhi" target="Ghosalbabu"/>
+<edge source="Chimanlal Setalvad" target="Ghosalbabu"/>
+</graph></graphml>

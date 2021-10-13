@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="England"/>
+<node id="Rajkot"/>
+<node id="Durban"/>
+<node id="South Africa"/>
+<node id="India"/>
+<node id="Natal"/>
+<node id="Rome"/>
+<node id="London"/>
+<node id="Mozambique"/>
+<node id="Porbandar"/>
+<node id="North"/>
+<node id="Aden"/>
+<node id="Pretoria"/>
+<node id="Zanzibar"/>
+<edge source="England" target="North"/>
+<edge source="England" target="Rajkot"/>
+<edge source="England" target="Durban"/>
+<edge source="England" target="South Africa"/>
+<edge source="England" target="India"/>
+<edge source="England" target="Rome"/>
+<edge source="England" target="Natal"/>
+<edge source="England" target="London"/>
+<edge source="England" target="Porbandar"/>
+<edge source="England" target="Mozambique"/>
+<edge source="England" target="Aden"/>
+<edge source="England" target="Pretoria"/>
+<edge source="England" target="Zanzibar"/>
+<edge source="Rajkot" target="Durban"/>
+<edge source="Rajkot" target="South Africa"/>
+<edge source="Rajkot" target="India"/>
+<edge source="Rajkot" target="Rome"/>
+<edge source="Rajkot" target="Natal"/>
+<edge source="Rajkot" target="London"/>
+<edge source="Rajkot" target="Mozambique"/>
+<edge source="Rajkot" target="Porbandar"/>
+<edge source="Rajkot" target="North"/>
+<edge source="Rajkot" target="Aden"/>
+<edge source="Rajkot" target="Pretoria"/>
+<edge source="Rajkot" target="Zanzibar"/>
+<edge source="Durban" target="South Africa"/>
+<edge source="Durban" target="India"/>
+<edge source="Durban" target="Natal"/>
+<edge source="Durban" target="Rome"/>
+<edge source="Durban" target="London"/>
+<edge source="Durban" target="Mozambique"/>
+<edge source="Durban" target="Porbandar"/>
+<edge source="Durban" target="North"/>
+<edge source="Durban" target="Aden"/>
+<edge source="Durban" target="Pretoria"/>
+<edge source="Durban" target="Zanzibar"/>
+<edge source="South Africa" target="India"/>
+<edge source="South Africa" target="Rome"/>
+<edge source="South Africa" target="Natal"/>
+<edge source="South Africa" target="London"/>
+<edge source="South Africa" target="Mozambique"/>
+<edge source="South Africa" target="Porbandar"/>
+<edge source="South Africa" target="North"/>
+<edge source="South Africa" target="Aden"/>
+<edge source="South Africa" target="Pretoria"/>
+<edge source="South Africa" target="Zanzibar"/>
+<edge source="India" target="Rome"/>
+<edge source="India" target="Natal"/>
+<edge source="India" target="London"/>
+<edge source="India" target="Mozambique"/>
+<edge source="India" target="Porbandar"/>
+<edge source="India" target="North"/>
+<edge source="India" target="Aden"/>
+<edge source="India" target="Pretoria"/>
+<edge source="India" target="Zanzibar"/>
+<edge source="Natal" target="Rome"/>
+<edge source="Natal" target="London"/>
+<edge source="Natal" target="Mozambique"/>
+<edge source="Natal" target="Porbandar"/>
+<edge source="Natal" target="North"/>
+<edge source="Natal" target="Aden"/>
+<edge source="Natal" target="Pretoria"/>
+<edge source="Natal" target="Zanzibar"/>
+<edge source="Rome" target="London"/>
+<edge source="Rome" target="Mozambique"/>
+<edge source="Rome" target="Porbandar"/>
+<edge source="Rome" target="North"/>
+<edge source="Rome" target="Aden"/>
+<edge source="Rome" target="Pretoria"/>
+<edge source="Rome" target="Zanzibar"/>
+<edge source="London" target="Mozambique"/>
+<edge source="London" target="Porbandar"/>
+<edge source="London" target="North"/>
+<edge source="London" target="Aden"/>
+<edge source="London" target="Pretoria"/>
+<edge source="London" target="Zanzibar"/>
+<edge source="Mozambique" target="Porbandar"/>
+<edge source="Mozambique" target="North"/>
+<edge source="Mozambique" target="Aden"/>
+<edge source="Mozambique" target="Pretoria"/>
+<edge source="Mozambique" target="Zanzibar"/>
+<edge source="Porbandar" target="North"/>
+<edge source="Porbandar" target="Aden"/>
+<edge source="Porbandar" target="Pretoria"/>
+<edge source="Porbandar" target="Zanzibar"/>
+<edge source="North" target="Aden"/>
+<edge source="North" target="Pretoria"/>
+<edge source="North" target="Zanzibar"/>
+<edge source="Aden" target="Pretoria"/>
+<edge source="Aden" target="Zanzibar"/>
+<edge source="Pretoria" target="Zanzibar"/>
+</graph></graphml>

@@ -1,0 +1,825 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="community" attr.type="int" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="Miss Schlesin">
+  <data key="d0">0</data>
+</node>
+<node id="Harilal">
+  <data key="d0">1</data>
+</node>
+<node id="Keshav Chandra Sen">
+  <data key="d0">1</data>
+</node>
+<node id="Dada Abdulla">
+  <data key="d0">1</data>
+</node>
+<node id="Lokamanya Tilak">
+  <data key="d0">1</data>
+</node>
+<node id="Macdonald">
+  <data key="d0">0</data>
+</node>
+<node id="Kuhne">
+  <data key="d0">0</data>
+</node>
+<node id="Sheth Tyeb Haji Khanmahomed">
+  <data key="d0">0</data>
+</node>
+<node id="Besant">
+  <data key="d0">1</data>
+</node>
+<node id="Gokhlae">
+  <data key="d0">1</data>
+</node>
+<node id="Revashankarbhai">
+  <data key="d0">0</data>
+</node>
+<node id="Madanjit">
+  <data key="d0">0</data>
+</node>
+<node id="Ritch">
+  <data key="d0">0</data>
+</node>
+<node id="Nazar">
+  <data key="d0">0</data>
+</node>
+<node id="Babu Kalicharan Banerji">
+  <data key="d0">1</data>
+</node>
+<node id="Wacha">
+  <data key="d0">1</data>
+</node>
+<node id="Curzon">
+  <data key="d0">2</data>
+</node>
+<node id="Ranade">
+  <data key="d0">1</data>
+</node>
+<node id="Surendranath Banerji">
+  <data key="d0">1</data>
+</node>
+<node id="Bhupenbabu">
+  <data key="d0">2</data>
+</node>
+<node id="Escombe">
+  <data key="d0">1</data>
+</node>
+<node id="Polak">
+  <data key="d0">0</data>
+</node>
+<node id="Kalyandas">
+  <data key="d0">0</data>
+</node>
+<node id="Edward VII">
+  <data key="d0">1</data>
+</node>
+<node id="Subrahmaniam">
+  <data key="d0">1</data>
+</node>
+<node id="Chimanlal Setalvad">
+  <data key="d0">2</data>
+</node>
+<node id="Buller">
+  <data key="d0">1</data>
+</node>
+<node id="Pillay">
+  <data key="d0">1</data>
+</node>
+<node id="Maneklal">
+  <data key="d0">0</data>
+</node>
+<node id="Mullick">
+  <data key="d0">1</data>
+</node>
+<node id="Bhandarkar">
+  <data key="d0">1</data>
+</node>
+<node id="Snell">
+  <data key="d0">0</data>
+</node>
+<node id="Mansukhlal Naazar">
+  <data key="d0">1</data>
+</node>
+<node id="Pestonji">
+  <data key="d0">1</data>
+</node>
+<node id="Gokhale">
+  <data key="d0">2</data>
+</node>
+<node id="Maganlal">
+  <data key="d0">0</data>
+</node>
+<node id="Patanjali">
+  <data key="d0">0</data>
+</node>
+<node id="Kathavate">
+  <data key="d0">1</data>
+</node>
+<node id="William Godfrey">
+  <data key="d0">0</data>
+</node>
+<node id="Chhaganlal Gandhi">
+  <data key="d0">0</data>
+</node>
+<node id="Parsi Rustomji">
+  <data key="d0">1</data>
+</node>
+<node id="Saunders">
+  <data key="d0">1</data>
+</node>
+<node id="Abbas">
+  <data key="d0">1</data>
+</node>
+<node id="Govindaswami">
+  <data key="d0">0</data>
+</node>
+<node id="Ramdas">
+  <data key="d0">1</data>
+</node>
+<node id="Badri">
+  <data key="d0">0</data>
+</node>
+<node id="Maharaja Tagore">
+  <data key="d0">1</data>
+</node>
+<node id="Chesney">
+  <data key="d0">1</data>
+</node>
+<node id="Mitter">
+  <data key="d0">1</data>
+</node>
+<node id="Swami Vivekanand">
+  <data key="d0">1</data>
+</node>
+<node id="Tyeb Sheth">
+  <data key="d0">0</data>
+</node>
+<node id="Ghosalbabu">
+  <data key="d0">2</data>
+</node>
+<edge source="Miss Schlesin" target="William Godfrey"/>
+<edge source="Miss Schlesin" target="Chhaganlal Gandhi"/>
+<edge source="Miss Schlesin" target="Madanjit"/>
+<edge source="Miss Schlesin" target="Ritch"/>
+<edge source="Miss Schlesin" target="Nazar"/>
+<edge source="Miss Schlesin" target="Govindaswami"/>
+<edge source="Miss Schlesin" target="Snell"/>
+<edge source="Miss Schlesin" target="Patanjali"/>
+<edge source="Miss Schlesin" target="Badri"/>
+<edge source="Miss Schlesin" target="Macdonald"/>
+<edge source="Miss Schlesin" target="Gokhale"/>
+<edge source="Miss Schlesin" target="Maneklal"/>
+<edge source="Miss Schlesin" target="Kuhne"/>
+<edge source="Miss Schlesin" target="Maganlal"/>
+<edge source="Miss Schlesin" target="Polak"/>
+<edge source="Miss Schlesin" target="Kalyandas"/>
+<edge source="Miss Schlesin" target="Sheth Tyeb Haji Khanmahomed"/>
+<edge source="Miss Schlesin" target="Tyeb Sheth"/>
+<edge source="Miss Schlesin" target="Revashankarbhai"/>
+<edge source="Harilal" target="Keshav Chandra Sen"/>
+<edge source="Harilal" target="Dada Abdulla"/>
+<edge source="Harilal" target="Lokamanya Tilak"/>
+<edge source="Harilal" target="Abbas"/>
+<edge source="Harilal" target="Kuhne"/>
+<edge source="Harilal" target="Besant"/>
+<edge source="Harilal" target="Gokhlae"/>
+<edge source="Harilal" target="Babu Kalicharan Banerji"/>
+<edge source="Harilal" target="Wacha"/>
+<edge source="Harilal" target="Ranade"/>
+<edge source="Harilal" target="Escombe"/>
+<edge source="Harilal" target="Polak"/>
+<edge source="Harilal" target="Edward VII"/>
+<edge source="Harilal" target="Subrahmaniam"/>
+<edge source="Harilal" target="Buller"/>
+<edge source="Harilal" target="Pillay"/>
+<edge source="Harilal" target="Mullick"/>
+<edge source="Harilal" target="Bhandarkar"/>
+<edge source="Harilal" target="Mansukhlal Naazar"/>
+<edge source="Harilal" target="Pestonji"/>
+<edge source="Harilal" target="Gokhale"/>
+<edge source="Harilal" target="Kathavate"/>
+<edge source="Harilal" target="Surendranath Banerji"/>
+<edge source="Harilal" target="Parsi Rustomji"/>
+<edge source="Harilal" target="Saunders"/>
+<edge source="Harilal" target="Ramdas"/>
+<edge source="Harilal" target="Maharaja Tagore"/>
+<edge source="Harilal" target="Chesney"/>
+<edge source="Harilal" target="Mitter"/>
+<edge source="Harilal" target="Swami Vivekanand"/>
+<edge source="Keshav Chandra Sen" target="Kuhne"/>
+<edge source="Keshav Chandra Sen" target="Dada Abdulla"/>
+<edge source="Keshav Chandra Sen" target="Lokamanya Tilak"/>
+<edge source="Keshav Chandra Sen" target="Abbas"/>
+<edge source="Keshav Chandra Sen" target="Besant"/>
+<edge source="Keshav Chandra Sen" target="Gokhlae"/>
+<edge source="Keshav Chandra Sen" target="Babu Kalicharan Banerji"/>
+<edge source="Keshav Chandra Sen" target="Wacha"/>
+<edge source="Keshav Chandra Sen" target="Ranade"/>
+<edge source="Keshav Chandra Sen" target="Escombe"/>
+<edge source="Keshav Chandra Sen" target="Polak"/>
+<edge source="Keshav Chandra Sen" target="Edward VII"/>
+<edge source="Keshav Chandra Sen" target="Subrahmaniam"/>
+<edge source="Keshav Chandra Sen" target="Buller"/>
+<edge source="Keshav Chandra Sen" target="Pillay"/>
+<edge source="Keshav Chandra Sen" target="Mullick"/>
+<edge source="Keshav Chandra Sen" target="Bhandarkar"/>
+<edge source="Keshav Chandra Sen" target="Mansukhlal Naazar"/>
+<edge source="Keshav Chandra Sen" target="Pestonji"/>
+<edge source="Keshav Chandra Sen" target="Gokhale"/>
+<edge source="Keshav Chandra Sen" target="Kathavate"/>
+<edge source="Keshav Chandra Sen" target="Surendranath Banerji"/>
+<edge source="Keshav Chandra Sen" target="Parsi Rustomji"/>
+<edge source="Keshav Chandra Sen" target="Saunders"/>
+<edge source="Keshav Chandra Sen" target="Ramdas"/>
+<edge source="Keshav Chandra Sen" target="Maharaja Tagore"/>
+<edge source="Keshav Chandra Sen" target="Chesney"/>
+<edge source="Keshav Chandra Sen" target="Mitter"/>
+<edge source="Keshav Chandra Sen" target="Swami Vivekanand"/>
+<edge source="Dada Abdulla" target="Kuhne"/>
+<edge source="Dada Abdulla" target="Lokamanya Tilak"/>
+<edge source="Dada Abdulla" target="Abbas"/>
+<edge source="Dada Abdulla" target="Besant"/>
+<edge source="Dada Abdulla" target="Gokhlae"/>
+<edge source="Dada Abdulla" target="Babu Kalicharan Banerji"/>
+<edge source="Dada Abdulla" target="Wacha"/>
+<edge source="Dada Abdulla" target="Ranade"/>
+<edge source="Dada Abdulla" target="Escombe"/>
+<edge source="Dada Abdulla" target="Polak"/>
+<edge source="Dada Abdulla" target="Edward VII"/>
+<edge source="Dada Abdulla" target="Subrahmaniam"/>
+<edge source="Dada Abdulla" target="Buller"/>
+<edge source="Dada Abdulla" target="Pillay"/>
+<edge source="Dada Abdulla" target="Mullick"/>
+<edge source="Dada Abdulla" target="Bhandarkar"/>
+<edge source="Dada Abdulla" target="Mansukhlal Naazar"/>
+<edge source="Dada Abdulla" target="Pestonji"/>
+<edge source="Dada Abdulla" target="Gokhale"/>
+<edge source="Dada Abdulla" target="Kathavate"/>
+<edge source="Dada Abdulla" target="Surendranath Banerji"/>
+<edge source="Dada Abdulla" target="Parsi Rustomji"/>
+<edge source="Dada Abdulla" target="Saunders"/>
+<edge source="Dada Abdulla" target="Ramdas"/>
+<edge source="Dada Abdulla" target="Maharaja Tagore"/>
+<edge source="Dada Abdulla" target="Chesney"/>
+<edge source="Dada Abdulla" target="Mitter"/>
+<edge source="Dada Abdulla" target="Swami Vivekanand"/>
+<edge source="Lokamanya Tilak" target="Kuhne"/>
+<edge source="Lokamanya Tilak" target="Abbas"/>
+<edge source="Lokamanya Tilak" target="Besant"/>
+<edge source="Lokamanya Tilak" target="Gokhlae"/>
+<edge source="Lokamanya Tilak" target="Babu Kalicharan Banerji"/>
+<edge source="Lokamanya Tilak" target="Wacha"/>
+<edge source="Lokamanya Tilak" target="Ranade"/>
+<edge source="Lokamanya Tilak" target="Escombe"/>
+<edge source="Lokamanya Tilak" target="Polak"/>
+<edge source="Lokamanya Tilak" target="Edward VII"/>
+<edge source="Lokamanya Tilak" target="Subrahmaniam"/>
+<edge source="Lokamanya Tilak" target="Buller"/>
+<edge source="Lokamanya Tilak" target="Pillay"/>
+<edge source="Lokamanya Tilak" target="Mullick"/>
+<edge source="Lokamanya Tilak" target="Bhandarkar"/>
+<edge source="Lokamanya Tilak" target="Mansukhlal Naazar"/>
+<edge source="Lokamanya Tilak" target="Pestonji"/>
+<edge source="Lokamanya Tilak" target="Gokhale"/>
+<edge source="Lokamanya Tilak" target="Kathavate"/>
+<edge source="Lokamanya Tilak" target="Surendranath Banerji"/>
+<edge source="Lokamanya Tilak" target="Parsi Rustomji"/>
+<edge source="Lokamanya Tilak" target="Saunders"/>
+<edge source="Lokamanya Tilak" target="Ramdas"/>
+<edge source="Lokamanya Tilak" target="Maharaja Tagore"/>
+<edge source="Lokamanya Tilak" target="Chesney"/>
+<edge source="Lokamanya Tilak" target="Mitter"/>
+<edge source="Lokamanya Tilak" target="Swami Vivekanand"/>
+<edge source="Macdonald" target="Madanjit"/>
+<edge source="Macdonald" target="William Godfrey"/>
+<edge source="Macdonald" target="Maneklal"/>
+<edge source="Macdonald" target="Ritch"/>
+<edge source="Macdonald" target="Nazar"/>
+<edge source="Macdonald" target="Govindaswami"/>
+<edge source="Macdonald" target="Snell"/>
+<edge source="Macdonald" target="Patanjali"/>
+<edge source="Macdonald" target="Chhaganlal Gandhi"/>
+<edge source="Macdonald" target="Gokhale"/>
+<edge source="Macdonald" target="Kuhne"/>
+<edge source="Macdonald" target="Maganlal"/>
+<edge source="Macdonald" target="Polak"/>
+<edge source="Macdonald" target="Kalyandas"/>
+<edge source="Macdonald" target="Sheth Tyeb Haji Khanmahomed"/>
+<edge source="Macdonald" target="Badri"/>
+<edge source="Macdonald" target="Tyeb Sheth"/>
+<edge source="Macdonald" target="Revashankarbhai"/>
+<edge source="Kuhne" target="Sheth Tyeb Haji Khanmahomed"/>
+<edge source="Kuhne" target="Besant"/>
+<edge source="Kuhne" target="Gokhlae"/>
+<edge source="Kuhne" target="Revashankarbhai"/>
+<edge source="Kuhne" target="Madanjit"/>
+<edge source="Kuhne" target="Ritch"/>
+<edge source="Kuhne" target="Nazar"/>
+<edge source="Kuhne" target="Babu Kalicharan Banerji"/>
+<edge source="Kuhne" target="Wacha"/>
+<edge source="Kuhne" target="Ranade"/>
+<edge source="Kuhne" target="Escombe"/>
+<edge source="Kuhne" target="Polak"/>
+<edge source="Kuhne" target="Kalyandas"/>
+<edge source="Kuhne" target="Edward VII"/>
+<edge source="Kuhne" target="Subrahmaniam"/>
+<edge source="Kuhne" target="Buller"/>
+<edge source="Kuhne" target="Pillay"/>
+<edge source="Kuhne" target="Maneklal"/>
+<edge source="Kuhne" target="Mullick"/>
+<edge source="Kuhne" target="Bhandarkar"/>
+<edge source="Kuhne" target="Snell"/>
+<edge source="Kuhne" target="Mansukhlal Naazar"/>
+<edge source="Kuhne" target="Pestonji"/>
+<edge source="Kuhne" target="Gokhale"/>
+<edge source="Kuhne" target="Maganlal"/>
+<edge source="Kuhne" target="Patanjali"/>
+<edge source="Kuhne" target="Kathavate"/>
+<edge source="Kuhne" target="William Godfrey"/>
+<edge source="Kuhne" target="Chhaganlal Gandhi"/>
+<edge source="Kuhne" target="Parsi Rustomji"/>
+<edge source="Kuhne" target="Saunders"/>
+<edge source="Kuhne" target="Abbas"/>
+<edge source="Kuhne" target="Govindaswami"/>
+<edge source="Kuhne" target="Ramdas"/>
+<edge source="Kuhne" target="Badri"/>
+<edge source="Kuhne" target="Maharaja Tagore"/>
+<edge source="Kuhne" target="Chesney"/>
+<edge source="Kuhne" target="Mitter"/>
+<edge source="Kuhne" target="Swami Vivekanand"/>
+<edge source="Kuhne" target="Tyeb Sheth"/>
+<edge source="Kuhne" target="Surendranath Banerji"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="William Godfrey"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Chhaganlal Gandhi"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Maneklal"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Ritch"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Nazar"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Govindaswami"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Snell"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Badri"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Gokhale"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Kalyandas"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Maganlal"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Polak"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Patanjali"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Revashankarbhai"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Tyeb Sheth"/>
+<edge source="Sheth Tyeb Haji Khanmahomed" target="Madanjit"/>
+<edge source="Besant" target="Abbas"/>
+<edge source="Besant" target="Gokhlae"/>
+<edge source="Besant" target="Babu Kalicharan Banerji"/>
+<edge source="Besant" target="Wacha"/>
+<edge source="Besant" target="Ranade"/>
+<edge source="Besant" target="Escombe"/>
+<edge source="Besant" target="Polak"/>
+<edge source="Besant" target="Edward VII"/>
+<edge source="Besant" target="Subrahmaniam"/>
+<edge source="Besant" target="Buller"/>
+<edge source="Besant" target="Pillay"/>
+<edge source="Besant" target="Mullick"/>
+<edge source="Besant" target="Bhandarkar"/>
+<edge source="Besant" target="Mansukhlal Naazar"/>
+<edge source="Besant" target="Pestonji"/>
+<edge source="Besant" target="Gokhale"/>
+<edge source="Besant" target="Kathavate"/>
+<edge source="Besant" target="Surendranath Banerji"/>
+<edge source="Besant" target="Parsi Rustomji"/>
+<edge source="Besant" target="Saunders"/>
+<edge source="Besant" target="Ramdas"/>
+<edge source="Besant" target="Maharaja Tagore"/>
+<edge source="Besant" target="Chesney"/>
+<edge source="Besant" target="Mitter"/>
+<edge source="Besant" target="Swami Vivekanand"/>
+<edge source="Gokhlae" target="Abbas"/>
+<edge source="Gokhlae" target="Babu Kalicharan Banerji"/>
+<edge source="Gokhlae" target="Wacha"/>
+<edge source="Gokhlae" target="Ranade"/>
+<edge source="Gokhlae" target="Escombe"/>
+<edge source="Gokhlae" target="Polak"/>
+<edge source="Gokhlae" target="Edward VII"/>
+<edge source="Gokhlae" target="Subrahmaniam"/>
+<edge source="Gokhlae" target="Buller"/>
+<edge source="Gokhlae" target="Pillay"/>
+<edge source="Gokhlae" target="Mullick"/>
+<edge source="Gokhlae" target="Bhandarkar"/>
+<edge source="Gokhlae" target="Mansukhlal Naazar"/>
+<edge source="Gokhlae" target="Pestonji"/>
+<edge source="Gokhlae" target="Gokhale"/>
+<edge source="Gokhlae" target="Kathavate"/>
+<edge source="Gokhlae" target="Surendranath Banerji"/>
+<edge source="Gokhlae" target="Parsi Rustomji"/>
+<edge source="Gokhlae" target="Saunders"/>
+<edge source="Gokhlae" target="Ramdas"/>
+<edge source="Gokhlae" target="Maharaja Tagore"/>
+<edge source="Gokhlae" target="Chesney"/>
+<edge source="Gokhlae" target="Mitter"/>
+<edge source="Gokhlae" target="Swami Vivekanand"/>
+<edge source="Revashankarbhai" target="William Godfrey"/>
+<edge source="Revashankarbhai" target="Chhaganlal Gandhi"/>
+<edge source="Revashankarbhai" target="Maneklal"/>
+<edge source="Revashankarbhai" target="Ritch"/>
+<edge source="Revashankarbhai" target="Nazar"/>
+<edge source="Revashankarbhai" target="Govindaswami"/>
+<edge source="Revashankarbhai" target="Snell"/>
+<edge source="Revashankarbhai" target="Badri"/>
+<edge source="Revashankarbhai" target="Gokhale"/>
+<edge source="Revashankarbhai" target="Kalyandas"/>
+<edge source="Revashankarbhai" target="Maganlal"/>
+<edge source="Revashankarbhai" target="Polak"/>
+<edge source="Revashankarbhai" target="Patanjali"/>
+<edge source="Revashankarbhai" target="Tyeb Sheth"/>
+<edge source="Revashankarbhai" target="Madanjit"/>
+<edge source="Madanjit" target="William Godfrey"/>
+<edge source="Madanjit" target="Chhaganlal Gandhi"/>
+<edge source="Madanjit" target="Maneklal"/>
+<edge source="Madanjit" target="Ritch"/>
+<edge source="Madanjit" target="Nazar"/>
+<edge source="Madanjit" target="Govindaswami"/>
+<edge source="Madanjit" target="Snell"/>
+<edge source="Madanjit" target="Patanjali"/>
+<edge source="Madanjit" target="Badri"/>
+<edge source="Madanjit" target="Gokhale"/>
+<edge source="Madanjit" target="Maganlal"/>
+<edge source="Madanjit" target="Polak"/>
+<edge source="Madanjit" target="Kalyandas"/>
+<edge source="Madanjit" target="Tyeb Sheth"/>
+<edge source="Ritch" target="William Godfrey"/>
+<edge source="Ritch" target="Maneklal"/>
+<edge source="Ritch" target="Chhaganlal Gandhi"/>
+<edge source="Ritch" target="Govindaswami"/>
+<edge source="Ritch" target="Nazar"/>
+<edge source="Ritch" target="Snell"/>
+<edge source="Ritch" target="Patanjali"/>
+<edge source="Ritch" target="Badri"/>
+<edge source="Ritch" target="Gokhale"/>
+<edge source="Ritch" target="Maganlal"/>
+<edge source="Ritch" target="Polak"/>
+<edge source="Ritch" target="Kalyandas"/>
+<edge source="Ritch" target="Tyeb Sheth"/>
+<edge source="Nazar" target="William Godfrey"/>
+<edge source="Nazar" target="Maneklal"/>
+<edge source="Nazar" target="Chhaganlal Gandhi"/>
+<edge source="Nazar" target="Govindaswami"/>
+<edge source="Nazar" target="Snell"/>
+<edge source="Nazar" target="Patanjali"/>
+<edge source="Nazar" target="Badri"/>
+<edge source="Nazar" target="Gokhale"/>
+<edge source="Nazar" target="Maganlal"/>
+<edge source="Nazar" target="Polak"/>
+<edge source="Nazar" target="Kalyandas"/>
+<edge source="Nazar" target="Tyeb Sheth"/>
+<edge source="Babu Kalicharan Banerji" target="Abbas"/>
+<edge source="Babu Kalicharan Banerji" target="Wacha"/>
+<edge source="Babu Kalicharan Banerji" target="Ranade"/>
+<edge source="Babu Kalicharan Banerji" target="Escombe"/>
+<edge source="Babu Kalicharan Banerji" target="Polak"/>
+<edge source="Babu Kalicharan Banerji" target="Edward VII"/>
+<edge source="Babu Kalicharan Banerji" target="Subrahmaniam"/>
+<edge source="Babu Kalicharan Banerji" target="Buller"/>
+<edge source="Babu Kalicharan Banerji" target="Pillay"/>
+<edge source="Babu Kalicharan Banerji" target="Mullick"/>
+<edge source="Babu Kalicharan Banerji" target="Bhandarkar"/>
+<edge source="Babu Kalicharan Banerji" target="Mansukhlal Naazar"/>
+<edge source="Babu Kalicharan Banerji" target="Pestonji"/>
+<edge source="Babu Kalicharan Banerji" target="Gokhale"/>
+<edge source="Babu Kalicharan Banerji" target="Kathavate"/>
+<edge source="Babu Kalicharan Banerji" target="Surendranath Banerji"/>
+<edge source="Babu Kalicharan Banerji" target="Parsi Rustomji"/>
+<edge source="Babu Kalicharan Banerji" target="Saunders"/>
+<edge source="Babu Kalicharan Banerji" target="Ramdas"/>
+<edge source="Babu Kalicharan Banerji" target="Maharaja Tagore"/>
+<edge source="Babu Kalicharan Banerji" target="Chesney"/>
+<edge source="Babu Kalicharan Banerji" target="Mitter"/>
+<edge source="Babu Kalicharan Banerji" target="Swami Vivekanand"/>
+<edge source="Wacha" target="Abbas"/>
+<edge source="Wacha" target="Curzon"/>
+<edge source="Wacha" target="Ranade"/>
+<edge source="Wacha" target="Bhupenbabu"/>
+<edge source="Wacha" target="Escombe"/>
+<edge source="Wacha" target="Polak"/>
+<edge source="Wacha" target="Edward VII"/>
+<edge source="Wacha" target="Subrahmaniam"/>
+<edge source="Wacha" target="Chimanlal Setalvad"/>
+<edge source="Wacha" target="Buller"/>
+<edge source="Wacha" target="Pillay"/>
+<edge source="Wacha" target="Mullick"/>
+<edge source="Wacha" target="Bhandarkar"/>
+<edge source="Wacha" target="Mansukhlal Naazar"/>
+<edge source="Wacha" target="Pestonji"/>
+<edge source="Wacha" target="Gokhale"/>
+<edge source="Wacha" target="Kathavate"/>
+<edge source="Wacha" target="Surendranath Banerji"/>
+<edge source="Wacha" target="Parsi Rustomji"/>
+<edge source="Wacha" target="Saunders"/>
+<edge source="Wacha" target="Ramdas"/>
+<edge source="Wacha" target="Maharaja Tagore"/>
+<edge source="Wacha" target="Chesney"/>
+<edge source="Wacha" target="Mitter"/>
+<edge source="Wacha" target="Swami Vivekanand"/>
+<edge source="Wacha" target="Ghosalbabu"/>
+<edge source="Curzon" target="Bhupenbabu"/>
+<edge source="Curzon" target="Gokhale"/>
+<edge source="Curzon" target="Ghosalbabu"/>
+<edge source="Curzon" target="Chimanlal Setalvad"/>
+<edge source="Ranade" target="Abbas"/>
+<edge source="Ranade" target="Escombe"/>
+<edge source="Ranade" target="Polak"/>
+<edge source="Ranade" target="Edward VII"/>
+<edge source="Ranade" target="Subrahmaniam"/>
+<edge source="Ranade" target="Buller"/>
+<edge source="Ranade" target="Pillay"/>
+<edge source="Ranade" target="Mullick"/>
+<edge source="Ranade" target="Bhandarkar"/>
+<edge source="Ranade" target="Mansukhlal Naazar"/>
+<edge source="Ranade" target="Pestonji"/>
+<edge source="Ranade" target="Gokhale"/>
+<edge source="Ranade" target="Kathavate"/>
+<edge source="Ranade" target="Surendranath Banerji"/>
+<edge source="Ranade" target="Parsi Rustomji"/>
+<edge source="Ranade" target="Saunders"/>
+<edge source="Ranade" target="Ramdas"/>
+<edge source="Ranade" target="Maharaja Tagore"/>
+<edge source="Ranade" target="Chesney"/>
+<edge source="Ranade" target="Mitter"/>
+<edge source="Ranade" target="Swami Vivekanand"/>
+<edge source="Surendranath Banerji" target="Abbas"/>
+<edge source="Surendranath Banerji" target="Escombe"/>
+<edge source="Surendranath Banerji" target="Polak"/>
+<edge source="Surendranath Banerji" target="Edward VII"/>
+<edge source="Surendranath Banerji" target="Subrahmaniam"/>
+<edge source="Surendranath Banerji" target="Buller"/>
+<edge source="Surendranath Banerji" target="Pillay"/>
+<edge source="Surendranath Banerji" target="Mullick"/>
+<edge source="Surendranath Banerji" target="Bhandarkar"/>
+<edge source="Surendranath Banerji" target="Mansukhlal Naazar"/>
+<edge source="Surendranath Banerji" target="Pestonji"/>
+<edge source="Surendranath Banerji" target="Gokhale"/>
+<edge source="Surendranath Banerji" target="Kathavate"/>
+<edge source="Surendranath Banerji" target="Parsi Rustomji"/>
+<edge source="Surendranath Banerji" target="Saunders"/>
+<edge source="Surendranath Banerji" target="Ramdas"/>
+<edge source="Surendranath Banerji" target="Maharaja Tagore"/>
+<edge source="Surendranath Banerji" target="Chesney"/>
+<edge source="Surendranath Banerji" target="Mitter"/>
+<edge source="Surendranath Banerji" target="Swami Vivekanand"/>
+<edge source="Bhupenbabu" target="Gokhale"/>
+<edge source="Bhupenbabu" target="Ghosalbabu"/>
+<edge source="Bhupenbabu" target="Chimanlal Setalvad"/>
+<edge source="Escombe" target="Abbas"/>
+<edge source="Escombe" target="Polak"/>
+<edge source="Escombe" target="Edward VII"/>
+<edge source="Escombe" target="Subrahmaniam"/>
+<edge source="Escombe" target="Buller"/>
+<edge source="Escombe" target="Pillay"/>
+<edge source="Escombe" target="Mullick"/>
+<edge source="Escombe" target="Bhandarkar"/>
+<edge source="Escombe" target="Mansukhlal Naazar"/>
+<edge source="Escombe" target="Pestonji"/>
+<edge source="Escombe" target="Gokhale"/>
+<edge source="Escombe" target="Kathavate"/>
+<edge source="Escombe" target="Parsi Rustomji"/>
+<edge source="Escombe" target="Saunders"/>
+<edge source="Escombe" target="Ramdas"/>
+<edge source="Escombe" target="Maharaja Tagore"/>
+<edge source="Escombe" target="Chesney"/>
+<edge source="Escombe" target="Mitter"/>
+<edge source="Escombe" target="Swami Vivekanand"/>
+<edge source="Polak" target="Kalyandas"/>
+<edge source="Polak" target="Edward VII"/>
+<edge source="Polak" target="Subrahmaniam"/>
+<edge source="Polak" target="Buller"/>
+<edge source="Polak" target="Pillay"/>
+<edge source="Polak" target="Maneklal"/>
+<edge source="Polak" target="Mullick"/>
+<edge source="Polak" target="Bhandarkar"/>
+<edge source="Polak" target="Snell"/>
+<edge source="Polak" target="Mansukhlal Naazar"/>
+<edge source="Polak" target="Pestonji"/>
+<edge source="Polak" target="Gokhale"/>
+<edge source="Polak" target="Maganlal"/>
+<edge source="Polak" target="Patanjali"/>
+<edge source="Polak" target="Kathavate"/>
+<edge source="Polak" target="William Godfrey"/>
+<edge source="Polak" target="Chhaganlal Gandhi"/>
+<edge source="Polak" target="Parsi Rustomji"/>
+<edge source="Polak" target="Saunders"/>
+<edge source="Polak" target="Abbas"/>
+<edge source="Polak" target="Govindaswami"/>
+<edge source="Polak" target="Ramdas"/>
+<edge source="Polak" target="Badri"/>
+<edge source="Polak" target="Maharaja Tagore"/>
+<edge source="Polak" target="Chesney"/>
+<edge source="Polak" target="Mitter"/>
+<edge source="Polak" target="Swami Vivekanand"/>
+<edge source="Polak" target="Tyeb Sheth"/>
+<edge source="Kalyandas" target="William Godfrey"/>
+<edge source="Kalyandas" target="Maneklal"/>
+<edge source="Kalyandas" target="Govindaswami"/>
+<edge source="Kalyandas" target="Snell"/>
+<edge source="Kalyandas" target="Chhaganlal Gandhi"/>
+<edge source="Kalyandas" target="Gokhale"/>
+<edge source="Kalyandas" target="Maganlal"/>
+<edge source="Kalyandas" target="Patanjali"/>
+<edge source="Kalyandas" target="Badri"/>
+<edge source="Kalyandas" target="Tyeb Sheth"/>
+<edge source="Edward VII" target="Abbas"/>
+<edge source="Edward VII" target="Subrahmaniam"/>
+<edge source="Edward VII" target="Buller"/>
+<edge source="Edward VII" target="Pillay"/>
+<edge source="Edward VII" target="Mullick"/>
+<edge source="Edward VII" target="Bhandarkar"/>
+<edge source="Edward VII" target="Mansukhlal Naazar"/>
+<edge source="Edward VII" target="Pestonji"/>
+<edge source="Edward VII" target="Gokhale"/>
+<edge source="Edward VII" target="Kathavate"/>
+<edge source="Edward VII" target="Parsi Rustomji"/>
+<edge source="Edward VII" target="Saunders"/>
+<edge source="Edward VII" target="Ramdas"/>
+<edge source="Edward VII" target="Maharaja Tagore"/>
+<edge source="Edward VII" target="Chesney"/>
+<edge source="Edward VII" target="Mitter"/>
+<edge source="Edward VII" target="Swami Vivekanand"/>
+<edge source="Subrahmaniam" target="Abbas"/>
+<edge source="Subrahmaniam" target="Buller"/>
+<edge source="Subrahmaniam" target="Pillay"/>
+<edge source="Subrahmaniam" target="Mullick"/>
+<edge source="Subrahmaniam" target="Bhandarkar"/>
+<edge source="Subrahmaniam" target="Mansukhlal Naazar"/>
+<edge source="Subrahmaniam" target="Pestonji"/>
+<edge source="Subrahmaniam" target="Gokhale"/>
+<edge source="Subrahmaniam" target="Kathavate"/>
+<edge source="Subrahmaniam" target="Parsi Rustomji"/>
+<edge source="Subrahmaniam" target="Saunders"/>
+<edge source="Subrahmaniam" target="Ramdas"/>
+<edge source="Subrahmaniam" target="Maharaja Tagore"/>
+<edge source="Subrahmaniam" target="Chesney"/>
+<edge source="Subrahmaniam" target="Mitter"/>
+<edge source="Subrahmaniam" target="Swami Vivekanand"/>
+<edge source="Chimanlal Setalvad" target="Gokhale"/>
+<edge source="Chimanlal Setalvad" target="Ghosalbabu"/>
+<edge source="Buller" target="Abbas"/>
+<edge source="Buller" target="Pillay"/>
+<edge source="Buller" target="Mullick"/>
+<edge source="Buller" target="Bhandarkar"/>
+<edge source="Buller" target="Mansukhlal Naazar"/>
+<edge source="Buller" target="Pestonji"/>
+<edge source="Buller" target="Gokhale"/>
+<edge source="Buller" target="Kathavate"/>
+<edge source="Buller" target="Parsi Rustomji"/>
+<edge source="Buller" target="Saunders"/>
+<edge source="Buller" target="Ramdas"/>
+<edge source="Buller" target="Maharaja Tagore"/>
+<edge source="Buller" target="Chesney"/>
+<edge source="Buller" target="Mitter"/>
+<edge source="Buller" target="Swami Vivekanand"/>
+<edge source="Pillay" target="Mullick"/>
+<edge source="Pillay" target="Bhandarkar"/>
+<edge source="Pillay" target="Mansukhlal Naazar"/>
+<edge source="Pillay" target="Pestonji"/>
+<edge source="Pillay" target="Gokhale"/>
+<edge source="Pillay" target="Kathavate"/>
+<edge source="Pillay" target="Abbas"/>
+<edge source="Pillay" target="Parsi Rustomji"/>
+<edge source="Pillay" target="Saunders"/>
+<edge source="Pillay" target="Ramdas"/>
+<edge source="Pillay" target="Maharaja Tagore"/>
+<edge source="Pillay" target="Chesney"/>
+<edge source="Pillay" target="Mitter"/>
+<edge source="Pillay" target="Swami Vivekanand"/>
+<edge source="Maneklal" target="William Godfrey"/>
+<edge source="Maneklal" target="Govindaswami"/>
+<edge source="Maneklal" target="Snell"/>
+<edge source="Maneklal" target="Patanjali"/>
+<edge source="Maneklal" target="Chhaganlal Gandhi"/>
+<edge source="Maneklal" target="Gokhale"/>
+<edge source="Maneklal" target="Maganlal"/>
+<edge source="Maneklal" target="Badri"/>
+<edge source="Maneklal" target="Tyeb Sheth"/>
+<edge source="Mullick" target="Abbas"/>
+<edge source="Mullick" target="Bhandarkar"/>
+<edge source="Mullick" target="Mansukhlal Naazar"/>
+<edge source="Mullick" target="Pestonji"/>
+<edge source="Mullick" target="Gokhale"/>
+<edge source="Mullick" target="Kathavate"/>
+<edge source="Mullick" target="Parsi Rustomji"/>
+<edge source="Mullick" target="Saunders"/>
+<edge source="Mullick" target="Ramdas"/>
+<edge source="Mullick" target="Maharaja Tagore"/>
+<edge source="Mullick" target="Chesney"/>
+<edge source="Mullick" target="Mitter"/>
+<edge source="Mullick" target="Swami Vivekanand"/>
+<edge source="Bhandarkar" target="Abbas"/>
+<edge source="Bhandarkar" target="Mansukhlal Naazar"/>
+<edge source="Bhandarkar" target="Pestonji"/>
+<edge source="Bhandarkar" target="Gokhale"/>
+<edge source="Bhandarkar" target="Kathavate"/>
+<edge source="Bhandarkar" target="Parsi Rustomji"/>
+<edge source="Bhandarkar" target="Saunders"/>
+<edge source="Bhandarkar" target="Ramdas"/>
+<edge source="Bhandarkar" target="Maharaja Tagore"/>
+<edge source="Bhandarkar" target="Chesney"/>
+<edge source="Bhandarkar" target="Mitter"/>
+<edge source="Bhandarkar" target="Swami Vivekanand"/>
+<edge source="Snell" target="Chhaganlal Gandhi"/>
+<edge source="Snell" target="Govindaswami"/>
+<edge source="Snell" target="Maganlal"/>
+<edge source="Snell" target="William Godfrey"/>
+<edge source="Snell" target="Badri"/>
+<edge source="Snell" target="Gokhale"/>
+<edge source="Snell" target="Patanjali"/>
+<edge source="Snell" target="Tyeb Sheth"/>
+<edge source="Mansukhlal Naazar" target="Abbas"/>
+<edge source="Mansukhlal Naazar" target="Pestonji"/>
+<edge source="Mansukhlal Naazar" target="Gokhale"/>
+<edge source="Mansukhlal Naazar" target="Kathavate"/>
+<edge source="Mansukhlal Naazar" target="Parsi Rustomji"/>
+<edge source="Mansukhlal Naazar" target="Saunders"/>
+<edge source="Mansukhlal Naazar" target="Ramdas"/>
+<edge source="Mansukhlal Naazar" target="Maharaja Tagore"/>
+<edge source="Mansukhlal Naazar" target="Chesney"/>
+<edge source="Mansukhlal Naazar" target="Mitter"/>
+<edge source="Mansukhlal Naazar" target="Swami Vivekanand"/>
+<edge source="Pestonji" target="Abbas"/>
+<edge source="Pestonji" target="Gokhale"/>
+<edge source="Pestonji" target="Kathavate"/>
+<edge source="Pestonji" target="Parsi Rustomji"/>
+<edge source="Pestonji" target="Saunders"/>
+<edge source="Pestonji" target="Ramdas"/>
+<edge source="Pestonji" target="Maharaja Tagore"/>
+<edge source="Pestonji" target="Chesney"/>
+<edge source="Pestonji" target="Mitter"/>
+<edge source="Pestonji" target="Swami Vivekanand"/>
+<edge source="Gokhale" target="Maganlal"/>
+<edge source="Gokhale" target="Patanjali"/>
+<edge source="Gokhale" target="Kathavate"/>
+<edge source="Gokhale" target="William Godfrey"/>
+<edge source="Gokhale" target="Chhaganlal Gandhi"/>
+<edge source="Gokhale" target="Parsi Rustomji"/>
+<edge source="Gokhale" target="Saunders"/>
+<edge source="Gokhale" target="Abbas"/>
+<edge source="Gokhale" target="Govindaswami"/>
+<edge source="Gokhale" target="Ramdas"/>
+<edge source="Gokhale" target="Badri"/>
+<edge source="Gokhale" target="Maharaja Tagore"/>
+<edge source="Gokhale" target="Chesney"/>
+<edge source="Gokhale" target="Mitter"/>
+<edge source="Gokhale" target="Swami Vivekanand"/>
+<edge source="Gokhale" target="Tyeb Sheth"/>
+<edge source="Gokhale" target="Ghosalbabu"/>
+<edge source="Maganlal" target="Chhaganlal Gandhi"/>
+<edge source="Maganlal" target="Govindaswami"/>
+<edge source="Maganlal" target="William Godfrey"/>
+<edge source="Maganlal" target="Badri"/>
+<edge source="Maganlal" target="Patanjali"/>
+<edge source="Maganlal" target="Tyeb Sheth"/>
+<edge source="Patanjali" target="Chhaganlal Gandhi"/>
+<edge source="Patanjali" target="Govindaswami"/>
+<edge source="Patanjali" target="William Godfrey"/>
+<edge source="Patanjali" target="Badri"/>
+<edge source="Patanjali" target="Tyeb Sheth"/>
+<edge source="Kathavate" target="Abbas"/>
+<edge source="Kathavate" target="Parsi Rustomji"/>
+<edge source="Kathavate" target="Saunders"/>
+<edge source="Kathavate" target="Ramdas"/>
+<edge source="Kathavate" target="Maharaja Tagore"/>
+<edge source="Kathavate" target="Chesney"/>
+<edge source="Kathavate" target="Mitter"/>
+<edge source="Kathavate" target="Swami Vivekanand"/>
+<edge source="William Godfrey" target="Chhaganlal Gandhi"/>
+<edge source="William Godfrey" target="Govindaswami"/>
+<edge source="William Godfrey" target="Badri"/>
+<edge source="William Godfrey" target="Tyeb Sheth"/>
+<edge source="Chhaganlal Gandhi" target="Govindaswami"/>
+<edge source="Chhaganlal Gandhi" target="Badri"/>
+<edge source="Chhaganlal Gandhi" target="Tyeb Sheth"/>
+<edge source="Parsi Rustomji" target="Abbas"/>
+<edge source="Parsi Rustomji" target="Saunders"/>
+<edge source="Parsi Rustomji" target="Ramdas"/>
+<edge source="Parsi Rustomji" target="Maharaja Tagore"/>
+<edge source="Parsi Rustomji" target="Chesney"/>
+<edge source="Parsi Rustomji" target="Mitter"/>
+<edge source="Parsi Rustomji" target="Swami Vivekanand"/>
+<edge source="Saunders" target="Abbas"/>
+<edge source="Saunders" target="Ramdas"/>
+<edge source="Saunders" target="Maharaja Tagore"/>
+<edge source="Saunders" target="Chesney"/>
+<edge source="Saunders" target="Mitter"/>
+<edge source="Saunders" target="Swami Vivekanand"/>
+<edge source="Abbas" target="Ramdas"/>
+<edge source="Abbas" target="Maharaja Tagore"/>
+<edge source="Abbas" target="Chesney"/>
+<edge source="Abbas" target="Mitter"/>
+<edge source="Abbas" target="Swami Vivekanand"/>
+<edge source="Govindaswami" target="Badri"/>
+<edge source="Govindaswami" target="Tyeb Sheth"/>
+<edge source="Ramdas" target="Maharaja Tagore"/>
+<edge source="Ramdas" target="Chesney"/>
+<edge source="Ramdas" target="Mitter"/>
+<edge source="Ramdas" target="Swami Vivekanand"/>
+<edge source="Badri" target="Tyeb Sheth"/>
+<edge source="Maharaja Tagore" target="Chesney"/>
+<edge source="Maharaja Tagore" target="Mitter"/>
+<edge source="Maharaja Tagore" target="Swami Vivekanand"/>
+<edge source="Chesney" target="Mitter"/>
+<edge source="Chesney" target="Swami Vivekanand"/>
+<edge source="Mitter" target="Swami Vivekanand"/>
+</graph></graphml>

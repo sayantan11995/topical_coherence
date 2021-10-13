@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Buller"/>
+<node id="Escombe"/>
+<node id="Gandhi"/>
+<node id="Mansukhlal Naazar"/>
+<edge source="Buller" target="Escombe"/>
+<edge source="Buller" target="Gandhi"/>
+<edge source="Buller" target="Mansukhlal Naazar"/>
+<edge source="Escombe" target="Gandhi"/>
+<edge source="Escombe" target="Mansukhlal Naazar"/>
+<edge source="Gandhi" target="Mansukhlal Naazar"/>
+</graph></graphml>

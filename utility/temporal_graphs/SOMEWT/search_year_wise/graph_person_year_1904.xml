@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="William Godfrey"/>
+<node id="Chhaganlal Gandhi"/>
+<node id="Miss Schlesin"/>
+<node id="Maneklal"/>
+<node id="Ritch"/>
+<node id="Nazar"/>
+<node id="Govindaswami"/>
+<node id="Badri"/>
+<node id="Macdonald"/>
+<node id="Gokhale"/>
+<node id="Gandhi"/>
+<node id="Maganlal"/>
+<node id="Polak"/>
+<node id="Kalyandas"/>
+<node id="Madanjit"/>
+<edge source="William Godfrey" target="Madanjit"/>
+<edge source="William Godfrey" target="Chhaganlal Gandhi"/>
+<edge source="William Godfrey" target="Miss Schlesin"/>
+<edge source="William Godfrey" target="Maneklal"/>
+<edge source="William Godfrey" target="Ritch"/>
+<edge source="William Godfrey" target="Nazar"/>
+<edge source="William Godfrey" target="Govindaswami"/>
+<edge source="William Godfrey" target="Badri"/>
+<edge source="William Godfrey" target="Macdonald"/>
+<edge source="William Godfrey" target="Gokhale"/>
+<edge source="William Godfrey" target="Gandhi"/>
+<edge source="William Godfrey" target="Maganlal"/>
+<edge source="William Godfrey" target="Polak"/>
+<edge source="William Godfrey" target="Kalyandas"/>
+<edge source="Chhaganlal Gandhi" target="Madanjit"/>
+<edge source="Chhaganlal Gandhi" target="Miss Schlesin"/>
+<edge source="Chhaganlal Gandhi" target="Maneklal"/>
+<edge source="Chhaganlal Gandhi" target="Ritch"/>
+<edge source="Chhaganlal Gandhi" target="Nazar"/>
+<edge source="Chhaganlal Gandhi" target="Govindaswami"/>
+<edge source="Chhaganlal Gandhi" target="Badri"/>
+<edge source="Chhaganlal Gandhi" target="Macdonald"/>
+<edge source="Chhaganlal Gandhi" target="Gokhale"/>
+<edge source="Chhaganlal Gandhi" target="Gandhi"/>
+<edge source="Chhaganlal Gandhi" target="Maganlal"/>
+<edge source="Chhaganlal Gandhi" target="Polak"/>
+<edge source="Chhaganlal Gandhi" target="Kalyandas"/>
+<edge source="Miss Schlesin" target="Maneklal"/>
+<edge source="Miss Schlesin" target="Ritch"/>
+<edge source="Miss Schlesin" target="Nazar"/>
+<edge source="Miss Schlesin" target="Govindaswami"/>
+<edge source="Miss Schlesin" target="Badri"/>
+<edge source="Miss Schlesin" target="Macdonald"/>
+<edge source="Miss Schlesin" target="Gokhale"/>
+<edge source="Miss Schlesin" target="Gandhi"/>
+<edge source="Miss Schlesin" target="Maganlal"/>
+<edge source="Miss Schlesin" target="Polak"/>
+<edge source="Miss Schlesin" target="Kalyandas"/>
+<edge source="Miss Schlesin" target="Madanjit"/>
+<edge source="Maneklal" target="Madanjit"/>
+<edge source="Maneklal" target="Ritch"/>
+<edge source="Maneklal" target="Nazar"/>
+<edge source="Maneklal" target="Govindaswami"/>
+<edge source="Maneklal" target="Badri"/>
+<edge source="Maneklal" target="Macdonald"/>
+<edge source="Maneklal" target="Gokhale"/>
+<edge source="Maneklal" target="Gandhi"/>
+<edge source="Maneklal" target="Maganlal"/>
+<edge source="Maneklal" target="Polak"/>
+<edge source="Maneklal" target="Kalyandas"/>
+<edge source="Ritch" target="Nazar"/>
+<edge source="Ritch" target="Govindaswami"/>
+<edge source="Ritch" target="Badri"/>
+<edge source="Ritch" target="Macdonald"/>
+<edge source="Ritch" target="Gokhale"/>
+<edge source="Ritch" target="Gandhi"/>
+<edge source="Ritch" target="Maganlal"/>
+<edge source="Ritch" target="Polak"/>
+<edge source="Ritch" target="Kalyandas"/>
+<edge source="Ritch" target="Madanjit"/>
+<edge source="Nazar" target="Govindaswami"/>
+<edge source="Nazar" target="Badri"/>
+<edge source="Nazar" target="Macdonald"/>
+<edge source="Nazar" target="Gokhale"/>
+<edge source="Nazar" target="Gandhi"/>
+<edge source="Nazar" target="Maganlal"/>
+<edge source="Nazar" target="Polak"/>
+<edge source="Nazar" target="Kalyandas"/>
+<edge source="Nazar" target="Madanjit"/>
+<edge source="Govindaswami" target="Badri"/>
+<edge source="Govindaswami" target="Macdonald"/>
+<edge source="Govindaswami" target="Gokhale"/>
+<edge source="Govindaswami" target="Gandhi"/>
+<edge source="Govindaswami" target="Maganlal"/>
+<edge source="Govindaswami" target="Polak"/>
+<edge source="Govindaswami" target="Kalyandas"/>
+<edge source="Govindaswami" target="Madanjit"/>
+<edge source="Badri" target="Macdonald"/>
+<edge source="Badri" target="Gokhale"/>
+<edge source="Badri" target="Gandhi"/>
+<edge source="Badri" target="Maganlal"/>
+<edge source="Badri" target="Polak"/>
+<edge source="Badri" target="Kalyandas"/>
+<edge source="Badri" target="Madanjit"/>
+<edge source="Macdonald" target="Gokhale"/>
+<edge source="Macdonald" target="Gandhi"/>
+<edge source="Macdonald" target="Maganlal"/>
+<edge source="Macdonald" target="Polak"/>
+<edge source="Macdonald" target="Kalyandas"/>
+<edge source="Macdonald" target="Madanjit"/>
+<edge source="Gokhale" target="Gandhi"/>
+<edge source="Gokhale" target="Maganlal"/>
+<edge source="Gokhale" target="Polak"/>
+<edge source="Gokhale" target="Kalyandas"/>
+<edge source="Gokhale" target="Madanjit"/>
+<edge source="Gandhi" target="Maganlal"/>
+<edge source="Gandhi" target="Polak"/>
+<edge source="Gandhi" target="Kalyandas"/>
+<edge source="Gandhi" target="Madanjit"/>
+<edge source="Maganlal" target="Polak"/>
+<edge source="Maganlal" target="Kalyandas"/>
+<edge source="Maganlal" target="Madanjit"/>
+<edge source="Polak" target="Kalyandas"/>
+<edge source="Polak" target="Madanjit"/>
+<edge source="Kalyandas" target="Madanjit"/>
+</graph></graphml>

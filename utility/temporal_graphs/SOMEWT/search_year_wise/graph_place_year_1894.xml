@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Karachi"/>
+<node id="North"/>
+<node id="Durban"/>
+<node id="South Africa"/>
+<node id="Delhi"/>
+<node id="India"/>
+<node id="Natal"/>
+<node id="Lahore"/>
+<node id="England"/>
+<node id="Charlestown"/>
+<node id="Pretoria"/>
+<edge source="Karachi" target="North"/>
+<edge source="Karachi" target="Durban"/>
+<edge source="Karachi" target="South Africa"/>
+<edge source="Karachi" target="Delhi"/>
+<edge source="Karachi" target="India"/>
+<edge source="Karachi" target="Natal"/>
+<edge source="Karachi" target="Lahore"/>
+<edge source="Karachi" target="England"/>
+<edge source="Karachi" target="Charlestown"/>
+<edge source="Karachi" target="Pretoria"/>
+<edge source="North" target="England"/>
+<edge source="North" target="Durban"/>
+<edge source="North" target="South Africa"/>
+<edge source="North" target="Delhi"/>
+<edge source="North" target="India"/>
+<edge source="North" target="Natal"/>
+<edge source="North" target="Lahore"/>
+<edge source="North" target="Charlestown"/>
+<edge source="North" target="Pretoria"/>
+<edge source="Durban" target="South Africa"/>
+<edge source="Durban" target="Delhi"/>
+<edge source="Durban" target="India"/>
+<edge source="Durban" target="Natal"/>
+<edge source="Durban" target="Lahore"/>
+<edge source="Durban" target="England"/>
+<edge source="Durban" target="Charlestown"/>
+<edge source="Durban" target="Pretoria"/>
+<edge source="South Africa" target="Delhi"/>
+<edge source="South Africa" target="India"/>
+<edge source="South Africa" target="Natal"/>
+<edge source="South Africa" target="Lahore"/>
+<edge source="South Africa" target="England"/>
+<edge source="South Africa" target="Charlestown"/>
+<edge source="South Africa" target="Pretoria"/>
+<edge source="Delhi" target="India"/>
+<edge source="Delhi" target="Natal"/>
+<edge source="Delhi" target="Lahore"/>
+<edge source="Delhi" target="England"/>
+<edge source="Delhi" target="Charlestown"/>
+<edge source="Delhi" target="Pretoria"/>
+<edge source="India" target="Natal"/>
+<edge source="India" target="Lahore"/>
+<edge source="India" target="England"/>
+<edge source="India" target="Charlestown"/>
+<edge source="India" target="Pretoria"/>
+<edge source="Natal" target="Lahore"/>
+<edge source="Natal" target="England"/>
+<edge source="Natal" target="Charlestown"/>
+<edge source="Natal" target="Pretoria"/>
+<edge source="Lahore" target="England"/>
+<edge source="Lahore" target="Charlestown"/>
+<edge source="Lahore" target="Pretoria"/>
+<edge source="England" target="Charlestown"/>
+<edge source="England" target="Pretoria"/>
+<edge source="Charlestown" target="Pretoria"/>
+</graph></graphml>

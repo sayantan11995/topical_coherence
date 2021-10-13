@@ -1,0 +1,2512 @@
+{
+    "london": [
+        "1888",
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "aden": [
+        "1888"
+    ],
+    "city": [
+        "1888",
+        "1895"
+    ],
+    "portsmouth": [
+        "1888"
+    ],
+    "bhavnagar": [
+        "1888"
+    ],
+    "gibraltar": [
+        "1888"
+    ],
+    "malta": [
+        "1888"
+    ],
+    "cheapside": [
+        "1888"
+    ],
+    "california": [
+        "1888"
+    ],
+    "chile": [
+        "1888"
+    ],
+    "oceana": [
+        "1888"
+    ],
+    "holborn": [
+        "1888"
+    ],
+    "paris": [
+        "1888",
+        "1895",
+        "1907"
+    ],
+    "ahmedabad": [
+        "1888",
+        "1891",
+        "1898",
+        "1908",
+        "1909",
+        "1911",
+        "1913"
+    ],
+    "agra": [
+        "1888"
+    ],
+    "france": [
+        "1888",
+        "1909"
+    ],
+    "england": [
+        "1888",
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "malabar": [
+        "1888",
+        "1909"
+    ],
+    "crete": [
+        "1888"
+    ],
+    "persia": [
+        "1888"
+    ],
+    "richmond": [
+        "1888"
+    ],
+    "plymouth": [
+        "1888"
+    ],
+    "rhine": [
+        "1888"
+    ],
+    "brighton": [
+        "1888"
+    ],
+    "manchester": [
+        "1888"
+    ],
+    "ventnor": [
+        "1888"
+    ],
+    "brindisi": [
+        "1888"
+    ],
+    "brazil": [
+        "1888"
+    ],
+    "shelley": [
+        "1888"
+    ],
+    "arabia": [
+        "1888"
+    ],
+    "rajkot": [
+        "1888",
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1903",
+        "1906",
+        "1908",
+        "1910",
+        "1913",
+        "1914"
+    ],
+    "cambridge": [
+        "1888",
+        "1898",
+        "1903",
+        "1907",
+        "1908",
+        "1910",
+        "1913"
+    ],
+    "karachi": [
+        "1888",
+        "1898",
+        "1903",
+        "1908"
+    ],
+    "porbandar": [
+        "1888",
+        "1891",
+        "1895",
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1913",
+        "1914"
+    ],
+    "mecca": [
+        "1888",
+        "1891",
+        "1908"
+    ],
+    "windsor": [
+        "1888"
+    ],
+    "madras": [
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "johannesburg": [
+        "1891",
+        "1895",
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "pietermaritzburg": [
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1907",
+        "1913"
+    ],
+    "mombasa": [
+        "1891",
+        "1906",
+        "1911"
+    ],
+    "durban": [
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "pretoria": [
+        "1891",
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "zanzibar": [
+        "1891",
+        "1910",
+        "1911"
+    ],
+    "mauritius": [
+        "1891",
+        "1898",
+        "1903",
+        "1906",
+        "1908",
+        "1910",
+        "1911",
+        "1913"
+    ],
+    "verulam": [
+        "1891",
+        "1895",
+        "1914"
+    ],
+    "mysore": [
+        "1891",
+        "1914"
+    ],
+    "charlestown": [
+        "1891",
+        "1895",
+        "1913",
+        "1914"
+    ],
+    "standerton": [
+        "1891",
+        "1908",
+        "1913"
+    ],
+    "natal": [
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "liberal": [
+        "1895",
+        "1909"
+    ],
+    "new zealand": [
+        "1895",
+        "1903",
+        "1906",
+        "1907"
+    ],
+    "canada": [
+        "1895",
+        "1903",
+        "1906",
+        "1908",
+        "1910"
+    ],
+    "newcastle": [
+        "1895",
+        "1911",
+        "1913"
+    ],
+    "egypt": [
+        "1895",
+        "1906"
+    ],
+    "guam": [
+        "1895"
+    ],
+    "union": [
+        "1895",
+        "1908",
+        "1910",
+        "1913",
+        "1914"
+    ],
+    "ireland": [
+        "1895",
+        "1906"
+    ],
+    "yorkshire": [
+        "1896",
+        "1903"
+    ],
+    "imperial": [
+        "1896",
+        "1898",
+        "1903",
+        "1906",
+        "1908",
+        "1910",
+        "1911",
+        "1913"
+    ],
+    "bluff": [
+        "1896"
+    ],
+    "new york": [
+        "1896",
+        "1911"
+    ],
+    "vereeniging": [
+        "1898",
+        "1907",
+        "1910"
+    ],
+    "port louis": [
+        "1898"
+    ],
+    "cape town": [
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "orange": [
+        "1898",
+        "1908"
+    ],
+    "pakistan": [
+        "1898"
+    ],
+    "ladysmith": [
+        "1898"
+    ],
+    "veraval": [
+        "1898"
+    ],
+    "santa cruz": [
+        "1898",
+        "1913"
+    ],
+    "sabarmati": [
+        "1898"
+    ],
+    "delhi": [
+        "1898",
+        "1910",
+        "1914"
+    ],
+    "mozambique": [
+        "1903",
+        "1910",
+        "1911"
+    ],
+    "cornwall": [
+        "1903",
+        "1907"
+    ],
+    "phoenix": [
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "lithuania": [
+        "1903"
+    ],
+    "scotland": [
+        "1903"
+    ],
+    "melbourne": [
+        "1903"
+    ],
+    "wellington": [
+        "1903"
+    ],
+    "russia": [
+        "1903",
+        "1906",
+        "1908",
+        "1909",
+        "1910",
+        "1913"
+    ],
+    "switzerland": [
+        "1903"
+    ],
+    "germany": [
+        "1903"
+    ],
+    "china": [
+        "1906",
+        "1909",
+        "1911"
+    ],
+    "netherlands": [
+        "1906"
+    ],
+    "italy": [
+        "1906"
+    ],
+    "sultan": [
+        "1906"
+    ],
+    "israel": [
+        "1906",
+        "1907"
+    ],
+    "highgate": [
+        "1906"
+    ],
+    "turkey": [
+        "1906"
+    ],
+    "indonesia": [
+        "1906"
+    ],
+    "glasgow": [
+        "1906"
+    ],
+    "yemen": [
+        "1906"
+    ],
+    "austin": [
+        "1906"
+    ],
+    "port arthur": [
+        "1906"
+    ],
+    "volksrust": [
+        "1906",
+        "1907",
+        "1908",
+        "1910",
+        "1913"
+    ],
+    "southampton": [
+        "1906",
+        "1909"
+    ],
+    "poland": [
+        "1906"
+    ],
+    "lahore": [
+        "1906",
+        "1908",
+        "1911"
+    ],
+    "jamaica": [
+        "1906"
+    ],
+    "bromley": [
+        "1906"
+    ],
+    "columbus": [
+        "1907"
+    ],
+    "canton": [
+        "1907"
+    ],
+    "devon": [
+        "1907"
+    ],
+    "haifa": [
+        "1907"
+    ],
+    "surat": [
+        "1907",
+        "1908",
+        "1909",
+        "1910"
+    ],
+    "moscow": [
+        "1907"
+    ],
+    "germiston": [
+        "1907",
+        "1913"
+    ],
+    "grahamstown": [
+        "1907"
+    ],
+    "bloemfontein": [
+        "1907",
+        "1908",
+        "1911",
+        "1913"
+    ],
+    "kimberley": [
+        "1907",
+        "1908",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "potchefstroom": [
+        "1907",
+        "1911"
+    ],
+    "coimbatore": [
+        "1908",
+        "1913"
+    ],
+    "spain": [
+        "1908"
+    ],
+    "afghanistan": [
+        "1908"
+    ],
+    "rajahmundry": [
+        "1908"
+    ],
+    "patna": [
+        "1908"
+    ],
+    "charleston": [
+        "1908"
+    ],
+    "japan": [
+        "1908",
+        "1910"
+    ],
+    "heidelberg": [
+        "1908"
+    ],
+    "springfield": [
+        "1908"
+    ],
+    "jerusalem": [
+        "1909"
+    ],
+    "tirunelveli": [
+        "1909"
+    ],
+    "madurai": [
+        "1909"
+    ],
+    "amritsar": [
+        "1909"
+    ],
+    "twickenham": [
+        "1910"
+    ],
+    "hyderabad": [
+        "1910",
+        "1913"
+    ],
+    "huguenot": [
+        "1910"
+    ],
+    "hampstead": [
+        "1910"
+    ],
+    "dundee": [
+        "1911",
+        "1913"
+    ],
+    "krugersdorp": [
+        "1911",
+        "1913"
+    ],
+    "lucknow": [
+        "1913"
+    ],
+    "earth": [
+        "1913"
+    ],
+    "peshawar": [
+        "1913"
+    ],
+    "guntur": [
+        "1913"
+    ],
+    "fiji": [
+        "1913",
+        "1914"
+    ],
+    "ajmer": [
+        "1913"
+    ],
+    "kuala lumpur": [
+        "1913"
+    ],
+    "coonoor": [
+        "1913"
+    ],
+    "suva": [
+        "1913"
+    ],
+    "vienna": [
+        "1913"
+    ],
+    "kotdwara": [
+        "1913"
+    ],
+    "salem": [
+        "1913"
+    ],
+    "boksburg": [
+        "1913"
+    ],
+    "dublin": [
+        "1913"
+    ],
+    "ongole": [
+        "1913"
+    ],
+    "raipur": [
+        "1913"
+    ],
+    "val": [
+        "1913"
+    ],
+    "mountain view": [
+        "1913"
+    ],
+    "benjamin disraeli": [
+        "1888"
+    ],
+    "kasturba": [
+        "1888",
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1903",
+        "1906",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "william wordsworth": [
+        "1888"
+    ],
+    "lalji": [
+        "1888"
+    ],
+    "atkin": [
+        "1888"
+    ],
+    "shukla": [
+        "1888"
+    ],
+    "uttamchand gandhi": [
+        "1888"
+    ],
+    "bayswater": [
+        "1888"
+    ],
+    "vaishnavite": [
+        "1888"
+    ],
+    "putlibai": [
+        "1888",
+        "1891",
+        "1895"
+    ],
+    "tavistock street": [
+        "1888"
+    ],
+    "piccadilly circus": [
+        "1888"
+    ],
+    "thakore": [
+        "1888"
+    ],
+    "eiffel tower": [
+        "1888"
+    ],
+    "haveli": [
+        "1888"
+    ],
+    "madame blavatsky": [
+        "1888",
+        "1903"
+    ],
+    "narmadasankar lalshankar": [
+        "1888"
+    ],
+    "henry david thoreau": [
+        "1888",
+        "1906",
+        "1907",
+        "1908"
+    ],
+    "barrett": [
+        "1888"
+    ],
+    "mavji dave": [
+        "1888"
+    ],
+    "edward carpenter": [
+        "1888",
+        "1903"
+    ],
+    "william makepeace thackeray": [
+        "1888"
+    ],
+    "karsandas": [
+        "1888",
+        "1907",
+        "1914"
+    ],
+    "grant richards": [
+        "1888"
+    ],
+    "dantrana": [
+        "1888"
+    ],
+    "gondal state": [
+        "1888"
+    ],
+    "dorabji gimi": [
+        "1888"
+    ],
+    "pran nath": [
+        "1888",
+        "1895"
+    ],
+    "napoleon bonaparte": [
+        "1888"
+    ],
+    "tulsidas": [
+        "1888",
+        "1911"
+    ],
+    "chaturmas": [
+        "1888"
+    ],
+    "stephen hay": [
+        "1888"
+    ],
+    "laxmidas": [
+        "1888",
+        "1891",
+        "1903",
+        "1906",
+        "1907",
+        "1914"
+    ],
+    "charles bradlaugh": [
+        "1888"
+    ],
+    "ram singh": [
+        "1888"
+    ],
+    "notre dame": [
+        "1888"
+    ],
+    "josiah oldfield": [
+        "1888",
+        "1891",
+        "1903",
+        "1906",
+        "1908",
+        "1913"
+    ],
+    "mohandas karamchand gandhi": [
+        "1888",
+        "1896",
+        "1909"
+    ],
+    "triambakrai mazumdar": [
+        "1888"
+    ],
+    "william a. hunter": [
+        "1888"
+    ],
+    "raliat": [
+        "1888",
+        "1914"
+    ],
+    "rana vikmatji": [
+        "1888",
+        "1891"
+    ],
+    "queen victoria": [
+        "1888",
+        "1896",
+        "1898"
+    ],
+    "mohandas gandhi": [
+        "1888",
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1909",
+        "1910",
+        "1911",
+        "1913"
+    ],
+    "frederick lely": [
+        "1888",
+        "1909"
+    ],
+    "sheikh mehtab": [
+        "1888",
+        "1895",
+        "1896",
+        "1903",
+        "1908",
+        "1910",
+        "1913",
+        "1914"
+    ],
+    "luckman": [
+        "1888"
+    ],
+    "trafalgar square": [
+        "1888"
+    ],
+    "william ewart gladstone": [
+        "1888"
+    ],
+    "kaba gandhi": [
+        "1888",
+        "1898",
+        "1909",
+        "1911"
+    ],
+    "edwin arnold": [
+        "1888"
+    ],
+    "porbunder": [
+        "1888"
+    ],
+    "eton": [
+        "1888"
+    ],
+    "besant": [
+        "1888",
+        "1903",
+        "1909",
+        "1910",
+        "1913"
+    ],
+    "banias": [
+        "1888",
+        "1891",
+        "1906",
+        "1907"
+    ],
+    "colah": [
+        "1888"
+    ],
+    "abdul karim": [
+        "1888"
+    ],
+    "karl marx": [
+        "1888",
+        "1906",
+        "1911"
+    ],
+    "modh bania": [
+        "1888"
+    ],
+    "nichol": [
+        "1888"
+    ],
+    "mohandas k. gandhi": [
+        "1888",
+        "1906",
+        "1907",
+        "1908",
+        "1909"
+    ],
+    "becharji swami": [
+        "1888"
+    ],
+    "pranjivan mehta": [
+        "1888",
+        "1891",
+        "1898",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "dadabhai naoroji": [
+        "1888",
+        "1891",
+        "1895",
+        "1898",
+        "1903",
+        "1906",
+        "1909",
+        "1910"
+    ],
+    "govardhanram tripathi": [
+        "1888",
+        "1911"
+    ],
+    "henry salt": [
+        "1888",
+        "1891",
+        "1895",
+        "1903",
+        "1906",
+        "1908"
+    ],
+    "john ruskin": [
+        "1888",
+        "1903"
+    ],
+    "makanji kapadia": [
+        "1888"
+    ],
+    "westernizers": [
+        "1888"
+    ],
+    "harilal": [
+        "1888",
+        "1896",
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "henry maine": [
+        "1891"
+    ],
+    "khan mohammad tayob": [
+        "1891"
+    ],
+    "kumar bhavsinghji": [
+        "1891"
+    ],
+    "hajee mohammed hajee dada": [
+        "1891"
+    ],
+    "max muller": [
+        "1891"
+    ],
+    "godavari": [
+        "1891"
+    ],
+    "rajchandra": [
+        "1891"
+    ],
+    "tayob haji khan mahomed": [
+        "1891"
+    ],
+    "rustomjee": [
+        "1891",
+        "1895",
+        "1896",
+        "1898",
+        "1903",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1914"
+    ],
+    "aboobaker amod jhaveri": [
+        "1891"
+    ],
+    "rammysammy": [
+        "1891"
+    ],
+    "laxmidas gandhi": [
+        "1891"
+    ],
+    "ripon": [
+        "1891",
+        "1895"
+    ],
+    "dada abdullah": [
+        "1891"
+    ],
+    "ramasamy": [
+        "1891",
+        "1895"
+    ],
+    "paul kruger": [
+        "1891",
+        "1898"
+    ],
+    "ghandi": [
+        "1891",
+        "1895",
+        "1906",
+        "1910",
+        "1913"
+    ],
+    "moosa": [
+        "1891"
+    ],
+    "tayob khan": [
+        "1891",
+        "1898"
+    ],
+    "raychandbhai": [
+        "1891",
+        "1895",
+        "1898",
+        "1906",
+        "1908",
+        "1911"
+    ],
+    "golden harvest": [
+        "1891"
+    ],
+    "bishop heber": [
+        "1891"
+    ],
+    "khoja": [
+        "1891"
+    ],
+    "modh banias": [
+        "1891",
+        "1907"
+    ],
+    "john robinson": [
+        "1891",
+        "1896",
+        "1898"
+    ],
+    "shapur": [
+        "1891"
+    ],
+    "field streets": [
+        "1895",
+        "1913"
+    ],
+    "anna kingsford": [
+        "1895",
+        "1906",
+        "1908"
+    ],
+    "\u00e9mile zola": [
+        "1895"
+    ],
+    "joseph royeppen": [
+        "1895",
+        "1907",
+        "1910",
+        "1911"
+    ],
+    "datta peer": [
+        "1895"
+    ],
+    "vincent lawrence": [
+        "1895",
+        "1896",
+        "1898"
+    ],
+    "harry escombe": [
+        "1895",
+        "1896",
+        "1898"
+    ],
+    "saw askews": [
+        "1895"
+    ],
+    "joseph chamberlain": [
+        "1895",
+        "1898",
+        "1903",
+        "1907",
+        "1908"
+    ],
+    "mancherjee bhownaggree": [
+        "1895",
+        "1909"
+    ],
+    "bal gangadhar tilak": [
+        "1895",
+        "1896",
+        "1906",
+        "1908",
+        "1910"
+    ],
+    "edward maitland": [
+        "1895"
+    ],
+    "anna karenina": [
+        "1895"
+    ],
+    "parsee rustomjee": [
+        "1895",
+        "1896",
+        "1898",
+        "1903",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "eno": [
+        "1895"
+    ],
+    "mahomedan": [
+        "1895",
+        "1906",
+        "1909",
+        "1914"
+    ],
+    "walter wragg": [
+        "1895"
+    ],
+    "leo tolstoy": [
+        "1895",
+        "1903",
+        "1908",
+        "1910"
+    ],
+    "poona city": [
+        "1895"
+    ],
+    "goosie": [
+        "1895"
+    ],
+    "saraswati": [
+        "1895",
+        "1911"
+    ],
+    "robert huttenback": [
+        "1895"
+    ],
+    "manilal gandhi": [
+        "1896",
+        "1910",
+        "1913"
+    ],
+    "louis fischer": [
+        "1896"
+    ],
+    "pherozeshah mehta": [
+        "1896",
+        "1898",
+        "1913"
+    ],
+    "louren\u00e7o marques": [
+        "1896",
+        "1911"
+    ],
+    "harry sparks": [
+        "1896"
+    ],
+    "shivaji": [
+        "1896",
+        "1910",
+        "1911"
+    ],
+    "gandhites": [
+        "1896"
+    ],
+    "mckenzie": [
+        "1896"
+    ],
+    "dada abdoolas": [
+        "1896"
+    ],
+    "barrister gandhi": [
+        "1896"
+    ],
+    "taleyarkhan": [
+        "1896",
+        "1898"
+    ],
+    "ranade": [
+        "1896",
+        "1898",
+        "1906",
+        "1911"
+    ],
+    "jane": [
+        "1896"
+    ],
+    "moosas": [
+        "1896"
+    ],
+    "wacha": [
+        "1896",
+        "1898"
+    ],
+    "market square": [
+        "1896"
+    ],
+    "mrs alexander": [
+        "1896",
+        "1914"
+    ],
+    "richard atttenborough": [
+        "1896"
+    ],
+    "badruddin tyabji": [
+        "1896"
+    ],
+    "gopal krishna gokhale": [
+        "1896",
+        "1898",
+        "1906",
+        "1907",
+        "1909",
+        "1910",
+        "1911",
+        "1913"
+    ],
+    "ghandhi": [
+        "1896"
+    ],
+    "gokuldas": [
+        "1896",
+        "1898",
+        "1903"
+    ],
+    "upper circular road": [
+        "1898"
+    ],
+    "mahomed hoosen": [
+        "1898"
+    ],
+    "ramdas": [
+        "1898",
+        "1906",
+        "1907",
+        "1909",
+        "1910",
+        "1913",
+        "1914"
+    ],
+    "jameson": [
+        "1898",
+        "1907",
+        "1908"
+    ],
+    "adam smith": [
+        "1898",
+        "1910"
+    ],
+    "abdul cadir": [
+        "1898"
+    ],
+    "college street": [
+        "1898"
+    ],
+    "rahim karim khan": [
+        "1898"
+    ],
+    "john stuart mill": [
+        "1898",
+        "1908"
+    ],
+    "shastras": [
+        "1898"
+    ],
+    "tatham": [
+        "1898"
+    ],
+    "lord milner": [
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1911",
+        "1914"
+    ],
+    "fraser": [
+        "1898"
+    ],
+    "herbert kitchin": [
+        "1898"
+    ],
+    "edward nundy": [
+        "1898"
+    ],
+    "gujarati hindus": [
+        "1898",
+        "1907",
+        "1908",
+        "1914"
+    ],
+    "chhaganlal": [
+        "1898",
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "james godfrey": [
+        "1898"
+    ],
+    "cecil": [
+        "1898",
+        "1906"
+    ],
+    "beadon square": [
+        "1898"
+    ],
+    "john maynard keynes": [
+        "1898"
+    ],
+    "panchammas": [
+        "1898"
+    ],
+    "naidoo": [
+        "1898",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "devadas": [
+        "1898",
+        "1908"
+    ],
+    "hassanjee": [
+        "1898"
+    ],
+    "volksraad": [
+        "1898"
+    ],
+    "francis younghusband": [
+        "1898"
+    ],
+    "spion kop": [
+        "1898",
+        "1908"
+    ],
+    "mahadev govind ranade": [
+        "1898",
+        "1906"
+    ],
+    "tamil christian": [
+        "1898"
+    ],
+    "saul dubow": [
+        "1903"
+    ],
+    "khune": [
+        "1903"
+    ],
+    "cape comorin": [
+        "1903",
+        "1913"
+    ],
+    "adolf": [
+        "1903"
+    ],
+    "john buchan": [
+        "1903"
+    ],
+    "albert west": [
+        "1903",
+        "1906",
+        "1908",
+        "1909",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "eastern europe": [
+        "1903"
+    ],
+    "henry polak": [
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "fox street": [
+        "1903"
+    ],
+    "millie graham": [
+        "1903",
+        "1906",
+        "1913"
+    ],
+    "abdul gani": [
+        "1903",
+        "1906",
+        "1907"
+    ],
+    "henry solomon leon polak": [
+        "1903"
+    ],
+    "alfred lyttelton": [
+        "1903"
+    ],
+    "hermann kallenbach": [
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "flora shaw": [
+        "1903"
+    ],
+    "habib motan": [
+        "1903"
+    ],
+    "joan": [
+        "1903"
+    ],
+    "madanjit vyavaharik": [
+        "1903",
+        "1909"
+    ],
+    "maganlal": [
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "curzon": [
+        "1903",
+        "1908",
+        "1909",
+        "1910"
+    ],
+    "nazar": [
+        "1903",
+        "1906"
+    ],
+    "haridas vora": [
+        "1903",
+        "1906"
+    ],
+    "ritch": [
+        "1903",
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "alfred lawley": [
+        "1903"
+    ],
+    "wolstenholme": [
+        "1906",
+        "1908",
+        "1913"
+    ],
+    "joseph doke": [
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "raymond aron": [
+        "1906"
+    ],
+    "leung quinn": [
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911"
+    ],
+    "jan christian smuts": [
+        "1906",
+        "1907",
+        "1914"
+    ],
+    "tamil william godfrey": [
+        "1906"
+    ],
+    "lewis ritch": [
+        "1906"
+    ],
+    "rosa luxemburg": [
+        "1906"
+    ],
+    "bapu": [
+        "1906",
+        "1909",
+        "1910",
+        "1911"
+    ],
+    "sydney webb": [
+        "1906"
+    ],
+    "patrick duncan": [
+        "1906"
+    ],
+    "bhishma": [
+        "1906",
+        "1908"
+    ],
+    "hind swaraj": [
+        "1906",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "sigmund freud": [
+        "1906"
+    ],
+    "abdurrahman": [
+        "1906"
+    ],
+    "abraham lincoln": [
+        "1906"
+    ],
+    "shyamaji krishnavarma": [
+        "1906",
+        "1907",
+        "1909",
+        "1910"
+    ],
+    "maxim gorky": [
+        "1906"
+    ],
+    "sammy marks": [
+        "1906"
+    ],
+    "polaks": [
+        "1906",
+        "1911",
+        "1913"
+    ],
+    "liu": [
+        "1906"
+    ],
+    "james d. hunt": [
+        "1906"
+    ],
+    "harilal mohandas gandhi": [
+        "1906"
+    ],
+    "bada bhai": [
+        "1906",
+        "1909"
+    ],
+    "nanalal shah": [
+        "1906"
+    ],
+    "millie polak": [
+        "1906",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "sonja schlesin": [
+        "1906",
+        "1907",
+        "1908",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "gandhiji": [
+        "1906"
+    ],
+    "neame": [
+        "1906"
+    ],
+    "hetereodox": [
+        "1906"
+    ],
+    "savitri": [
+        "1906"
+    ],
+    "jan h. hofmeyr": [
+        "1906"
+    ],
+    "harold cox": [
+        "1906"
+    ],
+    "draft ordinance": [
+        "1906"
+    ],
+    "mahomedans": [
+        "1906",
+        "1907",
+        "1908",
+        "1910",
+        "1911",
+        "1914"
+    ],
+    "bhai": [
+        "1906",
+        "1909",
+        "1913"
+    ],
+    "mao zedong": [
+        "1906"
+    ],
+    "john dube": [
+        "1906",
+        "1911",
+        "1913"
+    ],
+    "captain fowle": [
+        "1906"
+    ],
+    "lepel": [
+        "1906"
+    ],
+    "henry cotton": [
+        "1906"
+    ],
+    "edgar snow": [
+        "1906"
+    ],
+    "amir ali": [
+        "1906"
+    ],
+    "abdullah abdurahman": [
+        "1906"
+    ],
+    "montford chamney": [
+        "1906",
+        "1907",
+        "1908",
+        "1913",
+        "1914"
+    ],
+    "chhaganlal gandhi": [
+        "1906",
+        "1911"
+    ],
+    "chanchal": [
+        "1906",
+        "1908",
+        "1911",
+        "1913"
+    ],
+    "dokes": [
+        "1906",
+        "1908",
+        "1910",
+        "1911"
+    ],
+    "akbar": [
+        "1906",
+        "1910"
+    ],
+    "lawson": [
+        "1906"
+    ],
+    "gregorowski": [
+        "1906"
+    ],
+    "elgin": [
+        "1906",
+        "1907"
+    ],
+    "kabir": [
+        "1906",
+        "1911"
+    ],
+    "alfred milner": [
+        "1906",
+        "1908"
+    ],
+    "pixley seme": [
+        "1906",
+        "1911"
+    ],
+    "gandhi abdurahman": [
+        "1906"
+    ],
+    "mrs gandhi": [
+        "1906",
+        "1908",
+        "1913",
+        "1914"
+    ],
+    "selborne": [
+        "1906",
+        "1907",
+        "1908"
+    ],
+    "ishwarchandra vidyasagar": [
+        "1906"
+    ],
+    "xiabao": [
+        "1906"
+    ],
+    "pillay": [
+        "1906",
+        "1907"
+    ],
+    "tolstoyans": [
+        "1906"
+    ],
+    "namboodiripad": [
+        "1906"
+    ],
+    "winston churchill": [
+        "1906"
+    ],
+    "thambi": [
+        "1906",
+        "1907",
+        "1908",
+        "1909",
+        "1910",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "lady margaret hospital": [
+        "1906"
+    ],
+    "hajee habib": [
+        "1906",
+        "1908",
+        "1909",
+        "1910",
+        "1914"
+    ],
+    "satyavan": [
+        "1906"
+    ],
+    "george birdwood": [
+        "1906"
+    ],
+    "tata": [
+        "1906",
+        "1910",
+        "1911"
+    ],
+    "louis botha": [
+        "1907",
+        "1908",
+        "1910",
+        "1911",
+        "1913"
+    ],
+    "ram sundar pandit": [
+        "1907",
+        "1911"
+    ],
+    "joseph j. doke": [
+        "1907"
+    ],
+    "john l. dube": [
+        "1907"
+    ],
+    "william hosken": [
+        "1907",
+        "1908",
+        "1910",
+        "1911",
+        "1913"
+    ],
+    "maulvi mukhtiar": [
+        "1907"
+    ],
+    "ram sundar pundit": [
+        "1907"
+    ],
+    "martin luther": [
+        "1907"
+    ],
+    "imam abdul kadir": [
+        "1907"
+    ],
+    "jesus christ": [
+        "1907",
+        "1908"
+    ],
+    "narmadashanker": [
+        "1907",
+        "1911"
+    ],
+    "vogl": [
+        "1907",
+        "1910"
+    ],
+    "nanji": [
+        "1907",
+        "1908"
+    ],
+    "chessell": [
+        "1907"
+    ],
+    "moulvi saheb ahmed mukhtiar": [
+        "1907"
+    ],
+    "charles phillips": [
+        "1907",
+        "1908",
+        "1910"
+    ],
+    "john cordes": [
+        "1907",
+        "1908",
+        "1913"
+    ],
+    "easton": [
+        "1907"
+    ],
+    "j. c. smuts": [
+        "1907"
+    ],
+    "maganlal gandhi": [
+        "1907",
+        "1910",
+        "1913",
+        "1914"
+    ],
+    "hassim jooma": [
+        "1907"
+    ],
+    "david pollock": [
+        "1907",
+        "1908",
+        "1910"
+    ],
+    "george washington": [
+        "1907"
+    ],
+    "khamisa": [
+        "1907"
+    ],
+    "jan smuts": [
+        "1907"
+    ],
+    "punditji": [
+        "1907"
+    ],
+    "essop mia": [
+        "1907",
+        "1908",
+        "1914"
+    ],
+    "lala bahadur singh": [
+        "1907"
+    ],
+    "khushalchand": [
+        "1907"
+    ],
+    "het volk": [
+        "1907",
+        "1913"
+    ],
+    "vartaman": [
+        "1908"
+    ],
+    "eleanor marx": [
+        "1908"
+    ],
+    "herbert spencer": [
+        "1908"
+    ],
+    "purushottamdas desai": [
+        "1908"
+    ],
+    "dawad mahomed": [
+        "1908"
+    ],
+    "olive schreiner": [
+        "1908",
+        "1914"
+    ],
+    "maulvi ahmed mukhtiar": [
+        "1908"
+    ],
+    "adam mahomed": [
+        "1908"
+    ],
+    "cape colony": [
+        "1908"
+    ],
+    "veerammal": [
+        "1908"
+    ],
+    "laxman": [
+        "1908"
+    ],
+    "abraham fischer": [
+        "1908",
+        "1913"
+    ],
+    "nawab khan": [
+        "1908"
+    ],
+    "ahmed mahommed cachalia": [
+        "1908"
+    ],
+    "table mountain": [
+        "1908"
+    ],
+    "mrs nanji": [
+        "1908"
+    ],
+    "chanchi": [
+        "1908",
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "aiyar": [
+        "1908",
+        "1910",
+        "1911",
+        "1913"
+    ],
+    "volksrust prison": [
+        "1908",
+        "1913"
+    ],
+    "george bernard shaw": [
+        "1908"
+    ],
+    "parcere": [
+        "1908"
+    ],
+    "sorabji": [
+        "1908",
+        "1910",
+        "1911"
+    ],
+    "savarkar": [
+        "1908",
+        "1909",
+        "1910"
+    ],
+    "meyer": [
+        "1908",
+        "1909"
+    ],
+    "lajpat rai": [
+        "1908",
+        "1909",
+        "1911"
+    ],
+    "ahmed mahomed cachalia": [
+        "1908"
+    ],
+    "nadeshir cama": [
+        "1908"
+    ],
+    "arnott": [
+        "1908"
+    ],
+    "ampthill": [
+        "1908",
+        "1909",
+        "1913"
+    ],
+    "albert cartwright": [
+        "1908"
+    ],
+    "adajania": [
+        "1908",
+        "1910",
+        "1911"
+    ],
+    "gabriel i. isaac": [
+        "1908"
+    ],
+    "aligarh": [
+        "1908"
+    ],
+    "ananda": [
+        "1908"
+    ],
+    "raja bhoja": [
+        "1908"
+    ],
+    "percy fitzpatrick": [
+        "1908"
+    ],
+    "african chronicle": [
+        "1908",
+        "1911"
+    ],
+    "booker t. washington": [
+        "1908"
+    ],
+    "maulvi sahib": [
+        "1908"
+    ],
+    "swami shankeranand": [
+        "1908",
+        "1911"
+    ],
+    "jayshanker govindji": [
+        "1908"
+    ],
+    "merriman": [
+        "1908",
+        "1909",
+        "1911",
+        "1914"
+    ],
+    "thomas carlyle": [
+        "1908"
+    ],
+    "saddarshan samuccaya": [
+        "1908"
+    ],
+    "hatem": [
+        "1908"
+    ],
+    "gabriel isaacs": [
+        "1908"
+    ],
+    "chanchal gandhi": [
+        "1908"
+    ],
+    "meer allam khan": [
+        "1908"
+    ],
+    "harilal gandhi": [
+        "1908"
+    ],
+    "madanlal dhingra": [
+        "1909"
+    ],
+    "shapurji sorabjee": [
+        "1909"
+    ],
+    "lords morley": [
+        "1909"
+    ],
+    "gujarati muslim": [
+        "1909"
+    ],
+    "petit": [
+        "1909",
+        "1910"
+    ],
+    "aylmer maude": [
+        "1909"
+    ],
+    "maud polak": [
+        "1909",
+        "1911",
+        "1913"
+    ],
+    "curzon wyllie": [
+        "1909",
+        "1910"
+    ],
+    "gertrude": [
+        "1909"
+    ],
+    "mohammed ali jinnah": [
+        "1909"
+    ],
+    "aswat": [
+        "1909"
+    ],
+    "dawood mahomed": [
+        "1909"
+    ],
+    "chhota bhai": [
+        "1909"
+    ],
+    "imam abdul kadir bawazeer": [
+        "1909"
+    ],
+    "bharatavarsha": [
+        "1909"
+    ],
+    "rabindranath tagore": [
+        "1909",
+        "1913",
+        "1914"
+    ],
+    "lord crewe": [
+        "1909"
+    ],
+    "sri aurobindo": [
+        "1909"
+    ],
+    "natesan": [
+        "1909",
+        "1910"
+    ],
+    "vyas": [
+        "1909"
+    ],
+    "aurobindo ghose": [
+        "1909"
+    ],
+    "george allen": [
+        "1909"
+    ],
+    "nagappen": [
+        "1909",
+        "1914"
+    ],
+    "rustomjee jeevanjee": [
+        "1909"
+    ],
+    "vijaya dashami": [
+        "1909"
+    ],
+    "rustamjee": [
+        "1909"
+    ],
+    "bhagawan": [
+        "1909"
+    ],
+    "barindranath": [
+        "1909"
+    ],
+    "taraknath das": [
+        "1909"
+    ],
+    "ernest howard crosby": [
+        "1909"
+    ],
+    "ravan": [
+        "1909"
+    ],
+    "vinayak damodar savarkar": [
+        "1909"
+    ],
+    "miss mayo": [
+        "1910"
+    ],
+    "wybergh": [
+        "1910"
+    ],
+    "kasturba gandhi": [
+        "1910",
+        "1913",
+        "1914"
+    ],
+    "mrs sodha": [
+        "1910"
+    ],
+    "madan lal dhingra": [
+        "1910"
+    ],
+    "dinizulu": [
+        "1910",
+        "1913"
+    ],
+    "ramdas gandhi": [
+        "1910"
+    ],
+    "jamshedji tata": [
+        "1910"
+    ],
+    "gulam mahomed": [
+        "1910"
+    ],
+    "john bunyan": [
+        "1910"
+    ],
+    "narajana apanna": [
+        "1910"
+    ],
+    "mazharul": [
+        "1910"
+    ],
+    "madras polak": [
+        "1910"
+    ],
+    "narayanaswamy": [
+        "1910"
+    ],
+    "edward dallow": [
+        "1910"
+    ],
+    "ratan tata": [
+        "1910",
+        "1911"
+    ],
+    "ramabhai sodha": [
+        "1910"
+    ],
+    "isabella fyvie mayo": [
+        "1910",
+        "1913"
+    ],
+    "mohanchand": [
+        "1910"
+    ],
+    "nizam": [
+        "1910"
+    ],
+    "mrs vogt": [
+        "1910"
+    ],
+    "mrs amacanoo": [
+        "1910"
+    ],
+    "mrs packirsamy": [
+        "1910"
+    ],
+    "hindu maharajas": [
+        "1910"
+    ],
+    "mudholkar": [
+        "1910"
+    ],
+    "asari": [
+        "1910"
+    ],
+    "ramsamy moodlai": [
+        "1910"
+    ],
+    "haque": [
+        "1910"
+    ],
+    "william vogl": [
+        "1910"
+    ],
+    "mahavira": [
+        "1911"
+    ],
+    "kaka": [
+        "1911"
+    ],
+    "klerksdorf": [
+        "1911"
+    ],
+    "rana pratap": [
+        "1911"
+    ],
+    "friedrich engels": [
+        "1911"
+    ],
+    "jamshetjee": [
+        "1911"
+    ],
+    "jayakunwar": [
+        "1911"
+    ],
+    "gautama buddha": [
+        "1911"
+    ],
+    "bloemhof": [
+        "1911"
+    ],
+    "fingo": [
+        "1911"
+    ],
+    "manilal doctor": [
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "sorabji adajania": [
+        "1911"
+    ],
+    "jeki": [
+        "1911",
+        "1913",
+        "1914"
+    ],
+    "marriam": [
+        "1913"
+    ],
+    "patel": [
+        "1913"
+    ],
+    "jeki mehta": [
+        "1913",
+        "1914"
+    ],
+    "poldat": [
+        "1913"
+    ],
+    "george ferdinand": [
+        "1913"
+    ],
+    "hardoi": [
+        "1913"
+    ],
+    "sanghsabha shanghai": [
+        "1913"
+    ],
+    "william solomon": [
+        "1913"
+    ],
+    "holy russia": [
+        "1913"
+    ],
+    "jiddu krishnamurti": [
+        "1913"
+    ],
+    "santok": [
+        "1913"
+    ],
+    "betty molteno": [
+        "1913",
+        "1914"
+    ],
+    "morris alexander": [
+        "1913",
+        "1914"
+    ],
+    "mrs thambi naidoo": [
+        "1913"
+    ],
+    "gudiwada": [
+        "1913"
+    ],
+    "ramchandra": [
+        "1913"
+    ],
+    "edward esselen": [
+        "1913"
+    ],
+    "mckenna": [
+        "1913"
+    ],
+    "jooste": [
+        "1913"
+    ],
+    "nellore": [
+        "1913"
+    ],
+    "bezwada": [
+        "1913"
+    ],
+    "bal mariam": [
+        "1913"
+    ],
+    "mount edgecombe": [
+        "1913"
+    ],
+    "bapatla": [
+        "1913"
+    ],
+    "j. t. henderson": [
+        "1913"
+    ],
+    "madan mohan malaviya": [
+        "1913"
+    ],
+    "jekiben": [
+        "1913"
+    ],
+    "emily hobhouse": [
+        "1913",
+        "1914"
+    ],
+    "rajagopalachari": [
+        "1913"
+    ],
+    "searle": [
+        "1913"
+    ],
+    "elizabeth molteno": [
+        "1913"
+    ],
+    "reginald": [
+        "1913"
+    ],
+    "hariharan": [
+        "1913"
+    ],
+    "devi west": [
+        "1913"
+    ],
+    "william wedderburn": [
+        "1913"
+    ],
+    "gool": [
+        "1914"
+    ],
+    "mount everest": [
+        "1914"
+    ],
+    "mulder": [
+        "1914"
+    ],
+    "abdurawoof thangay": [
+        "1914"
+    ],
+    "masonic lodge": [
+        "1914"
+    ],
+    "cape province": [
+        "1914"
+    ],
+    "smith street": [
+        "1914"
+    ],
+    "wyndham": [
+        "1914"
+    ],
+    "pearson": [
+        "1914"
+    ],
+    "valiamma": [
+        "1914"
+    ],
+    "miss molteno": [
+        "1914"
+    ],
+    "narayansamy": [
+        "1914"
+    ],
+    "shaikh mehtab": [
+        "1914"
+    ],
+    "medh": [
+        "1914"
+    ],
+    "doornfontein": [
+        "1914"
+    ]
+}

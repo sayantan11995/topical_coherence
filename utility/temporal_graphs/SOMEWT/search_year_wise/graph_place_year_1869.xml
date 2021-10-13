@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Junagadh"/>
+<node id="England"/>
+<node id="Rajkot"/>
+<node id="Porbandar"/>
+<node id="South Africa"/>
+<edge source="Junagadh" target="England"/>
+<edge source="Junagadh" target="Rajkot"/>
+<edge source="Junagadh" target="Porbandar"/>
+<edge source="Junagadh" target="South Africa"/>
+<edge source="England" target="Rajkot"/>
+<edge source="England" target="Porbandar"/>
+<edge source="England" target="South Africa"/>
+<edge source="Rajkot" target="Porbandar"/>
+<edge source="Rajkot" target="South Africa"/>
+<edge source="Porbandar" target="South Africa"/>
+</graph></graphml>

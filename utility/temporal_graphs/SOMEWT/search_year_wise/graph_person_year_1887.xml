@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Tulasidas"/>
+<node id="Mavji Dave"/>
+<node id="Becharji Swami"/>
+<node id="Ladha Maharaj"/>
+<node id="Frederic"/>
+<node id="Dalpatram"/>
+<node id="Allinson"/>
+<node id="Rambha"/>
+<node id="Tryambakrai Mazmudar"/>
+<node id="Dadabhai Naoroji"/>
+<node id="Mohandas"/>
+<node id="Gandhi"/>
+<edge source="Tulasidas" target="Mavji Dave"/>
+<edge source="Tulasidas" target="Becharji Swami"/>
+<edge source="Tulasidas" target="Ladha Maharaj"/>
+<edge source="Tulasidas" target="Frederic"/>
+<edge source="Tulasidas" target="Dalpatram"/>
+<edge source="Tulasidas" target="Allinson"/>
+<edge source="Tulasidas" target="Rambha"/>
+<edge source="Tulasidas" target="Tryambakrai Mazmudar"/>
+<edge source="Tulasidas" target="Dadabhai Naoroji"/>
+<edge source="Tulasidas" target="Mohandas"/>
+<edge source="Tulasidas" target="Gandhi"/>
+<edge source="Mavji Dave" target="Becharji Swami"/>
+<edge source="Mavji Dave" target="Ladha Maharaj"/>
+<edge source="Mavji Dave" target="Frederic"/>
+<edge source="Mavji Dave" target="Dalpatram"/>
+<edge source="Mavji Dave" target="Allinson"/>
+<edge source="Mavji Dave" target="Rambha"/>
+<edge source="Mavji Dave" target="Tryambakrai Mazmudar"/>
+<edge source="Mavji Dave" target="Dadabhai Naoroji"/>
+<edge source="Mavji Dave" target="Mohandas"/>
+<edge source="Mavji Dave" target="Gandhi"/>
+<edge source="Becharji Swami" target="Dalpatram"/>
+<edge source="Becharji Swami" target="Ladha Maharaj"/>
+<edge source="Becharji Swami" target="Frederic"/>
+<edge source="Becharji Swami" target="Mohandas"/>
+<edge source="Becharji Swami" target="Allinson"/>
+<edge source="Becharji Swami" target="Rambha"/>
+<edge source="Becharji Swami" target="Tryambakrai Mazmudar"/>
+<edge source="Becharji Swami" target="Dadabhai Naoroji"/>
+<edge source="Becharji Swami" target="Gandhi"/>
+<edge source="Ladha Maharaj" target="Frederic"/>
+<edge source="Ladha Maharaj" target="Dalpatram"/>
+<edge source="Ladha Maharaj" target="Allinson"/>
+<edge source="Ladha Maharaj" target="Rambha"/>
+<edge source="Ladha Maharaj" target="Tryambakrai Mazmudar"/>
+<edge source="Ladha Maharaj" target="Dadabhai Naoroji"/>
+<edge source="Ladha Maharaj" target="Mohandas"/>
+<edge source="Ladha Maharaj" target="Gandhi"/>
+<edge source="Frederic" target="Dalpatram"/>
+<edge source="Frederic" target="Allinson"/>
+<edge source="Frederic" target="Rambha"/>
+<edge source="Frederic" target="Tryambakrai Mazmudar"/>
+<edge source="Frederic" target="Dadabhai Naoroji"/>
+<edge source="Frederic" target="Mohandas"/>
+<edge source="Frederic" target="Gandhi"/>
+<edge source="Dalpatram" target="Mohandas"/>
+<edge source="Dalpatram" target="Allinson"/>
+<edge source="Dalpatram" target="Rambha"/>
+<edge source="Dalpatram" target="Tryambakrai Mazmudar"/>
+<edge source="Dalpatram" target="Dadabhai Naoroji"/>
+<edge source="Dalpatram" target="Gandhi"/>
+<edge source="Allinson" target="Dadabhai Naoroji"/>
+<edge source="Allinson" target="Rambha"/>
+<edge source="Allinson" target="Tryambakrai Mazmudar"/>
+<edge source="Allinson" target="Mohandas"/>
+<edge source="Allinson" target="Gandhi"/>
+<edge source="Rambha" target="Gandhi"/>
+<edge source="Rambha" target="Tryambakrai Mazmudar"/>
+<edge source="Rambha" target="Dadabhai Naoroji"/>
+<edge source="Rambha" target="Mohandas"/>
+<edge source="Tryambakrai Mazmudar" target="Dadabhai Naoroji"/>
+<edge source="Tryambakrai Mazmudar" target="Mohandas"/>
+<edge source="Tryambakrai Mazmudar" target="Gandhi"/>
+<edge source="Dadabhai Naoroji" target="Mohandas"/>
+<edge source="Dadabhai Naoroji" target="Gandhi"/>
+<edge source="Mohandas" target="Gandhi"/>
+</graph></graphml>

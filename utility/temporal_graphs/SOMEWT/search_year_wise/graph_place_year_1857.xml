@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="London"/>
+<node id="India"/>
+<node id="England"/>
+<node id="South Africa"/>
+<edge source="London" target="England"/>
+<edge source="London" target="India"/>
+<edge source="London" target="South Africa"/>
+<edge source="India" target="England"/>
+<edge source="India" target="South Africa"/>
+<edge source="England" target="South Africa"/>
+</graph></graphml>
