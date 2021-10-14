@@ -13,12 +13,12 @@ config.json is used to: </br>
 1. entity recognition nltk - identify entities using nltk
 2. entity recognition polyglot - identify entities using polyglot
 3. entity recognition spacy - identify entities using spacy
-4. pickle combiner -> combine all entities according to majority algorithm [has manual filtering part]
-	4.1 run pickle combiner to generate initial_person_list and initial_place_list
-	4.2 copy/rename initial_person_list to final_person_list
-	4.3 run final_list_filterer (for resoving name disambiguation)
-	4.4 manually filter remaining entities inside final_person_list (remove non-relevant names)
-	4.5 run pickle combiner again(uncommenting final_person_list section)
+4. pickle combiner -> combine all entities according to majority algorithm [has manual filtering part] </br>
+	4.1 run pickle combiner to generate initial_person_list and initial_place_list </br>
+	4.2 copy/rename initial_person_list to final_person_list </br>
+	4.3 run final_list_filterer (for resoving name disambiguation) </br>
+	4.4 manually filter remaining entities inside final_person_list (remove non-relevant names) </br>
+	4.5 run pickle combiner again(uncommenting final_person_list section) </br>
 5. chapter time mapper -> maps chapters and entities to years
 6. temporal graph creator(before running this create name_to_fullname.json) -> creates temporal graphs
 7. temporal graph community detections
