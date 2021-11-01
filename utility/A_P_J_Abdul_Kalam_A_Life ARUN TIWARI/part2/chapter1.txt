@@ -1,0 +1,305 @@
+CREATION
+
+Life is a series of natural and spontaneous changes. Don’t resist them – that only creates
+sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.
+– Lao-tzu
+Philosopher and poet of ancient China
+
+2.1
+
+Indra’s Net
+
+We live in a cosmos of infinite realms upon realms, mutually containing one another.
+Different people have different journeys for different reasons. You can’t judge, but you can
+celebrate that there are connections everywhere.
+– The Avatamsaka Sutra
+Chinese Buddhism
+
+alam was handpicked by Dr Sarabhai as the project director for the Satellite
+Launch Vehicle (SLV). This would be the first indigenous rocket
+development endeavour to put a satellite in a low-earth orbit, which means at an
+altitude of between 100 miles (160 kilometres) and 1,200 miles (2,000
+kilometres), with an orbital period of between approximately eighty-eight
+minutes and 127 minutes. Objects below 100 miles of altitude will experience
+very rapid orbital decay and altitude loss under the gravitational pull of earth. A
+target of putting a 40 kg satellite load into a 400 km orbit was set.
+SLV was conceived as a four-stage rocket with all solid-propellant motors
+along the lines of the American Scout launch vehicle first used in the 1960s. The
+Scout (an acronym for Solid Controlled Orbital Utility Test system) was
+designed in 1957 at the NACA Langley Center. It was the first – and for a long
+time, the only – orbital launch vehicle to be entirely composed of solid fuel
+stages. The standard Scout launch vehicle was approximately 75 ft (23 m) in
+length, with a launch weight of 47,398 pounds (21,500 kg).
+The Scout design persisted, as it was the most proven and reliable of the
+satellite launchers of the times. Indian scientists had no prior experience of
+designing a launch vehicle, and a four-stage, all solid-propulsion design was
+easier than the complex liquid equivalent and seemed to be the most likely route
+for success. By 1971, the design phase of the launcher was completed, and of the
+
+K
+
+six designs Dr Sarabhai chose the third – hence the name SLV-3. It was a vehicle
+measuring 22 m in length and weighing 17,000 kg, and it could place a 30 kg
+satellite into near-earth orbit. Though SLV-3 resembled Scout in its morphology,
+the sub-assembly and fuel assemble were designed afresh by Indian scientists
+and engineers.
+Besides Kalam, the core SLV-3 project team consisted of Dr S. Srinivasan,
+Ved Prakash Sandlas, D. Narayana Moorthi, G. Madhavan Nair, M.S.R. Dev,
+M.K. Abdul Majeed, D. Sasikumar, P.S. Veeraraghavan and A. Sivathanu Pillai.
+Dr V.R. Gowariker, M.R. Kurup and A.E. Muthunayagam were tasked with
+developing the first, second and third stages. Kalam was given the additional
+responsibility of developing the fourth stage, which would be a composite motor.
+The world of technology is deeply interconnected and marked by fierce
+competition. In 1960, President Charles de Gaulle proclaimed the French
+aspiration to reach space. The Centre National d’Etudes Spatiales (CNES), was
+formed on 1 March 1962, with the task of planning and executing the French
+space programme. Diamant (French for Diamond) was the first French space
+launcher. Diamant was the first satellite launcher and the only one at that point
+of time not built by either the USA or USSR.
+In early 1969, Kalam received a call from Dr Sarabhai stating that he would
+be visiting Trivandrum along with Prof Curien, president of the French space
+organization, CNES. Kalam was asked to give a presentation about the fourth
+stage to the CNES team. After the presentation was made, Kalam was told that
+SLV-3 fourth stage was also being considered as the upper stage for the French
+four-stage launch vehicle Diamant BC. A decision was taken in the same
+meeting that the SLV-3 fourth stage should be reconfigured to match and suit
+both French and Indian satellite launch vehicles. Kalam recalled his enthusiasm:
+We were just in the design stage, and here was a visionary whose dream was that Indian scientists
+could build an upper-stage rocket system compatible with both Indian and French satellite launch
+vehicle systems … this resulted in an interesting partnership when the European Space Agency’s
+Ariane launched the Indian APPLE satellite, that would use the SLV-3 fourth stage as an apogee
+boost motor later in the future.1
+
+This experience gave Kalam two important messages. First, whatever your
+position in the organizational hierarchy, a leader with an open mind locates the
+
+right person and encourages him to succeed. The second was that a great leader
+imbues his team members with confidence and makes them feel that ‘we can do
+it’.
+As a matter of fact, the Diamant and SLV airframes were incompatible.
+Kalam had to modify the SLV-3 fourth-stage design to suit the Diamant airframe.
+The 400 mm diameter was changed to 650 mm and the propellant mass went up
+from 250 kg to 600 kg. It took the team two years to develop the new design that
+would be the Diamant rocket’s third and upper stage. Then France abruptly
+abandoned its national launcher programme in favour of the European Ariane
+launcher in 1975. Kalam was very upset, but Dr Sarabhai enlightened him about
+the complexities of international collaborations in aerospace. There is give and
+take in so many forms and spread over long periods of time, sometimes across
+generations of people. International technology exchange is like Indrajaal. No
+good work done ever goes waste; it gets reflected somewhere else and utilized.
+The satellite launching station at Sriharikota Island on the east coast of the
+Indian peninsula in Andhra Pradesh, chosen in 1969 for launching bigger
+rockets, became operational in 1971. It was named Sriharikota Range (SHAR).
+On 9 October 1971, the Rohini RH-1 satellite, a two-stage rocket using a solid
+propellant, was launched from SHAR. It carried a 7 kg payload to an altitude of
+19 km.
+In 1970, Kalam attended the Bombay National Electronics Conference, where
+Vikram Sarabhai announced plans for an Indian National Satellite (INSAT).The
+INSAT was primarily a direct-broadcast satellite, to be placed into orbit with the
+intention of educating Indian villagers through television. Attending the
+conference was an eminent array of academics, industrialists, politicians,
+bureaucrats, researchers, scientists and engineers, as well as a substantial crew of
+Indian journalists. It was a perfect place to build consensus for a national
+satellite. Sarabhai’s presentation of the INSAT plans thrilled the crowd.
+‘Dissenters’ with prepared questions were planted in the audience by the wellconnected ‘Sarabhai boys’, to help allay any genuine doubts about the project.
+Kalam had started seeing the greater context wherein his work was placed. He
+realized that SLVs and missiles were indeed two fruits of the same tree of
+rocketry. Almost parallel to his work on SLV, the DRDO was gearing itself for
+developing an indigenous surface-to-air missile. Narayanan, who worked with
+
+Kalam on RATO – and was now promoted to the rank of air commodore – was
+given the reins of DRDL, Hyderabad. With his hallmark impatience, he chose
+the quicker route of one-to-one substitution by reverse engineering, rather than
+following ISRO’s policy of new design and indigenous technology development.
+Indigenous replication of the Russian missile SA-2 was taken up at DRDL
+with the code name Devil. SA-2 was a simple two-stage missile design with
+three sets of four cruciform fins. Guidance control and initial roll stabilization
+was provided by electronics in two of the rear fins. Once launched, its main
+booster burned for four to five seconds before the primary sustainer motor
+ignited and burned for another twenty-two seconds. The warhead of the missile
+was filled with 130 kg of high explosives. Its nose section was equipped to hold
+a variety of fuses – proximity, impact and command.
+The SA-2 was indeed a potent air-defence weapon in its time. It was perhaps
+best known for downing a United States U-2 spy plane over Cuba on 27 October
+1962, but it was successfully deployed elsewhere. The North Vietnamese shot
+down a United States F-4C fighter aircraft in 1965, and in the same year a
+United States RB-47 was shot down over the Black Sea – both using SA-2s. As
+the pace of the Devil project picked up, the frequency of the Missile Panel
+meetings increased.
+It was Kalam’s practice to brief Dr Sarabhai over the telephone immediately
+after every Missile Panel meeting. After attending one such meeting on 30
+December 1971, Kalam spoke to Dr Sarabhai by phone from Delhi airport,
+before boarding his flight for Trivandrum. Dr Sarabhai was in Trivandrum and
+was to return to Bombay in the night. He instructed Kalam to meet him at
+Trivandrum in the airport immediately after alighting from the aeroplane.
+When Kalam reached Trivandrum, a pall of gloom hung in the air. The
+aircraft ladder operator Kutty told him with tears running down his cheeks that
+Dr Sarabhai was no more. He had passed away an hour earlier following a
+cardiac arrest. Kalam was flabbergasted. He had just spoken to Dr Sarabhai and
+expected to see him. He stayed back at the airport till Dr Sarabhai’s mortal
+remains were airlifted to Ahmedabad for the last rites. Kalam told me once, ‘Let
+no man in the world live in delusion. Without a guru none can cross over to the
+other shore.’ When I asked him ‘How does one find the guru?’, he replied, ‘Let
+each man take the path according to his capacity, understanding and
+
+temperament. His true guru will meet him along that path. I was doing my work
+to the best of my ability and respecting my situation, and Dr Sarabhai came into
+my life.’
+Prof. M.G.K. Menon was given interim charge of the Indian space
+programme. He convened a large national seminar of scientists, engineers,
+technocrats and administrators to discuss and define the ten-year profile prepared
+by Dr Sarabhai, who was declared the father of the Indian space programme.
+The Thumba Equatorial Rocket Launching Station was renamed in his honour.
+Recognizing the growing demands and importance of space activities, the
+government in June 1972 constituted an independent Space Commission and a
+Department of Space. It invited Prof. Satish Dhawan, the director of Indian
+Institute of Science (IISc), Bangalore since 1962, to head both organizations.
+Prof. Dhawan also took over as chairman of the ISRO, which functions under
+the Department of Space.
+In May 1972, Dr Brahm Prakash joined as the first director of the Vikram
+Sarabhai Space Centre (VSSC). Dr Prakash was the creator of the Nuclear Fuel
+Complex (NFC) in Hyderabad, the former chief of the Department of Metallurgy
+at the Indian Institute of Science (IISc) and one of the scientific secretaries for
+the first United Nations conference on the peaceful uses of atomic energy that
+was held in Geneva in 1955.
+The RATO system was tested on 8 October 1972 at Bareilly Air Force Station
+in Uttar Pradesh, where a high-performance Sukhoi-16 Jet aircraft became
+airborne after a short run of 1,200 metres, as against the usual length of 2
+kilometres. The sixty-sixth RATO motor was used for the test. The test was
+adjudged an unqualified success, and the effort was said to have saved some five
+million dollars. Kalam and Narayanan’s partnership, under the stewardship of
+the visionary Dr Vikram Sarabhai, had now paid its dividends, and the benefits
+of swadeshi aerospace were abundantly clear: ‘Including trial expenses, we spent
+less than Rs twenty-five lakhs on the entire project. The Indian RATO could be
+purchased at Rs. 17,000 per piece, and it replaced the imported RATO, which
+cost 4000 dollars.’2
+After assuming the leadership of the SLV-3 project, Kalam faced conflicting
+demands on his time. He had to attend to committee work and correspondence,
+make material procurement decisions, preside over reviews and briefings; and he
+
+needed to stay abreast of a wide range of developments. But his change in status
+did not alter the way he lived in any respect. Kalam came to Trivandrum in 1968
+and stayed at Indira Bhavan Lodge in a humble corner room on the ground floor.
+In all his time in Trivandrum, he stayed in this same room. The room did not
+have an attached bathroom then, but only a common one on the same floor. With
+a single bed, a table and a chair, the small room was meant only for basic single
+accommodation – it was intended for use by bachelors on a meagre salary, who
+could afford nothing better. His landlady later recalled Kalam’s spartan lifestyle:
+‘Kalam did not have visitors at the lodge. Once he was back from the office, he
+would sit for reading. At the lodge, he communicated with only a watchman
+(security guard) upon whom he depended for getting provisions and food from
+nearby hotels.’3
+Kalam started his day with a stroll of about 2 km around the lodge. He would
+prepare a mental schedule for the day during his walk and decide two or three
+things that he would like to accomplish that day. At least one of these important
+tasks must further a long-term goal. ‘Without a long-term definite chief aim, a
+life is like a rudderless ship – it goes nowhere,’ he would remind me.
+Once in the office, Kalam would first clean his desk. Within ten minutes he
+would segregate the papers there into three categories: matters that required
+immediate action, matters of low priority which could be kept pending and
+general reading material. He would then put the high-priority papers in front of
+him on the desk, walk to his secretary’s desk and place the rest of the papers
+there, out of his sight.
+On New Year’s Day 1975, Kalam accompanied Dr Brahm Prakash to DRDL
+for a review of the Devil missile project. The review noted excellent progress,
+but Kalam observed that a one-on-one philosophy had taken precedence over the
+generation of design data. Consequently, the design engineers had not been able
+to pay adequate attention to the necessary analysis, which was the practice at
+ISRO. Kalam learned that a successful reverse engineering process in itself was
+not merely concerned with creating a copy or changing a prototype in some way.
+It was more an analysis in order to deduce design features from the prototype,
+with little or no knowledge about the procedures involved in its original
+production.
+Narayanan told Kalam that reverse engineering was an accepted and well-
+
+developed practice in the development of military systems. The Western Allies
+at the end of the war captured technical documents for the V-2 Rockets and
+related technologies from the German military. The Americans then focused
+their reverse engineering efforts via Operation Paperclip, which led to the
+development of the PGM-11 Redstone rocket. The Soviets captured German
+engineers to reproduce technical documents and plans, and worked from
+captured hardware, in order to make their clone of the V-2: the SA-11/R-1
+rocket.
+In contrast to the galloping progress at DRDL, the SLV-3 was taking shape
+slowly. Instead of following a straightforward process of replicating a prototype,
+the SLV-3 was trekking along many developmental paths. The project had been
+formulated in such a way that the major technological work centres could handle
+propellant production, rocket motor testing and launch of any large diameter
+rocket. Prof. Dhawan introduced a sponsorship programme for research in space
+science and technology (RESPOND) in universities and national laboratories, to
+assist in the project’s development.
+At any rate, the assiduous technological development of the SLV-3 would
+eventually bear its fruit. For a year, from 1 August 1975 to 31 July 1976,
+hundreds and sometimes thousands of villagers gathered daily in front of each of
+5,000 television sets – installed outside like a processional deity of a temple – to
+watch educational television. Indian engineers had placed the television sets in
+remote and especially backward villages spread in six clusters across the
+subcontinent. It was an experiment in social engineering and rural upliftment as
+much as it was in technology. The television programmes had been carefully
+formulated to educate the villagers on how to lead better lives and grow more
+food. Most villages were beyond the electricity grid and required solar electrical
+installations to power the sets.
+The triumph of SITE ensured the organization’s ongoing support and prestige,
+both within India and internationally. For Kalam, the success of the project was
+an especially personal accomplishment. Rameswaram Panchayat School, where
+he had been first inspired by a class on flight nearly four decades earlier, now
+had a satellite television. Kalam’s father was beaming with pride. He died in
+1976 at the ripe old age of 102 years, immensely proud of his son’s
+achievements.
+
+It was during the tumultuous period of the mid-1970s, with the Emergency of
+Prime Minister Indira Gandhi and the resulting suspension of democratic rights,
+that Kalam began to deeply ponder the country’s social and political landscape.
+He could see a widening gulf between the interests of the political class and the
+aspirations of India’s poor millions. A nascent idea, ‘Strength respects strength’,
+would crystallize over time in Kalam’s vision for the country’s future. He could
+see the potential for the country and its people to become empowered, just as he
+had been – by education, hard work and the nurturing of technology.
+In his immediate duties, he could see that his hard work and pioneering
+efforts in indigenous aerospace – fostered by his late boss and mentor Dr Vikram
+Sarabhai – had now raised the country’s international status in the field. ISRO’s
+enhanced status facilitated an increase in recruitment for the first time after
+Sarabhai’s death. Thousands of young professionals from elite engineering
+institutions now clamoured to join its ranks. SITE opened critical paths in the
+rapidly emerging European space programmes. ISRO was accepted as an equal
+partner in several critical cooperative programmes managed by the European,
+French and German space programmes. India may not have joined the ‘space
+race’, but it was a force to be reckoned with in aerospace.
+Moreover, there were evermore practical applications for the aerospace
+industry, and pressing concerns for the nation’s people that the new technologies
+of ISRO needed to address. One of the worst cyclonic storms to hit the Indian
+shores struck Andhra Pradesh on 19 November 1977. The most affected areas
+were in the delta region of the River Krishna, where a storm surge of up to 6 m
+in height from the Bay of Bengal wreaked havoc on its coastal populations.
+Landslides severed the railway lines on the Waltair-Kirandal route. Fields of
+paddy and cash crops were submerged by the waves. Thirteen sailing vessels
+went missing in the storm, and at least 50,000 people were killed. Hundreds of
+bodies were later found floating in the waters, and those bloated beyond
+recognition were consigned to mass funeral pyres.
+The horrific scale of the casualties highlighted a need for early warning
+systems for tropical cyclones. Beginning with the launching of TIROS-I in April
+1960, satellites were used to detect tropical cyclones. Techniques were
+developed to determine in real time a tropical cyclone’s strength from
+characteristics seen on satellite imagery. Wind speed could be ascertained from
+
+the data, and differences in temperature between the surrounding storm clouds
+and the eye of the cyclone could determine the strength of the weather pattern:
+the larger the temperature difference, the stronger the tropical cyclone. ISRO’s
+satellites could now be deployed to help save lives, giving early warning to
+millions living in low-lying coastal areas in the cyclone-prone regions of the
+subcontinent.
+The SLV-3 Apogee rocket, developed as a common upper stage with
+Diamant, was scheduled to be flight-tested in France. Some problems surfaced
+during the system integration, and Kalam was needed in France to attend to
+them. Two days before Kalam’s scheduled departure to France, his mother
+passed away. He took the first available bus to Nagercoil, and boarded the night
+train to Rameswaram. He performed her last rites and returned to the railway
+station from the burial ground. Years later, he remembered that there was little
+time for grief: ‘The next morning I was back at Thumba, physically exhausted,
+emotionally shattered, but determined to fulfil our ambition of flying an Indian
+rocket motor on foreign soil.’4
+With his parents gone, Kalam threw his entire being into the SLV project. He
+withdrew from every other activity. He stopped playing badminton in the
+evenings and stayed back at work, even on weekends and holidays. A stoic calm
+enveloped him. Kalam immersed himself in his duties and quiet contemplation,
+exercising much self-control, as some men are apt to do, in overcoming his grief.

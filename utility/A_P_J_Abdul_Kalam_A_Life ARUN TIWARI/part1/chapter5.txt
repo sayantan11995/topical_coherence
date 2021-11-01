@@ -1,0 +1,277 @@
+Bootstrapping
+
+Science is about knowing; engineering is about doing.
+– Henry Petroski, American engineer
+
+ith the dawn of Independence, the need for establishing a sound
+technological basis for industrial advancement of the country was
+recognized. A new generation of highly skilled, trained professionals would be
+needed to propel the new nation forward. Madras Institute of Technology, the
+first self-financing engineering institute in the country, was established in 1949
+to this end. At a time when other engineering institutions were offering
+conventional courses in civil, mechanical and electrical engineering at the
+undergraduate level, Mr Chinnaswamy Rajam launched the experiment of
+introducing, for the first time in the country, new areas of specialization in
+engineering. The courses he introduced were aeronautical engineering,
+automobile engineering, electronics engineering and instrument technology.
+During its early years, the institute offered a diploma in engineering to science
+graduates, a policy that made possible Kalam’s shift from physics to
+engineering.
+The theme of bootstrapping, or lifting oneself up the social and economic
+ladder through individual effort, hard work and personal responsibility always
+fascinated Kalam. He found the idea of lifting oneself, pulling oneself up by the
+bootstraps so inspiring. Could the near impossible be achieved through hard
+work, tenacity and personal initiative, without the backing of inheritance or
+someone powerful lending a supporting hand? Kalam joined MIT with a
+determination to realize his childhood dream of flying.
+The decision emerged from his self-realization at the dargah of Nathar Vali in
+
+W
+
+Tiruchirappalli. Kalam had by now understood that no one cared very much
+about the direction his life would take, the principles he stood for, and his skills
+and qualifications – apart from himself. Therefore, any fraction of his life lived
+in the hope of someone else’s approval was in fact wasted. People would never
+notice, and he would be unfulfilled, waiting for something that would not
+happen. The only one whose opinion ultimately mattered was the person whose
+face he had to see in the mirror at the end of the day. If he was not satisfied with
+who he was and what he was doing, then he had failed.
+His last year at St Joseph’s made Kalam realize that the science of the
+working of the physical world was not his calling in life. He was far more
+attracted to making things and doing things. Undoubtedly, he was a knowledge
+seeker; but more important to him was applying knowledge to creative solutions
+that would serve some purpose. And he was inexorably drawn to flight. When
+Kalam arrived at MIT, he was enthralled by two decommissioned aircraft
+displayed there. The mere sight of these flying machines was an inspiration,
+much as the seagulls hovering over the water at Rameswaram had been in his
+primary school years. ‘Kalam would later recall: I felt a strange attraction
+towards them, and would sit near them long after other students had gone back
+to the hostel, admiring man’s will to fly free in the sky, like a bird.’1
+Kalam found himself at ease with the study of engineering subjects. He
+discovered his natural talent for technical drawing. He found he could easily
+look at things on different planes and from different perspectives: the plans,
+elevations and sections came to him without much struggle. Studying subjects
+like aviation, control techniques and defence systems that are used in airplanes
+and spacecraft held a great fascination for him. His self-esteem grew with the
+acquiring of skills to design, construct, develop, test and maintain the parts of
+any type of aircraft, both theoretically and practically.
+His class in MIT was small – there were only eight students – and this
+allowed Kalam to interact closely not only with his classmates, but also with
+members of the faculty. Kalam felt a strong affinity with Prof. Sponder, his
+teacher for technical aerodynamics. Prof. Sponder was an Austrian who had
+been captured by the Nazis during World War II and imprisoned in a
+concentration camp. Incidentally, there were two Germans on the academic staff:
+Prof. Walter Repenthin, who headed the aeronautical engineering department,
+
+and Prof. Kurt Tank, who designed the Fockle-Wilf FW 190 single-seat fighter
+plane, an outstanding combat aircraft of World War II. The tension between
+these men and Prof. Sponder was palpable.
+Aviation had been firmly established during World War II as a critical facet of
+modern warfare. From the Battle of Britain, waged by the German Luftwaffe
+against the RAF during the summer and autumn of 1940, to the great aircraft
+carrier battles between American and Japanese Pacific fleets, dominance in the
+air shaped the course of the war. And the final blows of the war, the nuclear
+obliteration of Hiroshima and Nagasaki in August 1945, were delivered from the
+skies. The major combatants engaged in an aviation war of economic attrition
+and technology: massive industrial production of aircraft and munitions required
+huge investment, and the imperatives of war drove technology forward with
+unprecedented haste.
+The streamlined cantilever monoplane quickly proved its worth in almost
+every role, although a few older biplanes remained in niche roles for much of the
+war. Engine power and aircraft performance increased exponentially, first with
+forced induction, then with jet and rocket engines making their appearance by
+the end of the war. Avionics systems became almost infinitely more
+sophisticated and widespread, with power-assisted flight controls, blind flying
+instrumentation, radio communications and radar tracking replacing the naked
+eye and binoculars used by World War I flight crews. The rapid pace of aviation
+development in those years was such that a World War I pilot would barely have
+recognized the aircraft of the latter days of World War II, not much more than a
+generation later.
+The students at MIT, and indeed the whole world of aviation, were the
+beneficiaries of this war-inspired revolution in their field. Along with new
+knowledge in medicine – and of course decolonization – it was one of the few
+truly positive outcomes from the war. And Kalam’s new mentors had personally
+taken part in this revolution. Their approach was thus strict, grounded by
+practical experience and open-minded; and their abilities engendered the
+admiration of their students.
+Kalam particularly admired the individuality and high professional standards
+of Prof. Sponder, who was always calm, energetic and in total control of himself.
+Prof. Sponder kept abreast of the latest technological advancements and
+
+expected his students to do likewise. Kalam would spend a good deal of time
+talking to him. The pair would take a regular stroll in the late evenings through
+the sprawling MIT campus, its lawns and trees a cool escape from the balmy
+heat of Madras. He would enjoy their philosophical discussions about the nature
+of civilization as it applied to the various peoples of the world.
+Prof. Sponder told Kalam that he indeed envied the great Indian civilization
+and the enduring identity of Indian people. In contrast, the history of Austria had
+seen its domain expand and contract with the rise and then decay of its once
+great empire. The nadir of its fortunes had seen the country annexed as part of
+‘greater Germany’ by Adolf Hitler’s regime, an event which led to considerable
+personal suffering for the professor. Prof. Sponder said that while Indians never
+invaded any other country, their great civilization ‘digested’ the religion and
+customs of the invaders. The invaders, who came to plunder this bountiful land
+and expand their existing territories, would for the most part be subsumed
+themselves. They would become Indian over a generation or two, and never
+return to the countries of their origin.
+Another teacher whose impression on Kalam would last throughout his life
+was Prof. K.V.A. Pandalai, who taught him aerostructure design and analysis.
+Prof. Pandalai was a cheerful, friendly and enthusiastic teacher. He would bring
+a fresh approach to the course every year. Kalam reached a deeper understanding
+of intellectual integrity through Prof. Pandalai and embraced it as an approach
+for the rest of his life. Kalam had learned early of the need to be true to one’s
+own thinking and to hold one’s self to the same rigorous standards of evidence
+and proof to which one holds one’s antagonists. Kalam trained himself to
+practise what he advocated for others, and would, like all truly great men, freely
+admit discrepancies and inconsistencies in his own thought and action.
+Prof. Pandalai also instilled in Kalam the importance of intellectual humility.
+He taught Kalam how to be conscious of the limits of one’s knowledge. He drew
+attention to the need for sensitivity to circumstances in which one’s native
+egocentricity is likely to function self-deceptively, and encouraged mindfulness
+of bias, prejudice and limitations of one’s viewpoint. Kalam had never been one
+to claim to know more than he actually knew. He realized that humility does not
+denote spinelessness or submissiveness. It denotes a lack of intellectual
+pretentiousness, boastfulness or conceit, combined with a clear insight into the
+
+logical foundations of one’s beliefs. For his part, Prof. Pandalai termed the lack
+of intellectual integrity, intellectual hypocrisy.
+Prof. Narasingha Rao, a mathematician, not only taught Kalam theoretical
+aerodynamics but initiated him to the higher planes of abstract thinking. Kalam
+learned from him that in every field of study, you can learn more from studying
+God’s contribution to that field than the contributions of all the world’s experts.
+Prof. Rao would say that God is ‘doubly infinite’, or just plain ‘infinite’, because
+God has no beginning or end. He always existed and always will. On the other
+hand, we humans are ‘semi-infinite’ because we have a beginning – conception –
+but we have no end. How long we live – that is, how long our bodies live – isn’t
+of great import. Of far greater consequence is that our soul will exist forever.
+Kalam would later remind those close to him that, from an eternal perspective,
+the time between conception and bodily death is fairly unimportant.
+Prof. Rao gave Kalam a very interesting analogy that he would share with all
+his colleagues in later life. Mathematicians often use the Greek letter epsilon (ε)
+to refer to a ‘small quantity’. Whether one ‘lives’ for only a few hours, minutes
+or seconds after conception or for 100 years, that time is always an ε compared
+to eternity/infinity (∞). In other words, once you are conceived – your soul is
+created – you are brought into being. You are going to be forever and ever.
+Conception, fertilization or ensoulment is therefore the most awesome moment
+of our lives because once we begin/exist, we have a soul that will exist forever in
+the presence of God, family, saints and angels.
+Prof. Rao imparted other, more earthly wisdom to Kalam. Kalam used to have
+a savings account in the Imperial Bank of India, the oldest and the largest
+commercial bank of the Indian subcontinent. On 1 July 1955 it became the State
+Bank of India. When Kalam discussed this change with Prof. Rao, the professor
+gave him the great insight that the connections between financial institutions and
+individual people are fundamental for society. Banks are central to activities like
+the construction of houses, the funding of a hospital, the building of a new
+university, or the construction of a new road or railway line. Finance provides
+structure to these and other enterprises and institutions throughout society. If
+finance succeeds for all of us, it helps to build a good society.
+Kalam spent a month in the summer of 1956 in Rameswaram, nursing his
+ailing father. Jainulabdeen was his first teacher – and always remained the
+
+foremost. He never lied to Kalam. If Kalam asked him a question, he always
+answered it. Kalam knew many things at a young age, because his father
+encouraged him to know things, express doubts and seek answers. One day,
+Jainulabdeen lamented that Kalam was not settling down to a family life. He
+said, ‘Look, Azad, until you have a son of your own, you will never know the
+joy, the love beyond feeling that resonates in the heart of a father as he looks
+upon his son.’ Kalam said nothing; and Jainulabdeen did not extend the
+conversation.
+Before Kalam returned to MIT, Jainulabdeen made all his children sit together
+and told them a profound observation that he had made in his eighty-two years.
+He said, ‘It is not dirt but the fear of dirt which is the sign of man’s degradation.
+The official families, whose children learn expensive habits of living, prosper
+only for a generation or two. The merchant families who are industrious and
+frugal may prosper for three or four generations. The families who till the
+ground and study books and have simple and careful habits prosper for five or
+six generations. The families who have the virtues of respect for one’s father,
+elders and ancestors and friendliness, prosper for eight or ten generations. Know
+this and never be cruel and rude to the poor.’
+Back at MIT, Kalam shared his father’s reflections with Prof. Sponder. The
+professor told Kalam that his father’s thoughts were indeed profound wisdom for
+a good life. Prof. Sponder said, ‘The kind of knowledge which regards things in
+their individual capacity alone and takes the part for the whole, mistaking each
+entity for a complete substantiality and truth and thus giving rise to likes and
+dislikes in the mind, is the minimum of knowledge, the grossest of perceptions
+and the crudest type of understanding.’
+Prof. Sponder regretted that this was the case in his own life and millions of
+others in the conflict-ridden Europe of his forefathers. The professor continued:
+‘A higher knowledge is the mutual relationship among things. I am concerned
+with you and you are concerned with me. This is a socialistic type of knowledge,
+to which we have risen today. The jungle type of living follows the law of the
+fish, as they call it, the larger one swallowing the smaller. Though today we are
+gradually rising from the law of the jungle where each one flies at the throat of
+another and swallows the lesser one, and have come to a socialistic kind of
+understanding of mutual appreciation of individual values, we are still far away
+
+from that highest type of knowledge that your father shared with you.’
+The professor then shared his own insight on the matter of the urge for higher
+knowledge, an urge which was to preoccupy Kalam for much of the following
+six decades: ‘Why are we so miserable in our human existence? The simple
+answer is that human life is incomplete. Human knowledge is not the whole of
+knowledge, and there are further stages of the evolution of the universe, of
+which the human level is only one link in the long chain of this process. What
+pushes us forward and urges us onwards is the existence of a higher principle
+beyond us. We become restless merely because of the fact that there is
+something higher above us. The very existence of something higher is enough to
+push us onwards. The unconscious urge of the lower to realize the higher is
+indeed evolution, and this is what your father conveyed to you.’
+Kalam’s third and last year at MIT was a year of transition, and it was to have
+a great impact on his later life. It would serve to define his approach towards
+work, and was to have an abiding effect on his formulation of successful
+management principles. When he had finished his coursework, Kalam was
+assigned a project to design a low-level attack aircraft, together with four other
+colleagues. He assumed the responsibility of design and preparing the requisite
+drawings. The other teammates distributed amongst them the tasks of designing
+the propulsion, structure, control and instrumentation of the aircraft.
+When Prof. K. Srinivasan, the guide and the director of MIT, reviewed their
+work, he said he found their progress dismal, and bluntly expressed his
+disappointment. Kalam asked for a month’s time to complete the task, since he
+had to get input from five of his colleagues to complete the system design. Prof.
+Srinivasan told him,‘Look, young man, today is Friday afternoon. I will give you
+three days’ time. By Monday morning, if I don’t get the configuration design,
+your scholarship will be stopped.’
+Kalam was shocked by Prof. Srinivasan’s ultimatum, as the scholarship was
+his lifeline. Without it, he could not continue with his studies. There was no
+option but to finish the task, and he was galvanized into action. Kalam later
+recalled:
+My team felt the need for working together around the clock. We didn’t sleep that night, working on
+the drawing board and skipping our dinner. On Saturday, I took just an hour’s break. On Sunday
+morning, I was near completion, when I felt someone’s presence in the laboratory. It was Prof.
+
+Srinivasan, studying our progress. After looking at my work, he patted and hugged me
+affectionately. ‘I knew I was putting you under stress and asking you to meet a difficult deadline.
+No stress, no progress!’2
+
+Kalam learned an inescapable truth from this incident. He realized that we are
+all playing the ultimate game of life, whether we want to or not. Those who play
+the game well win in life, while those who play it poorly suffer. Those who do
+not know they are playing the game suffer from the crueller fates of existence.
+Our destiny is to win at the ultimate game of life, for our destination is to sit with
+God. The fates of life only step in when we play the game poorly or refuse to
+play it at all.
+Kalam identified two mighty opponents in the game of turning ambitions into
+accomplishments – namely, fear and ignorance. One feeds the other, as they are
+allies – an axis of negativity, you might say. Kalam also understood that
+knowledge is the antidote for the poisons of both ignorance and fear. But just as
+too little knowledge keeps us enslaved to fear and ignorance, too much
+knowledge gained too quickly can be similarly detrimental. When we increase
+our awareness of life and its negative factors too quickly, the sudden influx of
+such knowledge can cause anxiety and feelings of helplessness, and we can
+suffer a net loss of knowledge. In other words, we can lose more ground than we
+have won by gaining knowledge too quickly. The tendency is then to shut down
+our drive for knowledge, as it is hurting us. Becoming fearful or stressed from
+knowledge gained, however, is nothing to feel ashamed of; in fact, it can be a
+sign of becoming more aware, more conscious.
+Kalam was given a surprise accolade on his last day at MIT. The graduating
+students and faculty members were posing for a group photograph as part of a
+farewell ritual. The students were lined up in three rows behind the professors,
+who were seated in the front. Unexpectedly, Prof. Sponder stood and looked for
+Kalam, who was standing in the last row. ‘Come and sit with me, said the
+Professor. You are my best student and hard work will help you earn a great
+name for your teachers in the future … Let God be your hope, your stay, your
+guide and provide the lantern for your feet in your journey into the future.3
+In 1957, at the age of twenty-six, Kalam graduated from MIT. He now felt
+prepared to take his place in the world; and he was ready for his learning to
+manifest – making things, solving real-life problems. He would now reach for
+
+the skies.

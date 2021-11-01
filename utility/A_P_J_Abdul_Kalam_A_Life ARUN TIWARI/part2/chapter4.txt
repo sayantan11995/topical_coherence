@@ -1,0 +1,287 @@
+Strength Respects Strength
+
+If your actions inspire others to dream more, learn more, do more and become more, you are
+a leader.
+– John Quincy Adams
+The sixth president of the United States
+
+r Kalam had now assumed the role of Missile Man of India. The political
+and bureaucratic establishment was easily convinced that missiles could
+perform certain military and strategic roles better than other types of weapons.
+This was due in no small part to Dr Kalam, who successfully conveyed their
+virtues: Ballistic missiles can be launched in poor weather or at night. They
+travel at supersonic speeds and can thus reach strategic targets – enemy
+installations that are far from the missile’s point of deployment – in a very short
+time. They can also be directed at enemy ground forces, aircraft or naval targets.
+And they are more difficult to detect and intercept than aircraft, not to mention
+their being more economical. Moreover, they can act as a serious deterrent to
+belligerent states by virtue of their ability to carry warheads.
+Dr Kalam selected Col V.J. Sundaram to lead the Prithvi surface-to-surface
+missile project. Col Sundaram had belonged to the Indian Army Corps of
+Electronics and Mechanical Engineers (EME) and held a master’s in
+aeronautical engineering. DRDL had produced several components for the Devil
+missile, including a solid rocket booster with high-strength steel casings and a
+specific impulse of 200 seconds, and a second-stage three-tonne liquidpropellant engine, fuelled by a combination of xylidiene and tri-ethylamine,
+oxidized by inhibited red-fuming nitric acid and di-nitrogen tetroxide. Could it
+be used for powering a ballistic missile that could reach its target 150 to 250
+kilometres away within five to ten minutes, fitted with a warhead weighing
+
+D
+
+somewhere in the order of 500 to 1000 kilograms?
+The work on the Devil missile was revived to test a strap down inertial
+navigation system (SDINS), supported by a computer that would implement
+control, guidance and navigation. Its computer was built in the Special Purpose
+Computer Division (SPCD) and was powered by an off-the-shelf LSI-V03 (PDP,
+programmed data processor, equivalent) processor module. Other interfaces for
+gyros, accelerometers, telemetry, launch control, etc., were developed in various
+in-house PCB (Printed Circuit Board) facilities. Dr Kalam was determined to
+make use of whatever components that were available; yet the team would have
+to go beyond the evolutionary ancestry of surface-to-surface V-2 and Scud
+missiles. These missiles could never deliver a warhead within a CEP (circular
+error probable) measured even in kilometres – the CEP being the radius of a
+circle, whose boundary is expected to encompass the landing points of 50 per
+cent of the missiles fired. Kalam was talking about a CEP of less than 100
+metres.
+The Trishul was conceived as a quick-reaction surface-to-air missile that
+could also be used as an anti-sea skimmer from a ship against low-flying
+attacking missiles. To lead Trishul’s development, Dr Kalam was seeking a man
+who not only had a sound knowledge of electronics and missile warfare, but who
+could also communicate technical complexities to his team in order to promote
+understanding and earn his team’s support. He found Commodore S.R. Mohan –
+an electronics engineer, who came to DRDL from the Indian Navy – the most
+suitable candidate to lead the project.
+Commodore Mohan would oversee the development of the missile’s intended
+scheme of dual command guidance: the missile would initially rely on ka-band
+gathering and then transfer to the tracking radar for its guidance. The missile
+would have electronic counter-countermeasures against all known aircraft
+jammers. As the missile would employ a dual-thrust propulsion stage using highenergy solid propellant, propulsion expert A.K. Kapoor was made Commodore
+Mohan’s deputy. Trishul had to be capable of a rapid reaction time, highfrequency operation, high manoeuvrability, high lethal capability and multiple
+roles for the three services.
+For Agni, Dr Kalam wanted an old-timer who would share deep insights into
+developing strategic systems. His two juniors at Madras Institute of Technology,
+
+K. Rama Rao and R.N. Agarwal, were available, and he decided to give Agarwal
+the command. Agarwal had been head of the aeronautical test facility and would
+therefore best understand the design needs of the re-entry payload. Dr Kalam
+appointed Rama Rao as chief of composites. Rama Rao’s team would focus on
+the design of the re-entry stage module, wherein the fiercely guarded carboncarbon composite technology would be utilized.
+Dr Kalam took some time to ponder the management needs of Akash, which
+involved ramjet propulsion technology, and Nag, the guidance of which was
+based on an imaging infrared (IIR) passive-seeker technology to ensure high-hit
+accuracy in both top- and front-attack modes. These were futuristic
+undertakings, and he selected the relatively youthful pair Prahalada and N.R.
+Iyer to head the Akash and Nag projects respectively.
+Dr Kalam emphasized to all the men he selected that to be effective project
+leaders, they must be empathetic to a diverse array of needs. He always said that
+there are two facets of leadership in an organization in which a leader must be
+especially adept. One is in comprehending the broad needs of the overall mission
+requirements, and the other is being aware of the needs of each department to
+effectively leverage their work. A project director must understand the mission
+requirements and the needs of each department and effectively prioritize and
+deliver material requirements, mostly in the form of funds.
+In those days, there was no forum in DRDL where issues of general
+importance could be openly discussed and debated. Dr Kalam knew from his
+first-hand experience at SLV-3 that scientist engineers were indeed very
+vulnerable people. They performed their own specialized tasks for high-stakes
+projects – which are inevitably subject to their numerous colleagues’ input and
+the vagaries of a myriad of factors – over which they have little control. They
+thus work under great anxiety and insecurity. Once they stumble – they lose
+confidence and focus – it becomes difficult for them to regain their footing. Dr
+Kalam was more than aware of the challenges they faced, and knew that their
+morale must be sustained within the workplace itself: ‘I did not want any of my
+scientists to face disappointments alone. I also wanted to ensure that none of
+them set their goals when they were at low ebb.’1
+Dr Kalam thus created a forum and named it the ‘Science Council’. All
+scientists in the laboratory – juniors and seniors, veterans and freshers – would
+
+sit together once every three months and let off steam. In the very first meeting
+of the Science Council, a senior scientist, M.N. Rao, stood and asked Dr Kalam,
+‘On what basis did you select these five Pandavas?’ He meant the five project
+directors whom Dr Kalam had personally selected.
+Dr Kalam gave a very patient answer. He said that as the project director of
+SLV-3, he had acquired certain experiences. Based on these experiences, he
+recognized that the directors of the missile projects must control the three key
+parameters of scope, schedule and budget, and understand the nuances of team
+dynamics. Dr Kalam explained that he spoke to at least fifty people in the course
+of his deliberations. Some said that they were fanatical about driving
+productivity and meeting schedule commitments. Others said they had the ability
+to spot red flags; they were zealous communicators, and were well respected by
+their peers and bosses. Dr Kalam said that the five project directors he had
+selected had an ability to balance what needs to be done, as driven from the plan,
+with what should be done to meet the mission’s requirements – even if this is
+counter-intuitive and not exactly in accordance with the project’s road map.
+These project managers would not only manage – they would lead.
+A young scientist wanted to know how Dr Kalam would stop these projects
+going the way of the Devil missile project. Dr Kalam explained to him, and
+through him to all the doubting Thomases, ‘The participation of the production
+centres and user agencies right from the design stage has been ensured, the
+budget is in place, and there is no question of going back till the missile systems
+are successfully deployed in the battlefield.’ His answer received a thunderous
+ovation from the audience. He had won his team’s confidence. In September
+1983, Defence Minister R. Venkataraman visited DRDL. There was no doubt in
+anyone’s mind about the credibility of the IGMDP.
+Dr Brahm Prakash passed away on 3 January 1984 at the age of seventy-two,
+in Bombay. Dr Kalam keenly felt his loss. In the memorial service organized for
+Dr Brahm Prakash, Dr Kalam spoke at length about his mentor teacher. Dr
+Kalam shared with the congregation that when Brahm Prakash returned to India
+in 1948, he was given a position in the then nascent Atomic Energy Commission
+in Bombay. Towards the end of 1950, when the Indian Institute of Science was
+seeking a suitable person to head the Department of Metallurgy – and the setting
+up of the Atomic Energy Commission’s metallurgy laboratory was in its early
+
+stages – he was deemed the logical choice for the job. Dr Homi Bhabha, who
+was also a member of the court of the IISc, proposed that Dr Brahm Prakash
+would assume leadership of the Department of Metallurgy in Bangalore, on the
+firm understanding that he would return to Bombay as soon as the programme of
+work gained momentum there.
+Side by side with his academic responsibilities in Bangalore, Brahm Prakash
+maintained a continuous link with the atomic energy programme, attending
+discussion meetings in Bombay and also undertaking tours abroad during the
+summer vacations. To maintain one of these positions was a serious endeavour
+for any scientist. To maintain both without sacrificing attention to the duties of
+either, is a herculean task; and Dr Brahm Prakash did it with aplomb. By early
+1957, Dr Bhabha decided that it was time to allow Dr Brahm Prakash to return to
+Bombay. Dr Brahm Prakash was the first project director for the Nuclear Fuel
+Complex (NFC) that was set up in Hyderabad in 1971. Dr Kalam said, ‘By the
+detailed portrait of a sthitaprajna given in the Bhagavadgita – an individual of
+steadfast mind with clarity in action, who remains unperturbed under any
+circumstance – Brahm Prakash was the real-life model.’
+Around this time, Dr Kalam was playing a key role in developing Pinaka
+rockets for the artillery at the Armament Research and Development
+Establishment (ARDE) in Pune. These would replace the Russian BM-21 ‘Grad’
+Launchers the Indian Army was operating. The Pinaka rockets would generally
+be deployed in a battery of seventy-two rockets. Aptly named after the divine
+bow of Lord Shiva, all the seventy-two rockets could be fired within forty-four
+seconds, laying waste an area of around 1 sq. km. Like his guru Brahm Prakash,
+Dr Kalam managed to juggle multiple workloads and work across boundaries of
+organizations, with relative ease. This was a skill that would serve him
+throughout the following decades.
+Another of Dr Kalam’s myriad skills that was increasingly exercised in these
+years was his adroit diplomacy, which he had learned from his mentor Dr
+Vikram Sarabhai. Nevertheless, international politics could at times stymie even
+Dr Kalam’s best efforts. In 1985, he visited the United States as part of a team to
+buy a supercomputer from Cray Inc., in Seattle, US, that was ostensibly required
+for weather forecasting. Dr Kalam needed it for computational fluid dynamics
+analysis of the Agni re-entry payload. India did not have a hypersonic wind
+
+tunnel, and the only way to simulate its re-entry stage was to model it and test it
+using computation. Only the United States and Japan had the supercomputing
+technology. The Americans snubbed Dr Kalam’s delegation, bluntly conveying
+their decision not to sell the machine to India.
+Indian scientists were again compelled to follow a swadeshi approach to
+technological development; but it would be for the greater good. Indian
+computer experts rose to the challenge of creating an indigenous supercomputer
+of the Cray computer’s capability, then in the gigaflops range. The Centre for
+Development of Advanced Computing (C-DAC) was created in Pune in 1988, as
+India’s national initiative in supercomputing, under the leadership of Dr Vijay
+Bhatkar. The Wall Street Journal took notice of the development with a frontpage headline: ‘Angry India Does IT’ when the C-DAC delivered the
+supercomputer PARAM, three years later.2 Like many properly focused
+indigenous endeavours, this swadeshi computing effort was the seed of a new
+field of opportunity for the nation, which would continue to be harvested well
+into the new century.
+While Dr Kalam valued the friendship of many people from other countries,
+and would remain throughout his life relaxed with people of any race or creed,
+he was uncomfortable with the geopolitical approach of the Western world. He
+saw the West as the geopolitical aggressor. In Dr Kalam’s view, which he shared
+with me in various discussions on the topic, the age of blocs came to an end in
+1991 with the collapse of the USSR. From this time, the group of seven or eight
+industrialized Western nations became the hub of the world, transforming all of
+Africa, Asia and Latin America into markets. How the entire humanity can be
+made to follow only one path, one opinion and one ideal, he wondered.
+India needed to remain cognizant not merely of geopolitical developments in
+the West, but also significant events close to its own borders. China conducted
+its first nuclear test on 16 October 1964, almost a decade ahead of India, and its
+missile programme was centred on how to carry the bomb. China’s first missile
+was Dongfeng (DF, ‘East Wind’ in Chinese). The DF1 was developed with
+active participation by the Russians. The liquid-propelled, 590-km-range R-2
+missile was the starting point. As this missile would not even reach American
+military bases in Japan from the Chinese mainland, China upgraded it to DF2
+with a range of 1,200 km. The DF-2 missile was deployed along the Sino–North
+
+Korean border, in striking range of the whole Japanese archipelago. Over
+several years, China developed the DF-3 to be capable of reaching American
+bases in the Philippines, the DF-4 to reach the US territory of Guam Island in the
+western Pacific and the DF-5 for its capability of striking continental United
+States in 1981 – all using liquid propellant.
+Large liquid-propellant missiles were intrinsically long and had thin skins.
+They could not be filled with propellants in a horizontal position without causing
+serious body damage. An unfuelled missile would first be erected on the
+launching pad and receive preliminary targeting alignment and on-board
+equipment checks. It would then be filled with oxidizer and fuel – operations
+which must be performed separately, because combined, oxidizer and fuel would
+spontaneously ignite. The missile, somewhat deformed by the loaded
+propellants, would then undergo final alignment and checks, and data
+corresponding to the assigned range would be fed into the missile’s instruments.
+All these preparations would consume, on average, no less than four hours.
+This made them vulnerable to detection by reconnaissance satellites (orbiting the
+earth every ninety minutes) and subsequent preventive strikes. The Chinese thus
+developed silos and rail-race systems until they succeeded in their first solidpropellant, 1,700-km-range rocket JL-1 in 1982. Thereafter, China regularly sold
+missile technology to Pakistan, Iran, Syria, Iraq, Libya, Saudi Arabia and North
+Korea.
+In April 1987, Canada, France, Germany, Italy, Japan, Great Britain and the
+United States jointed hands and created the Missile Technology Control Regime
+(MTCR), in order to curb the spread of unmanned delivery systems for nuclear
+weapons. The MTCR specifically targeted delivery systems that could carry a
+minimum payload of 500 kg a minimum of 300 km. The MTCR was not a treaty,
+but a voluntary understanding among member countries sharing a common
+interest in controlling missile proliferation. The partner countries committed to
+applying an export embargo pertaining to a common list of controlled items.
+This list included virtually all key equipment and technology needed for missile
+development, production and operation.
+In June 1987, the visionary behind the IGMDP, R. Venkataraman, was elected
+the eighth president of India. By this time, work on Prithvi was nearing
+completion. The MTCR embargo could have given rise to insurmountable
+
+obstacles, had it not been for Dr Kalam’s astuteness and championing of
+indigenous technological production. He guided the development of clustered
+liquid-propellant rocket engines with programmable total impulse, with the
+foresight of attaining different payload-range combinations. With the help of the
+ordnance factory at Khadaki (near Pune), Dr Kalam had also completely
+eliminated the import of the propellant for Prithvi engines.
+Dr Kalam took a keen interest in modernizing and expanding the ordnance
+factories organization and secured massive funding for development of
+propellants and high-energy materials for the warheads. The ordnance factories
+had been the largest and oldest departmentally run defence production enterprise
+in India. The history of the organization dated back to British rule in India when
+the first factory, the Gun Carriage Agency, was established in 1801 at Cossipore
+in Calcutta. Over the years, the number of factories had grown, with a rapid
+expansion taking place post-1962. The war with China, and the subsequent
+desire for self-reliance in defence production, led to the establishment of sixteen
+new factories, which saw a surge of expansion compared to the five that were set
+up between 1949 and 1962.
+The Prithvi was successfully flight-tested on 25 February 1988 at SHAR. It
+was a watershed event in India’s military development, as this test established
+India’s capability to develop the basic modules for future guided missiles. The
+Prithvi had the provision for modification from a long-range surface missile to
+an air missile; it could also be deployed from a ship. A CEP of less than 100
+metres was achieved. The successful launch sent political shock waves across
+the region, particularly in unfriendly neighbouring countries.
+The response of the Western bloc was initially one of surprise – and then of
+indignation. The MTCR, with the United States at its head, imposed a
+coordinated technological boycott on India. The supply to India of computer
+processor chips, radio-frequency devices, electro-hydraulic components,
+maraging steel, magnesium alloy, gyroscopes, accelerometers, carbon fibre, glass
+fibre – almost any product or material that could have an application in India’s
+missile programme – was banned. President Venkataraman – the former defence
+minister – spoke to Dr Kalam over the telephone and expressed his satisfaction
+for having handed him the reins of the missile programme. He told him not to be
+deterred by the technology sanctions, reminding him of the aphorism, ‘When the
+
+going gets tough, the toughs get going.’
+Inspired by the words of the president, Dr Kalam collaborated with public and
+private sector industries and academic institutions, in a bid to assert the complete
+independence and self-reliance of India’s missile technology. The nation’s
+missile programme must continue, despite the best efforts of foreign powers to
+scuttle it. Led by Dr Kalam, the truly swadeshi partnerships developed maraging
+steel for rocket motors, carbon-carbon composites and resins for the re-entry
+vehicle of the Agni missiles, magnesium alloy, phase shifters for passive
+electronically scanned array radar, winding machines and so forth. The Mishra
+Dhatu Nigam Limited (MIDHANI), the Defence Metallurgical Research
+Laboratory (DMRL), and private industries together developed a crucial
+magnesium alloy, which was denied to India by Germany. The international
+campaign to thwart India’s missile programme had merely slowed its progress.
+On New Year’s Day 1989, Dr Kalam declared at the Science Council
+meeting, ‘As a country located in one of the world’s most unstable regions, India
+can hardly afford to be dependent on imported weaponry if it wants to be taken
+seriously in the emerging world order.’

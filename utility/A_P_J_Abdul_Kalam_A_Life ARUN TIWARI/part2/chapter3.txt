@@ -1,0 +1,293 @@
+
+Smiling Buddha
+
+It is better to rise from life as from a banquet – neither thirsty nor drunken.
+– Aristotle
+Greek philosopher and scientist
+
+r Kalam was fully aware of the burden he was taking on his shoulders. He
+was being interpolated into an organization with a radically different culture
+to that of ISRO; and it was, at that time, functioning poorly. He had worked at
+ADE earlier but those were the formative years of the DRDO, when it was
+created more or less in mimicry of the Advanced Research Projects Agency
+(ARPA) in the United States. Its purpose had always been to expand the frontiers
+of technology and science for military applications, with the aim of reaching
+beyond the forces’ immediate requirements. In this, it was now lagging behind.
+Kalam’s quest would be to help the organization shed its stultifying low morale
+and reliance on foreign technology, and inspire a new culture of selfempowerment to lead it towards the twenty-first century.
+Dr Kalam had studied the evolution of DRDO from close quarters since its
+inception. Its beginnings were more emotional than strategic. Veneration for
+science was obvious in the choice of Dr Kothari as the first Chief of DRDO. Dr
+Kothari had worked under the legendary Meghnad Saha during his master’s at
+Allahabad University, and had done his PhD under the father of nuclear physics
+Ernest Rutherford at the University of Cambridge. Special Weapon Development
+Team (SWDT) did the initial work. This team was later expanded into DRDL, a
+full-fledged laboratory at the campus of Defence Science Centre, Delhi, in June
+1961. The laboratory was moved to Hyderabad in February 1962 on land in the
+Chandrayanagutta area provided by the state government that had once housed
+
+D
+
+the barracks of the erstwhile Nizam’s army. The debacle in the 1962 Sino-Indian
+war had provoked serious discussion of missile technology development in
+India, raising the profile of the DRDO in the halls of power.
+The top brass of the organization decided first to develop a wire-guided antitank missile. The anti-tank missile was a totally indigenous product – its
+propulsion, control, guidance, power supply and materials were all Indian. There
+were no computers, and electronic circuits were used to make calculations. The
+missile was test-fired near Imarat, a village on the outskirts of Hyderabad. Dr
+Kalam had visited this place earlier during his time as a member of the Missile
+Advisory Committee. The tests proved the anti-tank missile reliable.
+This project had laid the foundation of India’s missile programme and helped
+to train many technologists, including A.V. Ranga Rao, S. Krishnan, K. Rama
+Rao, Z.P. Marshal, H.S. Rama Rao and J.C. Bhattacharya. Dr Kalam had met
+each one of these learned gentlemen during the course of the SLV-3’s
+development, and some of them even came to Trivandrum to participate in
+technical reviews. Many from the group of more than fifty scientists who were
+involved in the development of India’s anti-tank missile, went on to set up
+Bharat Dynamics Limited (BDL), Hyderabad. BDL became the production
+agency of missiles. And in the late 1960s, the Government of India embarked on
+the licensed production of French-developed SS-11B anti-tank missiles at BDL.
+India conducted its first successful nuclear bomb test on 18 May 1974 at the
+army base, Pokhran Test Range (PTR), in Rajasthan. It was the first confirmed
+nuclear weapons test by a nation outside the five permanent members of the
+United Nations Security Council – the victors of World War II – namely, the
+USSR, the United Kingdom, France, China and the United States. The country’s
+entry to the ‘nuclear club’ put an immediate focus on the missile technology for
+delivering nuclear warheads. The nation’s politicians, of all political hues, would
+henceforth look towards the DRDO for long-range missiles that could take the
+country’s nuclear capability beyond static tests in the desert.
+The rocketry demands in the forces were both immediate and long-term. In
+the years leading up to the Pokhran nuclear test of 1974, the Indian Air Force
+was suffering from lack of spare parts for the Soviet Union’s SAM-2 missiles for
+their high-altitude air defence needs. The Government of India decided in 1972
+to solve this problem by re-engineering the parts. In parallel, a programme called
+
+Valiant was launched under Squadron Leader R. Gopalaswamy to build a rocket
+engine powered by liquid propellants. Gopalaswamy started a project to pioneer
+the development of a semi-cryogenic liquid rocket engine. He set up a test
+facility at the Jamnagar Air Force Station and joined DRDL in 1964. The engine
+was tested on 10 June 1974 in the presence of Dr Kalam.
+DRDO simultaneously turned its attention to building a guidance package,
+because the inertial navigation system formed an essential part of a long-range
+missile. A team headed by D. Burman and comprising P. Banerjee and Avinash
+Chander built a platform-based inertial navigation system (INS). It was tested on
+board an Avro aircraft during 1974–75. By now, DRDL had built substantial
+infrastructure in the fields of propulsion, navigation and manufacture of
+materials. As it did not have its own range, the Indian Space Research
+Organization’s Sriharikota base and the Indian Air Force’s Suryalanka Base,
+Andhra Pradesh, were used for flight testing the SAM-2. Dr Kalam was present
+for two of these flight trials.
+Dr Kalam had a series of discussions with Dr Arunachalam, the chief of
+DRDO and his boss. Dr Arunachalam had considerable experience in technology
+development. He had received his PhD degree in materials science and
+engineering from the University of Wales in 1965. He had then worked at the
+Bhabha Atomic Research Centre for more than a decade and the National
+Aeronautical Laboratory at Bangalore, before joining the Defence Metallurgical
+Research Laboratory, Hyderabad, as its director in 1975. Dr Kalam and Dr
+Arunachalam could clearly envisage the demands for missile technology
+multiplying in the following decades. Equally, both were convinced that only a
+dynamic, cohesive organization had any chance of meeting the nation’s
+requirements.
+They moreover concurred that there was a need for a cultural renaissance in
+the system. Dr Arunachalam was aware that almost all senior scientists at DRDL
+were living with the pain of frustration and repressed anger. The sudden shelving
+of the Devil missile programme without consultation had hurt them. There was
+also a perception that senior officials in the Ministry of Defence had cheated
+scientists of this laboratory. It was clear to Kalam that the burial of the Devil was
+essential for a revival of hope and vision. Dr Arunachalam gave Dr Kalam a free
+hand and promised his complete backing for the change. He was good to his
+
+word.
+Dr Kalam immediately did two things. He created a Directorate of
+Management Services and invited Colonel R. Swaminathan, the head of Missile
+Control Laboratory and a DRDO veteran, to head the new group. In doing so, he
+aimed to address the career issues of the scientists and facilitate the smooth
+functioning of the organization. He also recruited his former lieutenant at ISRO,
+Sivathanu Pillai, to DRDO and helped him to organize the programme
+management. These two able officers and trusted friends of Dr Kalam indeed
+acted as his two hands in managing the DRDL, drawing the threads of its
+damaged morale together to form a strong fabric of cooperation.
+The new team was to adopt a more informal, consultative management style,
+which was unfamiliar to the bureaucratically orthodox DRDO. Dr Kalam evoked
+the concept of management by participation and made earnest efforts to involve
+middle-level scientists and engineers in the management of the laboratory.
+Kalam saw it was imperative that decisions on vital scientific and technological
+problems were taken quickly and collectively:
+Throughout my career I had zealously pursued openness in scientific matters. I had seen from very
+close quarters the decay and disintegration that go with management through closed-door
+consultations and secret manipulations. I always despised and resisted such efforts.1
+
+At any rate, one of the challenges of these years, and it ran counter to his
+dynamic and flexible nature, was organizational rigidity. Dr Kalam took some
+time to change the underlying organizational culture of DRDL. The prevalent
+mindset of reverse engineering had served the institution in previous decades,
+when there was an exigency for armaments. Rocketry for the forces had to be
+cobbled together to meet immediate defence needs in the wake of the SinoIndian war of 1962. The new culture of innovation and technological
+development was the only way to serve the country’s future as a military and
+technological power.
+With this objective in mind, Dr Kalam undertook some measured
+organizational changes. He first inducted 280 young engineers in 1984, which
+was perhaps the biggest-ever induction in an Indian scientific organization. Dr
+Kalam evolved a matrix organization in which, by retaining the traditional
+hierarchical structure of the laboratory, he introduced a task-driven work system.
+
+The scientists working in technology divisions were made system managers and
+given exclusive responsibility for one project. An external fabrication wing was
+created under P.K. Biswas, who had formidable experience of working with
+public sector undertakings (PSUs) like HAL, and private sector industry such as
+L&T, Godrej and Tata. Just as he had done early in his career in developing the
+RH-75 rocket, Dr Kalam would rely on the best technical and scientific minds he
+could muster – in and outside the government service.
+Dr Kalam also formed a high-level decision-making body called the Missile
+Technology Committee to map the way forward. According to Dr Kalam’s and
+the committee’s reckoning, the existing Prithvi missile could not be converted
+into a long-range missile, so he created a pitch for a ballistic missile involving
+re-entry technology. On Dr Kalam’s insistence, a development project on reentry technology was included. Days of debate and weeks of thinking finally
+culminated in a long-term Guided Missile Development Programme.
+Dr Kalam invited Z.P. Marshall, the chairman and managing director of BDL,
+N.R. Iyer, A.K. Kapoor and K.S. Venkataraman to synthesize all debates and
+decisions into a clear and well-defined scheme for missile development for the
+following ten years. The scheme was outlined in a paper that was sent for
+approval by the Cabinet Committee for Political Affairs (CCPA). The paper was
+given its final shape after consulting the representatives of the three defence
+services. The final document estimated a budget of fifty million dollars over a
+period of twelve years.
+Dr Kalam, accompanied by Dr Arunachalam, made a presentation to Defence
+Minister R. Venkataraman. The three service chiefs and the nation’s top-level
+bureaucrats were present. The discussion went on for more than an hour. India
+needed missiles; but was it possible? Did the track record of DRDO support its
+claim? Fifty million dollars were a significant sum of money, and who would
+take a twelve-year-long shot? What would be the political fallout? Would the
+services wait for the outcome? Were there other options? The meeting ended
+without a decision or even any indication of the department’s intentions. The
+defence minister, however, asked Dr Kalam and Dr Arunachalam to meet him
+later in the evening.
+Both the scientists were unsure of what exactly was in store for them. Dr
+Arunachalam was anxious and verbalized his doubts: What if only ten million
+
+are sanctioned? Or, if they get only twenty million, which missile would they
+take in that case, and which others should they discard? Dr Kalam had by now,
+though, developed a strong sense of intuition, bordering on the prescient. He had
+no such thoughts. He had a vision of a SLV-sized rocket soaring into the sky and
+re-entering thousands of miles away with its payload. His vision gave him a
+calm assurance.
+When evening arrived, a relaxed defence minister communicated to them the
+government’s decision to approve an integrated guided missile programme, and
+not just fund one or two projects that were being asked. The DRDO, however,
+would have to shoulder the responsibility for the programme till user trials were
+completed and production was launched, and not just confine itself to research
+and development. The defence minister asked Dr Arunachalam and Dr Kalam to
+rework their figures, incorporating the additional scope of work, and to meet him
+the following morning. Dr Arunachalam knew full well that Dr Kalam was
+taking the night flight to Madras on his way to Rameswaram to attend the
+wedding of his niece Zameela (his brother’s daughter) the following evening.
+But Dr Kalam did not say a word about it. He handed over his ticket for
+cancellation to Dr Arunachalam’s secretary.
+Dr Kalam and Dr Arunachalam huddled together in the latter’s office and
+worked till midnight. They decided to extrapolate the dots from the minister’s
+words by themselves and give a clear, rational plan to him. Dr Arunachalam
+arranged dinner from his house, and even as they ate they were busy working.
+While much detail was uncertain, both the scientists were convinced of one
+thing: never before in India was such a plan attempted, but now that it had been
+decided, it must succeed. The Integrated Guided Missile Development
+Programme (IGMDP) was conceptually born in the wee hours of 14 May 1983.
+It included Dr Kalam’s dream of a SLV-3-sized rocket taking off and the payload
+returning through the atmosphere. They named the idea REX or re-entry
+experiment launch vehicle and asked for it the modest budget of ten million
+dollars. Defence Minister Venkataraman was visibly pleased with the plans
+shown to him the next morning, and said that it would now be his task to get the
+plan sanctioned by the cabinet. Kalam later happily recalled the minister’s
+supportive approach: ‘Turning to me, he (R. Venkataraman) said, “Since I
+brought you here (to DRDO), I was expecting you to come with something like
+
+this. I am happy to see your work.”’2
+Dr Kalam had thankfully bowed before the minister and turned towards the
+door, when he heard Dr Arunachalam telling the defence minister how ‘Dr
+Kalam had to sacrifice going to Rameswaram today for his niece’s wedding and
+competed this work even without saying as much as a word about his
+predicament’. It amazed Dr Kalam that a person of Dr Arunachalam’s stature
+was concerned about a wedding taking place on a far-flung island, in a small
+house of ordinary people. And what the defence minister of India did next
+amazed him even more.
+The office of the defence minister put Dr Kalam on an Indian Airline flight
+leaving for Madras an hour later, and tied up with an Indian Air Force (IAF)
+helicopter that was running a shuttle to Madurai in the late afternoon. The
+helicopter was ready for take-off when the flight landed at Madras airport, and
+Dr Kalam was airborne again in less than ten minutes. At Madurai, the air force
+commandant even gave Dr Kalam a lift to the railway station and a ticket to
+Rameswaram. Dr Kalam boarded the train when it was about to leave the
+platform. Dr Kalam reached his ancestral home in time for the wedding. There
+were no mobile phones then, and Dr Kalam was expected to attend the wedding.
+Unmindful that the machinery of government had moved virtual heaven and
+earth for Dr Kalam to be there in time, they were simply delighted with his
+arrival, and went about the business of the marriage. Dr Kalam was
+overwhelmed, though, by the noble, kind efforts of the minister and the defence
+personnel.
+The defence minister was likewise accommodating to the missile programme:
+he stood by his word and got the IGMDP plan approved by the cabinet. An
+unprecedented budget of Rs 388 crore (fifty million dollars in those days) was
+sanctioned. The five indigenous missiles of the programme were given
+appropriately and unmistakably Indian names, in keeping with the spirit of the
+nation’s tryst with indigenous missile technology. The surface-to-surface missile
+was called Prithvi (the earth), the tactical core vehicle for short-range air defence
+was named Trishul (the trident of Lord Shiva), the medium-range surface-to-air
+defence missile was given the title Akash (the sky) and the anti-tank missile
+project was called Nag (the serpent). Dr Kalam dubbed the missile of his vision
+Agni, as the payload would re-enter the atmosphere as a ball of fire.
+
+Following the vision of Defence Minister Venkataraman in right earnest,
+these projects were aimed towards the realization of indigenous state-of-the-art
+technology. Dr Kalam’s team was not merely confining itself to re-engineering
+missiles available elsewhere in the world. The development of Nag would entail
+innovative thermal-seeker technology. The inertial navigation system of Prithvi,
+the phased array radars and capability to handle multiple targets through Trishul,
+the ram-rocket propulsion motor in Akash and the re-entry technology through
+Agni, were indeed aimed to achieve a genuine self-reliance in missile
+technology.
+Kalam took his own good time to identify the right leaders to handle the five
+missile projects. There was no dearth of talent and experience in the good mix of
+services officers with operational experience, hard-core technology experts and
+young blood with grit and determination. Kalam was looking for men who could
+clearly visualize the goal of developing a missile system, seeing it through field
+trials and taking it right up to the stage of production. Dr Kalam was conscious
+that a wrong choice of leader would undo the whole achievement of getting the
+programme sanctioned. He was looking for not only five project directors but a
+leadership brigade that would sustain missile development through the next
+twenty-five years. He felt that he should be circumspect in this new situation:
+Many of my senior colleagues – naming them would be unfair, because it could be only my
+imagination – tried to befriend me during this period. I respected their concern for a lonely man, but
+avoided any close contact. Through loyalty to a friend, one can be easily led into doing something
+that is not in the best interests of the organization.3
+
+Dr Kalam by now had developed astute insights into the working styles of
+people, but he wanted to follow a scientific approach. He asked Col R.
+Swaminathan to study the managerial grid model, a style of leadership model
+developed by Robert R. Blake and Jane Mouton doing the rounds in those days.
+Col Swaminathan came up with a report defining the basic aspect of a person’s
+working style as to how he plans and organizes tasks. At one extreme was the
+cautious planner, who would carefully spell out each step before making any
+move. With a sharp eye for what could possibly go wrong, he would try to cover
+all contingencies. At the end of the spectrum was a fast-tracker, who would
+weave and dodge without a plan. Inspired by ideas, he would always be ready
+
+for action.
+Another aspect of a person’s style Swaminathan brought out in his report was
+control – the energy and attention devoted to ensuring that things happened in
+certain ways. At one extreme was the tight controller, a strict administrator with
+frequent checkpoints. Rules and policies were to be followed with religious
+fervour. At the opposite end were those who move with freedom and flexibility.
+They had little patience for bureaucracy. They delegated easily and gave their
+subordinates wide latitude for movement.
+Dr Kalam wanted his leaders to be men who had the capability to grow with
+possibilities, with the patience to explore all possible options and with the
+wisdom to apply old principles to new situations; people with the skill to
+negotiate their way forward. He wanted his men to be accommodating – to be
+willing to share their power with others and work in teams, delegating good jobs,
+assimilating fresh opinions, respecting intelligent people and listening to wise
+counsel. They would have to be able to resolve conflict amicably and take
+responsibility for slip-ups. Above all, his men must be able to take failure in
+their stride and share both their successes and failures. Kalam told Swaminathan
+that he wanted leaders who would tread the middle path: those who could
+control without stifling dissent or being rigid and those who could make swift
+progress without breaking rules. ‘Find me people who neither indulge in excess
+nor suffer with deficiency,’ he told Col Swaminathan.

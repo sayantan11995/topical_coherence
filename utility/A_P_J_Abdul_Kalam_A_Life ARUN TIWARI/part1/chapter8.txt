@@ -1,0 +1,565 @@
+No Free Lunch
+
+Between stimulus and response there is a space. In that space is our power to choose our
+response. In our response lies our growth and our freedom.
+– Viktor E. Frankl
+Neurologist and Holocaust survivor
+
+pace research activities were initiated in India during the early 1960s, when
+applications using satellites were in the experimental stages, even in the
+United States. With the live transmission of the Tokyo Olympic Games across
+the Pacific by the American Satellite ‘Syncom-3’ demonstrating the power of
+communication satellites, Prime Minister Nehru quickly recognized the benefits
+of space technology for India. The space programme, although originally the
+private vision of a few scientists, was quickly elevated to one of the highestpriority programmes of the Indian state.
+A new organization, INCOSPAR, was set up in 1962 under the Department of
+Atomic Energy with Dr Vikram Sarabhai, director of the Physical Research
+Laboratory (PRL) in Ahmedabad, at the helm. The organization was tasked with
+formulating the Indian space programme. Dr Vikram Sarabhai was a playful,
+Shri Krishna-like successor to the solemn and remote Dr Homi Bhabha. Like
+Shri Krishna, Dr Sarabhai was versatile, playing several roles in his efforts to
+nurture the inchoate space programme in its early years. He was a roving
+diplomat, teacher, strategist, friend, counsellor, leader and system builder. Within
+India, the unusual combination of his scientific eminence, aristocratic
+background and disarming simplicity created a loving loyalty – often amounting
+to devotion – among those who knew him.
+The sheer force of Sarabhai’s personality subdued cluttering dissent, a typical
+malady in Indian organizations. His reputation enabled him to slice through the
+
+S
+
+bureaucratic jungle; he was assured of loyal support at all levels – from the peon
+to the prime minister. As his predecessor did before him, Dr Sarabhai set out to
+secure cooperation from the spacefaring powers. He first turned to the United
+States.
+Dr Sarabhai initially made overtures to NASA (National Aeronautics and
+Space Administration) in 1961, during his stint as a visiting Professor at the
+Massachusetts Institute of Technology (MIT), Massachusetts. He told NASA of
+India’s plans to start a space science research programme at select facilities,
+namely, the Physical Research Laboratory, Ahmedabad; the Tata Institute of
+Fundamental Research, Bombay; and the Tata Institute of Nuclear Physics
+(TINP), Calcutta. He also described his plans to recruit trained Indian physicists
+for European countries and the United States.
+During his meetings with NASA officials, Dr Sarabhai explored possible
+cooperative endeavours that could be mutually beneficial to both NASA and
+India, including magnetic fields, solar radio astronomy, geomagnetism,
+atmospheric studies from 30 to 150 kilometres, trapped particles in radiation
+belts and electrojet studies. With the intention of furthering these fields of
+research, Dr Sarabhai discussed the possibility of a cooperative sounding rocket
+programme between India and NASA and also a telemetry receiving facility at
+PRL in Ahmedabad.
+Sounding rockets are one- or two-stage solid propellant rockets used for
+probing the upper atmospheric regions and for space research. They also serve as
+easily affordable platforms to test or prove prototypes of new components or
+subsystems, intended for use in launch vehicles and satellites. NASA had
+developed sounding rockets that played an important role in the International
+Geophysical Year (IGY), an eighteen-month period (1 July 1957 to 31 December
+1958) coinciding with high solar activity. The IGY entailed an intensive
+investigation of the natural environment – the earth, the oceans and the
+atmosphere – by some 30,000 participants representing sixty-six nations. More
+than 300 instrumented sounding rockets launched from sites around the world
+made significant discoveries regarding the atmosphere, the ionosphere, cosmic
+radiation, auroras and geomagnetism.
+While INCOSPAR was being constituted, the United Nations Committee on
+the Peaceful Uses of Outer Space (COPUOS) passed a resolution recommending
+
+and sponsoring the creation and use of sounding rocket launching facilities,
+especially in the equatorial regions in the southern hemisphere. Taking the cue
+from the United Nations, Indian scientists proposed a site in southern India to
+NASA. To help choose the most appropriate location, NASA shared volumes of
+their Wallops Island handbooks.
+The coastal village of Thumba, (8°33'N, 76°56'E), in the state of Kerala, was
+judged a suitable location. Its proximity to the magnetic equator (0°24'S) was
+ideal for launching sounding rockets to undertake geographical investigations,
+particularly those dealing with the interaction of neutral and charged particles in
+the earth’s magnetic field.
+INCOSPAR commenced its work as part of the Tata Institute of Fundamental
+Research, led by Prof. M.G.K. Menon. Its first task was to recruit the cream of
+India’s young scientists with expertise in this sphere and groom them with the
+necessary skills and competencies to fulfil their new roles. It was this that had
+brought Prof. Menon to the Aeronautical Development Establishment,
+Bangalore, where he had identified Kalam as one of his new young charges for
+the organization. Kalam was awed by Dr Vikram Sarabhai, the head of
+INCOSPAR, not the least for his graciousness in their first meeting; but also for
+his almost clairvoyant manner of appraising Kalam in his interview in Mumbai:
+There was none of the arrogance or the patronising attitudes, which interviewers usually display
+when talking to a young and vulnerable candidate. Dr Sarabhai’s questions did not probe my
+existing knowledge or skills; rather they were an exploration of the possibilities I was filled with.
+He was looking at me as if in reference to a larger whole. 1
+
+The primary objective for the new team of scientists was fairly
+straightforward. They were to establish a modest rocket-launching facility at
+Thumba and provide facilities to the international scientific community to gather
+data. Although Dr Sarabhai must have had this in mind, there was initially no
+mention of developing satellites or launching vehicles.
+Although Trivandrum was the state capital of Kerala, it was a somnolent and
+unhurried town with nineteenth-century tiled houses lost amidst coconut palms.
+The roads were narrow and curvy, with sharp turns and fast-changing slopes.
+Kalam knew no cooking, and there were hardly any eating places there at that
+time. He boarded with his other colleagues in a lodging house that provided the
+
+most basic amenities. Many of the scientists would visit the railway canteen for
+meals. As there was no canteen even at the workplace, each of them would buy
+his snacks and lunch after eating breakfast and go to the bus stand, to catch a
+mofussil bus to Kazhakkutam. After alighting from the bus they would walk for
+about a kilometre. The trip would take around an hour.
+Thumba was a small village known only for fishing. The site at Thumba lay
+between the railway line and the seacoast, and covered an area of approximately
+600 acres. Within this area stood an ancient church of St Mary Magdalene at
+Pallithura and the bishop’s residence. Prof. Vikram Sarabhai met many
+politicians and bureaucrats to procure the site, but to no avail. Resolute to
+succeed, and with almost evangelical zeal for the purity of his mission, Prof.
+Sarabhai decided to meet the bishop and plead his case personally. At that time,
+Reverend Father Peter Bernard Pereira was the bishop. Prof. Sarabhai met him
+on a Saturday. The bishop heard him patiently and asked him to come to the
+Sunday morning mass where he would present the matter before the community.
+Kalam would later recall the vision and high-mindedness with which the bishop
+requested his congregation’s support for the Thumba facility:
+The bishop said, ‘My children, I have a famous scientist with me who wants our church and the
+place I live for the work of space science research. It is true that science enriches human life. What
+he is doing and what I am doing are the same. Within six months, our abode and church will be
+newly built and given to us. Children, can we give them God’s abode, my abode and your abode for
+a scientific mission?’ There was a pin-drop silence for a moment, ruptured by a loud ‘Amen’ from
+the congregation.2
+
+The newly built rocket launching pad was set amidst coconut groves, and the
+church building served as the main office for the scientists. The bishop’s house
+was converted into a workshop. A cattle shed became the laboratory for the
+sounding rockets. There were no strict working hours, and it was common
+practice for the scientists to time their departure to the last bus of the evening.
+Soon, a jeep was acquired for transporting the scientists home after late-night
+shifts. While the facility creation work was in progress, it was decided to send
+seven rocket engineers for training with NASA. Kalam was one of these seven.
+Kalam landed at the Langley Research Center (LaRC) in Hampton, Virginia,
+United States, in March 1963. The Center conducted basic research in a variety
+
+of fields for aeronautical and space flight and had management responsibility for
+the Lunar Orbiter and Viking projects and the Scout launch vehicles. Kalam
+found the presence here of his colleague Ramabhadran Aravamudan a great
+blessing. Aravamudan had arrived six months earlier to learn radar tracking,
+radio telemetry and other ground instrumentation systems. They lived in the
+hostel attached to the centre and would eat at the self-service cafeteria. One of
+their challenges was trying to pick vegetarian fare from the typically American
+carnivorous offerings at the cafeteria. Mashed potatoes, boiled beans or peas,
+bread and lots of milk became their staple diet during their time at LaRC.
+After completing their training at LaRC, Kalam and Aravamudan went to
+Goddard Space Flight Center (GSFC) at Greenbelt, Maryland. This facility was
+named after Dr Robert H. Goddard, a rocket theorist as well as practical inventor
+who first launched a liquid-propellant rocket in March 1926. Goddard Space
+Flight Center was responsible for unmanned spacecraft and sounding rocket
+experiments. It operated the worldwide Space Tracking and Data Acquisition
+Network (STADAN), which later became Spaceflight Tracking and Data
+Network (STDN). It also managed development of the Thor-Delta launch
+vehicle, which was to be used for the first ballistic missile deployed by the
+United States Air Force.
+In the third and final phase of their training, Kalam and Aravamudan were
+posted at the Wallops Flight Center (WFC) at Wallops Island in Virginia, which
+was the only rocket flight-test range owned and operated by NASA. Wallops
+launched Scout boosters and sounding rocket experiments, with instrumentation
+developed by scientists and engineers throughout the United States and the
+world.
+On weekends, Kalam and Aravamudan would go to Washington DC in an old
+Dakota plane, which NASA used to fly free of cost for its employees. Hotels in
+Washington would offer discounted room rates for NASA personnel but the rate
+was still around $6 per night, which was an exorbitant amount for them. The pair
+would stay up, roaming around the nation’s capital in the quiet hours of the
+night, before catching the early-morning shuttle flight back to Wallops.
+Immediately upon Kalam’s return to Thumba, the Nike Apache rocket was
+successfully launched with the Vapour Cloud payload on 21 November 1963.
+This marked the beginning of the Indian space programme. It was followed by
+
+the launch of Russian M-100 and French Centaure sounding rockets. While the
+M-100 could carry a payload of 70 kg to an altitude of 85 km, the Centaure was
+capable of reaching altitudes of 150 km with a payload of approximately 30 km.
+The launch pads were still being built. The only covered buildings were the
+church, the bishop’s house and a small school building – and all of them had
+been vacated because they came within the safety zone. These served as offices,
+storage houses and laboratories. Since the only vehicle was always busy, the
+scientists had to either walk or use a bicycle to move within the range. Kalam,
+who was not a cyclist, would hitch a ride with Aravamudan. Even rocket parts
+and payloads were transported on bicycles. Decades later, Aravamudan fondly
+recalled their time at Thumba, which was characterized by plenty of hard work
+interspersed with light-hearted entertainment:
+During launch campaigns we had no weekends or holidays. But at other times, we would either go
+to the beaches at Kovalam or Shankumukham or catch an old Hollywood movie at Srikumar
+Theatre. Kalam, being from Rameswaram, loved to swim; he would spend hours on the beach at
+Kovalam. Though Kalam was a vegetarian, he loved the egg masala with parantha at Xavier’s
+College on the Main Road near the Secretariat.3
+
+In 1965, TERLS (Thumba Equatorial Rocket Launching Station) rented a
+beautiful old building called ‘Ingledine’ opposite the Trivandrum Raj Bhavan
+and converted it into a club with two badminton courts, a table tennis table and a
+room for card games. Kalam was an enthusiastic badminton player. He took
+great interest in setting up the club, buying furniture, getting a canteen going and
+so forth. Every evening there would be friendly badminton matches, with the
+losers having to shout the winners a bonji each, which is how a glass of lime
+juice was referred to in Trivandrum. Kalam would doggedly fight a match to
+earn a free bonji.
+While his leisure time was filled with the standard diversions of young
+bachelors, Kalam’s work was anything but mundane: ‘At TERLS, I was
+involved with building payload housing and jettisonable nose cones. Working
+with the nose cones led me, as a natural consequence, into the field of composite
+materials.’4
+The exigency in aerospace for light, strong and temperature-resistant
+materials has always made developing high performance composites a primary
+
+research activity of aerospace organizations worldwide. In a related initiative in
+the ongoing quest to lighten its rockets, NASA had achieved weight savings of
+25 to 30 per cent with filament-wound motors over comparable all-metallic
+vessels. Kalam was tasked with formulating advanced composite materials and
+setting up India’s first filament-winding machine, to build non-magnetic payload
+housings for the two-stage sounding rockets and rocket motor casings.
+Kalam approached his new assignments with hallmark enthusiasm. He was by
+now utilizing his interpersonal skills at work almost as much as his analytical
+and scientific talents. Kalam relied not merely on tapping the inspiration and
+expertise within his team. He would engage with select industry scientists and
+engineers, who would readily proffer their knowledge and support to help
+achieve these pioneering indigenous efforts in aerospace. Kalam’s trademark
+charismatic personality was just beginning to play its part in matters of national
+significance.
+Rockets had first made their impression on the world in south India, under
+Hyder Ali and Tipu Sultan late in the eighteenth century. These Mysorean rulers
+had successfully deployed thousands of Mysorean rockets against British East
+India Company forces, who had been awed by their glare and terrifying
+destruction. Now, Kalam and his team brought rockets back to the subcontinent
+with the first Indian-designed and Indian-built space rocket, the RH-75. This
+sounding rocket, designated for its 75 mm diameter, was an outstanding success
+– due in no small part to Kalam’s pivotal work. The RH-75 made its maiden
+flight on 20 November 1967. This was the fifty-second launch of a sounding
+rocket from TERLS. The RH-75 was flown twice again in 1967 and another
+twelve times in 1968, making a total of fifteen RH-75 flights.
+Prime Minister Indira Gandhi formally dedicated TERLS to the United
+Nations on 2 February 1968. After the ceremony, Dr Sarabhai invited the prime
+minister to the Rocket Engineering Division. Pointing his fingers towards Kalam
+and his younger colleague C.R. Sathya, Dr Sarabhai said to the prime minister,
+‘They are waiting for you to switch on the machine.’ A smiling Indira Gandhi
+quipped, ‘Is it so? What does this machine do?’ Kalam suggested Sathya should
+answer. Nervous to the core in the presence of this august personage, Sathya
+briefly explained the machine’s working and its importance. ‘Glad to know
+about it, where is the switch?’ asked the jubilant prime minister. The event
+
+brought smiles to the faces of Dr Vikram Sarabhai, Kalam and, of course,
+Sathya.
+Dr Sarabhai argued that technology in space was practically worthless
+without a vast array of other technological systems on the ground. It was
+therefore imperative that an Indian National Satellite System was developed.
+This would ensure that the practical benefits of advanced technologies,
+particularly telecommunications, broadcasting, meteorology and search and
+rescue operations could be deployed for the service of the Indian people. Dr
+Sarabhai told Kalam it is important for everyone working in the organization to
+be mindful that the plans for space technology were driven by real needs on
+land.
+During the early 1960s, NASA was planning a series of advanced technology
+satellites known by the acronym ATS. There was a need to field-test an ATS
+configuration which involved the direct broadcast of television to receivers from
+a satellite. At the time, this technology was untested. The commercial and
+political advantages of a satellite system that could beam programmes directly to
+television sets attracted NASA policymakers, though.
+The three countries that were large enough and close enough to the equator
+for testing a direct-broadcast satellite were Brazil, China and India. Brazil
+proved uninterested; the population was concentrated in a few cities, and
+conventional television broadcast technology was clearly more feasible. The
+People’s Republic of China was out of the picture for political reasons. India was
+the logical choice. It was densely populated, yet only Delhi had a television
+transmitter – a small one, left behind by a Dutch electronics company after a
+trade show.
+Dr Sarabhai prudently seized this opportunity. He requested NASA to allow
+the use of an ATS satellite for a year to conduct a satellite instructional television
+experiment in India’s villages. He saw this as a great opportunity to convince
+India of the need to invest heavily in space technology and a unique chance to
+learn the ground segment of a satellite system from the Americans. Moreover, he
+saw it as a chance to baptize a whole generation of Indian scientists and
+engineers in this avant-garde technology, so that they could make their own
+satellite in the future. The Indian Department of Atomic Energy and NASA
+signed an agreement for the Satellite Instructional Television Experiment (SITE)
+
+in 1966.
+Dr Vikram Sarabhai was a visionary. His brilliance in his field was coupled
+with a revolutionary desire to use technology for the betterment of his country
+and its people, and was perhaps only surpassed by his enlightened management
+and diplomacy. Kalam venerated Sarabhai, and his unconscious was filled with a
+desire to emulate his achievements. He later marvelled at Dr Sarabhai’s inherent
+gift for reaching out and securing international cooperation:‘Vikram Sarabhai
+enjoyed global stature. While he secured cooperation of NASA in the Satellite
+Instructional Television Experiment (SITE) programme, the first Indian satellite,
+Aryabhata, was put into orbit in 1975 from a Russian cosmodrome.’5
+The Indian government soon enough recognized the imminent role of space
+communications in nation building, and an Experimental Satellite
+Communication Earth Station (ESCES) was established in 1967 at Ahmedabad.
+On 15 August 1969, INCOSPAR, under the Department of Atomic Energy, was
+made independent as the Indian Space Research Organization, and the
+Department of Space was created by the prime minster of India,
+institutionalizing space activities in India.
+Kalam had been instrumental in the birth of India’s aerospace programme,
+and as Dr Sarabhai had anticipated, it led to a thriving technological sector in the
+country. India, which had languished in the nineteenth century in many respects,
+was now propelled towards the twenty-first century by this visionary scientist
+and his team. Kalam was determined to build on the work of Dr Sarabhai, and
+like this brilliant, noble man, Kalam had his own vision for the country. And he
+knew from the challenges he had faced in developing indigenous technology, his
+vision would entail plenty of hard work. It is impossible to get something for
+nothing. But most significantly, the RH-75 project had demonstrated to him the
+freedom that comes with strength and self-reliance.
+
+1.8
+
+Unreasonable Men
+
+Human progress is neither automatic nor inevitable. It requires sacrifice, suffering, and
+struggle; the tireless exertions and passionate concern of dedicated individuals.
+– Martin Luther King Jr
+African-American Civil Rights movement leader
+
+n January 1968, Kalam received a message that Dr Sarabhai wanted to
+urgently see him in Delhi. Travelling to Delhi from Trivandrum was no simple
+matter in the late 1960s. After changing many flights, Kalam reached Delhi and
+contacted Dr Sarabhai’s office for an appointment. He was asked to meet Dr
+Sarabhai at 3.30 a.m. at the Hotel Ashok. Why 3.30 a.m.? The secretary offered
+no explanation. Unsure about how to reach there at that ungodly hour, Kalam
+decided to wait in the lobby of the hotel overnight. A dinner at the hotel was
+beyond his means, so he ate in a roadside eatery and came to the lobby by 11
+p.m. He identified himself at reception as a guest of Dr Sarabhai and was
+escorted to an elegant lounge. He had never seen such opulent surroundings.
+After some moments of astonishment, Kalam noticed a book kept on a nearby
+sofa; its owner must have absent-mindedly left it there, he thought. To fill the
+long hours of waiting constructively, Kalam picked up the book and started
+browsing through it. It was a popular self-help book, the kind that tells the reader
+he is born to win, born to be rich, born to succeed. Kalam observed, during his
+training in the United States, that self-help books were very popular in America.
+It was not that such books couldn’t be found in India; they were just less
+prevalent. But their popularity in America was too powerful a phenomenon to
+overlook. These books, dispensing advice to millions on matters physical,
+psychological and spiritual, must be making a difference in the lives of their
+readers.
+
+I
+
+He was skimming over paragraphs and turning pages rather nonchalantly
+when a passage captured his attention. It was a quotation from George Bernard
+Shaw. The gist of the quote was that all reasonable men adapt themselves to the
+world. Only a few unreasonable ones try to change the world. All progress in the
+world comes from these unreasonable men. Waiting in the lobby in the middle of
+the night for an appointment a few hours later was certainly not a reasonable
+proposition for Kalam. Nor was a 3.30 a.m. appointment reasonable for Dr
+Sarabhai, who had, nevertheless, set its time.
+The whole scenario was at best unorthodox. But Dr Vikram Sarabhai was, by
+most measures, an unorthodox man. An egalitarian scientist of patrician lineage,
+he was successfully running an understaffed, overworked enterprise pioneering
+space research in India, a country that seemed indifferent to technology. For his
+part, Kalam appeared somewhat eccentric in manner. He looked careless, casual
+and sloppy – but he had a hawk’s eye on his interests, consistency in his purpose
+and an appetite for hard work only rivalled by his tenacity. Moreover, his
+scientific acumen was balanced with a firm belief in God, from which he derived
+inspiration:
+I have been always a religious person in the sense that I maintain a working partnership with God. I
+was aware that the best work required more ability than I would ever possess and therefore I needed
+help that only God could give me. So I must make a true estimate of my own ability, then raise it by
+50 per cent by putting myself in God’s hand and then get down to work with no doubts and fears in
+my mind.1
+
+While Kalam sat and read, whiling away the time in the early hours of the
+morning, another man entered the lobby and seated himself opposite Kalam.
+Neither man bothered to interact, leave alone make pleasantries. From his
+mannerisms, gait and taut appearance, he was perhaps a service officer. He was
+well built; his hair was neatly trimmed and combed; he was wearing a suit with a
+striped tie; his shoes were shining – and notwithstanding the odd hours he sat
+erect, looking alert and animated. He seemed, in contrast to Kalam, to be quite at
+ease in the hotel’s luxurious surroundings. And quite disconcertingly, he
+appeared to almost look straight through Kalam, as if he were not there at all.
+Despite his aloofness, there was some magnetism in this man, and it
+distracted Kalam from his reading. He was saved from his distraction soon
+
+enough, however, by Dr Sarabhai’s secretary, who stepped into the lobby and
+announced that Dr Sarabhai was ready to meet ‘them’. Who was this man? In
+whichever way he was connected to Dr Sarabhai, why should Dr Sarabhai meet
+them together, wondered Kalam. Dr Sarabhai received them with his
+characteristic charm and introduced them to each other. ‘Good morning,
+gentlemen. Kalam is my colleague in Space; Kalam, he is Group Captain
+Narayanan from Air Headquarters.’
+Dr Sarabhai ordered coffee and outlined his plan of developing a rocketassisted take-off (RATO) system for military aircraft. This would help our
+warplanes to take off from short runways in the Himalayas, he informed his
+contrasting guests. Hot coffee arrived, and Dr Sarabhai most graciously engaged
+his young guests in light conversation. As soon as the coffee and discussion
+concluded, Dr Sarabhai rose to his feet and asked them to accompany him to the
+Tilpat Range, near Faridabad, south of Delhi.
+It was about an hour’s drive to the range, which was functioning at the time as
+an Air Force Depot. Dr Sarabhai showed them a Russian RATO plane parked
+there. It was not covered, and Kalam felt that it had only just arrived, perhaps as
+recently as a day earlier. ‘Rockets have been used simply to assist the main
+propulsion in the form of rocket-assisted take-off. Because of the heavy
+propellant use and the various practical difficulties of operating rockets, the
+majority of rocket planes have been built for experimental use, as interceptor
+fighters and space aircraft.’
+Dr Sarabhai spoke to the two younger men with the ease and fluency of a
+master teacher. ‘If I get you guys the rockets for study, would you be able to
+make indigenous equivalents and mount them on our HF-24 aircraft in eighteen
+months’ time?’ ‘Yes, we can,’ both men affirmed simultaneously. Dr Sarabhai’s
+face beamed, reflecting their enthusiasm. He dropped them back outside the
+Ashok Hotel and proceeded for his breakfast meeting with the prime minister. In
+an instant, Kalam understood the reasonableness behind the unreasonable
+meeting time of 3.30 a.m.
+The next day’s newspapers carried a story on India taking up the indigenous
+development of rocket-assisted take-off aircraft. Kalam realized that for the first
+time in his life, he was working not for a project, his organization or even an
+enlightened boss like Dr Sarabhai. He was working for his country. He was
+
+working for India. It was a thrilling feeling, one that Kalam had never had
+before. He understood now that patriotism is much more than a conviction that
+your country is superior to all others because you were born in it. He trembled
+when he heard of the confidence that had been expressed in him.
+The next day he went to the library of the National Defence College on Tees
+January Marg and sat for a few hours to learn about RATO aeroplanes. Rocketpowered flight was pioneered in Germany. The first aircraft to fly under rocket
+power was the Lippisch Ente (‘Duck’ in German), in 1928. The first rocket plane
+ever to be mass-produced was the Messerschmitt Me163 interceptor in 1944, one
+of several German World War II attempts at rocket-powered aircraft. Russians
+flew the Bereznyak-Isayev BI-1 in 1942. The Japanese also produced
+approximately 850 Yokosuka MXY-7 Ohka rocket-powered suicide-attack
+aircraft in World War II.
+In 1947, the rocket-powered Bell X-1 was the first aircraft to break the speed
+of sound in level flight and the first of a series of National Advisory Committee
+for Aeronautics (NACA)/NASA rocket-powered aircraft. The North American
+X-15 and X-15A-2 designs were used for around a decade and eventually
+reached Mach 6.7 and over 100 kilometres in altitude. In the 1950s, the British
+developed mixed-power designs to augment the performance of the then current
+turbojet designs. The rocket was employed in short bursts to deliver the speed
+and height required for high-speed interception of high-level bombers, and the
+more efficient turbojet engine was otherwise used. Increased turbojet engine
+output, the advent of missiles and advances in radar had rendered this
+configuration obsolete by the time of Kalam’s meeting at the Ashok Hotel. But
+in order to defend the high altitude of its territory, from short runways in the
+Himalayas, India needed its own RATO planes.
+The Russian RATO system shown to Kalam and Narayanan at the Tilpat
+Range was capable of generating a 3000 kgf thrust with a total impulse of
+24,500 kilogram seconds. It weighed 220 kilograms, and had a double-based
+propellant encased in steel. The development work was to be carried out at the
+Space Science and Technology Centre (SSTC) where Kalam was working with
+the Defence Research and Development Organization (DRDO), HAL, DTD&P
+(Air), and Air Headquarters where Narayanan was posted. The project relied on
+cooperation between organizations and people, and it suited Kalam admirably.
+
+Kalam always believed in the sanctity of institutions. India’s ancient civilization,
+he felt, had survived invasion, colonial rule and all manner of setbacks because
+its people lived as members of institutions – of families and communities –
+rather than as individuals. Indian people derived meaning in their lives not from
+their individual strength, but from living in harmonious social relationships.
+By this time, Kalam knew that technology is only purposeful with reference
+to people, who must use it for their benefit. He knew full well that any promising
+early-stage technologies developed in the laboratories require ‘maturation’, in
+the form of additional development, testing, prototyping, and eventually their
+intended application. He therefore opted for a composite structure for the RATO
+motor, using filament fibreglass and epoxy. The filament winding machine
+facility was fully operational, and he needed a good ‘product’ to make it mature.
+He decided to use another two nascent technologies in the project, namely
+composite propellant with event-based ignition and a real-time jettisoning
+system.
+The first static test of the RATO motor was conducted in February 1969.
+Another sixty-four tests followed in the next four months. All this was
+accomplished with only twenty engineers working on the project – and some
+astute management. The marriage of technology and human skills holds infinite
+promise, but it is hard to properly realize. Through the RATO project, Kalam
+learned the secret of managing technology-intensive projects. Failure of these
+most often lies in the execution, specifically the mishandling of the technology.
+Lack of knowledge and inadequacy of skills lead to this mishandling.
+Knowledge and skills must therefore be fostered for success: knowledge comes
+from learning; skills come by doing. And there are no short cuts here.
+RATO brought forth a more profound understanding of leadership in Kalam.
+Dr Sarabhai fascinated him, and Kalam’s admiration for his boss bordered on
+idolization; but he felt no wish to emulate his inimitable style. Working on the
+RATO helped Kalam realize that leadership was something that could be learned
+and developed over time. Leadership was a function of specific internal
+processes and interpersonal skills that are accessible to everyone, not only a
+select few. The perceptions, behaviours and skills that individuals integrate to
+motivate others to action play a critical role in the success or failure of new
+ventures, projects and goals. In order to master these skills, individuals must
+
+view them as competencies – behaviours that require careful reflection,
+evaluation and practice.
+Kalam shared with me four internally oriented and four externally oriented
+competencies. ‘It is useless to go for externally oriented competencies without
+working on internally oriented ones,’ he would say. The internal work includes
+gaining self-awareness, asking powerful questions, communicating with a
+purpose and developing an entrepreneurial mindset. The externally oriented
+competencies that follow the internal mastery are how to manage and mobilize
+change, how to collaborate with others, leverage differences to maximize
+performance and become more resilient and adaptable.
+Two significant developments occurred during the RATO project. The first
+was the release of a ten-year profile for space research in the country by Dr
+Sarabhai. This document made it clear that the long-term priorities of the ISRO
+would be linked to national development. Telecommunications, remote sensing
+for resource surveys and meteorology were the areas identified where ISRO
+would best serve the nation’s progress. Furthermore, the active international
+cooperation dominant in the early years of the Indian space programme was to
+be dispensed with. The organization would now become largely self-reliant; its
+work would revolve around the development and deployment of more
+indigenous technology.
+Kalam was a pioneer of this swadeshi space programme, and the new regime
+was especially favourable for his resourceful, self-motivated approach. He had
+proved his mettle with the RH-75 rocket project, which had indeed inspired
+confidence in the halls of power to take the ISRO in this bold new direction.
+From now, the ISRO’s objectives would have to be realized by the designing,
+fabricating and launching of Indian satellites, including geosynchronous ones,
+with Indian launch vehicles.
+The second development was the formation of a Missile Panel in the Ministry
+of Defence. Kalam was invited as a member of the panel with Narayanan. The
+bitter lessons of the 1962 war had been duly noted. The national leadership felt
+there was now little choice but to pursue a similar swadeshi approach to
+developing military hardware and weapon systems. To cater for immediate
+demands of national defence until indigenous systems could be deployed, a large
+number of Surface-to-Air Missiles (SAMs) were obtained from Soviet Russia.
+
+Narayanan was appointed director of Defence Research and Development
+Laboratory (DRDL), Hyderabad, to fast-track the development of indigenous
+missile systems.
+While working together on RATO motors and on the Missile Panel, Kalam
+and Narayanan alternately played the roles of student and teacher, as demanded
+by the situation. Narayanan was very eager to learn about rocketry, and Kalam
+was very curious to know about airborne weapon systems. Opposites in many
+ways, they had much to learn from each other, even in terms of their approaches
+to tasks, though they were equally focused on their work. Kalam would later
+write admiringly of Narayanan’s commitment to the duties before him:
+The depth of Narayanan’s conviction and his force of application were inspiring. Right from the day
+of our pre-dawn visit to the Tilpat Range with Dr Sarabhai, Narayanan was always busy with the
+RATO motor. He had arranged everything that was required before being asked. ‘You name the
+thing and I will get it for you, but do not ask for time,’ he said. At times, I laughed at his
+impatience.2
+
+When Kalam compiled the Bill of Material for the RATO motor, he realized that
+virtually nothing indigenous was available. He felt despondent. Was there no
+remedy or alternative? Would the Indian nation be doomed forever to the farce
+of ‘screwdriver science’ – importing and assembling other countries’ creations?
+Could a developing country afford to produce this kind of technology?
+Kalam identified procurement procedures as the root of indigenous
+development woes. He enumerated seven points, or seven liberties he proposed
+be granted him. These were: single-point financial approval and no up-and-down
+movement of paper in the bureaucratic hierarchy; air travel for all people on
+work irrespective of their rank-based entitlement; accountability to only one
+person; lifting of goods by air cargo; involvement of the private sector wherever
+possible; placement of orders based on technical competence and not on the
+lowest price; and expeditious accounting procedures. None of the seven points
+were scientific, but the lack of such proactive approaches was hampering
+science’s progress in the country.
+Such demands were unheard of in government establishments. But if the
+RATO project was an entirely new game, what was wrong with a new set of
+rules? How could procedures laid down by colonial officers – and premised on a
+
+fundamental mistrust of Indian people – continue to be employed in the vain
+hope that projects of national importance would be accomplished? When Dr
+Sarabhai stipulated an eighteen-month deadline for delivering an indigenous
+RATO system, could he give the freedom to work efficiently? And Dr Sarabhai
+did. Upon hearing Kalam’s plea for administrative liberalization – and seeing the
+inherent sense of his proposals – Dr Sarabhai approved the seven-point plan
+without a second thought.
+That day, Kalam learned from Dr Sarabhai that trust is the basis of all
+business. If trust is lacking, the parties involved must take the necessary steps to
+allow it to improve. The foundation of trust should permeate every aspect of
+your organization. Work on RATO progressed without glitches thereafter, and it
+indeed became a glowing success story of indigenization.
+RATO taught Kalam the power of integrity and the importance of truthful
+communication. Its success was largely due to its treating people in the
+organization as deserving to know the facts. Dr Sarabhai knew that you cannot
+give your staff half the story. You cannot hide the story. You must treat them as
+true equals. And as you communicate honestly and you communicate truthfully
+and you communicate with respect, your people will work for you to the best of
+their ability; they will work for you whenever you need them, and they will work
+harder than you have requested. With this lesson, it was time for Kalam to now
+move on to another plane.

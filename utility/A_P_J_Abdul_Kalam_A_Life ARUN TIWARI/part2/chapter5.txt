@@ -1,0 +1,260 @@
+Crystal Cathedral
+
+Never cut a tree down in the wintertime. Never make a negative decision in the low time.
+Never make your most important decisions when you are in your worst moods. Wait. Be
+patient. The storm will pass. The spring will come.
+– Robert H. Schuller
+Christian evangelist and author
+
+he DRDO had acquired approximately 2,100 acres of land in the 1970s for
+the purpose of developing a range for anti-tank missile testing. The land was
+in the Pahadi Shareef area near Hyderabad, famous for the dargah of Hazrat
+Syedna Baba Sharfuddin of the Chisti lineage of saints. But for a dilapidated
+building in that area called Imarat, the entire landscape is dominated by ancient
+rock formations, which are around 2,500 million years old and considered
+amongst the oldest and hardest rocks in the world. Kalam later recalled his
+impressions of the place:
+
+T
+
+The terrain was barren – there were hardly any tress – and dotted with large boulders typical of the
+Deccan plateau. I felt as if there was some tremendous energy trapped in these stones. I decided to
+establish a model high-technology research centre here … this became my mission.1
+
+Dr Kalam was mindful that his primary challenge in the IGMDP was the
+development of requisite basic technologies. Missile development without an
+adequate technological foundation would be doomed to failure. It was indeed
+imperative that front-line research was conducted in areas such as special
+materials, embedded electronics and software. These would comprise the
+bedrock upon which an ambitious missile programme could be successfully
+constructed. Moreover, facilities for testing and evaluating missile systems
+would be required. Dr Kalam invited Prime Minister Rajiv Gandhi to lay the
+
+foundation stone for the new facility in August 1985. It was named Research
+Centre Imarat (RCI).
+The RCI would test and evaluate missile components, modules, subassemblies, major sub-assemblies and completely integrated missiles in order to
+weed out design, fabrication and integration deficiencies. For these purposes, the
+centre would have an inertial instrumentation laboratory, full-scale
+environmental and electronic warfare test facilities, a composites production
+centre, a high enthalpy facility and a state-of-the-art missile integration and
+checkout centre. This was going to be a Herculean task. Dr Kalam invited M.V.
+Suryakantha Rao to lead this effort, with a younger Krishna Mohan to assist him.
+In accordance with the established procedure, Dr Kalam approached the
+Military Engineering Services (MES) to perform the construction work for the
+RCI. The MES informed him that they would require five years to complete the
+necessary building infrastructure. Dr Kalam immediately took the matter to the
+highest levels in the defence ministry, knowing that years of delay would hamper
+the RCI’s progress beyond redemption. He secured a landmark decision to give
+the contract for the works to MECON Limited, a public sector company under
+the Ministry of Steel, Government of India. MECON, based at Ranchi, was
+India’s front-line engineering, consultancy and contracting organization. Dr
+Kalam sought their full range of services, from concept to commissioning,
+including turnkey execution.
+As the next logical step, Dr Kalam looked for a suitable site for missile flight
+trials. The search concluded near Balasore, a town in northern Orissa. Here,
+Proof and Experimental Establishment (PXE), Chandipur, had been set up in
+1895, and it was decided to create the new test range around its campus. The
+PXE range had unique characteristics. The water receded at low tide to a
+distance of about 3 km from the shore, which provided a temporary stretch of
+hard seabed suitable for various firing operations. The seawater and the
+underlying seabed would provide a soft cushion for the fired projectiles and
+make the launch vehicle’s recovery easy, both of which were required to
+examine the missiles’ strength of design. At low tide, the seabed would become
+sufficiently hard to allow movement of loaded vehicles, and even tanks, during
+range operations. Dr Kalam felt that the site fitted the requirements of a proof
+range admirably.
+
+Dr Kalam visited the site for a personal inspection. He stood at the seashore.
+The tide had receded. He saw many children, barefoot and running on the hard,
+warm sand, searching for brass parts of the shells that had been fired by PXE the
+previous day. His childhood years flooded his mind, when he would go door to
+door collecting tamarind seeds and delivering newspapers. He reflected that
+almost half of the world’s population lives in rural regions – and mostly in a
+state of poverty. Inequalities in human development have been one of the
+primary reasons for unrest and, in some parts of the world, even violence. But
+then poverty is not only being hungry, naked and homeless. The poverty of being
+unwanted, unloved and uncared for is the greatest poverty – and is even crueller.
+He resolved in his heart that someday he would work for making children cared
+for.
+It was not easy to travel to Balasore. Dr Kalam would reach Calcutta by air
+and from there travel by car to the town. The parlous condition of the road would
+make the 250-km journey an odyssey of eight bone-jarring hours, or even more
+at times. Once, there was complete road block near Kharagpur, and Dr Kalam
+had to take a diversion into the forest area at night. He was dozing with his eyes
+half closed, somewhere between Bhagabanpur and Patashpur, when the driver
+braked suddenly. Dr Kalam immediately awoke, startled. A barasingha (swamp
+deer) was standing in the middle of the road, unmoving, its fiery red-orange eyes
+staring at the car through the darkness. Its unbroken gaze, which seemed to aim
+right through to him in the car, haunted Dr Kalam for the rest of his visit.
+Prime Minister Indira Gandhi visited DRDL on 19 July 1984. Dr Kalam had
+met the prime minster on several prior occasions, but this time he would be
+receiving her on behalf of his laboratory. Dr Kalam noticed the friendship
+between Dr Sarabhai and Prime Minister Nehru, and how it helped Dr Sarabhai
+progress with his vision for aerospace in India. The prime minister asked pointed
+questions. She appeared determined to see more practical results from the state’s
+investment; she obviously viewed science as much more than a lofty pastime of
+academics and schoolchildren. But she was also quite prepared to redesign
+institutions to achieve more synergy between science and technology, and took a
+direct interest in key scientific appointments.
+What Dr Kalam realized was that although she retained her father’s respect
+for science and scientists, she had also learned much after his death and now
+
+linked ‘science’ more strongly to ‘technology’. She congratulated Dr Kalam for
+taking a decision to not import high-tech facilities and taking the hard but
+ultimately more rewarding route of achieving his goals with Indian industry and
+people. Dr Kalam told her, ‘Madam, even we want to purchase materials from
+overseas; but no one will sell them to us. The Western countries are jealously
+guarding their technology.’ Prime Minister Indira Gandhi told Kalam, ‘Put them
+in their place.’
+Dr Kalam’s flair for bringing people from different walks of life together and
+inspiring them for a common purpose, would again come into play. Dr V.S.
+Arunachalam organized a conference on IGMDP on 27 September 1984. Dr
+Kalam invited around 100 academicians and industry captains and solicited their
+partnership in the missile development programme. Dr Kalam said,
+Technology development, its further adaptation and application has never been a very
+straightforward process. A successful technological innovation requires a strong interactive
+mechanism, complete with the feedback loop for various stakeholders, for example – industry,
+extraneous knowledge sources, inspection and certification agencies and most importantly, the users
+or the market. However, the problems become acute in a rapidly changing technological and
+economic environment. The Space and Atomic Energy programme has elevated India to a stage
+where the country has demonstrated some remarkable strengths in modern technologies for
+achieving development goals. There exists a chain of national laboratories, specialized research and
+development agencies, Indian Institutes of Technology (IITs), universities and other academic
+institutions of higher learning, which are capable of providing world-class expertise, technically
+trained manpower and technological support to the industry. Let us join our hands in developing
+world class missiles together.
+
+Until this time, there had been a great chasm between government laboratories
+and academicians. On one side was the status consciousness of the government
+scientists turned officials, and as a counterforce there was the intellectual
+arrogance of the academicians. On that day, Dr Kalam indeed bridged that
+divide, and in the process won many hearts.
+By the summer of 1985, all the groundwork had been completed for building
+RCI. Prime Minister Rajiv Gandhi laid the foundation stone of the RCI on 3
+August 1985. The prime minister told the DRDL family that he understood the
+hardships faced by Indian scientists and expressed his gratitude towards those
+who persevered, staying in their own country to work. He said that nobody could
+
+concentrate on the demands of scientific work, unless he is free from the
+trivialities of daily life. Further, he promised his wholehearted support to make
+RCI a truly world-class centre in terms of working environment and amenities.
+Kalam noted some differences between the new prime minister and his mother:
+There was a childlike curiosity in him (Rajiv Gandhi) … The grit and determination displayed by
+his mother was also present in him, although with a small difference. Madam Gandhi was a
+taskmaster, whereas Prime Minister Rajiv Gandhi used his charisma.2
+
+MECON acquitted themselves well in their construction of the magnificent RCI
+campus, finishing the work without any time delay or financial overruns.
+President R. Venkataraman inaugurated the laboratory on 27 August 1988. It was
+indeed the vision to develop technologies and systems rather than particular
+missiles that had made the organization’s accomplishments possible. President
+Venkataraman held Dr Kalam’s hand for a long time and told him that he was
+indeed proud of his achievements. He advised Dr Kalam to focus on small and
+medium enterprises and encourage them to carry out innovations at the
+developmental level.
+Invited by the US Air Force, Dr Kalam visited the United States in September
+1988 with Dr Arunachalam, Dr Roddam Narasimha of National Laboratory and
+K.K. Ganapathy of HAL. The Aeronautical Development Agency (ADA) was
+established to manage the LCA (Light Combat Aircraft) programme, and it was
+seeking the supply of the General Electric F-404 engines for the future Light
+Combat Aircraft project of India. The four veteran scientist engineers used the
+long-haul flight to the USA to reflect on the self-reliance of Indian strategic
+sectors. While the better part of the forces’ low-technology military equipment
+was provided by the ordnance factories, India was still critically dependent on
+Western sources to meet its growing requirement for high-technology
+armaments. Only concerted efforts – partnerships between government, industry
+and educational sectors – could hope to address this glaring strategic
+vulnerability.
+After finishing work at the Pentagon in Washington DC, the team flew to San
+Francisco on their way to Los Angeles for a meeting with Northrop Corporation,
+the United States’ leading aircraft manufacturer. Dr Kalam utilized this
+opportunity to visit Crystal Cathedral, built by his favourite author, Robert
+
+Schuller. Crystal Cathedral is a stunning modern church of titanic proportions,
+constructed in 1980 in Orange County, Los Angeles. Dr Kalam saw the Research
+Centre Imarat as his own Crystal Cathedral, and he prayed to God in gratitude
+for its completion.
+Dr Kalam held the religious places of all faiths in the highest esteem. He
+realized early in his life that visiting places of spiritual importance brings people
+in contact with others following a spiritual path, and this creates a sort of
+resonance. Dr Kalam told me once that saints and sages can indeed help us by
+giving their association and sharing their spiritual knowledge and realizations.
+Thus, it is of prime importance to align our lives with their revelations, so that
+we can also make spiritual progress.
+By this time, Dr Kalam had started spending most of his time at RCI. A villa
+was constructed for him in the guest house complex. Dr Kalam had a childlike
+fascination with the full moon. He used to tell me that the full moon was a time
+when mysterious things happen and wishes come true. There was a large tree in
+the compound, and Dr Kalam loved to sit under the tree alone late on full moon
+nights. On one such moonlit night, perhaps Dr Kalam visualized RCI as a worldclass avionics centre.
+Dr Kalam ensured that, like the Crystal Cathedral, everything about the RCI
+was outsized: its campus, its deer population, the density of its trees, the
+buildings that house its laboratories and its arched main entrance. He was
+convinced that the proportions of the campus would inspire expansive dreams
+for its scientists, to lead the country forward into the new millennium.
+And he knew that a scientist, of all people, must have a dream or vision. Dr
+Kalam was not sure when he conceived his idea of the re-entry test vehicle REX,
+exactly how it would be achieved. But like any good scientist, he was well
+versed in the physics of re-entry and knew the principles that would allow a
+missile re-entering the atmosphere to endure its searing trajectory.
+Dr Kalam learned, at the Goddard Centre in 1963, the concept of the ablative
+heat shield described first in 1920 by Robert Goddard, based on his study of
+meteors. Goddard understood that although meteors entering the atmosphere at
+the ‘Karman Line’ (around 100 km above sea level) usually meet a fiery end and
+disintegrate, this is not due only to the heat factor. While a meteor would enter
+the atmosphere at a typical speed as high as 30 miles per second, and massive
+
+heat of friction is thus generated, the interior of the meteor would remain cold.
+The erosion and destruction of the meteor is due largely to chipping and cracking
+of the suddenly heated surface. The ramifications of Goddard’s discovery were
+enormous for aerospace development.
+The Agni missile payload would be delivered at hypersonic speed, but
+considerably slower than a falling meteor. This nevertheless called for the design
+and development of a re-entry vehicle structure that could cope with the
+scorching heat of the atmospheric drag and aerodynamic heating of atmospheric
+re-entry. In this way, the missile would not meet the fate of the regular meteor as
+it falls towards earth. Ablative thermal protection systems were thus required for
+the re-entry vehicles, wherein thermal energy would be expended by way of
+sacrificing the material. It would protect the payload by keeping the inside
+temperature below a limit of 40° Celsius, when the temperature of the outside
+skin would be greater than 2,500°C. An inertial navigation system with the onboard computer could then guide the payload to the target location.
+Dr Kalam needed a team to develop the carbon-carbon composite material for
+the nose and carbon-phenolic material for the after body. Dr Kalam also needed
+an especially skilled team for the development of finite-element-based software
+to model the surface recession (ablation) with time. Two models were required to
+study the chemical and mechanical aspects of ablation. First, for the material
+removal by oxidation of carbon at high temperatures (chemical ablation) using
+analytical expressions and second, erosion of carbon-phenolic layered material
+by aerodynamic surface shear (mechanical ablation). With all the relevant
+testing, a consortium of four DRDO and the CSIR laboratories accomplished the
+task of building the Agni missile re-entry structure, in the short span of eighteen
+months.
+Another challenge involved in the Agni payload design related to the
+tremendous speed with which it would re-enter the atmosphere. This was
+estimated at twelve times the speed of sound. At this speed, there was no
+knowing how to keep the vehicle under control. And to carry out a test to
+ascertain its behaviour, there was no wind tunnel capable of generating speeds of
+that order. Dr Kalam again found himself having to circumvent the limitations of
+indigenous technology and scientific infrastructure:
+If we sought American help, we would have been seen as aspiring to something they considered
+
+their exclusive privilege. Even if they consented to cooperate, they would be certain to quote a price
+for their wind tunnel test greater than our entire project cost.3
+
+He found the solution with Prof. S.M. Deshpande at the IISc. With four young
+scientists working in the field of computational fluid dynamics, Prof. S.M.
+Deshpande developed a unique software that simulated hypersonic conditions,
+not available anywhere in the world. This creative approach to negotiating the
+countless barriers imposed by the Western bloc was the hallmark of the Agni
+missile project’s success, and the ingenious efforts of Dr Kalam and his team
+effectively nullified the embargo of the Missile Technology Control Regime.
+While the Western world was guarding every facet of its technology, Dr Kalam
+was creating his own technology to achieve India’s national defence imperatives.
+Dr Kalam never allowed problems to defeat him. He faced problems head-on
+and defeated them with his innovative methods – and by seeking appropriate
+help from appropriate people. As a manager, Dr Kalam explored the potential of
+the non-cognitive factors – attributes, dispositions, social skills, attitudes, and
+intrapersonal resources – of the people around him. He was particularly
+interested in employing those factors that high-achieving individuals draw upon
+to accomplish success. Within his discipline, Dr Kalam presented a role model to
+hundreds of scientists of his time in grit, tenacity and perseverance.
