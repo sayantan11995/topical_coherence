@@ -1,0 +1,3128 @@
+{
+    "london": [
+        "1962",
+        "2001",
+        "1976",
+        "2005",
+        "2007",
+        "2012"
+    ],
+    "united states": [
+        "1962",
+        "1947",
+        "1958",
+        "1968",
+        "1971",
+        "1975",
+        "1974",
+        "1988",
+        "1985",
+        "1990",
+        "1997",
+        "1998",
+        "2002",
+        "2005",
+        "2007",
+        "2008",
+        "2013"
+    ],
+    "delhi": [
+        "1962",
+        "1931",
+        "1947",
+        "1951",
+        "1958",
+        "1968",
+        "1971",
+        "1974",
+        "1990",
+        "1992",
+        "1997",
+        "2003",
+        "1976",
+        "2004",
+        "2007",
+        "2008",
+        "2012",
+        "2013",
+        "2015"
+    ],
+    "china": [
+        "1962",
+        "1958",
+        "1968",
+        "1971",
+        "1975",
+        "1974",
+        "1988",
+        "1990",
+        "1997",
+        "1998",
+        "2002",
+        "2003",
+        "1976",
+        "2004",
+        "2013",
+        "2015"
+    ],
+    "cuba": [
+        "1962",
+        "1971"
+    ],
+    "moscow": [
+        "1962",
+        "1997",
+        "2002",
+        "2005",
+        "2006"
+    ],
+    "kanpur": [
+        "1962",
+        "1958",
+        "1992",
+        "2006",
+        "2007",
+        "2012"
+    ],
+    "ramanathapuram": [
+        "1931",
+        "1947",
+        "1951"
+    ],
+    "arcot": [
+        "1931",
+        "1947"
+    ],
+    "sri lanka": [
+        "1931",
+        "1951",
+        "2003"
+    ],
+    "madras": [
+        "1931",
+        "1956",
+        "1958",
+        "1975",
+        "1974",
+        "1992",
+        "2001",
+        "2003"
+    ],
+    "australia": [
+        "1947",
+        "2002",
+        "2004",
+        "2012"
+    ],
+    "madurai": [
+        "1947",
+        "1951",
+        "1974",
+        "1990",
+        "1976"
+    ],
+    "independence": [
+        "1947",
+        "1956",
+        "1958",
+        "1992",
+        "2001",
+        "2002",
+        "2003",
+        "1976",
+        "2004",
+        "2005",
+        "2006"
+    ],
+    "tirunelveli": [
+        "1947"
+    ],
+    "america": [
+        "1947",
+        "1968",
+        "2004",
+        "2005"
+    ],
+    "sivaganga": [
+        "1947",
+        "1951"
+    ],
+    "canada": [
+        "1947",
+        "1975",
+        "1988",
+        "2001",
+        "2003",
+        "1976",
+        "2005",
+        "2008",
+        "2012"
+    ],
+    "new delhi": [
+        "1947",
+        "1958",
+        "1990",
+        "1992",
+        "1997",
+        "1998",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2012",
+        "2013",
+        "2015"
+    ],
+    "pakistan": [
+        "1947",
+        "1988",
+        "1990",
+        "1997",
+        "1998",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2013"
+    ],
+    "noakhali": [
+        "1947"
+    ],
+    "germany": [
+        "1947",
+        "1956",
+        "1968",
+        "1975",
+        "1988",
+        "2001",
+        "2003"
+    ],
+    "ireland": [
+        "1947",
+        "2007",
+        "2012"
+    ],
+    "france": [
+        "1947",
+        "1958",
+        "1971",
+        "1975",
+        "1974",
+        "1988",
+        "1990",
+        "1992",
+        "1997",
+        "1998",
+        "2003",
+        "2005",
+        "2007"
+    ],
+    "hiroshima": [
+        "1956",
+        "1958",
+        "1998"
+    ],
+    "nagasaki": [
+        "1956",
+        "1998"
+    ],
+    "austria": [
+        "1956"
+    ],
+    "mussoorie": [
+        "1958"
+    ],
+    "roorkee": [
+        "1958"
+    ],
+    "allahabad": [
+        "1958"
+    ],
+    "japan": [
+        "1958",
+        "1988",
+        "2001",
+        "2002",
+        "1976",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2013"
+    ],
+    "farrukhabad": [
+        "1958"
+    ],
+    "myanmar": [
+        "1958",
+        "2005",
+        "2006"
+    ],
+    "meerut": [
+        "1958",
+        "2008",
+        "2012"
+    ],
+    "mysore": [
+        "1958",
+        "2005"
+    ],
+    "rishikesh": [
+        "1958"
+    ],
+    "bomdila": [
+        "1958"
+    ],
+    "algeria": [
+        "1958"
+    ],
+    "dehradun": [
+        "1958"
+    ],
+    "mumbai": [
+        "1968",
+        "2001",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "greenbelt": [
+        "1968",
+        "2007"
+    ],
+    "washington": [
+        "1968",
+        "2008"
+    ],
+    "brazil": [
+        "1968",
+        "1997",
+        "2004",
+        "2013"
+    ],
+    "virginia": [
+        "1968"
+    ],
+    "maryland": [
+        "1968",
+        "2007",
+        "2013"
+    ],
+    "russia": [
+        "1968",
+        "1975",
+        "1992",
+        "1997",
+        "2003",
+        "2004",
+        "2005",
+        "2007"
+    ],
+    "hampton": [
+        "1968"
+    ],
+    "ahmedabad": [
+        "1968",
+        "1971",
+        "2003",
+        "2004",
+        "2005",
+        "2013",
+        "2015"
+    ],
+    "trivandrum": [
+        "1968",
+        "1971",
+        "1975",
+        "1974",
+        "1992"
+    ],
+    "faridabad": [
+        "1968"
+    ],
+    "nagercoil": [
+        "1971"
+    ],
+    "geneva": [
+        "1971"
+    ],
+    "hyderabad": [
+        "1971",
+        "1974",
+        "1988",
+        "1985",
+        "1992",
+        "2001",
+        "2002",
+        "2003",
+        "1976",
+        "2005",
+        "2006",
+        "2007",
+        "2013"
+    ],
+    "dubai": [
+        "1975",
+        "2003",
+        "2008"
+    ],
+    "frascati": [
+        "1975"
+    ],
+    "spain": [
+        "1975",
+        "2001"
+    ],
+    "madrid": [
+        "1975"
+    ],
+    "paris": [
+        "1975",
+        "1976"
+    ],
+    "lahore": [
+        "1975"
+    ],
+    "darmstadt": [
+        "1975"
+    ],
+    "italy": [
+        "1975",
+        "1988",
+        "2001",
+        "2007"
+    ],
+    "villanueva": [
+        "1975"
+    ],
+    "cologne": [
+        "1975"
+    ],
+    "netherlands": [
+        "1975",
+        "2007"
+    ],
+    "libya": [
+        "1988"
+    ],
+    "seattle": [
+        "1988",
+        "2008"
+    ],
+    "saudi arabia": [
+        "1988",
+        "2003",
+        "2006"
+    ],
+    "philippines": [
+        "1988",
+        "2006"
+    ],
+    "pune": [
+        "1988",
+        "2002",
+        "2005",
+        "2006"
+    ],
+    "iraq": [
+        "1988",
+        "1997"
+    ],
+    "los angeles": [
+        "1985",
+        "2007"
+    ],
+    "ranchi": [
+        "1985",
+        "2001"
+    ],
+    "balasore": [
+        "1985",
+        "1990",
+        "1998",
+        "2001"
+    ],
+    "kharagpur": [
+        "1985"
+    ],
+    "israel": [
+        "1990",
+        "1997",
+        "2007"
+    ],
+    "kuwait": [
+        "1990"
+    ],
+    "indonesia": [
+        "1990",
+        "2002",
+        "2004",
+        "2007"
+    ],
+    "singapore": [
+        "1990",
+        "2002",
+        "2006",
+        "2008"
+    ],
+    "beijing": [
+        "1990",
+        "2007",
+        "2013",
+        "2015"
+    ],
+    "jaipur": [
+        "1992",
+        "2003",
+        "2006"
+    ],
+    "brig": [
+        "1992"
+    ],
+    "ghaziabad": [
+        "1992"
+    ],
+    "visakhapatnam": [
+        "1992",
+        "2006"
+    ],
+    "koraput": [
+        "1992"
+    ],
+    "west": [
+        "1998",
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+    ],
+    "algiers": [
+        "1998"
+    ],
+    "jammu": [
+        "1998",
+        "2003",
+        "2005",
+        "2007"
+    ],
+    "north": [
+        "1998",
+        "2001"
+    ],
+    "chennai": [
+        "2001",
+        "2002",
+        "2003",
+        "1976",
+        "2004",
+        "2006",
+        "2007",
+        "2013",
+        "2015"
+    ],
+    "yokohama": [
+        "2001"
+    ],
+    "jerusalem": [
+        "2001"
+    ],
+    "chicago": [
+        "2001",
+        "2002",
+        "2007",
+        "2008",
+        "2012"
+    ],
+    "lebanon": [
+        "2001"
+    ],
+    "vancouver": [
+        "2001",
+        "2012"
+    ],
+    "cuttack": [
+        "2001"
+    ],
+    "lucknow": [
+        "2001",
+        "2003",
+        "2012"
+    ],
+    "mainpuri": [
+        "2001",
+        "2004"
+    ],
+    "anand": [
+        "2001",
+        "2002"
+    ],
+    "new york": [
+        "2001",
+        "2007",
+        "2008"
+    ],
+    "ajmer": [
+        "2001"
+    ],
+    "puttaparthi": [
+        "2002"
+    ],
+    "kanchipuram": [
+        "2002"
+    ],
+    "boston": [
+        "2002"
+    ],
+    "taiwan": [
+        "2002"
+    ],
+    "shillong": [
+        "2002",
+        "2005",
+        "2015"
+    ],
+    "union": [
+        "2002",
+        "2005",
+        "2007"
+    ],
+    "bhopal": [
+        "2002"
+    ],
+    "kailashahar": [
+        "2002"
+    ],
+    "latur": [
+        "2002"
+    ],
+    "kollam": [
+        "2002"
+    ],
+    "imphal": [
+        "2002"
+    ],
+    "bangladesh": [
+        "2002",
+        "1976",
+        "2006",
+        "2007"
+    ],
+    "guindy": [
+        "2002"
+    ],
+    "navarre": [
+        "2002"
+    ],
+    "agartala": [
+        "2002"
+    ],
+    "bali": [
+        "2002"
+    ],
+    "gandhinagar": [
+        "2002",
+        "2003",
+        "2004",
+        "2015"
+    ],
+    "kochi": [
+        "2002",
+        "2004"
+    ],
+    "gaya": [
+        "2003"
+    ],
+    "oman": [
+        "2003"
+    ],
+    "south sudan": [
+        "2003"
+    ],
+    "gurgaon": [
+        "2003"
+    ],
+    "vasai": [
+        "2003"
+    ],
+    "faizabad": [
+        "2003"
+    ],
+    "egypt": [
+        "2003"
+    ],
+    "mandya": [
+        "2003",
+        "2006"
+    ],
+    "persia": [
+        "2003"
+    ],
+    "bulgaria": [
+        "2003",
+        "2007"
+    ],
+    "bijapur": [
+        "2003"
+    ],
+    "pleven": [
+        "2003"
+    ],
+    "surat": [
+        "2003"
+    ],
+    "india": [
+        "2003",
+        "1976",
+        "2004",
+        "2005",
+        "2007",
+        "2008",
+        "2012",
+        "2013",
+        "2015"
+    ],
+    "guyana": [
+        "2003"
+    ],
+    "sofia": [
+        "2003"
+    ],
+    "hubli": [
+        "2003"
+    ],
+    "haryana": [
+        "2003",
+        "2004",
+        "2007"
+    ],
+    "england": [
+        "1976",
+        "2004"
+    ],
+    "durban": [
+        "1976",
+        "2007"
+    ],
+    "darjeeling": [
+        "1976"
+    ],
+    "rangpur": [
+        "1976"
+    ],
+    "cambridge": [
+        "1976"
+    ],
+    "baroda": [
+        "1976"
+    ],
+    "goa": [
+        "2004"
+    ],
+    "partapur": [
+        "2004"
+    ],
+    "kabul": [
+        "2004"
+    ],
+    "senegal": [
+        "2004"
+    ],
+    "chittagong": [
+        "2004"
+    ],
+    "jamshedpur": [
+        "2004"
+    ],
+    "central": [
+        "2004"
+    ],
+    "zanzibar": [
+        "2004"
+    ],
+    "belgaum": [
+        "2004"
+    ],
+    "south africa": [
+        "2004",
+        "2007"
+    ],
+    "kenya": [
+        "2004"
+    ],
+    "uganda": [
+        "2004"
+    ],
+    "dakar": [
+        "2004"
+    ],
+    "mangalore": [
+        "2004"
+    ],
+    "columbus": [
+        "2004"
+    ],
+    "leh": [
+        "2004"
+    ],
+    "finland": [
+        "2005",
+        "2007",
+        "2008"
+    ],
+    "aizawl": [
+        "2005"
+    ],
+    "bhutan": [
+        "2005",
+        "2013"
+    ],
+    "gangtok": [
+        "2005"
+    ],
+    "kalyani": [
+        "2005"
+    ],
+    "durgapur": [
+        "2005"
+    ],
+    "st petersburg": [
+        "2005"
+    ],
+    "ukraine": [
+        "2005"
+    ],
+    "cochin": [
+        "2005"
+    ],
+    "keflavik": [
+        "2005"
+    ],
+    "kolkata": [
+        "2005",
+        "2006",
+        "2013"
+    ],
+    "switzerland": [
+        "2005",
+        "2007",
+        "2013"
+    ],
+    "thailand": [
+        "2005"
+    ],
+    "iceland": [
+        "2005"
+    ],
+    "kozhikode": [
+        "2005"
+    ],
+    "port louis": [
+        "2006"
+    ],
+    "gunsan": [
+        "2006"
+    ],
+    "yangon": [
+        "2006"
+    ],
+    "manila": [
+        "2006"
+    ],
+    "laguna": [
+        "2006"
+    ],
+    "daejeon": [
+        "2006"
+    ],
+    "mauritius": [
+        "2006",
+        "2013"
+    ],
+    "nanyang": [
+        "2006"
+    ],
+    "mandalay": [
+        "2006"
+    ],
+    "seoul": [
+        "2006",
+        "2007"
+    ],
+    "sriperumbudur": [
+        "2006"
+    ],
+    "poona": [
+        "2006"
+    ],
+    "helsinki": [
+        "2007"
+    ],
+    "chittoor": [
+        "2007"
+    ],
+    "athens": [
+        "2007"
+    ],
+    "strasbourg": [
+        "2007"
+    ],
+    "luxembourg": [
+        "2007"
+    ],
+    "coimbatore": [
+        "2007"
+    ],
+    "dublin": [
+        "2007",
+        "2012"
+    ],
+    "philadelphia": [
+        "2007"
+    ],
+    "san jose": [
+        "2007"
+    ],
+    "houston": [
+        "2007"
+    ],
+    "thanjavur": [
+        "2007",
+        "2013"
+    ],
+    "tokyo": [
+        "2007"
+    ],
+    "san francisco": [
+        "2007",
+        "2013"
+    ],
+    "wellington": [
+        "2007"
+    ],
+    "tel aviv": [
+        "2007"
+    ],
+    "jakarta": [
+        "2007"
+    ],
+    "noida": [
+        "2007",
+        "2012"
+    ],
+    "mars": [
+        "2007",
+        "2012"
+    ],
+    "ethiopia": [
+        "2007"
+    ],
+    "milpitas": [
+        "2007"
+    ],
+    "belgium": [
+        "2007",
+        "2008"
+    ],
+    "karimnagar": [
+        "2007"
+    ],
+    "fayetteville": [
+        "2007"
+    ],
+    "johannesburg": [
+        "2007"
+    ],
+    "amsterdam": [
+        "2007"
+    ],
+    "greece": [
+        "2007"
+    ],
+    "california": [
+        "2007",
+        "2013"
+    ],
+    "alsace": [
+        "2007"
+    ],
+    "addis ababa": [
+        "2007"
+    ],
+    "pietermaritzburg": [
+        "2007"
+    ],
+    "lake geneva": [
+        "2007"
+    ],
+    "pittsburgh": [
+        "2007"
+    ],
+    "pasadena": [
+        "2007"
+    ],
+    "toronto": [
+        "2008"
+    ],
+    "ontario": [
+        "2008"
+    ],
+    "nepal": [
+        "2008",
+        "2013"
+    ],
+    "malaysia": [
+        "2008"
+    ],
+    "dhaka": [
+        "2012"
+    ],
+    "mirpur": [
+        "2012"
+    ],
+    "belfast": [
+        "2012"
+    ],
+    "mirzapur": [
+        "2012"
+    ],
+    "sydney": [
+        "2012"
+    ],
+    "aligarh": [
+        "2012"
+    ],
+    "moradabad": [
+        "2012"
+    ],
+    "afghanistan": [
+        "2013"
+    ],
+    "davos": [
+        "2013"
+    ],
+    "rome": [
+        "2013"
+    ],
+    "kolhapur": [
+        "2013"
+    ],
+    "minneapolis": [
+        "2013"
+    ],
+    "gaithersburg": [
+        "2013"
+    ],
+    "scotland": [
+        "2013"
+    ],
+    "edinburgh": [
+        "2013"
+    ],
+    "maldives": [
+        "2013"
+    ],
+    "rajkot": [
+        "2013"
+    ],
+    "guwahati": [
+        "2015"
+    ],
+    "jean merrill": [
+        "1962"
+    ],
+    "sponder": [
+        "1962",
+        "1956"
+    ],
+    "great britain": [
+        "1962",
+        "1947",
+        "1988"
+    ],
+    "zhou enlai": [
+        "1962"
+    ],
+    "mediratta": [
+        "1962"
+    ],
+    "fidel castro": [
+        "1962"
+    ],
+    "abdul kalam": [
+        "1962",
+        "1931",
+        "2001",
+        "2002",
+        "2003",
+        "2007",
+        "2008",
+        "2015"
+    ],
+    "jawaharlal nehru": [
+        "1962",
+        "1951",
+        "1958",
+        "2007"
+    ],
+    "krishna menon": [
+        "1962"
+    ],
+    "brahm prakash": [
+        "1962",
+        "1971",
+        "1975",
+        "1988"
+    ],
+    "panchsheel": [
+        "1962"
+    ],
+    "vikram sarabhai": [
+        "1962",
+        "1968",
+        "1971",
+        "1988",
+        "1990",
+        "2002",
+        "2003",
+        "2013"
+    ],
+    "anderson field": [
+        "1962"
+    ],
+    "ballard pier": [
+        "1962"
+    ],
+    "dhawan": [
+        "1962",
+        "1971",
+        "1975",
+        "1992",
+        "2002"
+    ],
+    "brigade road": [
+        "1962"
+    ],
+    "peter drucker": [
+        "1962"
+    ],
+    "samsuddin": [
+        "1931"
+    ],
+    "muthu iyer": [
+        "1931"
+    ],
+    "tamil muslim": [
+        "1931"
+    ],
+    "jumada al-thani": [
+        "1931"
+    ],
+    "alauddin khilji": [
+        "1931"
+    ],
+    "malik kafur": [
+        "1931"
+    ],
+    "maracayer": [
+        "1931",
+        "2002",
+        "1976",
+        "2007",
+        "2015"
+    ],
+    "sivaprakash": [
+        "1931"
+    ],
+    "sita rama kalyanam": [
+        "1931"
+    ],
+    "gandhiji": [
+        "1931",
+        "2004",
+        "2007"
+    ],
+    "ahmed jallaluddin": [
+        "1931"
+    ],
+    "joseph addison": [
+        "1931"
+    ],
+    "prophet muhammad": [
+        "1931",
+        "1958",
+        "2003",
+        "2007",
+        "2013"
+    ],
+    "ashiamma": [
+        "1931",
+        "1951",
+        "2003"
+    ],
+    "pakir": [
+        "1931"
+    ],
+    "rama tirtha": [
+        "1931"
+    ],
+    "zohara": [
+        "1931",
+        "1951",
+        "2003",
+        "2015"
+    ],
+    "bodal": [
+        "1931",
+        "2015"
+    ],
+    "ramanadha sastry": [
+        "1931"
+    ],
+    "fatima zahra": [
+        "1931"
+    ],
+    "jainulabdeen": [
+        "1931",
+        "1947",
+        "1956",
+        "2003",
+        "2013",
+        "2015"
+    ],
+    "martin luther": [
+        "1947",
+        "1968"
+    ],
+    "muhammed ali": [
+        "1947"
+    ],
+    "ramakrishna iyer": [
+        "1947"
+    ],
+    "manickam": [
+        "1947",
+        "1951"
+    ],
+    "chanda shahib": [
+        "1947"
+    ],
+    "iyadurai solomon": [
+        "1947",
+        "1990"
+    ],
+    "christian frederick schwartz": [
+        "1947"
+    ],
+    "napoleon hill": [
+        "1947"
+    ],
+    "mahatma gandhi": [
+        "1947",
+        "1951",
+        "2001",
+        "2003",
+        "1976",
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+    ],
+    "nathuram godse": [
+        "1947"
+    ],
+    "ambedkar": [
+        "1947"
+    ],
+    "tripura": [
+        "1947"
+    ],
+    "schwarz": [
+        "1947"
+    ],
+    "ramana maharshi": [
+        "1947"
+    ],
+    "brahmachari": [
+        "1947"
+    ],
+    "pandalai": [
+        "1951",
+        "1956"
+    ],
+    "delhi sultanate": [
+        "1951"
+    ],
+    "kalathil": [
+        "1951"
+    ],
+    "caliph umar": [
+        "1951",
+        "2001",
+        "2003"
+    ],
+    "chanda sahib": [
+        "1951"
+    ],
+    "iyengar brahmin": [
+        "1951"
+    ],
+    "deepavali": [
+        "1951"
+    ],
+    "sequeira": [
+        "1951"
+    ],
+    "ekam": [
+        "1951"
+    ],
+    "abraham lincoln": [
+        "1951",
+        "2001",
+        "2002"
+    ],
+    "henry petroski": [
+        "1956"
+    ],
+    "srinivasan": [
+        "1956"
+    ],
+    "walter repenthin": [
+        "1956"
+    ],
+    "rajam": [
+        "1956"
+    ],
+    "piran kaliyar": [
+        "1958"
+    ],
+    "bodhgaya": [
+        "1958"
+    ],
+    "makanpur": [
+        "1958"
+    ],
+    "jayachamarajendra": [
+        "1958"
+    ],
+    "shravasti": [
+        "1958"
+    ],
+    "swami sivananda": [
+        "1958"
+    ],
+    "alauddin ali ahmed sabir kalyari": [
+        "1958"
+    ],
+    "gerboise bleue": [
+        "1958"
+    ],
+    "dalai": [
+        "1958"
+    ],
+    "hazrat ali": [
+        "1958"
+    ],
+    "nizamuddin": [
+        "1958",
+        "2006"
+    ],
+    "east india": [
+        "1958"
+    ],
+    "mirza ismail": [
+        "1958"
+    ],
+    "khwaja": [
+        "1958"
+    ],
+    "rajnath pandey": [
+        "1958"
+    ],
+    "kovalam": [
+        "1968"
+    ],
+    "indira gandhi": [
+        "1968",
+        "1971",
+        "1985",
+        "2006",
+        "2007",
+        "2008"
+    ],
+    "narayanan": [
+        "1968",
+        "1971",
+        "1975",
+        "1998",
+        "2002",
+        "2004",
+        "2005",
+        "2007"
+    ],
+    "robert h. goddard": [
+        "1968"
+    ],
+    "shri krishna": [
+        "1968"
+    ],
+    "ramabhadran aravamudan": [
+        "1968"
+    ],
+    "sathya": [
+        "1968"
+    ],
+    "diamant": [
+        "1971",
+        "1975"
+    ],
+    "andhra pradesh": [
+        "1971",
+        "1974",
+        "2001",
+        "2002",
+        "2003",
+        "2005",
+        "2007"
+    ],
+    "gaulle": [
+        "1971"
+    ],
+    "prof curien": [
+        "1971"
+    ],
+    "ariane": [
+        "1971"
+    ],
+    "ved prakash sandlas": [
+        "1971"
+    ],
+    "majeed": [
+        "1971"
+    ],
+    "kutty": [
+        "1971"
+    ],
+    "sriharikota range": [
+        "1971"
+    ],
+    "indrajaal": [
+        "1971"
+    ],
+    "gowariker": [
+        "1971",
+        "1975"
+    ],
+    "rohini": [
+        "1971",
+        "1975"
+    ],
+    "werner": [
+        "1975"
+    ],
+    "kapustin yar": [
+        "1975"
+    ],
+    "von": [
+        "1975"
+    ],
+    "wallops island": [
+        "1975"
+    ],
+    "bhushan": [
+        "1975"
+    ],
+    "naranarayan": [
+        "1975"
+    ],
+    "freiherr": [
+        "1975"
+    ],
+    "vasudhaiva": [
+        "1975"
+    ],
+    "ramanna": [
+        "1975"
+    ],
+    "arunachalam": [
+        "1974",
+        "1985",
+        "1990",
+        "1992",
+        "2001"
+    ],
+    "meghnad saha": [
+        "1974"
+    ],
+    "venkataraman": [
+        "1974",
+        "1988",
+        "1985"
+    ],
+    "sivathanu pillai": [
+        "1974",
+        "1992",
+        "2001",
+        "2002"
+    ],
+    "robert r. blake": [
+        "1974"
+    ],
+    "pokhran test range": [
+        "1974"
+    ],
+    "kapoor": [
+        "1974",
+        "1988",
+        "2003"
+    ],
+    "imarat": [
+        "1974",
+        "1985"
+    ],
+    "zameela": [
+        "1974"
+    ],
+    "gopalaswamy": [
+        "1974"
+    ],
+    "kothari": [
+        "1974"
+    ],
+    "akash": [
+        "1974",
+        "1988",
+        "1990",
+        "1992"
+    ],
+    "prithvi": [
+        "1974",
+        "1988",
+        "1990",
+        "1992"
+    ],
+    "trishul": [
+        "1974",
+        "1988",
+        "1992",
+        "1997"
+    ],
+    "swaminathan": [
+        "1974",
+        "2002",
+        "2003",
+        "2006",
+        "2007",
+        "2013"
+    ],
+    "jane mouton": [
+        "1974"
+    ],
+    "godrej": [
+        "1974"
+    ],
+    "agarwal": [
+        "1988",
+        "1990",
+        "2002"
+    ],
+    "guam island": [
+        "1988"
+    ],
+    "rama rao": [
+        "1988"
+    ],
+    "missile man": [
+        "1988",
+        "1990",
+        "1992",
+        "1997"
+    ],
+    "sundaram": [
+        "1988",
+        "1992"
+    ],
+    "latin america": [
+        "1988",
+        "1998"
+    ],
+    "prahalada": [
+        "1988"
+    ],
+    "chisti": [
+        "1985"
+    ],
+    "roddam narasimha": [
+        "1985",
+        "2001"
+    ],
+    "robert goddard": [
+        "1985"
+    ],
+    "krishna mohan": [
+        "1985"
+    ],
+    "rajiv gandhi": [
+        "1985",
+        "1990",
+        "2005"
+    ],
+    "deshpande": [
+        "1985"
+    ],
+    "mecon": [
+        "1985"
+    ],
+    "chandipur": [
+        "1985",
+        "1990"
+    ],
+    "patashpur": [
+        "1985"
+    ],
+    "sharad pawar": [
+        "1990",
+        "1997"
+    ],
+    "prahlada": [
+        "1990"
+    ],
+    "tamil nadu": [
+        "1990",
+        "2003",
+        "2004",
+        "2005",
+        "2008",
+        "2013"
+    ],
+    "desert storm": [
+        "1990"
+    ],
+    "palam airport": [
+        "1990"
+    ],
+    "nelson mandela": [
+        "1990",
+        "2002",
+        "2004",
+        "2007",
+        "2008"
+    ],
+    "amartya sen": [
+        "1990"
+    ],
+    "nicobar islands": [
+        "1990"
+    ],
+    "biju patnaik": [
+        "1990",
+        "2007"
+    ],
+    "sultan sjahrir": [
+        "1990"
+    ],
+    "rajan": [
+        "1992",
+        "1997",
+        "1998",
+        "2001",
+        "2002",
+        "2003",
+        "2006",
+        "2013"
+    ],
+    "sengupta": [
+        "1992"
+    ],
+    "dasgupta": [
+        "1992"
+    ],
+    "havilland": [
+        "1992"
+    ],
+    "mata prasad": [
+        "1992"
+    ],
+    "nasik": [
+        "1992"
+    ],
+    "garden reach shipbuilders": [
+        "1992"
+    ],
+    "geoffrey": [
+        "1992"
+    ],
+    "midhani": [
+        "1992"
+    ],
+    "doordarshan": [
+        "1992"
+    ],
+    "narasimha rao": [
+        "1992",
+        "1997",
+        "2005"
+    ],
+    "alexis carrel": [
+        "1992"
+    ],
+    "kiran": [
+        "1992"
+    ],
+    "goa shipyard ltd": [
+        "1992"
+    ],
+    "koneru bose": [
+        "1992"
+    ],
+    "inder": [
+        "1997"
+    ],
+    "singh yadav": [
+        "1997"
+    ],
+    "jiang zemin": [
+        "1997"
+    ],
+    "shankar dayal sharma": [
+        "1997"
+    ],
+    "deng": [
+        "1997"
+    ],
+    "mashinostroyenia": [
+        "1997"
+    ],
+    "gujral": [
+        "1997"
+    ],
+    "pramod mahajan": [
+        "1997",
+        "2002"
+    ],
+    "mulayam singh": [
+        "1997"
+    ],
+    "deve gowda": [
+        "1997"
+    ],
+    "barak": [
+        "1997"
+    ],
+    "george fernandes": [
+        "1998",
+        "2002"
+    ],
+    "tifac": [
+        "1998",
+        "2001"
+    ],
+    "kamath": [
+        "1998"
+    ],
+    "nawaz sharif": [
+        "1998",
+        "2013"
+    ],
+    "homi bhabha": [
+        "1998",
+        "2003"
+    ],
+    "aatre": [
+        "1998"
+    ],
+    "brajesh": [
+        "1998"
+    ],
+    "bhishma": [
+        "1998"
+    ],
+    "wheeler island": [
+        "1998"
+    ],
+    "jaisalmer": [
+        "1998"
+    ],
+    "navatala": [
+        "1998"
+    ],
+    "natraj": [
+        "1998"
+    ],
+    "kakodkar": [
+        "1998"
+    ],
+    "bhawani": [
+        "1998"
+    ],
+    "ramaseshan": [
+        "2001"
+    ],
+    "robert oppenheimer": [
+        "2001"
+    ],
+    "rajmohan gandhi": [
+        "2001"
+    ],
+    "raju": [
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "balakrishnan": [
+        "2001",
+        "2002"
+    ],
+    "indiresan": [
+        "2001",
+        "2003",
+        "2013"
+    ],
+    "vigyan bhavan": [
+        "2001"
+    ],
+    "bhuj": [
+        "2001",
+        "2002"
+    ],
+    "sadhu brahmaviharidas": [
+        "2001",
+        "2015"
+    ],
+    "pokhran ii": [
+        "2001"
+    ],
+    "snehal thakkar": [
+        "2001",
+        "2002"
+    ],
+    "azim premji": [
+        "2001"
+    ],
+    "scindia": [
+        "2001"
+    ],
+    "lillian eichler watson": [
+        "2001"
+    ],
+    "kota harinarayana": [
+        "2001",
+        "2002",
+        "2003"
+    ],
+    "anna university": [
+        "2001",
+        "2002"
+    ],
+    "montefiore": [
+        "2001"
+    ],
+    "research centre": [
+        "2001",
+        "2002"
+    ],
+    "aarif": [
+        "2001"
+    ],
+    "mahapatra": [
+        "2001"
+    ],
+    "sivaraj": [
+        "2001"
+    ],
+    "tipnis": [
+        "2001"
+    ],
+    "chandru shahani": [
+        "2001"
+    ],
+    "albert einstein": [
+        "2001"
+    ],
+    "samaresh": [
+        "2001"
+    ],
+    "jamsetji n. tata": [
+        "2001"
+    ],
+    "bhupen hazarika": [
+        "2001"
+    ],
+    "jas": [
+        "2001"
+    ],
+    "naveen patnaik": [
+        "2002"
+    ],
+    "jimmy carter": [
+        "2002"
+    ],
+    "zakir hussain": [
+        "2002"
+    ],
+    "anil mangotra": [
+        "2002"
+    ],
+    "debabrata biswas": [
+        "2002"
+    ],
+    "jamir": [
+        "2002"
+    ],
+    "akshaya": [
+        "2002"
+    ],
+    "abani roy": [
+        "2002"
+    ],
+    "rashtrapati bhavan": [
+        "2002",
+        "2003",
+        "2004",
+        "2006",
+        "2007",
+        "2012",
+        "2013",
+        "2015"
+    ],
+    "mukut mithi": [
+        "2002"
+    ],
+    "midha": [
+        "2002"
+    ],
+    "sadhvi uma bharati": [
+        "2002"
+    ],
+    "lakshmi sahgal": [
+        "2002"
+    ],
+    "manik sarkar": [
+        "2002"
+    ],
+    "kohima": [
+        "2002"
+    ],
+    "william dar": [
+        "2002",
+        "2006"
+    ],
+    "ambika soni": [
+        "2002"
+    ],
+    "harishankar": [
+        "2002"
+    ],
+    "jaswant singh": [
+        "2002"
+    ],
+    "shiva baba": [
+        "2002"
+    ],
+    "fakhruddin ali ahmed": [
+        "2002"
+    ],
+    "raisina hill": [
+        "2002",
+        "2006"
+    ],
+    "swami vijayendra saraswathigal": [
+        "2002"
+    ],
+    "nair": [
+        "2002"
+    ],
+    "dasharath": [
+        "2002"
+    ],
+    "kalanidhi": [
+        "2002"
+    ],
+    "chandrababu naidu": [
+        "2002"
+    ],
+    "arvind dave": [
+        "2002"
+    ],
+    "shahibaug road": [
+        "2002"
+    ],
+    "somnath chatterjee": [
+        "2002"
+    ],
+    "mata amritanandamayi devi": [
+        "2002"
+    ],
+    "st francis": [
+        "2002"
+    ],
+    "rameswaram": [
+        "2002"
+    ],
+    "buddhadev bhattacharjee": [
+        "2002"
+    ],
+    "arjun singh": [
+        "2002",
+        "2006"
+    ],
+    "narendra modi": [
+        "2002",
+        "2013",
+        "2015"
+    ],
+    "shastri": [
+        "2002"
+    ],
+    "krishan kant": [
+        "2002"
+    ],
+    "william shakespeare": [
+        "2002"
+    ],
+    "st thomas": [
+        "2002"
+    ],
+    "mamata banerjee": [
+        "2002",
+        "2012"
+    ],
+    "tripathi": [
+        "2002"
+    ],
+    "sarvepalli radhakrishnan": [
+        "2002"
+    ],
+    "shivraj patil": [
+        "2002"
+    ],
+    "forward bloc": [
+        "2002"
+    ],
+    "shyamal datta": [
+        "2002"
+    ],
+    "ahmad patel": [
+        "2002"
+    ],
+    "biju janata dal": [
+        "2002"
+    ],
+    "sadako ogata": [
+        "2002"
+    ],
+    "kumari mayawati": [
+        "2002"
+    ],
+    "najma heptullah": [
+        "2002"
+    ],
+    "mahendra": [
+        "2003"
+    ],
+    "jabbar khan": [
+        "2003"
+    ],
+    "shantilalji gulabchandji muttha": [
+        "2003"
+    ],
+    "saxena": [
+        "2003"
+    ],
+    "rila": [
+        "2003"
+    ],
+    "rabindranath tagore": [
+        "2003",
+        "2006"
+    ],
+    "stara zagora": [
+        "2003"
+    ],
+    "macmahon": [
+        "2003"
+    ],
+    "murthy": [
+        "2003"
+    ],
+    "pramukh swamiji": [
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2008",
+        "2013",
+        "2015"
+    ],
+    "rajasthan spinning": [
+        "2003"
+    ],
+    "hadrat": [
+        "2003"
+    ],
+    "enayeth khan": [
+        "2003"
+    ],
+    "bodhi": [
+        "2003"
+    ],
+    "singh barnala": [
+        "2003"
+    ],
+    "simonsen": [
+        "2003"
+    ],
+    "yuvacharya": [
+        "2003"
+    ],
+    "rahul": [
+        "2003"
+    ],
+    "sarla maheshwari": [
+        "2003"
+    ],
+    "shaikh": [
+        "2003"
+    ],
+    "rajyogini dadi prakashmani": [
+        "2003"
+    ],
+    "lok sabha": [
+        "2003",
+        "2004"
+    ],
+    "kanakprabha": [
+        "2003"
+    ],
+    "babu parmanand": [
+        "2003"
+    ],
+    "bishop john": [
+        "2003"
+    ],
+    "st ivan": [
+        "2003"
+    ],
+    "dadabhai naoroji": [
+        "2003"
+    ],
+    "mahashramani": [
+        "2003"
+    ],
+    "shyama chona": [
+        "2003"
+    ],
+    "gautama buddha": [
+        "2003"
+    ],
+    "farid mazahiri": [
+        "2003"
+    ],
+    "maulana wahiduddin khan": [
+        "2003"
+    ],
+    "syed": [
+        "2003",
+        "2004"
+    ],
+    "swami vivekananda": [
+        "2003",
+        "1976",
+        "2004",
+        "2007",
+        "2012"
+    ],
+    "caliph abu bakr": [
+        "2003"
+    ],
+    "acharya mahapragya": [
+        "2003"
+    ],
+    "ranjit dugar": [
+        "2003"
+    ],
+    "aramaya": [
+        "2003"
+    ],
+    "dhalla": [
+        "2003"
+    ],
+    "balagangadharanatha swamiji": [
+        "2003"
+    ],
+    "rumi": [
+        "2003"
+    ],
+    "mohyuddin": [
+        "2003"
+    ],
+    "ramakrishnananda": [
+        "2003"
+    ],
+    "raj kishore pandey": [
+        "2003"
+    ],
+    "singh neki": [
+        "2003"
+    ],
+    "samagam": [
+        "2003"
+    ],
+    "singhvi": [
+        "2003",
+        "2007"
+    ],
+    "subramaniam": [
+        "2003"
+    ],
+    "chaturvedi": [
+        "2003",
+        "2004"
+    ],
+    "seyyed mohammad khatami": [
+        "2003"
+    ],
+    "swami jitatmananda maharaj": [
+        "2003"
+    ],
+    "advani": [
+        "2003",
+        "2005",
+        "2012"
+    ],
+    "venkataswamy": [
+        "2003",
+        "1976"
+    ],
+    "affan": [
+        "2003"
+    ],
+    "chandigarh": [
+        "2003",
+        "2004",
+        "2015"
+    ],
+    "tamana": [
+        "2003"
+    ],
+    "pandit": [
+        "2003",
+        "2004"
+    ],
+    "brahma kumaris": [
+        "2003"
+    ],
+    "abi talib": [
+        "2003"
+    ],
+    "georgi parvanov": [
+        "2003"
+    ],
+    "thomas dabre": [
+        "2003"
+    ],
+    "bhairon": [
+        "2003",
+        "2007"
+    ],
+    "haider ali": [
+        "2003"
+    ],
+    "surjit": [
+        "2003"
+    ],
+    "st kliment ohridsk": [
+        "2003"
+    ],
+    "saleem": [
+        "2003"
+    ],
+    "shridath ramphal": [
+        "2003"
+    ],
+    "mehboob ali khan": [
+        "2003"
+    ],
+    "manoj das gupta": [
+        "1976"
+    ],
+    "sheridon": [
+        "1976",
+        "2015"
+    ],
+    "richard": [
+        "1976"
+    ],
+    "bharat mata": [
+        "1976"
+    ],
+    "ved marwah": [
+        "2004"
+    ],
+    "dorabji tata": [
+        "2004"
+    ],
+    "nubra": [
+        "2004"
+    ],
+    "benjamin mkapa": [
+        "2004"
+    ],
+    "tatas": [
+        "2004"
+    ],
+    "rashtriya lok dal": [
+        "2004"
+    ],
+    "taxila": [
+        "2004"
+    ],
+    "kanabar": [
+        "2004"
+    ],
+    "saifai": [
+        "2004"
+    ],
+    "puducherry": [
+        "2004"
+    ],
+    "kutiya": [
+        "2004"
+    ],
+    "chandra shekhar": [
+        "2004"
+    ],
+    "kabir das": [
+        "2004"
+    ],
+    "ravidas": [
+        "2004"
+    ],
+    "yogiji maharaj": [
+        "2004"
+    ],
+    "embraer": [
+        "2004"
+    ],
+    "ajit singh": [
+        "2004"
+    ],
+    "dharam singh": [
+        "2004"
+    ],
+    "arvind sharma": [
+        "2004"
+    ],
+    "shar": [
+        "2004"
+    ],
+    "sher shah suri": [
+        "2004"
+    ],
+    "mughal garden": [
+        "2004"
+    ],
+    "lula": [
+        "2004"
+    ],
+    "balgangadhar tilak": [
+        "2004"
+    ],
+    "maulana abul kalam azad": [
+        "2004"
+    ],
+    "mrs gandhi": [
+        "2004"
+    ],
+    "nitish kumar": [
+        "2004",
+        "2006"
+    ],
+    "atal bihari vajpayee": [
+        "2004"
+    ],
+    "verghese kurien": [
+        "2005"
+    ],
+    "sardar vallabhbhai patel": [
+        "2005"
+    ],
+    "jakobsd\u00f3ttir": [
+        "2005"
+    ],
+    "bidhannagar": [
+        "2005"
+    ],
+    "halld\u00f3r": [
+        "2005"
+    ],
+    "assam rifles": [
+        "2005"
+    ],
+    "norman borlaug": [
+        "2005"
+    ],
+    "amolak rattan kohli": [
+        "2005"
+    ],
+    "rajasekhar": [
+        "2005",
+        "2007"
+    ],
+    "vladimir putin": [
+        "2005",
+        "2007"
+    ],
+    "mikhail fradkov": [
+        "2005"
+    ],
+    "manmohan singh": [
+        "2005",
+        "2007",
+        "2008"
+    ],
+    "jagadguru sri shivarathri rajendra swamiji": [
+        "2005"
+    ],
+    "phase ii": [
+        "2005"
+    ],
+    "howrah": [
+        "2005"
+    ],
+    "siddha": [
+        "2005"
+    ],
+    "loki sharia": [
+        "2005"
+    ],
+    "pu laldenga": [
+        "2005"
+    ],
+    "buta singh": [
+        "2005",
+        "2006"
+    ],
+    "sushil kumar shinde": [
+        "2005"
+    ],
+    "pervez musharraf": [
+        "2005"
+    ],
+    "gopalkrishna gandhi": [
+        "2005"
+    ],
+    "guru rinpoche": [
+        "2005"
+    ],
+    "naburi": [
+        "2005"
+    ],
+    "jagadguru sri shivarathri deshikendra mahaswamiji": [
+        "2005"
+    ],
+    "magn\u00fas j\u00f3nsson": [
+        "2005"
+    ],
+    "mullick": [
+        "2005"
+    ],
+    "lapanng": [
+        "2005"
+    ],
+    "zoramthanga": [
+        "2005"
+    ],
+    "ashok hall": [
+        "2005"
+    ],
+    "gopal krishna gokhale": [
+        "2005"
+    ],
+    "boris gryzlov": [
+        "2005"
+    ],
+    "bidhan chandra roy": [
+        "2005"
+    ],
+    "amul": [
+        "2005"
+    ],
+    "eva l. nzaro": [
+        "2005"
+    ],
+    "ajay piramal": [
+        "2005"
+    ],
+    "rajarshi rama varma": [
+        "2005"
+    ],
+    "assisi": [
+        "2005"
+    ],
+    "tapan kumar ghoshal": [
+        "2005"
+    ],
+    "padmasambhava": [
+        "2005"
+    ],
+    "tae sup lee": [
+        "2005"
+    ],
+    "unani": [
+        "2005"
+    ],
+    "anbumani ramadoss": [
+        "2005"
+    ],
+    "jagadguru sri shivarathreeshwara shivayogi mahaswamiji": [
+        "2005"
+    ],
+    "sairang": [
+        "2005"
+    ],
+    "oommen chandy": [
+        "2005"
+    ],
+    "yuzhnoye": [
+        "2005"
+    ],
+    "gunnar myrdal": [
+        "2005"
+    ],
+    "alfre\u00f0 \u00feorsteinsson": [
+        "2005"
+    ],
+    "nagaraja": [
+        "2005"
+    ],
+    "ashoknagar": [
+        "2005"
+    ],
+    "viktor yushchenko": [
+        "2005"
+    ],
+    "nirmal gram puraskar": [
+        "2005"
+    ],
+    "aravind hospital": [
+        "2005"
+    ],
+    "chaudhuri": [
+        "2005"
+    ],
+    "pawan": [
+        "2005"
+    ],
+    "kancha": [
+        "2006"
+    ],
+    "sufiana kalam": [
+        "2006"
+    ],
+    "george yeo": [
+        "2006"
+    ],
+    "sejong": [
+        "2006"
+    ],
+    "vibhuti": [
+        "2006"
+    ],
+    "george w. bush": [
+        "2006"
+    ],
+    "sumitra": [
+        "2006"
+    ],
+    "park chung-hee": [
+        "2006"
+    ],
+    "lucky goldstar": [
+        "2006"
+    ],
+    "abdulaziz": [
+        "2006"
+    ],
+    "shyam saran": [
+        "2006"
+    ],
+    "pranab mukherjee": [
+        "2006"
+    ],
+    "ajay rathore": [
+        "2006"
+    ],
+    "george bush": [
+        "2006"
+    ],
+    "swami ranganathananda": [
+        "2006"
+    ],
+    "abdul qadir": [
+        "2006",
+        "2015"
+    ],
+    "lim hng kiang": [
+        "2006"
+    ],
+    "muhammad zia-ul-haq": [
+        "2006"
+    ],
+    "ameer khusro": [
+        "2006"
+    ],
+    "pasig": [
+        "2006"
+    ],
+    "ayodhya": [
+        "2006"
+    ],
+    "naveenchandra ramgoolam": [
+        "2006"
+    ],
+    "sea king": [
+        "2006"
+    ],
+    "surah fatiha": [
+        "2006"
+    ],
+    "gautam buddha": [
+        "2006",
+        "2007"
+    ],
+    "hussain muhammad ershad": [
+        "2006"
+    ],
+    "macapagal arroyo": [
+        "2006"
+    ],
+    "venecia": [
+        "2006"
+    ],
+    "arun prakash": [
+        "2006"
+    ],
+    "franklin drilon": [
+        "2006"
+    ],
+    "nathan": [
+        "2006"
+    ],
+    "gita rahasya": [
+        "2006"
+    ],
+    "amir khusrau": [
+        "2006"
+    ],
+    "kamov": [
+        "2006"
+    ],
+    "oscar wilde": [
+        "2006"
+    ],
+    "than shwe": [
+        "2006"
+    ],
+    "pravesh singh bisht": [
+        "2006"
+    ],
+    "teo chee hean": [
+        "2006"
+    ],
+    "tilak maharaj": [
+        "2006"
+    ],
+    "jaya bachchan": [
+        "2006"
+    ],
+    "daedeok innopolis": [
+        "2006"
+    ],
+    "lee hsien loong": [
+        "2006"
+    ],
+    "dr su guaning": [
+        "2006"
+    ],
+    "kumari selja": [
+        "2006"
+    ],
+    "malacanang": [
+        "2006"
+    ],
+    "sonia gandhi": [
+        "2006"
+    ],
+    "smt": [
+        "2006",
+        "2007",
+        "2012"
+    ],
+    "bareli": [
+        "2006"
+    ],
+    "john chambers": [
+        "2007"
+    ],
+    "alexandre dergachev": [
+        "2007"
+    ],
+    "siachen glacier": [
+        "2007"
+    ],
+    "chandragupta maurya": [
+        "2007"
+    ],
+    "john hennessey": [
+        "2007"
+    ],
+    "josep borrel fontells": [
+        "2007"
+    ],
+    "bert sakmann": [
+        "2007"
+    ],
+    "mikhailov": [
+        "2007"
+    ],
+    "pancharatna": [
+        "2007"
+    ],
+    "shiv nadar": [
+        "2007"
+    ],
+    "mahadevan": [
+        "2007"
+    ],
+    "larry page": [
+        "2007"
+    ],
+    "ratan tata": [
+        "2007"
+    ],
+    "venkat changavalli": [
+        "2007"
+    ],
+    "uttar pradesh": [
+        "2007",
+        "2008",
+        "2012"
+    ],
+    "girish ramachandran": [
+        "2007"
+    ],
+    "avaiyyar": [
+        "2007"
+    ],
+    "alexander graham bell": [
+        "2007",
+        "2013"
+    ],
+    "wang": [
+        "2007"
+    ],
+    "subrahmanyan chandrasekhar": [
+        "2007"
+    ],
+    "ganesh bagaria": [
+        "2007"
+    ],
+    "sam bahadur": [
+        "2007"
+    ],
+    "pratibha": [
+        "2007"
+    ],
+    "emri": [
+        "2007"
+    ],
+    "ponraj": [
+        "2007"
+    ],
+    "bruce alberts": [
+        "2007"
+    ],
+    "arthur schopenhauer": [
+        "2007"
+    ],
+    "chen ning yang": [
+        "2007"
+    ],
+    "jared l. cohon": [
+        "2007"
+    ],
+    "mario mauro": [
+        "2007"
+    ],
+    "rajeev sangal": [
+        "2007",
+        "2013"
+    ],
+    "matti vanhanen": [
+        "2007"
+    ],
+    "michael griffin": [
+        "2007"
+    ],
+    "porus": [
+        "2007"
+    ],
+    "wharton india economic forum": [
+        "2007"
+    ],
+    "kalpana chawla": [
+        "2007"
+    ],
+    "gorkha rifles": [
+        "2007"
+    ],
+    "developed india": [
+        "2007"
+    ],
+    "rashtrapati mahabhaga": [
+        "2007"
+    ],
+    "vidwan": [
+        "2007"
+    ],
+    "mark ii": [
+        "2007"
+    ],
+    "bennerie ionne": [
+        "2007"
+    ],
+    "paul crutzen": [
+        "2007"
+    ],
+    "kakarla subbarao radiological": [
+        "2007"
+    ],
+    "prophet moses": [
+        "2007"
+    ],
+    "charles ii medal": [
+        "2007"
+    ],
+    "milinda": [
+        "2007"
+    ],
+    "jairus": [
+        "2007"
+    ],
+    "sitra": [
+        "2007"
+    ],
+    "eric e. schmidt": [
+        "2007"
+    ],
+    "planet earth": [
+        "2007"
+    ],
+    "michael simpson": [
+        "2007"
+    ],
+    "kamal nath": [
+        "2007"
+    ],
+    "brahmos": [
+        "2007"
+    ],
+    "gao xingjian": [
+        "2007"
+    ],
+    "anukriti": [
+        "2007"
+    ],
+    "jean-jacques dordain": [
+        "2007"
+    ],
+    "silicon valley": [
+        "2007"
+    ],
+    "jeevan vidya": [
+        "2007"
+    ],
+    "caltech": [
+        "2007"
+    ],
+    "sudershan": [
+        "2007"
+    ],
+    "devanathan": [
+        "2007"
+    ],
+    "manekshaw": [
+        "2007"
+    ],
+    "karolos papoulias": [
+        "2007"
+    ],
+    "archbishop tutu": [
+        "2007"
+    ],
+    "john f. kennedy airport": [
+        "2007"
+    ],
+    "lee myung-bak": [
+        "2007"
+    ],
+    "adolf hitler": [
+        "2007"
+    ],
+    "martin rees": [
+        "2007"
+    ],
+    "yannick": [
+        "2007"
+    ],
+    "alberto": [
+        "2007"
+    ],
+    "sergey brin": [
+        "2007"
+    ],
+    "gerald pillay": [
+        "2008"
+    ],
+    "salil": [
+        "2008"
+    ],
+    "george town": [
+        "2008"
+    ],
+    "indigenization": [
+        "2008"
+    ],
+    "dinesh keskar": [
+        "2008"
+    ],
+    "joe": [
+        "2008"
+    ],
+    "sam pitroda": [
+        "2008"
+    ],
+    "varun": [
+        "2008"
+    ],
+    "boudhanath": [
+        "2008"
+    ],
+    "seema": [
+        "2008"
+    ],
+    "anousheh ansari": [
+        "2008"
+    ],
+    "ashok kantha": [
+        "2008"
+    ],
+    "william h. gates": [
+        "2008"
+    ],
+    "kalam showing up": [
+        "2008"
+    ],
+    "stephen harper": [
+        "2008"
+    ],
+    "amar singhji": [
+        "2008"
+    ],
+    "bill gates": [
+        "2008"
+    ],
+    "steve ballmer": [
+        "2008"
+    ],
+    "jnanpriyadas": [
+        "2008"
+    ],
+    "lim guan eng": [
+        "2008"
+    ],
+    "raikes": [
+        "2008"
+    ],
+    "john hegarty": [
+        "2012"
+    ],
+    "grameen": [
+        "2012"
+    ],
+    "st paul": [
+        "2012"
+    ],
+    "srijnan atish dipankar": [
+        "2012"
+    ],
+    "ross milbourne": [
+        "2012"
+    ],
+    "satyendra nath bose": [
+        "2012"
+    ],
+    "sheikh hasina": [
+        "2012",
+        "2013"
+    ],
+    "sujatha": [
+        "2012"
+    ],
+    "prince philip": [
+        "2012"
+    ],
+    "zillur rahman": [
+        "2012"
+    ],
+    "queen elizabeth ii": [
+        "2012"
+    ],
+    "miah": [
+        "2012"
+    ],
+    "muhammad yunus": [
+        "2012"
+    ],
+    "bhadohi": [
+        "2012"
+    ],
+    "tarun khanna": [
+        "2012"
+    ],
+    "sonebhadra": [
+        "2012"
+    ],
+    "vinothan manoharan": [
+        "2013"
+    ],
+    "shirin sharmin chaudhury": [
+        "2013"
+    ],
+    "charles darwin": [
+        "2013"
+    ],
+    "salla": [
+        "2013"
+    ],
+    "james clerk maxwell": [
+        "2013"
+    ],
+    "navin ramgoolam": [
+        "2013"
+    ],
+    "abdulla": [
+        "2013"
+    ],
+    "tshering tobgay": [
+        "2013"
+    ],
+    "sri venkateswara": [
+        "2013"
+    ],
+    "zhu shanlu": [
+        "2013"
+    ],
+    "hongkun park": [
+        "2013"
+    ],
+    "rajapaksa": [
+        "2013"
+    ],
+    "neil armstrong": [
+        "2013"
+    ],
+    "david hume": [
+        "2013"
+    ],
+    "jairam ramesh": [
+        "2013"
+    ],
+    "pai": [
+        "2013"
+    ],
+    "varanasi": [
+        "2013"
+    ],
+    "buzz aldrin": [
+        "2013"
+    ],
+    "stephen hawking": [
+        "2013"
+    ],
+    "sushil koirala": [
+        "2013"
+    ],
+    "srijan": [
+        "2013",
+        "2015"
+    ],
+    "madhu reddy": [
+        "2013"
+    ],
+    "aroon purie": [
+        "2013"
+    ],
+    "jim gray": [
+        "2013"
+    ],
+    "tony judt": [
+        "2013"
+    ],
+    "jaishankar": [
+        "2013"
+    ],
+    "ban ki-moon": [
+        "2013"
+    ],
+    "porto alegree": [
+        "2013"
+    ],
+    "hamid karzai": [
+        "2013"
+    ],
+    "balasubramanian": [
+        "2013"
+    ],
+    "mother earth": [
+        "2015"
+    ],
+    "imam nawawi": [
+        "2015"
+    ],
+    "rishi vishwamitra": [
+        "2015"
+    ],
+    "rishi agastya": [
+        "2015"
+    ],
+    "anna hazare": [
+        "2015"
+    ],
+    "swaminarayan": [
+        "2015"
+    ],
+    "felix": [
+        "2015"
+    ],
+    "thiruvalluvar": [
+        "2015"
+    ],
+    "rishi kapila": [
+        "2015"
+    ],
+    "swaminarayn akshardham": [
+        "2015"
+    ],
+    "sufi saint baba farid": [
+        "2015"
+    ],
+    "hadith qudsi": [
+        "2015"
+    ]
+}
