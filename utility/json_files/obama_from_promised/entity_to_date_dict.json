@@ -1,0 +1,1385 @@
+{
+    "manhattan": [
+        "2004",
+        "2000",
+        "2002"
+    ],
+    "ohio": [
+        "2004",
+        "1997",
+        "2005",
+        "2008"
+    ],
+    "san francisco": [
+        "2004"
+    ],
+    "honolulu": [
+        "2004",
+        "2000",
+        "2002"
+    ],
+    "midwest": [
+        "2004",
+        "1997"
+    ],
+    "maryland": [
+        "2004"
+    ],
+    "cape town": [
+        "2004",
+        "2002",
+        "2006"
+    ],
+    "sioux city": [
+        "2004"
+    ],
+    "blacksburg": [
+        "2004"
+    ],
+    "boston": [
+        "2004",
+        "2000",
+        "2008"
+    ],
+    "marengo": [
+        "2004"
+    ],
+    "washington": [
+        "2004",
+        "2000",
+        "1990",
+        "2002",
+        "2003",
+        "2005",
+        "2006",
+        "2008"
+    ],
+    "nairobi": [
+        "2004",
+        "2002",
+        "1983",
+        "2008"
+    ],
+    "philadelphia": [
+        "2004",
+        "1980",
+        "1990"
+    ],
+    "michigan": [
+        "2004",
+        "2002",
+        "2003"
+    ],
+    "united states": [
+        "2004",
+        "2000",
+        "1997",
+        "2002",
+        "2006",
+        "1983",
+        "2008"
+    ],
+    "norfolk": [
+        "2004"
+    ],
+    "south africa": [
+        "2004",
+        "2000",
+        "2002",
+        "2006",
+        "1983"
+    ],
+    "dekalb": [
+        "2004"
+    ],
+    "evanston": [
+        "2004"
+    ],
+    "berkeley": [
+        "2004"
+    ],
+    "indonesia": [
+        "2004"
+    ],
+    "baltimore": [
+        "2004"
+    ],
+    "australia": [
+        "2004"
+    ],
+    "springfield": [
+        "2004",
+        "2000",
+        "1997",
+        "2002",
+        "2003",
+        "2005",
+        "2008"
+    ],
+    "los angeles": [
+        "2004",
+        "2000",
+        "1997",
+        "2002"
+    ],
+    "windham": [
+        "2004"
+    ],
+    "london": [
+        "2004",
+        "2002",
+        "1983"
+    ],
+    "chicago": [
+        "2004",
+        "2000",
+        "1980",
+        "1990",
+        "1997",
+        "2002",
+        "2003",
+        "2005",
+        "2006",
+        "1983",
+        "2008"
+    ],
+    "hollywood": [
+        "2004",
+        "2000",
+        "2003",
+        "2006"
+    ],
+    "kansas": [
+        "2004",
+        "2000"
+    ],
+    "west": [
+        "2004",
+        "1980",
+        "1997",
+        "2005"
+    ],
+    "cleveland": [
+        "2004"
+    ],
+    "jakarta": [
+        "2004"
+    ],
+    "atlanta": [
+        "2004"
+    ],
+    "seattle": [
+        "2004",
+        "1983"
+    ],
+    "pekin": [
+        "2004"
+    ],
+    "afghanistan": [
+        "2004"
+    ],
+    "virginia": [
+        "2004",
+        "2008"
+    ],
+    "kewanee": [
+        "2004"
+    ],
+    "las vegas": [
+        "2004"
+    ],
+    "fairfax": [
+        "2004"
+    ],
+    "jersey city": [
+        "2004"
+    ],
+    "california": [
+        "2004",
+        "2000"
+    ],
+    "malia": [
+        "2004",
+        "2000",
+        "2002",
+        "2005",
+        "1983"
+    ],
+    "st. louis": [
+        "2004",
+        "2006"
+    ],
+    "soweto": [
+        "2004",
+        "2006"
+    ],
+    "hyde park": [
+        "2004",
+        "2000",
+        "1990",
+        "1997",
+        "2002",
+        "2005",
+        "2008"
+    ],
+    "pacific": [
+        "2004",
+        "2000"
+    ],
+    "iraq": [
+        "2004",
+        "2003",
+        "2005",
+        "2006",
+        "2008"
+    ],
+    "iowa": [
+        "2004",
+        "2008"
+    ],
+    "paris": [
+        "2000"
+    ],
+    "carbondale": [
+        "2000"
+    ],
+    "peoria": [
+        "2000"
+    ],
+    "harlem": [
+        "2000",
+        "2005"
+    ],
+    "occidental": [
+        "2000",
+        "2005"
+    ],
+    "tennessee": [
+        "2000"
+    ],
+    "brooklyn": [
+        "2000"
+    ],
+    "roseland": [
+        "1980",
+        "1990"
+    ],
+    "marian": [
+        "1990"
+    ],
+    "beverly": [
+        "1990"
+    ],
+    "cambridge": [
+        "1990"
+    ],
+    "cairo": [
+        "1997"
+    ],
+    "nigeria": [
+        "2002"
+    ],
+    "israel": [
+        "2005"
+    ],
+    "russia": [
+        "2005"
+    ],
+    "louisiana": [
+        "2005"
+    ],
+    "florida": [
+        "2005"
+    ],
+    "indiana": [
+        "2005",
+        "2008"
+    ],
+    "new orleans": [
+        "2005"
+    ],
+    "sudan": [
+        "2006",
+        "1983"
+    ],
+    "johannesburg": [
+        "2006"
+    ],
+    "congo": [
+        "2006"
+    ],
+    "amsterdam": [
+        "2006"
+    ],
+    "montgomery": [
+        "2006"
+    ],
+    "djibouti": [
+        "2006"
+    ],
+    "pretoria": [
+        "2006",
+        "1983"
+    ],
+    "khayelitsha": [
+        "2006"
+    ],
+    "chad": [
+        "1983"
+    ],
+    "kisumu": [
+        "1983"
+    ],
+    "ireland": [
+        "1983"
+    ],
+    "portsmouth": [
+        "2008"
+    ],
+    "ron kirk": [
+        "2004"
+    ],
+    "barry obama": [
+        "2004",
+        "2000"
+    ],
+    "nora": [
+        "2004",
+        "2000"
+    ],
+    "auma obama": [
+        "2004"
+    ],
+    "amanda fuchs": [
+        "2004"
+    ],
+    "millennium park": [
+        "2004"
+    ],
+    "richard perle": [
+        "2004"
+    ],
+    "gregory ochieng": [
+        "2004",
+        "2002"
+    ],
+    "mccormick place": [
+        "2004",
+        "2003"
+    ],
+    "julian green": [
+        "2004",
+        "2000"
+    ],
+    "vernon jordan": [
+        "2004"
+    ],
+    "jeremiah posedel": [
+        "2004"
+    ],
+    "richard durbin": [
+        "2004"
+    ],
+    "alan keyes": [
+        "2004"
+    ],
+    "jim cauley": [
+        "2004"
+    ],
+    "ted koppel": [
+        "2004"
+    ],
+    "floyd": [
+        "2004"
+    ],
+    "michelle obama": [
+        "2004",
+        "1990",
+        "2003"
+    ],
+    "lebron": [
+        "2004",
+        "2008"
+    ],
+    "michigan avenue": [
+        "2004",
+        "2003"
+    ],
+    "dan hynes": [
+        "2004",
+        "2000",
+        "2002",
+        "2003"
+    ],
+    "george w. bush": [
+        "2004",
+        "1980",
+        "1990"
+    ],
+    "david katz": [
+        "2004"
+    ],
+    "lake shore drive": [
+        "2004"
+    ],
+    "daly": [
+        "2004"
+    ],
+    "moreno cargie": [
+        "2004",
+        "2000"
+    ],
+    "david axelrod": [
+        "2004",
+        "2004",
+        "2000",
+        "2002",
+        "2006",
+        "2008"
+    ],
+    "paul harsted": [
+        "2004"
+    ],
+    "maria pappas": [
+        "2004",
+        "2003"
+    ],
+    "thurgood marshall": [
+        "2004"
+    ],
+    "rahm emanuel": [
+        "2004",
+        "2005"
+    ],
+    "anita dunn": [
+        "2004"
+    ],
+    "eric kusunoki": [
+        "2004"
+    ],
+    "paul krugman": [
+        "2004"
+    ],
+    "jim cole": [
+        "2004"
+    ],
+    "sidney poitier": [
+        "2004"
+    ],
+    "jan schakowsky": [
+        "2004",
+        "2002"
+    ],
+    "rickey hendon": [
+        "2004",
+        "2000"
+    ],
+    "tommy vietor": [
+        "2004"
+    ],
+    "dan shomon": [
+        "2004",
+        "2000",
+        "2002",
+        "2003",
+        "2005",
+        "2008"
+    ],
+    "richard daley": [
+        "2004",
+        "2002"
+    ],
+    "billiken": [
+        "2004"
+    ],
+    "mike signator": [
+        "2004"
+    ],
+    "ralph ellison": [
+        "2004"
+    ],
+    "lake michigan": [
+        "2004"
+    ],
+    "donavan dodds": [
+        "2004"
+    ],
+    "madelyn dunham": [
+        "2004",
+        "2000"
+    ],
+    "john lynch": [
+        "2004"
+    ],
+    "anthony direnzo": [
+        "2004"
+    ],
+    "marty nesbitt": [
+        "2004",
+        "2002",
+        "2005",
+        "2008"
+    ],
+    "arne duncan": [
+        "2004"
+    ],
+    "david wilhelm": [
+        "2004"
+    ],
+    "antoinette sitole": [
+        "2004"
+    ],
+    "william": [
+        "2004"
+    ],
+    "mahalia jackson": [
+        "2004"
+    ],
+    "eugene mccarthy": [
+        "2004"
+    ],
+    "charlie rose": [
+        "2004"
+    ],
+    "richard gephardt": [
+        "2004",
+        "1990"
+    ],
+    "franklin delano roosevelt": [
+        "2004"
+    ],
+    "bruce dold": [
+        "2004"
+    ],
+    "jane byrne": [
+        "2004",
+        "1990"
+    ],
+    "barack sr.": [
+        "2004",
+        "1983"
+    ],
+    "dick kay": [
+        "2004"
+    ],
+    "geraldine ferraro": [
+        "2004"
+    ],
+    "obama": [
+        "2004",
+        "2000",
+        "1980",
+        "1990",
+        "1997",
+        "2002",
+        "2003",
+        "2005",
+        "2006",
+        "1983"
+    ],
+    "chris mather": [
+        "2004",
+        "2003"
+    ],
+    "christina": [
+        "2004"
+    ],
+    "muhammad ali": [
+        "2004"
+    ],
+    "darrel thompson": [
+        "2004"
+    ],
+    "jeremiah a. wright": [
+        "2004",
+        "1980"
+    ],
+    "bramson": [
+        "2004"
+    ],
+    "adlai stevenson": [
+        "2004",
+        "2002",
+        "2008"
+    ],
+    "emil jones jr.": [
+        "2004",
+        "2000",
+        "1997",
+        "2002",
+        "2003"
+    ],
+    "mario cuomo": [
+        "2004",
+        "2000",
+        "2005"
+    ],
+    "sasha": [
+        "2004",
+        "2002",
+        "2005",
+        "1983"
+    ],
+    "laura washington": [
+        "2004"
+    ],
+    "mahatma gandhi": [
+        "2004",
+        "2006"
+    ],
+    "bob schieffer": [
+        "2004"
+    ],
+    "matt hynes": [
+        "2004"
+    ],
+    "ray ban": [
+        "2004"
+    ],
+    "jacqueline": [
+        "2004"
+    ],
+    "al hofeld": [
+        "2004"
+    ],
+    "george bush": [
+        "2004",
+        "2005"
+    ],
+    "bruce reed": [
+        "2004"
+    ],
+    "titcomb": [
+        "2004",
+        "1990"
+    ],
+    "sonny liston": [
+        "2004"
+    ],
+    "punahou academy": [
+        "2004"
+    ],
+    "jason erkes": [
+        "2004"
+    ],
+    "rod blagojevich": [
+        "2004",
+        "2003"
+    ],
+    "mike ditka": [
+        "2004"
+    ],
+    "karl rove": [
+        "2004"
+    ],
+    "bob secter": [
+        "2004"
+    ],
+    "david mendell": [
+        "2004"
+    ],
+    "tim": [
+        "2004"
+    ],
+    "lolo soetoro": [
+        "2004"
+    ],
+    "blair hull": [
+        "2004",
+        "2000",
+        "2002",
+        "2003"
+    ],
+    "bobby kennedy": [
+        "2004"
+    ],
+    "grant park": [
+        "2004"
+    ],
+    "michael white": [
+        "2004"
+    ],
+    "ronald reagan": [
+        "2004",
+        "2005"
+    ],
+    "bill clinton": [
+        "2004",
+        "2000",
+        "1990",
+        "2003",
+        "2006"
+    ],
+    "john edwards": [
+        "2004",
+        "2003",
+        "2008"
+    ],
+    "jack ryan": [
+        "2004",
+        "2000"
+    ],
+    "wolf blitzer": [
+        "2004"
+    ],
+    "chris mclachlin": [
+        "2004"
+    ],
+    "valerie jarrett": [
+        "2004",
+        "1990",
+        "2005",
+        "2008"
+    ],
+    "james baldwin": [
+        "2004"
+    ],
+    "grinch": [
+        "2004"
+    ],
+    "ed rollins": [
+        "2004"
+    ],
+    "alan dixon": [
+        "2004"
+    ],
+    "peter coffey": [
+        "2004"
+    ],
+    "jack kemp": [
+        "2004",
+        "2000"
+    ],
+    "wolfowitz": [
+        "2004"
+    ],
+    "pete giangreco": [
+        "2004",
+        "2008"
+    ],
+    "keith kakugawa": [
+        "2004"
+    ],
+    "philip klutznick": [
+        "2004"
+    ],
+    "martin luther": [
+        "2004",
+        "1980",
+        "2006",
+        "2008"
+    ],
+    "john f. kennedy": [
+        "2004",
+        "2002",
+        "2008"
+    ],
+    "susan": [
+        "2004",
+        "2002"
+    ],
+    "oprah winfrey": [
+        "2004",
+        "1980",
+        "2006"
+    ],
+    "john chase": [
+        "2004",
+        "2003"
+    ],
+    "michael moore": [
+        "2004"
+    ],
+    "john kerry": [
+        "2004",
+        "2000"
+    ],
+    "gery chico": [
+        "2004",
+        "2002",
+        "2003"
+    ],
+    "lauren mcgill": [
+        "2004"
+    ],
+    "eric zorn": [
+        "2004",
+        "2002",
+        "2003"
+    ],
+    "ann richards": [
+        "2004",
+        "2000"
+    ],
+    "clarence page": [
+        "2004",
+        "1990"
+    ],
+    "hillary clinton": [
+        "2004",
+        "2005",
+        "2008"
+    ],
+    "deborah landis": [
+        "2004"
+    ],
+    "barack obama": [
+        "2004",
+        "2000",
+        "1980",
+        "1990",
+        "2002",
+        "2003",
+        "2006",
+        "1983",
+        "2008"
+    ],
+    "craig robinson": [
+        "2004",
+        "1990"
+    ],
+    "blumenthal": [
+        "2004"
+    ],
+    "pam smith": [
+        "2004"
+    ],
+    "jerry kellman": [
+        "2004",
+        "2000",
+        "1980",
+        "1990",
+        "2002",
+        "2005"
+    ],
+    "hank greenberg": [
+        "2004"
+    ],
+    "russert": [
+        "2004"
+    ],
+    "richard wright": [
+        "2004"
+    ],
+    "al sharpton": [
+        "2004"
+    ],
+    "jeff greenfield": [
+        "2004"
+    ],
+    "darren maurer": [
+        "2004"
+    ],
+    "sarah hussein obama": [
+        "2004",
+        "1983"
+    ],
+    "george soros": [
+        "2004"
+    ],
+    "peter fitzgerald": [
+        "2004",
+        "2002"
+    ],
+    "kibera": [
+        "2004",
+        "1983"
+    ],
+    "jay leno": [
+        "2004",
+        "2000",
+        "2008"
+    ],
+    "sheila simon": [
+        "2004"
+    ],
+    "robert gibbs": [
+        "2004",
+        "2000",
+        "2005",
+        "2006",
+        "2008"
+    ],
+    "suzanne": [
+        "2004"
+    ],
+    "nelson mandela": [
+        "2004",
+        "2006"
+    ],
+    "harold washington": [
+        "2004",
+        "2000",
+        "1990",
+        "2002"
+    ],
+    "abraham lincoln": [
+        "2004"
+    ],
+    "stanley ann dunham": [
+        "2004"
+    ],
+    "paul simon": [
+        "2004",
+        "2000"
+    ],
+    "leslie corbett": [
+        "2004"
+    ],
+    "maya soetoro-ng": [
+        "2004",
+        "2000"
+    ],
+    "richard m. daley": [
+        "2004",
+        "2000",
+        "1990"
+    ],
+    "sarah onyango obama": [
+        "2004"
+    ],
+    "bettylu saltzman": [
+        "2004",
+        "2000"
+    ],
+    "latino america": [
+        "2004"
+    ],
+    "bobby rush": [
+        "2004",
+        "2000",
+        "1980",
+        "2002"
+    ],
+    "robert kennedy": [
+        "2004",
+        "2006"
+    ],
+    "kirk dillard": [
+        "2000"
+    ],
+    "frantz fanon": [
+        "2000"
+    ],
+    "phil ponce": [
+        "2000"
+    ],
+    "toni morrison": [
+        "2000"
+    ],
+    "donne trotter": [
+        "2000",
+        "2002"
+    ],
+    "rezko": [
+        "2000",
+        "2008"
+    ],
+    "abner mikva": [
+        "2000",
+        "2002",
+        "2008"
+    ],
+    "tony": [
+        "2000",
+        "2008"
+    ],
+    "diamond head": [
+        "2000"
+    ],
+    "rich miller": [
+        "2000",
+        "2002"
+    ],
+    "richard j. daley": [
+        "2000",
+        "1990"
+    ],
+    "konrad g. ng": [
+        "2000"
+    ],
+    "terry link": [
+        "2000",
+        "2002"
+    ],
+    "john bouman": [
+        "2000"
+    ],
+    "bono": [
+        "2000"
+    ],
+    "huey newton": [
+        "2000"
+    ],
+    "george ryan": [
+        "2000"
+    ],
+    "herman melville": [
+        "2000"
+    ],
+    "don terry": [
+        "2000"
+    ],
+    "jim edgar": [
+        "2000"
+    ],
+    "barbara jordan": [
+        "2000"
+    ],
+    "ray lahood": [
+        "2000"
+    ],
+    "roger boesche": [
+        "2000",
+        "2005"
+    ],
+    "saundra rich": [
+        "2000"
+    ],
+    "friedrich nietzsche": [
+        "2000"
+    ],
+    "jeri ryan": [
+        "2000"
+    ],
+    "thomas jefferson": [
+        "2000"
+    ],
+    "joe birkett": [
+        "2000"
+    ],
+    "kapiolani park": [
+        "2000"
+    ],
+    "denny jacobs": [
+        "2000",
+        "2002"
+    ],
+    "topinka": [
+        "2000"
+    ],
+    "toni preckwinkle": [
+        "2000"
+    ],
+    "huey rich": [
+        "2000"
+    ],
+    "stanley dunham": [
+        "2000"
+    ],
+    "scott fornek": [
+        "2000"
+    ],
+    "saul alinsky": [
+        "1980"
+    ],
+    "pat debonnett": [
+        "1980"
+    ],
+    "cesar chavez": [
+        "1980"
+    ],
+    "rosie": [
+        "1980"
+    ],
+    "callie smith": [
+        "1980"
+    ],
+    "kenneth": [
+        "1990"
+    ],
+    "cassandra butts": [
+        "1990",
+        "2008"
+    ],
+    "marion robinson": [
+        "1990"
+    ],
+    "alan dershowitz": [
+        "1990"
+    ],
+    "barnhill": [
+        "1990"
+    ],
+    "derrick bell": [
+        "1990"
+    ],
+    "michael froman": [
+        "1990"
+    ],
+    "judson miner": [
+        "1990",
+        "1997"
+    ],
+    "daniel websters": [
+        "1990"
+    ],
+    "michelle robinson": [
+        "1990"
+    ],
+    "sidley austin": [
+        "1990"
+    ],
+    "ozzie": [
+        "1990"
+    ],
+    "brad berenson": [
+        "1990"
+    ],
+    "galland": [
+        "1990"
+    ],
+    "carol moseley braun": [
+        "1990",
+        "2002"
+    ],
+    "frasier robinson": [
+        "1990"
+    ],
+    "harriet": [
+        "1990"
+    ],
+    "dave mckinney": [
+        "1997"
+    ],
+    "perry township": [
+        "1997"
+    ],
+    "alice palmer": [
+        "1997"
+    ],
+    "jesse jackson jr.": [
+        "1997"
+    ],
+    "bryan traubert": [
+        "2002"
+    ],
+    "catherine oganda": [
+        "2002"
+    ],
+    "waruaki dal": [
+        "2002"
+    ],
+    "eric adelstein": [
+        "2002"
+    ],
+    "john bryan": [
+        "2002"
+    ],
+    "bob hercules": [
+        "2002"
+    ],
+    "dennis onyango": [
+        "2002",
+        "1983"
+    ],
+    "nicholas pritzker": [
+        "2002"
+    ],
+    "bill lambrecht": [
+        "2002"
+    ],
+    "chris wills": [
+        "2002"
+    ],
+    "larry walsh": [
+        "2002"
+    ],
+    "christopher wills": [
+        "2002"
+    ],
+    "richard nixon": [
+        "2002"
+    ],
+    "jennifer": [
+        "2002",
+        "1983"
+    ],
+    "mike flannery": [
+        "2002",
+        "2003"
+    ],
+    "laurie abraham": [
+        "2002"
+    ],
+    "abacha": [
+        "2002"
+    ],
+    "john nyambalo": [
+        "2002"
+    ],
+    "osama bin laden": [
+        "2002"
+    ],
+    "elle": [
+        "2002"
+    ],
+    "mwai kibaki": [
+        "2002"
+    ],
+    "jeremiah wright": [
+        "2002",
+        "2008"
+    ],
+    "james crown": [
+        "2002"
+    ],
+    "penny pritzker": [
+        "2002",
+        "2008"
+    ],
+    "lyndon": [
+        "2002"
+    ],
+    "joyce washington": [
+        "2003"
+    ],
+    "brenda sexton": [
+        "2003"
+    ],
+    "dick durbin": [
+        "2003",
+        "1983"
+    ],
+    "tom balanoff": [
+        "2003"
+    ],
+    "thomas hynes": [
+        "2003"
+    ],
+    "michael madigan": [
+        "2003"
+    ],
+    "nancy skinner": [
+        "2003"
+    ],
+    "john stroger": [
+        "2003"
+    ],
+    "amy": [
+        "2005"
+    ],
+    "chris lu": [
+        "2005"
+    ],
+    "mike tackett": [
+        "2005"
+    ],
+    "kanye west": [
+        "2005"
+    ],
+    "power hour": [
+        "2005"
+    ],
+    "richard lugar": [
+        "2005"
+    ],
+    "george stephanopoulos": [
+        "2005"
+    ],
+    "john roberts": [
+        "2005"
+    ],
+    "pete rouse": [
+        "2005",
+        "2006"
+    ],
+    "jeff zeleny": [
+        "2005",
+        "2006"
+    ],
+    "tom daschle": [
+        "2005"
+    ],
+    "jon favreau": [
+        "2005"
+    ],
+    "paul wellstone": [
+        "2005"
+    ],
+    "rosa parks": [
+        "2006"
+    ],
+    "hector pieterson": [
+        "2006"
+    ],
+    "ahmed kathrada": [
+        "2006"
+    ],
+    "pete souza": [
+        "2006",
+        "1983"
+    ],
+    "desmond tutu": [
+        "2006"
+    ],
+    "mark lippert": [
+        "2006"
+    ],
+    "robert f. kennedy": [
+        "2006"
+    ],
+    "zackie": [
+        "2006"
+    ],
+    "lynn": [
+        "2006"
+    ],
+    "thabo mbeki": [
+        "2006"
+    ],
+    "obama lands": [
+        "2006"
+    ],
+    "david wheeler": [
+        "2006"
+    ],
+    "rift valley": [
+        "1983"
+    ],
+    "freedom park": [
+        "1983"
+    ],
+    "raila odinga": [
+        "1983"
+    ],
+    "michael adara": [
+        "1983"
+    ],
+    "maureen dowd": [
+        "2008"
+    ],
+    "mark warner": [
+        "2008"
+    ],
+    "irene wesley": [
+        "2008"
+    ],
+    "minow": [
+        "2008"
+    ],
+    "john f. harris": [
+        "2008"
+    ],
+    "penny reynolds": [
+        "2008"
+    ],
+    "john kennedy": [
+        "2008"
+    ],
+    "howard dean": [
+        "2008"
+    ],
+    "harkin": [
+        "2008"
+    ],
+    "david yepsen": [
+        "2008"
+    ],
+    "john grisham": [
+        "2008"
+    ],
+    "mark halperin": [
+        "2008"
+    ]
+}
