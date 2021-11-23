@@ -1,0 +1,121 @@
+{
+    "1939": {
+        "Madras": 2,
+        "India": 3,
+        "Ramanathapuram": 4
+    },
+    "2000": {
+        "Earth": 1,
+        "Delhi": 1,
+        "India": 2,
+        "Ramanathapuram": 3
+    },
+    "1962": {
+        "Mumbai": 1,
+        "America": 1,
+        "Nigeria": 1,
+        "Delhi": 8,
+        "India": 7,
+        "Russia": 1,
+        "Ahmedabad": 1,
+        "New York": 1,
+        "Rishikesh": 1,
+        "Germany": 1,
+        "Trivandrum": 3,
+        "Kanpur": 4,
+        "Japan": 3,
+        "France": 1
+    },
+    "1963": {
+        "Greenbelt": 1,
+        "Virginia": 2,
+        "England": 1,
+        "Maryland": 1,
+        "America": 2,
+        "India": 4,
+        "Russia": 2,
+        "Hampton": 1,
+        "Ahmedabad": 1,
+        "Germany": 1,
+        "Dallas": 1,
+        "France": 1
+    },
+    "1968": {
+        "Delhi": 2,
+        "Chennai": 1,
+        "India": 1,
+        "Hyderabad": 1,
+        "Ahmedabad": 1,
+        "Trivandrum": 3,
+        "France": 1,
+        "Madras": 2
+    },
+    "1975": {
+        "Greece": 1,
+        "Hyderabad": 1,
+        "Trivandrum": 2
+    },
+    "1979": {
+        "America": 2,
+        "Nordhausen": 1,
+        "London": 1,
+        "India": 2,
+        "Germany": 2,
+        "Trivandrum": 1,
+        "Earth": 1,
+        "Madras": 2,
+        "France": 3
+    },
+    "1981": {
+        "Delhi": 3,
+        "United States": 1,
+        "New Delhi": 1,
+        "India": 5,
+        "Trivandrum": 1,
+        "Madras": 1
+    },
+    "1982": {
+        "Madurai": 4,
+        "Delhi": 3,
+        "India": 5,
+        "Hyderabad": 2,
+        "Earth": 1,
+        "Madras": 6
+    },
+    "1983": {
+        "London": 2,
+        "India": 4,
+        "Hyderabad": 1,
+        "West": 1,
+        "Balasore": 3,
+        "Kharagpur": 1
+    },
+    "1984": {
+        "Los Angeles": 1,
+        "Washington": 1,
+        "San Francisco": 1,
+        "Delhi": 1,
+        "United States": 1,
+        "India": 3,
+        "Hyderabad": 1
+    },
+    "1989": {
+        "Simla": 1,
+        "United States": 2,
+        "India": 5,
+        "Trivandrum": 1,
+        "France": 1
+    },
+    "1991": {
+        "Madurai": 2,
+        "Ramanathapuram": 1,
+        "Delhi": 2,
+        "India": 9,
+        "Hyderabad": 1,
+        "Trivandrum": 1,
+        "Madras": 1
+    },
+    "1995": {
+        "India": 2
+    }
+}

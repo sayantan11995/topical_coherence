@@ -1,0 +1,732 @@
+{
+    "madras": [
+        "1939",
+        "1968",
+        "1979",
+        "1981",
+        "1982",
+        "1991"
+    ],
+    "india": [
+        "1939",
+        "2000",
+        "1962",
+        "1963",
+        "1968",
+        "1979",
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1989",
+        "1991",
+        "1995"
+    ],
+    "ramanathapuram": [
+        "1939",
+        "2000",
+        "1991"
+    ],
+    "earth": [
+        "2000",
+        "1979",
+        "1982"
+    ],
+    "delhi": [
+        "2000",
+        "1962",
+        "1968",
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1991"
+    ],
+    "mumbai": [
+        "1962"
+    ],
+    "america": [
+        "1962",
+        "1963",
+        "1979"
+    ],
+    "nigeria": [
+        "1962"
+    ],
+    "russia": [
+        "1962",
+        "1963"
+    ],
+    "ahmedabad": [
+        "1962",
+        "1963",
+        "1968"
+    ],
+    "new york": [
+        "1962"
+    ],
+    "rishikesh": [
+        "1962"
+    ],
+    "germany": [
+        "1962",
+        "1963",
+        "1979",
+        "1989"
+    ],
+    "trivandrum": [
+        "1962",
+        "1968",
+        "1975",
+        "1979",
+        "1981",
+        "1989",
+        "1991"
+    ],
+    "kanpur": [
+        "1962"
+    ],
+    "japan": [
+        "1962"
+    ],
+    "france": [
+        "1962",
+        "1963",
+        "1968",
+        "1979",
+        "1989"
+    ],
+    "greenbelt": [
+        "1963"
+    ],
+    "virginia": [
+        "1963"
+    ],
+    "england": [
+        "1963"
+    ],
+    "maryland": [
+        "1963"
+    ],
+    "hampton": [
+        "1963"
+    ],
+    "dallas": [
+        "1963"
+    ],
+    "chennai": [
+        "1968"
+    ],
+    "hyderabad": [
+        "1968",
+        "1975",
+        "1982",
+        "1983",
+        "1984",
+        "1991"
+    ],
+    "greece": [
+        "1975"
+    ],
+    "nordhausen": [
+        "1979"
+    ],
+    "london": [
+        "1979",
+        "1983"
+    ],
+    "united states": [
+        "1981",
+        "1984",
+        "1989"
+    ],
+    "new delhi": [
+        "1981"
+    ],
+    "madurai": [
+        "1982",
+        "1991"
+    ],
+    "west": [
+        "1983",
+        "1989"
+    ],
+    "balasore": [
+        "1983"
+    ],
+    "kharagpur": [
+        "1983"
+    ],
+    "los angeles": [
+        "1984"
+    ],
+    "washington": [
+        "1984"
+    ],
+    "san francisco": [
+        "1984"
+    ],
+    "simla": [
+        "1989"
+    ],
+    "khalil gibran": [
+        "1939",
+        "1962"
+    ],
+    "samsuddin": [
+        "1939",
+        "1962"
+    ],
+    "schwartz": [
+        "1939",
+        "2000"
+    ],
+    "iwas": [
+        "1939",
+        "2000",
+        "1962",
+        "1968",
+        "1975",
+        "1979"
+    ],
+    "sivaprakasan": [
+        "1939"
+    ],
+    "gandhiji": [
+        "1939"
+    ],
+    "ahmed jallaluddin": [
+        "1939",
+        "1962",
+        "1995"
+    ],
+    "azad": [
+        "1939",
+        "1962"
+    ],
+    "ashiamma": [
+        "1939"
+    ],
+    "abul": [
+        "1939",
+        "1979"
+    ],
+    "mahatma gandhi": [
+        "1939",
+        "1968",
+        "1995"
+    ],
+    "sivasubramania iyer": [
+        "1939",
+        "2000",
+        "1995"
+    ],
+    "pakshi": [
+        "1939",
+        "2000",
+        "1962",
+        "1981"
+    ],
+    "dinamani": [
+        "1939"
+    ],
+    "al fatiha": [
+        "1939"
+    ],
+    "rama tirtha": [
+        "1939"
+    ],
+    "zohara": [
+        "1939",
+        "2000",
+        "1979",
+        "1981",
+        "1995"
+    ],
+    "aravindan": [
+        "1939"
+    ],
+    "ramanadha sastry": [
+        "1939"
+    ],
+    "lakshmana": [
+        "1939",
+        "2000",
+        "1962",
+        "1975",
+        "1981"
+    ],
+    "jainulabdeen": [
+        "1939",
+        "2000",
+        "1979",
+        "1984",
+        "1995"
+    ],
+    "ananda vikatan": [
+        "2000"
+    ],
+    "deepavali": [
+        "2000"
+    ],
+    "john milton": [
+        "2000"
+    ],
+    "mustafa kamal": [
+        "2000"
+    ],
+    "sage agastya": [
+        "2000"
+    ],
+    "krishnamurthy": [
+        "2000"
+    ],
+    "sponder": [
+        "2000",
+        "1995"
+    ],
+    "devan": [
+        "2000"
+    ],
+    "kalathil": [
+        "2000"
+    ],
+    "dehra dun": [
+        "2000",
+        "1962",
+        "1981",
+        "1991"
+    ],
+    "pandalai": [
+        "2000",
+        "1991",
+        "1995"
+    ],
+    "iyadurai solomon": [
+        "2000",
+        "1991",
+        "1995"
+    ],
+    "kasim mohammed": [
+        "2000"
+    ],
+    "kanchi paramacharya": [
+        "2000"
+    ],
+    "george bernard shaw": [
+        "1962"
+    ],
+    "gnat mk": [
+        "1962"
+    ],
+    "jaya chandra babu": [
+        "1962"
+    ],
+    "mediratta": [
+        "1962",
+        "1991"
+    ],
+    "krishna menon": [
+        "1962"
+    ],
+    "neelakantan": [
+        "1962"
+    ],
+    "vikram sarabhai": [
+        "1962",
+        "1963",
+        "1979",
+        "1995"
+    ],
+    "john trowbridge": [
+        "1962"
+    ],
+    "satpura": [
+        "1962"
+    ],
+    "wajid ali shah": [
+        "1962"
+    ],
+    "tapti": [
+        "1962"
+    ],
+    "oda": [
+        "1962"
+    ],
+    "sudhakar": [
+        "1962",
+        "1981",
+        "1995"
+    ],
+    "dereira": [
+        "1962"
+    ],
+    "golay": [
+        "1962"
+    ],
+    "saraf": [
+        "1962",
+        "1983"
+    ],
+    "k madhavan nair": [
+        "1962"
+    ],
+    "swamiji": [
+        "1962"
+    ],
+    "robert goddard": [
+        "1963"
+    ],
+    "john f kennedy": [
+        "1963"
+    ],
+    "benjamin franklin": [
+        "1963"
+    ],
+    "hermann oberth": [
+        "1963"
+    ],
+    "konstantin tsiolkovsky": [
+        "1963",
+        "1981"
+    ],
+    "iwent": [
+        "1963"
+    ],
+    "aravamudan": [
+        "1963",
+        "1968"
+    ],
+    "iblis": [
+        "1963"
+    ],
+    "jawaharlal nehru": [
+        "1963"
+    ],
+    "wernher": [
+        "1963",
+        "1979"
+    ],
+    "william congreve": [
+        "1963"
+    ],
+    "tipu sultan": [
+        "1963"
+    ],
+    "launch vehicle": [
+        "1963",
+        "1968"
+    ],
+    "easwardas": [
+        "1963",
+        "1968"
+    ],
+    "s srinivasan": [
+        "1968"
+    ],
+    "vasant gowarikar": [
+        "1968"
+    ],
+    "g madhavan nair": [
+        "1968"
+    ],
+    "kutty": [
+        "1968"
+    ],
+    "muthunayagam": [
+        "1968"
+    ],
+    "curien": [
+        "1968"
+    ],
+    "abdul majeed": [
+        "1968"
+    ],
+    "gp capt narayanan": [
+        "1968"
+    ],
+    "namboodiri": [
+        "1968",
+        "1979"
+    ],
+    "brahm prakash": [
+        "1968",
+        "1975",
+        "1979",
+        "1981",
+        "1982",
+        "1984",
+        "1991",
+        "1995"
+    ],
+    "kurup": [
+        "1968",
+        "1979",
+        "1983"
+    ],
+    "sarabhai glass": [
+        "1968"
+    ],
+    "sivathanu pillai": [
+        "1968",
+        "1981",
+        "1995"
+    ],
+    "sriharikota": [
+        "1968",
+        "1979",
+        "1981",
+        "1983"
+    ],
+    "ved prakash sandlas": [
+        "1968",
+        "1981"
+    ],
+    "singh": [
+        "1968",
+        "1979",
+        "1982",
+        "1983",
+        "1989"
+    ],
+    "shar": [
+        "1968",
+        "1979",
+        "1981",
+        "1983"
+    ],
+    "sunderrajan": [
+        "1968"
+    ],
+    "sasi kumar": [
+        "1968",
+        "1979"
+    ],
+    "seshan": [
+        "1975",
+        "1984"
+    ],
+    "edith hamilton": [
+        "1975"
+    ],
+    "sarma": [
+        "1975"
+    ],
+    "sundaram": [
+        "1975",
+        "1983"
+    ],
+    "swaminathan": [
+        "1975",
+        "1983",
+        "1995"
+    ],
+    "sivaramakrishnan": [
+        "1979",
+        "1981"
+    ],
+    "rajan": [
+        "1979"
+    ],
+    "abou": [
+        "1979"
+    ],
+    "murthy": [
+        "1979"
+    ],
+    "william yeats": [
+        "1979"
+    ],
+    "mount everest": [
+        "1979"
+    ],
+    "vibhushan": [
+        "1981",
+        "1991"
+    ],
+    "ramanna": [
+        "1981",
+        "1982",
+        "1991"
+    ],
+    "lewis carroll": [
+        "1981"
+    ],
+    "dhawan\u2019s": [
+        "1981"
+    ],
+    "chandrasekhar": [
+        "1981"
+    ],
+    "rajya sabha": [
+        "1981"
+    ],
+    "shrimati gandhi": [
+        "1981",
+        "1984"
+    ],
+    "padma bhushan": [
+        "1981"
+    ],
+    "sivakaminathan": [
+        "1981"
+    ],
+    "johannes kepler": [
+        "1981"
+    ],
+    "mrs indira gandhi": [
+        "1981"
+    ],
+    "mahadevan": [
+        "1981"
+    ],
+    "valiamala": [
+        "1981"
+    ],
+    "arunachalam": [
+        "1982",
+        "1983",
+        "1984",
+        "1989",
+        "1991",
+        "1995"
+    ],
+    "neelam sanjeeva reddy": [
+        "1982"
+    ],
+    "krishna rao": [
+        "1982"
+    ],
+    "anna university": [
+        "1982"
+    ],
+    "joshi": [
+        "1982"
+    ],
+    "ronald fischer": [
+        "1982"
+    ],
+    "zameela": [
+        "1982"
+    ],
+    "akash": [
+        "1982",
+        "1983",
+        "1989",
+        "1991"
+    ],
+    "prithvi": [
+        "1982",
+        "1983",
+        "1984",
+        "1989",
+        "1991"
+    ],
+    "trishul": [
+        "1982",
+        "1983",
+        "1989",
+        "1991"
+    ],
+    "krishna mohan": [
+        "1983"
+    ],
+    "sharma": [
+        "1983"
+    ],
+    "joint advanced technology": [
+        "1983"
+    ],
+    "pilani": [
+        "1983"
+    ],
+    "suryakantha rao": [
+        "1983"
+    ],
+    "igmdp": [
+        "1983",
+        "1991",
+        "1995"
+    ],
+    "salwan": [
+        "1983"
+    ],
+    "bharati": [
+        "1983"
+    ],
+    "kalidieotheodolite": [
+        "1983"
+    ],
+    "imarat kancha": [
+        "1983"
+    ],
+    "ranga rao": [
+        "1983"
+    ],
+    "r venkataraman": [
+        "1983"
+    ],
+    "ghoshal": [
+        "1983"
+    ],
+    "rajiv gandhi": [
+        "1984",
+        "1989"
+    ],
+    "roddam narasimha": [
+        "1984"
+    ],
+    "madam gandhi": [
+        "1984",
+        "1991"
+    ],
+    "schuller": [
+        "1984"
+    ],
+    "millimetric wave": [
+        "1989",
+        "1991"
+    ],
+    "sudhir dar": [
+        "1989"
+    ],
+    "nagaraj": [
+        "1989"
+    ],
+    "gary milhollin": [
+        "1989"
+    ],
+    "jeff bingaman": [
+        "1989"
+    ],
+    "keshav": [
+        "1989"
+    ],
+    "prahlada": [
+        "1991"
+    ],
+    "sequeira": [
+        "1991"
+    ],
+    "erhart": [
+        "1991"
+    ],
+    "tamil nadu": [
+        "1991"
+    ],
+    "rudolf steiner": [
+        "1995"
+    ],
+    "abdul kalam": [
+        "1995"
+    ],
+    "pakir": [
+        "1995"
+    ],
+    "kurien": [
+        "1995"
+    ],
+    "avul": [
+        "1995"
+    ]
+}
