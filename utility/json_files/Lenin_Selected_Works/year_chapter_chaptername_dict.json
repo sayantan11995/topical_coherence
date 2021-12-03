@@ -1,0 +1,830 @@
+{
+    "1906": [
+        [
+            "1",
+            "1",
+            "\"APART FROM LIFE\","
+        ],
+        [
+            "1",
+            "2",
+            "\"THE VILLAGE OF QUNU w\","
+        ],
+        [
+            "2",
+            "32",
+            "\"IT IS SAID\","
+        ],
+        [
+            "2",
+            "33",
+            "\"PASSING THE BATON\","
+        ],
+        [
+            "2",
+            "34",
+            "\"THE DECEMBER 1959 ANC\","
+        ]
+    ],
+    "1905": [
+        [
+            "1",
+            "3",
+            "\"ONE NIGHT\","
+        ],
+        [
+            "1",
+            "8",
+            "\"USUALLY\","
+        ],
+        [
+            "1",
+            "9",
+            "\"IT WAS DAWN\","
+        ],
+        [
+            "1",
+            "10",
+            "\"LIFE IN ALEXANDRA\","
+        ],
+        [
+            "1",
+            "11",
+            "\"I CANNOT PINPOINT\","
+        ],
+        [
+            "1",
+            "15",
+            "\"AT THE ANC\","
+        ],
+        [
+            "2",
+            "1",
+            "\"APART FROM LIFE\","
+        ],
+        [
+            "2",
+            "8",
+            "\"USUALLY\","
+        ],
+        [
+            "2",
+            "9",
+            "\"IT WAS DAWN\","
+        ],
+        [
+            "3",
+            "12",
+            "\"LIFE IN ALEXANDRA\","
+        ],
+        [
+            "3",
+            "13",
+            "\"I CANNOT PINPOINT\","
+        ],
+        [
+            "3",
+            "17",
+            "\"AT THE ANC\","
+        ]
+    ],
+    "1897": [
+        [
+            "1",
+            "4",
+            "\"WHEN I WAS SIXTEEN\","
+        ],
+        [
+            "1",
+            "27",
+            "\"THE MAJOR EVENT\","
+        ]
+    ],
+    "1901": [
+        [
+            "1",
+            "5",
+            "\"UNLIKE MOST OF THE OTHERS\","
+        ]
+    ],
+    "1903": [
+        [
+            "1",
+            "6",
+            "\"IN 1937\","
+        ],
+        [
+            "1",
+            "7",
+            "\"UNTIL 1960,\","
+        ],
+        [
+            "1",
+            "13",
+            "\"AFRICANS\","
+        ],
+        [
+            "2",
+            "10",
+            "\"LIFE IN ALEXANDRA\","
+        ],
+        [
+            "2",
+            "11",
+            "\"I CANNOT PINPOINT\","
+        ]
+    ],
+    "1912": [
+        [
+            "1",
+            "12",
+            "\"IN 1946\","
+        ],
+        [
+            "1",
+            "14",
+            "\"IF WE HAD ANY HOPES\","
+        ],
+        [
+            "2",
+            "12",
+            "\"IN 1946\","
+        ],
+        [
+            "2",
+            "13",
+            "\"AFRICANS\","
+        ]
+    ],
+    "1871": [
+        [
+            "1",
+            "16",
+            "\"MY LIFE\","
+        ],
+        [
+            "1",
+            "17",
+            "\"SITUATED FOUR MILES WEST\","
+        ],
+        [
+            "1",
+            "20",
+            "\"THE ANTIREMOVAL CAMPAIGN\","
+        ],
+        [
+            "2",
+            "3",
+            "\"ONE NIGHT\","
+        ],
+        [
+            "2",
+            "23",
+            "\"JUSTAFTER DAWN\","
+        ],
+        [
+            "2",
+            "24",
+            "\"EVEN BEFORE THE TRIAL,\","
+        ]
+    ],
+    "1900": [
+        [
+            "1",
+            "18",
+            "\"IN JOHANNESBURG\","
+        ]
+    ],
+    "1915": [
+        [
+            "1",
+            "19",
+            "\"WHEN I RECEIVED\","
+        ],
+        [
+            "2",
+            "14",
+            "\"IF WE HAD ANY HOPES\","
+        ],
+        [
+            "2",
+            "15",
+            "\"AT THE ANC\","
+        ]
+    ],
+    "1891": [
+        [
+            "1",
+            "21",
+            "\"IMMEDIATELY\","
+        ]
+    ],
+    "1896": [
+        [
+            "1",
+            "22",
+            "\"WINNIE\u00e2\u20ac\u2122S TRIAL\","
+        ]
+    ],
+    "1890": [
+        [
+            "1",
+            "23",
+            "\"JUSTAFTER DAWN\","
+        ],
+        [
+            "1",
+            "25",
+            "\"ON JANUARY 9, 1957\","
+        ],
+        [
+            "1",
+            "26",
+            "\"ONE AFTERNOON\""
+        ]
+    ],
+    "1894": [
+        [
+            "1",
+            "24",
+            "\"EVEN BEFORE THE TRIAL,\","
+        ]
+    ],
+    "1875": [
+        [
+            "2",
+            "2",
+            "\"THE VILLAGE OF QUNU w\","
+        ]
+    ],
+    "1917": [
+        [
+            "2",
+            "4",
+            "\"WHEN I WAS SIXTEEN\","
+        ],
+        [
+            "2",
+            "5",
+            "\"UNLIKE MOST OF THE OTHERS\","
+        ],
+        [
+            "2",
+            "16",
+            "\"MY LIFE\","
+        ],
+        [
+            "2",
+            "17",
+            "\"SITUATED FOUR MILES WEST\","
+        ],
+        [
+            "2",
+            "18",
+            "\"IN JOHANNESBURG\","
+        ],
+        [
+            "2",
+            "19",
+            "\"WHEN I RECEIVED\","
+        ],
+        [
+            "2",
+            "20",
+            "\"THE ANTIREMOVAL CAMPAIGN\","
+        ],
+        [
+            "2",
+            "21",
+            "\"IMMEDIATELY\","
+        ],
+        [
+            "2",
+            "22",
+            "\"WINNIE\u00e2\u20ac\u2122S TRIAL\","
+        ],
+        [
+            "2",
+            "25",
+            "\"ON JANUARY 9, 1957\","
+        ],
+        [
+            "2",
+            "26",
+            "\"ONE AFTERNOON\""
+        ],
+        [
+            "2",
+            "27",
+            "\"THE MAJOR EVENT\","
+        ],
+        [
+            "2",
+            "28",
+            "\"FEW ISSUES\","
+        ],
+        [
+            "2",
+            "29",
+            "\"FOR SIX MONTHS\","
+        ],
+        [
+            "2",
+            "30",
+            "\"ONAPRIL 6, 1959\","
+        ],
+        [
+            "2",
+            "31",
+            "\"IN 1959\","
+        ],
+        [
+            "2",
+            "35",
+            "\"AT 1"
+        ],
+        [
+            "2",
+            "36",
+            "\"IN THE MEANTIME\","
+        ],
+        [
+            "2",
+            "37",
+            "\"ON APRIL 25\","
+        ],
+        [
+            "2",
+            "38",
+            "\"AFTER THE LIFTING\","
+        ],
+        [
+            "2",
+            "39",
+            "\"THE CROWN took\","
+        ],
+        [
+            "2",
+            "40",
+            "\"I, WHO HAD NEVER\","
+        ],
+        [
+            "2",
+            "41",
+            "\"I DID NOT \","
+        ],
+        [
+            "2",
+            "42",
+            "\"MY TIME UNDERGROUND\","
+        ],
+        [
+            "2",
+            "43",
+            "\"THE DECEMBER 1959 ANC\","
+        ],
+        [
+            "2",
+            "44",
+            "\"DURING THOSE FIRST\","
+        ],
+        [
+            "2",
+            "45",
+            "\"MYNEXTADDRESS\","
+        ],
+        [
+            "2",
+            "46",
+            "\"IN PLANNING t\","
+        ],
+        [
+            "2",
+            "49",
+            "\"I CONFESS\","
+        ],
+        [
+            "2",
+            "50",
+            "\"AFTER CROSSING THE BORDER\","
+        ],
+        [
+            "2",
+            "51",
+            "\"AT THE FORT\","
+        ],
+        [
+            "2",
+            "52",
+            "\"THE INITIAL HEARING\","
+        ],
+        [
+            "2",
+            "53",
+            "\"PRISON NOT ONLY\","
+        ],
+        [
+            "2",
+            "54",
+            "\"IN OCTOBER 1962,\","
+        ],
+        [
+            "2",
+            "60",
+            "\"AT MIDNIGHT\","
+        ],
+        [
+            "2",
+            "61",
+            "\"THE DECEMBER 1959 ANC\","
+        ],
+        [
+            "2",
+            "63",
+            "\"WE WERE AWAKENED\","
+        ],
+        [
+            "2",
+            "64",
+            "\"ONE MORNING\","
+        ],
+        [
+            "3",
+            "5",
+            "\"ONE NIGHT\","
+        ],
+        [
+            "3",
+            "25",
+            "\"JUSTAFTER DAWN\","
+        ]
+    ],
+    "1914": [
+        [
+            "2",
+            "6",
+            "\"IN 1937\","
+        ],
+        [
+            "2",
+            "7",
+            "\"UNTIL 1960,\","
+        ],
+        [
+            "3",
+            "39",
+            "\"ON APRIL 25\","
+        ]
+    ],
+    "1899": [
+        [
+            "2",
+            "47",
+            "\"WHEN WINNIE VISITED\","
+        ],
+        [
+            "2",
+            "48",
+            "\"FORMERLYKNOWN\","
+        ]
+    ],
+    "1918": [
+        [
+            "2",
+            "55",
+            "\"ONE NIGHT\","
+        ],
+        [
+            "2",
+            "56",
+            "\"ON OCTOBER 9\","
+        ],
+        [
+            "2",
+            "57",
+            "\"THE STATE CASE\","
+        ],
+        [
+            "2",
+            "59",
+            "\"THE STATE CASE\","
+        ],
+        [
+            "2",
+            "62",
+            "\"AT THE END\","
+        ],
+        [
+            "2",
+            "65",
+            "\"in jail\","
+        ],
+        [
+            "2",
+            "66",
+            "\"one morning\","
+        ],
+        [
+            "2",
+            "67",
+            "\"one day\","
+        ],
+        [
+            "2",
+            "68",
+            "\"THE most imp\","
+        ],
+        [
+            "2",
+            "69",
+            "\"in the midst of july\","
+        ],
+        [
+            "2",
+            "70",
+            "\"ZITHULELE\","
+        ],
+        [
+            "2",
+            "71",
+            "\"I NEVER IMAGINED\","
+        ],
+        [
+            "2",
+            "72",
+            "\"IME MAY SEEM\","
+        ],
+        [
+            "2",
+            "73",
+            "\"THE GRAPH of improvement\","
+        ],
+        [
+            "2",
+            "74",
+            "\"SOME OF THE WARDERS\","
+        ],
+        [
+            "2",
+            "75",
+            "\"IN LATE MAY of 1971\","
+        ],
+        [
+            "2",
+            "76",
+            "\"IT WAS ANNOUNCED\","
+        ],
+        [
+            "3",
+            "1",
+            "\"ONE MORNING\","
+        ],
+        [
+            "3",
+            "2",
+            "\"IN THE STRUGGLE,\","
+        ],
+        [
+            "3",
+            "3",
+            "\"APART FROM LIFE\","
+        ],
+        [
+            "3",
+            "4",
+            "\"THE VILLAGE OF QUNU w\","
+        ],
+        [
+            "3",
+            "7",
+            "\"UNLIKE MOST OF THE OTHERS\","
+        ],
+        [
+            "3",
+            "36",
+            "\"THE DECEMBER 1959 ANC\","
+        ]
+    ],
+    "1907": [
+        [
+            "2",
+            "58",
+            "\"THE WORLD\","
+        ]
+    ],
+    "1919": [
+        [
+            "3",
+            "6",
+            "\"WHEN I WAS SIXTEEN\","
+        ],
+        [
+            "3",
+            "8",
+            "\"IN 1937\","
+        ],
+        [
+            "3",
+            "9",
+            "\"UNTIL 1960,\","
+        ],
+        [
+            "3",
+            "10",
+            "\"USUALLY\","
+        ],
+        [
+            "3",
+            "11",
+            "\"IT WAS DAWN\","
+        ],
+        [
+            "3",
+            "14",
+            "\"IN 1946\","
+        ],
+        [
+            "3",
+            "15",
+            "\"AFRICANS\","
+        ],
+        [
+            "3",
+            "16",
+            "\"IF WE HAD ANY HOPES\","
+        ],
+        [
+            "3",
+            "18",
+            "\"MY LIFE\","
+        ],
+        [
+            "3",
+            "19",
+            "\"SITUATED FOUR MILES WEST\","
+        ],
+        [
+            "3",
+            "20",
+            "\"IN JOHANNESBURG\","
+        ],
+        [
+            "3",
+            "21",
+            "\"WHEN I RECEIVED\","
+        ]
+    ],
+    "1920": [
+        [
+            "3",
+            "22",
+            "\"THE ANTIREMOVAL CAMPAIGN\","
+        ],
+        [
+            "3",
+            "23",
+            "\"IMMEDIATELY\","
+        ],
+        [
+            "3",
+            "24",
+            "\"WINNIE\u00e2\u20ac\u2122S TRIAL\","
+        ],
+        [
+            "3",
+            "26",
+            "\"EVEN BEFORE THE TRIAL,\","
+        ],
+        [
+            "3",
+            "27",
+            "\"ON JANUARY 9, 1957\","
+        ],
+        [
+            "3",
+            "28",
+            "\"ONE AFTERNOON\""
+        ],
+        [
+            "3",
+            "29",
+            "\"THE MAJOR EVENT\","
+        ],
+        [
+            "3",
+            "30",
+            "\"FEW ISSUES\","
+        ],
+        [
+            "3",
+            "31",
+            "\"FOR SIX MONTHS\","
+        ],
+        [
+            "3",
+            "32",
+            "\"ONAPRIL 6, 1959\","
+        ],
+        [
+            "3",
+            "33",
+            "\"IN 1959\","
+        ],
+        [
+            "3",
+            "34",
+            "\"IT IS SAID\","
+        ],
+        [
+            "3",
+            "49",
+            "\"WHEN WINNIE VISITED\","
+        ],
+        [
+            "3",
+            "53",
+            "\"AT THE FORT\","
+        ]
+    ],
+    "1921": [
+        [
+            "3",
+            "35",
+            "\"PASSING THE BATON\","
+        ],
+        [
+            "3",
+            "37",
+            "\"AT 1"
+        ],
+        [
+            "3",
+            "38",
+            "\"IN THE MEANTIME\","
+        ],
+        [
+            "3",
+            "40",
+            "\"AFTER THE LIFTING\","
+        ],
+        [
+            "3",
+            "44",
+            "\"MY TIME UNDERGROUND\","
+        ],
+        [
+            "3",
+            "46",
+            "\"DURING THOSE FIRST\","
+        ]
+    ],
+    "1922": [
+        [
+            "3",
+            "41",
+            "\"THE CROWN took\","
+        ],
+        [
+            "3",
+            "42",
+            "\"I, WHO HAD NEVER\","
+        ],
+        [
+            "3",
+            "43",
+            "\"I DID NOT \","
+        ],
+        [
+            "3",
+            "45",
+            "\"THE DECEMBER 1959 ANC\","
+        ],
+        [
+            "3",
+            "47",
+            "\"MYNEXTADDRESS\","
+        ],
+        [
+            "3",
+            "48",
+            "\"IN PLANNING t\","
+        ]
+    ],
+    "1923": [
+        [
+            "3",
+            "50",
+            "\"FORMERLYKNOWN\","
+        ],
+        [
+            "3",
+            "51",
+            "\"I CONFESS\","
+        ],
+        [
+            "3",
+            "52",
+            "\"AFTER CROSSING THE BORDER\","
+        ]
+    ]
+}

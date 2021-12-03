@@ -1836,9 +1836,6 @@
         "Nadezhdin": [
             1
         ],
-        "Were Iskra": [
-            0
-        ],
         "Offence": [
             1
         ],
@@ -2217,9 +2214,6 @@
         "Nikolayev": [
             1
         ],
-        "Quite": [
-            1
-        ],
         "Life": [
             1
         ],
@@ -2352,6 +2346,9 @@
         "Gironde": [
             1
         ],
+        "Quite": [
+            1
+        ],
         "Break": [
             1
         ],
@@ -2418,9 +2415,6 @@
         "Sour": [
             1
         ],
-        "Alexandrov": [
-            1
-        ],
         "Unity": [
             1
         ],
@@ -2438,6 +2432,9 @@
         ],
         "Aristocratic": [
             0
+        ],
+        "Alexandrov": [
+            1
         ],
         "Girondism": [
             1
@@ -2980,7 +2977,7 @@
             1
         ],
         "Australia": [
-            1
+            0
         ],
         "Russkaya": [
             1
@@ -3148,7 +3145,7 @@
             1
         ],
         "Fenianism": [
-            1
+            0
         ],
         "Experience": [
             1
@@ -3543,6 +3540,9 @@
         "Sugar Refineries": [
             0
         ],
+        "Per": [
+            0
+        ],
         "Dortmund": [
             0
         ],
@@ -3712,9 +3712,6 @@
             0
         ],
         "Certain": [
-            1
-        ],
-        "Polynesia": [
             1
         ],
         "Supan": [
@@ -4517,9 +4514,6 @@
         ],
         "Korotoyak Uyezd": [
             1
-        ],
-        "Per": [
-            0
         ],
         "Statistical Returns": [
             0
@@ -6754,6 +6748,6958 @@
             0
         ],
         "Artels": [
+            1
+        ]
+    },
+    "2": {
+        "Switzer": [
+            1
+        ],
+        "Russian": [
+            1
+        ],
+        "Mr. Milyukov": [
+            0
+        ],
+        "Russia": [
+            1
+        ],
+        "Rasputin": [
+            0
+        ],
+        "Jews": [
+            0
+        ],
+        "Milyukovs": [
+            0
+        ],
+        "Romanov": [
+            1
+        ],
+        "United States": [
+            1
+        ],
+        "China": [
+            1
+        ],
+        "Lvovs": [
+            0
+        ],
+        "Shingaryovs": [
+            1
+        ],
+        "Potresovs": [
+            0
+        ],
+        "Kerenskys": [
+            0
+        ],
+        "Chkheidzes": [
+            1
+        ],
+        "German": [
+            1
+        ],
+        "British": [
+            1
+        ],
+        "French": [
+            1
+        ],
+        "Soviet": [
+            1
+        ],
+        "Kerensky": [
+            0
+        ],
+        "Chkheidze": [
+            1
+        ],
+        "Scheidemanns": [
+            1
+        ],
+        "Germany": [
+            1
+        ],
+        "Gvozdyovs": [
+            0
+        ],
+        "England": [
+            1
+        ],
+        "France": [
+            1
+        ],
+        "Nicholas Romanov": [
+            0
+        ],
+        "Nicholas II": [
+            0
+        ],
+        "Wilhelm II": [
+            0
+        ],
+        "St. Petersburg": [
+            1
+        ],
+        "Milyukov": [
+            0
+        ],
+        "Guchkov": [
+            0
+        ],
+        "Mesopotamia": [
+            1
+        ],
+        "English": [
+            1
+        ],
+        "Buchanan": [
+            0
+        ],
+        "Such": [
+            1
+        ],
+        "Petrograd": [
+            1
+        ],
+        "Guards": [
+            1
+        ],
+        "Lvov": [
+            0
+        ],
+        "Peaceful Renovation Party": [
+            0
+        ],
+        "Italy": [
+            1
+        ],
+        "Side": [
+            1
+        ],
+        "Romanov Dynasty": [
+            0
+        ],
+        "Gvozdvovs": [
+            0
+        ],
+        "Mikhail Romanov": [
+            0
+        ],
+        "Bonapartist": [
+            1
+        ],
+        "Help": [
+            1
+        ],
+        "Ours": [
+            1
+        ],
+        "Plekhanov": [
+            0
+        ],
+        "Cadets": [
+            1
+        ],
+        "Armenia": [
+            1
+        ],
+        "Galicia": [
+            0
+        ],
+        "Turkey": [
+            1
+        ],
+        "Poland": [
+            1
+        ],
+        "Courland": [
+            1
+        ],
+        "Lithuania": [
+            1
+        ],
+        "Second": [
+            1
+        ],
+        "European": [
+            1
+        ],
+        "Gvozdyov": [
+            1
+        ],
+        "Potresov": [
+            0
+        ],
+        "Fraternisation": [
+            1
+        ],
+        "Party": [
+            1
+        ],
+        "Exposure": [
+            1
+        ],
+        "Tsereteli": [
+            0
+        ],
+        "Steklov": [
+            0
+        ],
+        "Peasants": [
+            0
+        ],
+        "Centre": [
+            1
+        ],
+        "Mr. Goldenberg": [
+            0
+        ],
+        "Lenin": [
+            0
+        ],
+        "Mr. Plekhanov": [
+            0
+        ],
+        "Isn": [
+            0
+        ],
+        "Russkaya Volya": [
+            1
+        ],
+        "Inconsistent": [
+            1
+        ],
+        "Marx": [
+            0
+        ],
+        "Engels": [
+            1
+        ],
+        "Marxism": [
+            1
+        ],
+        "Rosa Luxemburg": [
+            0
+        ],
+        "Bolshevism": [
+            1
+        ],
+        "Nobody": [
+            1
+        ],
+        "Europe": [
+            1
+        ],
+        "America": [
+            1
+        ],
+        "Plekhanovs": [
+            1
+        ],
+        "Kautskys": [
+            1
+        ],
+        "Nonsense": [
+            1
+        ],
+        "Humanity": [
+            1
+        ],
+        "Tseretelis": [
+            0
+        ],
+        "Steklovs": [
+            0
+        ],
+        "Nicholas": [
+            1
+        ],
+        "Persia": [
+            1
+        ],
+        "Austria": [
+            1
+        ],
+        "Eastern Prussia": [
+            1
+        ],
+        "Great-Russian": [
+            1
+        ],
+        "Britain": [
+            1
+        ],
+        "Soviets": [
+            1
+        ],
+        "Teodorovich": [
+            0
+        ],
+        "Railwaymen": [
+            1
+        ],
+        "Bloody": [
+            1
+        ],
+        "Great": [
+            1
+        ],
+        "Great Russia": [
+            1
+        ],
+        "Down": [
+            0
+        ],
+        "Germans": [
+            1
+        ],
+        "Blancism": [
+            0
+        ],
+        "Russianrevolution": [
+            1
+        ],
+        "Kautsky": [
+            0
+        ],
+        "Mr. Lvov": [
+            0
+        ],
+        "Service": [
+            1
+        ],
+        "Skobelev": [
+            0
+        ],
+        "Good": [
+            1
+        ],
+        "Renaudel": [
+            0
+        ],
+        "Guesde": [
+            0
+        ],
+        "Sembat": [
+            1
+        ],
+        "Bissolati": [
+            0
+        ],
+        "Hyndman": [
+            0
+        ],
+        "Sweden": [
+            1
+        ],
+        "Troelstra": [
+            0
+        ],
+        "Holland": [
+            1
+        ],
+        "Denmark": [
+            1
+        ],
+        "Victor Berger": [
+            0
+        ],
+        "Marxist": [
+            0
+        ],
+        "Karl Kautsky": [
+            0
+        ],
+        "Haase": [
+            0
+        ],
+        "Ledebour": [
+            0
+        ],
+        "Reichstag": [
+            1
+        ],
+        "Longuet": [
+            1
+        ],
+        "Pressemane": [
+            0
+        ],
+        "Philip Snowden": [
+            0
+        ],
+        "Ramsay MacDonald": [
+            0
+        ],
+        "Morris Hillquit": [
+            0
+        ],
+        "Turati": [
+            0
+        ],
+        "Tr\u00e9ves": [
+            1
+        ],
+        "Modigliani": [
+            0
+        ],
+        "Robert Grimm": [
+            0
+        ],
+        "Switzerland": [
+            1
+        ],
+        "Victor Adler": [
+            0
+        ],
+        "Axelrod": [
+            0
+        ],
+        "Martov": [
+            0
+        ],
+        "Karl Liebknecht": [
+            1
+        ],
+        "Karl": [
+            0
+        ],
+        "Potsdamer Platz": [
+            1
+        ],
+        "Berlin": [
+            0
+        ],
+        "Legiens": [
+            1
+        ],
+        "Davids": [
+            0
+        ],
+        "Otto R\u00fchle": [
+            0
+        ],
+        "Liebknecht": [
+            0
+        ],
+        "Bremen": [
+            1
+        ],
+        "Closest": [
+            1
+        ],
+        "Loriot": [
+            1
+        ],
+        "Geneva": [
+            1
+        ],
+        "Demain": [
+            1
+        ],
+        "Russel Williams": [
+            0
+        ],
+        "De Tribune": [
+            0
+        ],
+        "Herman Gorter": [
+            0
+        ],
+        "Wijnkoop": [
+            1
+        ],
+        "Henriette Roland-Holst": [
+            0
+        ],
+        "Lindhagen": [
+            0
+        ],
+        "Ture Nerman": [
+            0
+        ],
+        "Carleson": [
+            0
+        ],
+        "Str\u00f6lm": [
+            0
+        ],
+        "Trier": [
+            1
+        ],
+        "Bulgaria": [
+            1
+        ],
+        "Tesnyaki": [
+            0
+        ],
+        "Serrati": [
+            1
+        ],
+        "Avanti": [
+            0
+        ],
+        "Radek": [
+            0
+        ],
+        "Hanecki": [
+            1
+        ],
+        "Tyszka": [
+            0
+        ],
+        "Lithuana": [
+            0
+        ],
+        "Friedrich Adler": [
+            0
+        ],
+        "Austrian": [
+            1
+        ],
+        "Adler": [
+            0
+        ],
+        "Kautskyites": [
+            0
+        ],
+        "Heilmann": [
+            1
+        ],
+        "Parvus": [
+            1
+        ],
+        "Glocke": [
+            0
+        ],
+        "Bourderon": [
+            0
+        ],
+        "Greulich": [
+            1
+        ],
+        "Pfl\u00fcger": [
+            0
+        ],
+        "Gustav M\u00fcmller": [
+            0
+        ],
+        "Munzenberg": [
+            0
+        ],
+        "Die Jugendinternationale": [
+            0
+        ],
+        "Zinoviev": [
+            0
+        ],
+        "Hartstein": [
+            0
+        ],
+        "Much": [
+            1
+        ],
+        "Zimmerwald": [
+            0
+        ],
+        "Fritz Platten": [
+            0
+        ],
+        "Swiss": [
+            1
+        ],
+        "Platten": [
+            0
+        ],
+        "Riga": [
+            1
+        ],
+        "Trotsky": [
+            0
+        ],
+        "Stockholm": [
+            1
+        ],
+        "Wilhelm": [
+            0
+        ],
+        "Velkstaat": [
+            1
+        ],
+        "Democracy": [
+            1
+        ],
+        "Paris": [
+            1
+        ],
+        "Pravda": [
+            1
+        ],
+        "Lefts": [
+            0
+        ],
+        "Narodniks": [
+            0
+        ],
+        "Chernov": [
+            0
+        ],
+        "Lenin St. Petersburg": [
+            0
+        ],
+        "Nevsky": [
+            1
+        ],
+        "American": [
+            1
+        ],
+        "Rally": [
+            1
+        ],
+        "Borgbjerg": [
+            1
+        ],
+        "Which": [
+            0
+        ],
+        "Danish": [
+            1
+        ],
+        "Rabochaya Gazeta": [
+            0
+        ],
+        "Yedinstvo": [
+            0
+        ],
+        "Scheidemann": [
+            1
+        ],
+        "Penza Gubernia": [
+            0
+        ],
+        "Mensheviks": [
+            1
+        ],
+        "Nizhny": [
+            1
+        ],
+        "Life": [
+            1
+        ],
+        "Gelman": [
+            1
+        ],
+        "Ovsyanikov": [
+            0
+        ],
+        "Sokolnikov": [
+            0
+        ],
+        "Imperialism": [
+            1
+        ],
+        "Imperialist": [
+            1
+        ],
+        "Explanation": [
+            1
+        ],
+        "Monopoly": [
+            1
+        ],
+        "Supreme": [
+            1
+        ],
+        "Add": [
+            1
+        ],
+        "Hence": [
+            1
+        ],
+        "God": [
+            1
+        ],
+        "Shingaryov": [
+            0
+        ],
+        "Solovyov": [
+            0
+        ],
+        "Polish": [
+            1
+        ],
+        "Finland": [
+            1
+        ],
+        "Finnish": [
+            1
+        ],
+        "Experience": [
+            1
+        ],
+        "Moscow": [
+            1
+        ],
+        "Petty": [
+            1
+        ],
+        "Don": [
+            0
+        ],
+        "Organise": [
+            1
+        ],
+        "Work": [
+            1
+        ],
+        "Capital": [
+            1
+        ],
+        "Land Committee": [
+            0
+        ],
+        "Smilga": [
+            0
+        ],
+        "Romanovs": [
+            1
+        ],
+        "Census": [
+            1
+        ],
+        "Free": [
+            1
+        ],
+        "Markovs": [
+            0
+        ],
+        "Implements": [
+            1
+        ],
+        "Everyone": [
+            1
+        ],
+        "Grown": [
+            1
+        ],
+        "Haven": [
+            0
+        ],
+        "Look": [
+            1
+        ],
+        "Posts": [
+            1
+        ],
+        "Greece": [
+            1
+        ],
+        "Straits": [
+            1
+        ],
+        "Lyakhov": [
+            0
+        ],
+        "Ukraine": [
+            1
+        ],
+        "Arrest": [
+            1
+        ],
+        "France\u2014": [
+            1
+        ],
+        "Bazarov": [
+            0
+        ],
+        "Novaya Zhizn": [
+            0
+        ],
+        "Mexico": [
+            1
+        ],
+        "Japan": [
+            1
+        ],
+        "Wouldn": [
+            0
+        ],
+        "MacLean": [
+            1
+        ],
+        "Albania": [
+            1
+        ],
+        "Bills": [
+            0
+        ],
+        "Albanian": [
+            1
+        ],
+        "Greek": [
+            1
+        ],
+        "Persian": [
+            1
+        ],
+        "Ministry": [
+            0
+        ],
+        "Dyelo Naroda": [
+            0
+        ],
+        "Allied": [
+            0
+        ],
+        "Alsace": [
+            0
+        ],
+        "Lorraine": [
+            1
+        ],
+        "Khiva": [
+            0
+        ],
+        "Bokhara": [
+            1
+        ],
+        "Japanese": [
+            1
+        ],
+        "India": [
+            1
+        ],
+        "Power": [
+            1
+        ],
+        "Lenin II Speech": [
+            0
+        ],
+        "Maklakov": [
+            0
+        ],
+        "Capitalism": [
+            1
+        ],
+        "Russians": [
+            1
+        ],
+        "Europeans": [
+            1
+        ],
+        "U.S.A.": [
+            1
+        ],
+        "Draft": [
+            1
+        ],
+        "U.S.": [
+            1
+        ],
+        "Kiaochow": [
+            0
+        ],
+        "Ukrainian": [
+            1
+        ],
+        "Socialism": [
+            1
+        ],
+        "Remain": [
+            1
+        ],
+        "Baghdad": [
+            1
+        ],
+        "Egypt": [
+            1
+        ],
+        "Prague": [
+            1
+        ],
+        "Armenian": [
+            1
+        ],
+        "Turks": [
+            1
+        ],
+        "Asian": [
+            1
+        ],
+        "Alexinsky": [
+            0
+        ],
+        "Peas": [
+            1
+        ],
+        "Jugashvili": [
+            1
+        ],
+        "Georgian": [
+            1
+        ],
+        "Stalin": [
+            1
+        ],
+        "Rech": [
+            0
+        ],
+        "Zhivoye Slovo": [
+            0
+        ],
+        "Yermolenko": [
+            0
+        ],
+        "Schiditzki": [
+            0
+        ],
+        "L\u00fcbers": [
+            1
+        ],
+        "Yoltukhovsky": [
+            1
+        ],
+        "Kozlovsky": [
+            0
+        ],
+        "Again": [
+            1
+        ],
+        "Executive Committee": [
+            0
+        ],
+        "Polovtsev": [
+            1
+        ],
+        "Hundred": [
+            1
+        ],
+        "Listok": [
+            0
+        ],
+        "Pravdy": [
+            0
+        ],
+        "Whoever": [
+            1
+        ],
+        "Black Hundreds": [
+            0
+        ],
+        "Spiridonova": [
+            1
+        ],
+        "Izvestia": [
+            1
+        ],
+        "Doesn": [
+            0
+        ],
+        "Assembly": [
+            0
+        ],
+        "Pereverzev": [
+            0
+        ],
+        "Cavaignac": [
+            1
+        ],
+        "Bolsheviks": [
+            1
+        ],
+        "Directory": [
+            0
+        ],
+        "April": [
+            1
+        ],
+        "Reorganise": [
+            1
+        ],
+        "Certain": [
+            1
+        ],
+        "Zhivoye": [
+            0
+        ],
+        "Slovo": [
+            0
+        ],
+        "Limit": [
+            0
+        ],
+        "Hindenburg": [
+            1
+        ],
+        "Business": [
+            1
+        ],
+        "Markov": [
+            0
+        ],
+        "Zamyslovsky": [
+            0
+        ],
+        "Novoye Vremya": [
+            0
+        ],
+        "Beilis": [
+            1
+        ],
+        "Alexinskys": [
+            0
+        ],
+        "Pereverzevs": [
+            1
+        ],
+        "Peaceful": [
+            1
+        ],
+        "Dan": [
+            0
+        ],
+        "Rakitnikov": [
+            0
+        ],
+        "Frederick": [
+            0
+        ],
+        "Kamenev": [
+            0
+        ],
+        "Chernovs": [
+            1
+        ],
+        "Voinov": [
+            0
+        ],
+        "Cavaignacs": [
+            1
+        ],
+        "Nothing": [
+            1
+        ],
+        "Anew": [
+            1
+        ],
+        "Bolshevik": [
+            1
+        ],
+        "Famine": [
+            1
+        ],
+        "Panina": [
+            1
+        ],
+        "Tsar Nicholas II": [
+            0
+        ],
+        "March": [
+            1
+        ],
+        "Marinsky Palace": [
+            0
+        ],
+        "Revolution": [
+            1
+        ],
+        "Peshekhonov": [
+            0
+        ],
+        "Palchinsky": [
+            1
+        ],
+        "Industry": [
+            1
+        ],
+        "Kronstadt": [
+            0
+        ],
+        "Erzurum": [
+            0
+        ],
+        "Whereas": [
+            0
+        ],
+        "Afterword": [
+            1
+        ],
+        "August": [
+            1
+        ],
+        "Notes": [
+            0
+        ],
+        "Bonaparte": [
+            1
+        ],
+        "Bureau": [
+            1
+        ],
+        "Pepelayev": [
+            0
+        ],
+        "Gotz": [
+            1
+        ],
+        "Kornilov": [
+            0
+        ],
+        "Cavalry Corps": [
+            0
+        ],
+        "Red Guard": [
+            0
+        ],
+        "Volodarsky": [
+            0
+        ],
+        "Vyborg": [
+            1
+        ],
+        "Helsingfors": [
+            1
+        ],
+        "Rodzyanko": [
+            0
+        ],
+        "Left": [
+            0
+        ],
+        "First": [
+            0
+        ],
+        "Rabochy": [
+            0
+        ],
+        "Estonia": [
+            1
+        ],
+        "French Blanquists": [
+            1
+        ],
+        "Anybody": [
+            0
+        ],
+        "Mr. Robber": [
+            0
+        ],
+        "Alexeyev": [
+            0
+        ],
+        "Klembovsky": [
+            0
+        ],
+        "Unemployment": [
+            1
+        ],
+        "Council": [
+            0
+        ],
+        "Unavoidable": [
+            1
+        ],
+        "Everybody": [
+            1
+        ],
+        "Izvestia TsIK": [
+            1
+        ],
+        "Ryabushinskys": [
+            0
+        ],
+        "Bublikovs": [
+            0
+        ],
+        "Tereshchenkos": [
+            1
+        ],
+        "Dyen": [
+            1
+        ],
+        "Tereshchenko": [
+            0
+        ],
+        "Nekrasov": [
+            0
+        ],
+        "Bernatsky": [
+            0
+        ],
+        "Prokopovich": [
+            1
+        ],
+        "Kornilov No": [
+            0
+        ],
+        "Modern": [
+            1
+        ],
+        "Avksentyevs": [
+            1
+        ],
+        "Cadet": [
+            1
+        ],
+        "Serious": [
+            1
+        ],
+        "Bread": [
+            0
+        ],
+        "Luxury": [
+            1
+        ],
+        "Germany\u2014not": [
+            1
+        ],
+        "Tsarism": [
+            0
+        ],
+        "Palchinskys": [
+            1
+        ],
+        "Smith": [
+            0
+        ],
+        "Rolovich": [
+            1
+        ],
+        "Birzhevka": [
+            0
+        ],
+        "Large": [
+            1
+        ],
+        "Real": [
+            1
+        ],
+        "Bourgeois": [
+            1
+        ],
+        "Struvean": [
+            1
+        ],
+        "Lensch": [
+            1
+        ],
+        "Reference": [
+            1
+        ],
+        "Jacobin": [
+            0
+        ],
+        "Napoleon": [
+            0
+        ],
+        "Perish": [
+            1
+        ],
+        "Louis Blanc": [
+            0
+        ],
+        "Cabinets": [
+            1
+        ],
+        "Kaledins": [
+            0
+        ],
+        "Klembovskys": [
+            1
+        ],
+        "Gagarins": [
+            1
+        ],
+        "Bagrations": [
+            1
+        ],
+        "Kaledin": [
+            0
+        ],
+        "Didn": [
+            0
+        ],
+        "Dyelo": [
+            0
+        ],
+        "Stuttgart": [
+            1
+        ],
+        "Hegel": [
+            0
+        ],
+        "Innumerable": [
+            1
+        ],
+        "Armed Men": [
+            0
+        ],
+        "Prisons": [
+            1
+        ],
+        "Spencer": [
+            1
+        ],
+        "Mikhailovsky": [
+            0
+        ],
+        "North America": [
+            1
+        ],
+        "Great Powers": [
+            0
+        ],
+        "Mr.": [
+            0
+        ],
+        "Mr. Palchinsky": [
+            0
+        ],
+        "Skobelevs": [
+            0
+        ],
+        "Universal": [
+            1
+        ],
+        "Western Europe": [
+            1
+        ],
+        "Society": [
+            1
+        ],
+        "Middle Ages": [
+            1
+        ],
+        "State": [
+            1
+        ],
+        "Herr Eugen Duhring": [
+            0
+        ],
+        "Science": [
+            1
+        ],
+        "Hegelian": [
+            1
+        ],
+        "Fourthly": [
+            1
+        ],
+        "Herr": [
+            1
+        ],
+        "Part II": [
+            0
+        ],
+        "Philosophy": [
+            1
+        ],
+        "Louis Bonaparte": [
+            0
+        ],
+        "Hamburg": [
+            1
+        ],
+        "True": [
+            1
+        ],
+        "Renaissance": [
+            1
+        ],
+        "Scandinavia": [
+            1
+        ],
+        "Mehring": [
+            1
+        ],
+        "Neue Zeit": [
+            1
+        ],
+        "Weydemeyer": [
+            1
+        ],
+        "Marxists": [
+            1
+        ],
+        "Opportunism": [
+            1
+        ],
+        "Karl Marx": [
+            0
+        ],
+        "Frederick Engels": [
+            0
+        ],
+        "Kugelmann": [
+            1
+        ],
+        "Kautskyite": [
+            1
+        ],
+        "Struve": [
+            1
+        ],
+        "Portuguese": [
+            1
+        ],
+        "Turkish": [
+            1
+        ],
+        "Machine": [
+            0
+        ],
+        "Christians": [
+            1
+        ],
+        "Eduard Bernstein": [
+            0
+        ],
+        "Parliamentarism": [
+            1
+        ],
+        "Sembats": [
+            0
+        ],
+        "Renaudels": [
+            0
+        ],
+        "Hendersons": [
+            0
+        ],
+        "Vanderveldes": [
+            1
+        ],
+        "Staunings": [
+            0
+        ],
+        "Brantings": [
+            0
+        ],
+        "Bissolatis": [
+            0
+        ],
+        "Norway": [
+            1
+        ],
+        "Rusanovs": [
+            1
+        ],
+        "Zenzinovs": [
+            0
+        ],
+        "Simple Simons": [
+            0
+        ],
+        "German Social-Democrat": [
+            0
+        ],
+        "Herostratean": [
+            1
+        ],
+        "Bernstein": [
+            0
+        ],
+        "Proudhon": [
+            1
+        ],
+        "Auflosung": [
+            0
+        ],
+        "Premises": [
+            1
+        ],
+        "Bakunin": [
+            0
+        ],
+        "Federalism": [
+            1
+        ],
+        "Italian": [
+            1
+        ],
+        "Against": [
+            0
+        ],
+        "Bebel": [
+            0
+        ],
+        "Bracke": [
+            1
+        ],
+        "Gemeinwesen": [
+            1
+        ],
+        "London": [
+            1
+        ],
+        "Vol": [
+            0
+        ],
+        "Wilhelm Liebknecht": [
+            0
+        ],
+        "French Revolution": [
+            0
+        ],
+        "Eastern": [
+            1
+        ],
+        "Dutch": [
+            1
+        ],
+        "French Republic": [
+            1
+        ],
+        "Australia": [
+            1
+        ],
+        "Canada": [
+            1
+        ],
+        "Bezirk": [
+            0
+        ],
+        "Bezirksstatthalter": [
+            0
+        ],
+        "Swiss Republic": [
+            1
+        ],
+        "Neue": [
+            1
+        ],
+        "Mr. Tsereteli": [
+            0
+        ],
+        "Taken": [
+            0
+        ],
+        "Sprengung": [
+            0
+        ],
+        "Volkstaat": [
+            0
+        ],
+        "Selected Works": [
+            0
+        ],
+        "See Karl Marx": [
+            0
+        ],
+        "Selected Correspondence": [
+            0
+        ],
+        "Erfurt Programme": [
+            0
+        ],
+        "Bismarck": [
+            1
+        ],
+        "Der": [
+            0
+        ],
+        "Kirchenaustrittsbewegung": [
+            1
+        ],
+        "Church": [
+            1
+        ],
+        "Paul Gdhre": [
+            0
+        ],
+        "G\u00f6hre": [
+            0
+        ],
+        "Highest": [
+            1
+        ],
+        "Ferdinand Lassalle": [
+            0
+        ],
+        "Leipzig": [
+            1
+        ],
+        "Lassalle": [
+            0
+        ],
+        "Prussia": [
+            1
+        ],
+        "See Frederick Engels": [
+            0
+        ],
+        "Brosch\u00fcre Internationales": [
+            0
+        ],
+        "Werke": [
+            0
+        ],
+        "Bd": [
+            1
+        ],
+        "Lassalleanism": [
+            1
+        ],
+        "Freedom": [
+            1
+        ],
+        "Ignorance": [
+            1
+        ],
+        "Pomyalovsky": [
+            1
+        ],
+        "Grave": [
+            1
+        ],
+        "Corneliseen": [
+            1
+        ],
+        "Ghe": [
+            0
+        ],
+        "Insofar": [
+            1
+        ],
+        "Anarchism": [
+            1
+        ],
+        "Stirner": [
+            1
+        ],
+        "Millerand": [
+            0
+        ],
+        "Jaures": [
+            0
+        ],
+        "Bernsteinism": [
+            1
+        ],
+        "Civil War": [
+            0
+        ],
+        "Caspian": [
+            1
+        ],
+        "non-proletarian": [
+            1
+        ],
+        "East": [
+            1
+        ],
+        "Pannekoek": [
+            0
+        ],
+        "Karl Radek": [
+            0
+        ],
+        "Kautskyism": [
+            1
+        ],
+        "Centralism": [
+            1
+        ],
+        "Kautksy": [
+            0
+        ],
+        "Scheidmanns": [
+            1
+        ],
+        "David": [
+            0
+        ],
+        "Kolb": [
+            0
+        ],
+        "Scandinavian": [
+            1
+        ],
+        "Branting": [
+            1
+        ],
+        "Vandervelde": [
+            1
+        ],
+        "Belgium": [
+            1
+        ],
+        "Turait": [
+            1
+        ],
+        "Treves": [
+            1
+        ],
+        "Italian Party": [
+            1
+        ],
+        "Petrograd Kerensky": [
+            0
+        ],
+        "History": [
+            1
+        ],
+        "Blanquism": [
+            1
+        ],
+        "Delay": [
+            1
+        ],
+        "Alexandriusky Theatre": [
+            0
+        ],
+        "Paul": [
+            0
+        ],
+        "Britain\u2014these": [
+            1
+        ],
+        "Mass": [
+            1
+        ],
+        "Doubt": [
+            1
+        ],
+        "Stolypin": [
+            0
+        ],
+        "Dubasov": [
+            0
+        ],
+        "Russkiye": [
+            1
+        ],
+        "Vedomosti": [
+            0
+        ],
+        "Nikitin": [
+            0
+        ],
+        "Kishkin": [
+            0
+        ],
+        "Strange": [
+            0
+        ],
+        "St.": [
+            1
+        ],
+        "Series": [
+            1
+        ],
+        "Discord": [
+            0
+        ],
+        "Alexandrinsky Theatre": [
+            0
+        ],
+        "Konovalov": [
+            0
+        ],
+        "Kuskova": [
+            1
+        ],
+        "Berkenheim": [
+            0
+        ],
+        "Chaikovsky": [
+            0
+        ],
+        "Chaikovskys": [
+            0
+        ],
+        "Victory": [
+            1
+        ],
+        "Cherish": [
+            1
+        ],
+        "Novaya": [
+            0
+        ],
+        "Bulygin Duma": [
+            0
+        ],
+        "Against Soviets": [
+            0
+        ],
+        "Znamya Truda": [
+            0
+        ],
+        "Samara": [
+            1
+        ],
+        "Taurida": [
+            0
+        ],
+        "Vladimir": [
+            0
+        ],
+        "Ryazan": [
+            1
+        ],
+        "Kostroma": [
+            1
+        ],
+        "Byelorussia": [
+            1
+        ],
+        "Moslems": [
+            1
+        ],
+        "Breshkovskaya": [
+            1
+        ],
+        "Volya Naroda": [
+            0
+        ],
+        "Jordania": [
+            1
+        ],
+        "Zhizn": [
+            1
+        ],
+        "Dans": [
+            1
+        ],
+        "Syndicalism": [
+            1
+        ],
+        "Nikitins": [
+            0
+        ],
+        "Prokopoviches": [
+            1
+        ],
+        "Quantity": [
+            1
+        ],
+        "Briand": [
+            1
+        ],
+        "Sedan": [
+            1
+        ],
+        "How": [
+            0
+        ],
+        "Factory Committees": [
+            0
+        ],
+        "Cossacks": [
+            0
+        ],
+        "Full": [
+            1
+        ],
+        "Reformism": [
+            1
+        ],
+        "Unite": [
+            1
+        ],
+        "Alle": [
+            1
+        ],
+        "Kornilovism": [
+            1
+        ],
+        "Kornilovites": [
+            1
+        ],
+        "Stolypins": [
+            0
+        ],
+        "Vend\u00e9e": [
+            1
+        ],
+        "Mr. Peshekhonov": [
+            0
+        ],
+        "Justice": [
+            1
+        ],
+        "Ideas": [
+            1
+        ],
+        "Danton": [
+            1
+        ],
+        "July": [
+            0
+        ],
+        "Prosveshcheniye": [
+            1
+        ],
+        "Petersburg": [
+            1
+        ],
+        "Vorovsky": [
+            1
+        ],
+        "Krupskaya": [
+            0
+        ],
+        "Olminsky": [
+            0
+        ],
+        "Gorky": [
+            0
+        ],
+        "Cracow": [
+            1
+        ],
+        "Poronin": [
+            1
+        ],
+        "Gogol": [
+            1
+        ],
+        "Labour": [
+            1
+        ],
+        "People": [
+            0
+        ],
+        "Napoleon III": [
+            0
+        ],
+        "Third": [
+            0
+        ],
+        "Fourth Dumas": [
+            0
+        ],
+        "Agriculture": [
+            1
+        ],
+        "Finance": [
+            1
+        ],
+        "See Marx": [
+            0
+        ],
+        "Chekhov": [
+            1
+        ],
+        "Muffler": [
+            1
+        ],
+        "See Engels": [
+            0
+        ],
+        "Molchalin": [
+            1
+        ],
+        "Griboyedov": [
+            0
+        ],
+        "Wit Works Woe": [
+            0
+        ],
+        "Sukhanov": [
+            0
+        ],
+        "Novava Zhisn": [
+            0
+        ],
+        "Smolny Institute": [
+            0
+        ],
+        "Dear": [
+            0
+        ],
+        "Sympathy": [
+            1
+        ],
+        "Moscow Soviet": [
+            1
+        ],
+        "Land": [
+            1
+        ],
+        "Peace": [
+            0
+        ],
+        "Greetings": [
+            1
+        ],
+        "Revel": [
+            1
+        ],
+        "Vendee": [
+            1
+        ],
+        "New York": [
+            1
+        ],
+        "Daily Tribune": [
+            0
+        ],
+        "Czech": [
+            1
+        ],
+        "Turin": [
+            1
+        ],
+        "International": [
+            1
+        ],
+        "Avksentyev": [
+            0
+        ],
+        "Naroda": [
+            0
+        ],
+        "Black Hundred": [
+            0
+        ],
+        "Warsaw": [
+            1
+        ],
+        "Kornilovite": [
+            1
+        ],
+        "Milyutin": [
+            0
+        ],
+        "Schotmann": [
+            0
+        ],
+        "Comrades": [
+            1
+        ],
+        "Mr. Zinoviev": [
+            0
+        ],
+        "Mr. Kamenev": [
+            0
+        ],
+        "Bolshevik Party": [
+            0
+        ],
+        "Rabochy Put": [
+            0
+        ],
+        "Difficult": [
+            1
+        ],
+        "Between": [
+            0
+        ],
+        "Dzerzhinsky": [
+            1
+        ],
+        "Please": [
+            1
+        ],
+        "Verkhovsky": [
+            0
+        ],
+        "Military Committee": [
+            0
+        ],
+        "Minority": [
+            1
+        ],
+        "Speech": [
+            1
+        ],
+        "Report": [
+            1
+        ],
+        "Mongol": [
+            1
+        ],
+        "Somebody": [
+            1
+        ],
+        "Long": [
+            1
+        ],
+        "Savinkov": [
+            0
+        ],
+        "Tsarskoye Syelo": [
+            0
+        ],
+        "Assistance": [
+            1
+        ],
+        "Kornilovs": [
+            1
+        ],
+        "Vikzhel": [
+            0
+        ],
+        "Trade Union": [
+            0
+        ],
+        "Menshevik": [
+            0
+        ],
+        "Ryazanov": [
+            0
+        ],
+        "Rykov": [
+            0
+        ],
+        "Larin": [
+            0
+        ],
+        "Nogin": [
+            0
+        ],
+        "Salvation": [
+            1
+        ],
+        "Daily": [
+            0
+        ],
+        "Larin Once": [
+            0
+        ],
+        "Ultimatum": [
+            1
+        ],
+        "Refusal": [
+            1
+        ],
+        "Dukhonin": [
+            1
+        ],
+        "Krylenko": [
+            0
+        ],
+        "Russian Republic": [
+            1
+        ],
+        "No": [
+            1
+        ],
+        "Field Headquarters": [
+            0
+        ],
+        "Poles": [
+            0
+        ],
+        "Footnotes": [
+            0
+        ],
+        "Joffe": [
+            0
+        ],
+        "Imagine": [
+            1
+        ],
+        "Thereupon": [
+            1
+        ],
+        "Equal": [
+            1
+        ],
+        "Caucasus": [
+            1
+        ],
+        "Ukrainian Bada": [
+            1
+        ],
+        "States": [
+            0
+        ],
+        "Works": [
+            0
+        ],
+        "Talk": [
+            1
+        ],
+        "Stormy": [
+            0
+        ],
+        "Guard": [
+            0
+        ],
+        "Steel Safes": [
+            0
+        ],
+        "Banks": [
+            1
+        ],
+        "December15": [
+            1
+        ],
+        "Collected Works": [
+            0
+        ],
+        "Belinsky": [
+            0
+        ],
+        "Advice": [
+            1
+        ],
+        "Variety": [
+            1
+        ],
+        "Vl": [
+            1
+        ],
+        "Ilyin": [
+            1
+        ],
+        "Soviet Republic": [
+            1
+        ],
+        "Asia": [
+            1
+        ],
+        "Sverdlov": [
+            0
+        ],
+        "Bukharin": [
+            0
+        ],
+        "Peoples Commissars": [
+            0
+        ],
+        "Svinhufvud": [
+            1
+        ],
+        "Turkish Armenia": [
+            1
+        ],
+        "January": [
+            0
+        ],
+        "Skvortsov": [
+            0
+        ],
+        "Smolny": [
+            1
+        ],
+        "Right": [
+            0
+        ],
+        "Petrograd Party": [
+            0
+        ],
+        "Lifland": [
+            1
+        ],
+        "Estland": [
+            1
+        ],
+        "Rada": [
+            0
+        ],
+        "Red Army": [
+            0
+        ],
+        "Serbia": [
+            1
+        ],
+        "Uritsky": [
+            0
+        ],
+        "Lomov": [
+            0
+        ],
+        "Oppokov": [
+            0
+        ],
+        "Sergeyev": [
+            1
+        ],
+        "Artyom": [
+            1
+        ],
+        "French Cadets": [
+            1
+        ],
+        "New": [
+            1
+        ],
+        "Education": [
+            1
+        ],
+        "Western": [
+            1
+        ],
+        "Genuine": [
+            1
+        ],
+        "Draft Decree": [
+            0
+        ],
+        "Writtin": [
+            1
+        ],
+        "Rome": [
+            0
+        ],
+        "See Encyclopedia": [
+            0
+        ],
+        "Rezhitsa": [
+            0
+        ],
+        "Dvinsk": [
+            1
+        ],
+        "Kiev": [
+            1
+        ],
+        "Gatchina": [
+            1
+        ],
+        "Orenburg": [
+            1
+        ],
+        "Rumania": [
+            1
+        ],
+        "Pskov": [
+            1
+        ],
+        "Steinberg": [
+            0
+        ],
+        "Soviet Socialist Republic": [
+            0
+        ],
+        "Worker": [
+            1
+        ],
+        "Choose": [
+            0
+        ],
+        "Brest": [
+            1
+        ],
+        "Latvia": [
+            1
+        ],
+        "Twist": [
+            1
+        ],
+        "Krasnov": [
+            0
+        ],
+        "Individual": [
+            1
+        ],
+        "Vladivostok": [
+            1
+        ],
+        "Hoffmann": [
+            0
+        ],
+        "Tilsit": [
+            0
+        ],
+        "Kommunist": [
+            1
+        ],
+        "Putilov Works": [
+            0
+        ],
+        "Railways": [
+            1
+        ],
+        "Yamburg": [
+            0
+        ],
+        "Telegraph": [
+            1
+        ],
+        "Putilov": [
+            1
+        ],
+        "Szlachcic": [
+            0
+        ],
+        "Take": [
+            1
+        ],
+        "Learn": [
+            1
+        ],
+        "Narva": [
+            1
+        ],
+        "Finns": [
+            1
+        ],
+        "Grasp": [
+            1
+        ],
+        "Abandon": [
+            1
+        ],
+        "Vyborg District": [
+            1
+        ],
+        "Decree": [
+            0
+        ],
+        "Annexationist Peace": [
+            0
+        ],
+        "Kaiser Wilhelm II": [
+            0
+        ],
+        "Franco": [
+            1
+        ],
+        "Left Communist": [
+            0
+        ],
+        "Obolensky": [
+            0
+        ],
+        "Sirola": [
+            0
+        ],
+        "Kaiser Germany": [
+            0
+        ],
+        "Monstrous": [
+            0
+        ],
+        "Petlyura": [
+            1
+        ],
+        "Podvoisky": [
+            0
+        ],
+        "Canossa": [
+            0
+        ],
+        "Bubnov": [
+            0
+        ],
+        "Sooner": [
+            1
+        ],
+        "Vinnichenko": [
+            1
+        ],
+        "Prussian": [
+            1
+        ],
+        "Satan": [
+            1
+        ],
+        "Grit": [
+            1
+        ],
+        "Strategy": [
+            1
+        ],
+        "Lubersac": [
+            1
+        ],
+        "Northern Italy": [
+            1
+        ],
+        "Pope Gregory VII": [
+            0
+        ],
+        "Clause VI": [
+            0
+        ],
+        "Hetman Skoropadsky": [
+            0
+        ],
+        "Skoropadsky": [
+            1
+        ],
+        "Draconian": [
+            1
+        ],
+        "Against Trotsky": [
+            0
+        ],
+        "Archangel": [
+            0
+        ],
+        "Ukrainians": [
+            1
+        ],
+        "Support": [
+            1
+        ],
+        "Left Communists": [
+            0
+        ],
+        "Speech Against Zinoviev": [
+            0
+        ],
+        "Amendment": [
+            1
+        ],
+        "Spartak": [
+            0
+        ],
+        "Basle": [
+            0
+        ],
+        "See Revision": [
+            0
+        ],
+        "Rough Draft": [
+            0
+        ],
+        "Afar": [
+            0
+        ],
+        "Seventh": [
+            1
+        ],
+        "Political": [
+            0
+        ],
+        "Party Programme": [
+            0
+        ],
+        "Part": [
+            0
+        ],
+        "Russ": [
+            1
+        ],
+        "Smirnov": [
+            0
+        ],
+        "Materials Relating": [
+            0
+        ],
+        "Priboi Publishers": [
+            0
+        ],
+        "Borkheim": [
+            0
+        ],
+        "Pamphlet": [
+            0
+        ],
+        "Memory": [
+            1
+        ],
+        "Band": [
+            1
+        ],
+        "Dietz Verlag": [
+            0
+        ],
+        "Chemnitz Congress": [
+            0
+        ],
+        "Soviet Union": [
+            1
+        ],
+        "Decrees": [
+            0
+        ],
+        "Programme": [
+            1
+        ],
+        "Mgeladze": [
+            0
+        ],
+        "Party Organisations": [
+            0
+        ],
+        "Against Larin": [
+            0
+        ],
+        "Against Pelshe": [
+            0
+        ],
+        "Against Bukharin": [
+            0
+        ],
+        "Lenin Miscellany XI": [
+            0
+        ],
+        "Rough": [
+            0
+        ],
+        "Buying": [
+            1
+        ],
+        "Massenspeisung": [
+            0
+        ],
+        "Public": [
+            1
+        ],
+        "Agitation": [
+            1
+        ],
+        "Ruthless": [
+            1
+        ],
+        "Thou": [
+            1
+        ],
+        "Nikolai Nekrasov": [
+            0
+        ],
+        "Wilson": [
+            0
+        ],
+        "Message": [
+            0
+        ],
+        "June": [
+            1
+        ],
+        "Chernov Mensheviks": [
+            0
+        ],
+        "Ukrainian Kerenskys": [
+            1
+        ],
+        "Omsk": [
+            0
+        ],
+        "Tomsk": [
+            1
+        ],
+        "Napoleonic": [
+            1
+        ],
+        "Alexander": [
+            0
+        ],
+        "Dardanelles": [
+            1
+        ],
+        "Kamkov": [
+            0
+        ],
+        "Quite": [
+            0
+        ],
+        "Further": [
+            0
+        ],
+        "Ryabushinsky": [
+            0
+        ],
+        "Left S.R.s": [
+            0
+        ],
+        "Spain": [
+            1
+        ],
+        "Odessa": [
+            1
+        ],
+        "Realise": [
+            1
+        ],
+        "Time": [
+            1
+        ],
+        "Fourth": [
+            0
+        ],
+        "Maximalists": [
+            1
+        ],
+        "Woodrow Wilson": [
+            0
+        ],
+        "Baltic States": [
+            1
+        ],
+        "Finnish Socialist Republics": [
+            0
+        ],
+        "Appeal": [
+            1
+        ],
+        "Source": [
+            0
+        ],
+        "Clemens Dutt": [
+            0
+        ],
+        "Robert Daglish": [
+            0
+        ],
+        "David Walters": [
+            0
+        ],
+        "Robert Cymbala Public Domain": [
+            0
+        ],
+        "Lenin Internet Archive": [
+            0
+        ],
+        "Dictatorship": [
+            1
+        ],
+        "See": [
+            0
+        ],
+        "Kishkins": [
+            1
+        ],
+        "Bogayevsky": [
+            0
+        ],
+        "Soviet State": [
+            1
+        ],
+        "Dutov": [
+            0
+        ],
+        "Bogayevskys": [
+            1
+        ],
+        "Gegechkoris": [
+            1
+        ],
+        "Bank": [
+            0
+        ],
+        "Russian Kornilovs": [
+            1
+        ],
+        "Kerenskyism": [
+            1
+        ],
+        "Trade": [
+            0
+        ],
+        "Taylor": [
+            1
+        ],
+        "Model": [
+            1
+        ],
+        "Martovs": [
+            0
+        ],
+        "Belorussov": [
+            1
+        ],
+        "Gotzes": [
+            1
+        ],
+        "Vperyod": [
+            1
+        ],
+        "Great Power": [
+            0
+        ],
+        "Dutovs": [
+            1
+        ],
+        "Turgenev": [
+            1
+        ],
+        "Dobrolyubov": [
+            1
+        ],
+        "Chernyshevsky": [
+            1
+        ],
+        "Hysterical": [
+            1
+        ],
+        "Saratov": [
+            0
+        ],
+        "Kazan": [
+            0
+        ],
+        "Tambov": [
+            0
+        ],
+        "Zurich": [
+            1
+        ],
+        "Officials": [
+            0
+        ],
+        "Direct Taxes": [
+            0
+        ],
+        "Societies": [
+            0
+        ],
+        "Trade Unions": [
+            0
+        ],
+        "Narodnoye Khozyaistvo No": [
+            0
+        ],
+        "Union": [
+            0
+        ],
+        "Management": [
+            1
+        ],
+        "Roads": [
+            1
+        ],
+        "Martynov": [
+            0
+        ],
+        "Nasha Rech": [
+            0
+        ],
+        "Svobodnaya Rech": [
+            0
+        ],
+        "Vek": [
+            1
+        ],
+        "Novaya Rech": [
+            0
+        ],
+        "Chapter II": [
+            0
+        ],
+        "Gratitude": [
+            0
+        ],
+        "Me": [
+            1
+        ],
+        "Electrification": [
+            1
+        ],
+        "Particular": [
+            1
+        ],
+        "Obedience": [
+            1
+        ],
+        "Iron": [
+            1
+        ],
+        "Narcissus": [
+            0
+        ],
+        "phrase-making\u2014and": [
+            1
+        ],
+        "Legitimacy": [
+            1
+        ],
+        "Homeric": [
+            1
+        ],
+        "Transition": [
+            1
+        ],
+        "Socialist Soviet Republic": [
+            0
+        ],
+        "Money": [
+            1
+        ],
+        "Cross": [
+            1
+        ],
+        "Junker": [
+            0
+        ],
+        "Peter": [
+            0
+        ],
+        "Karelin": [
+            0
+        ],
+        "Volume": [
+            0
+        ],
+        "Pokrovsky": [
+            0
+        ],
+        "Isuv": [
+            1
+        ],
+        "Isuvs": [
+            0
+        ],
+        "Osinsky": [
+            1
+        ],
+        "Leather Committee": [
+            0
+        ],
+        "Kommunist No": [
+            0
+        ],
+        "Isuvian": [
+            1
+        ],
+        "Dead Souls": [
+            0
+        ],
+        "Anton Chekhov": [
+            0
+        ],
+        "Pushkin": [
+            0
+        ],
+        "Phoebus": [
+            0
+        ],
+        "Erato": [
+            0
+        ],
+        "Semyonov": [
+            0
+        ],
+        "Guiltiest": [
+            1
+        ],
+        "Intensified": [
+            1
+        ],
+        "Moscow City": [
+            1
+        ],
+        "Party Conference": [
+            0
+        ],
+        "Heroism": [
+            0
+        ],
+        "Proper": [
+            1
+        ],
+        "Dutoys": [
+            1
+        ],
+        "Lenin Endnotes": [
+            0
+        ],
+        "Ivanov": [
+            0
+        ],
+        "Kirov": [
+            0
+        ],
+        "Lenin Miscellany XVIII": [
+            0
+        ],
+        "Food": [
+            0
+        ],
+        "Kornilovs\u2014Russian": [
+            1
+        ],
+        "Loud": [
+            0
+        ],
+        "Water Board": [
+            0
+        ],
+        "Collective": [
+            1
+        ],
+        "Trade Union Council": [
+            0
+        ]
+    },
+    "3": {
+        "Soviet": [
+            1
+        ],
+        "Russia": [
+            1
+        ],
+        "Soviet Republic": [
+            1
+        ],
+        "British": [
+            1
+        ],
+        "French": [
+            1
+        ],
+        "Murmansk": [
+            0
+        ],
+        "Siberian": [
+            1
+        ],
+        "Kuban": [
+            1
+        ],
+        "Czechs": [
+            1
+        ],
+        "Czech": [
+            0
+        ],
+        "Prukopnik Svobody": [
+            0
+        ],
+        "Mr. Sip": [
+            0
+        ],
+        "Sip": [
+            0
+        ],
+        "Mr. Bohumil-Cerm\u00e1k": [
+            0
+        ],
+        "Mr.": [
+            0
+        ],
+        "Total": [
+            1
+        ],
+        "Czechoslovak": [
+            1
+        ],
+        "Britain": [
+            1
+        ],
+        "France": [
+            1
+        ],
+        "Kem": [
+            0
+        ],
+        "Soroki": [
+            1
+        ],
+        "Germany": [
+            1
+        ],
+        "Alexeyev": [
+            0
+        ],
+        "Russian": [
+            1
+        ],
+        "Tikhoretskaya": [
+            1
+        ],
+        "Party": [
+            1
+        ],
+        "Moscow": [
+            1
+        ],
+        "Armenian": [
+            1
+        ],
+        "Reads": [
+            0
+        ],
+        "Alyat": [
+            1
+        ],
+        "Kubala": [
+            1
+        ],
+        "Pirsagat": [
+            0
+        ],
+        "Important": [
+            1
+        ],
+        "Daghestan": [
+            1
+        ],
+        "Oil": [
+            0
+        ],
+        "Shura": [
+            0
+        ],
+        "Dagbestan": [
+            1
+        ],
+        "Baku": [
+            1
+        ],
+        "Anglophil": [
+            1
+        ],
+        "Caspian": [
+            1
+        ],
+        "Latest": [
+            1
+        ],
+        "Persia": [
+            1
+        ],
+        "Resht": [
+            1
+        ],
+        "Giljan": [
+            1
+        ],
+        "German": [
+            1
+        ],
+        "Turkish": [
+            1
+        ],
+        "Enzeli": [
+            1
+        ],
+        "Stalin": [
+            0
+        ],
+        "People": [
+            1
+        ],
+        "Shahumyan": [
+            0
+        ],
+        "Right Dashnaks": [
+            0
+        ],
+        "Left Dashnaks": [
+            0
+        ],
+        "Tiflis": [
+            1
+        ],
+        "Georgia": [
+            1
+        ],
+        "Menshevik": [
+            1
+        ],
+        "India": [
+            1
+        ],
+        "Afghanistan": [
+            1
+        ],
+        "North": [
+            1
+        ],
+        "East": [
+            1
+        ],
+        "Turkestan": [
+            1
+        ],
+        "Astrakhan": [
+            0
+        ],
+        "Ukraine": [
+            1
+        ],
+        "Italy": [
+            1
+        ],
+        "South": [
+            1
+        ],
+        "Russian Republic": [
+            1
+        ],
+        "Petrograd": [
+            1
+        ],
+        "Yaroslavl": [
+            1
+        ],
+        "Spiridonova": [
+            0
+        ],
+        "Imperialism": [
+            1
+        ],
+        "Kerensky": [
+            1
+        ],
+        "Simbirsk": [
+            1
+        ],
+        "Vacillation": [
+            1
+        ],
+        "Caucasian Menshevik": [
+            0
+        ],
+        "True": [
+            1
+        ],
+        "Germans": [
+            1
+        ],
+        "Milyukov": [
+            0
+        ],
+        "Kamkov": [
+            0
+        ],
+        "Saratov": [
+            0
+        ],
+        "Samara": [
+            1
+        ],
+        "Lenin": [
+            0
+        ],
+        "Slovak": [
+            1
+        ],
+        "Tom\u00e1s": [
+            0
+        ],
+        "Entente": [
+            0
+        ],
+        "Vladivostok": [
+            1
+        ],
+        "U.S.A.": [
+            1
+        ],
+        "Siberia": [
+            1
+        ],
+        "Omsk": [
+            0
+        ],
+        "Kolchak": [
+            0
+        ],
+        "Millions": [
+            0
+        ],
+        "Prukop": [
+            0
+        ],
+        "Svobody": [
+            1
+        ],
+        "Freedom": [
+            1
+        ],
+        "Pravda": [
+            1
+        ],
+        "Izvestia": [
+            1
+        ],
+        "Executive": [
+            0
+        ],
+        "Soviets": [
+            1
+        ],
+        "Bobrov": [
+            0
+        ],
+        "Count Mirbach": [
+            0
+        ],
+        "Cheka": [
+            1
+        ],
+        "Vologda": [
+            1
+        ],
+        "Turkey": [
+            1
+        ],
+        "Mensheviks": [
+            1
+        ],
+        "Armenia": [
+            1
+        ],
+        "Dashnak": [
+            1
+        ],
+        "Transcaucasia": [
+            1
+        ],
+        "Azerbaijanian": [
+            1
+        ],
+        "Civil": [
+            0
+        ],
+        "Azerbaijan": [
+            0
+        ],
+        "Mussavatist": [
+            1
+        ],
+        "Dashnaks": [
+            0
+        ],
+        "Azizbekov": [
+            0
+        ],
+        "Bolshevik": [
+            1
+        ],
+        "Dasimaks": [
+            1
+        ],
+        "Baku Commissars": [
+            0
+        ],
+        "Savinkov": [
+            0
+        ],
+        "Murom": [
+            0
+        ],
+        "Kostroma": [
+            1
+        ],
+        "Rybinsk": [
+            1
+        ],
+        "Supply": [
+            1
+        ],
+        "Grain": [
+            1
+        ],
+        "Great": [
+            1
+        ],
+        "Bulgaria": [
+            1
+        ],
+        "Poland": [
+            1
+        ],
+        "Baltic": [
+            1
+        ],
+        "Byelorussia": [
+            1
+        ],
+        "Ardahan": [
+            0
+        ],
+        "Batumi": [
+            0
+        ],
+        "Kars": [
+            1
+        ],
+        "Treaty": [
+            0
+        ],
+        "Trotsky": [
+            0
+        ],
+        "Left": [
+            0
+        ],
+        "Army": [
+            0
+        ],
+        "American": [
+            1
+        ],
+        "America": [
+            1
+        ],
+        "Egypt": [
+            1
+        ],
+        "Bourgeois": [
+            1
+        ],
+        "Africa": [
+            1
+        ],
+        "Mesopotamia": [
+            1
+        ],
+        "Palestine": [
+            1
+        ],
+        "Greece": [
+            1
+        ],
+        "Europe": [
+            1
+        ],
+        "Brest Peace": [
+            0
+        ],
+        "Brest": [
+            1
+        ],
+        "Small": [
+            1
+        ],
+        "Belgium": [
+            1
+        ],
+        "Serbia": [
+            1
+        ],
+        "European": [
+            1
+        ],
+        "Captain": [
+            1
+        ],
+        "Sadoul": [
+            0
+        ],
+        "Lubersac": [
+            0
+        ],
+        "Spanish": [
+            1
+        ],
+        "United States": [
+            1
+        ],
+        "North America": [
+            1
+        ],
+        "Nevsky Prospekt": [
+            0
+        ],
+        "Christian": [
+            1
+        ],
+        "Negro": [
+            0
+        ],
+        "Eugene Debs": [
+            0
+        ],
+        "Appeal": [
+            0
+        ],
+        "Reason": [
+            0
+        ],
+        "Berne": [
+            1
+        ],
+        "Switzerland": [
+            1
+        ],
+        "Debs": [
+            0
+        ],
+        "Wilson": [
+            0
+        ],
+        "Terror": [
+            0
+        ],
+        "Right": [
+            1
+        ],
+        "Mankind": [
+            0
+        ],
+        "Gomperses": [
+            0
+        ],
+        "Hendersons": [
+            1
+        ],
+        "Renaudels": [
+            0
+        ],
+        "Scheidemanns": [
+            1
+        ],
+        "Renners": [
+            0
+        ],
+        "Borodin": [
+            0
+        ],
+        "Sletov": [
+            1
+        ],
+        "Note": [
+            1
+        ],
+        "John Reed": [
+            0
+        ],
+        "New York": [
+            1
+        ],
+        "Boston": [
+            1
+        ],
+        "Demain No": [
+            0
+        ],
+        "Call": [
+            1
+        ],
+        "Die Aktion No": [
+            0
+        ],
+        "U.S.": [
+            1
+        ],
+        "Chernyshevsky": [
+            1
+        ],
+        "Carey": [
+            1
+        ],
+        "Letters": [
+            1
+        ],
+        "Chekhov": [
+            0
+        ],
+        "Girard": [
+            1
+        ],
+        "Kansas": [
+            1
+        ],
+        "Fight": [
+            0
+        ],
+        "Speech": [
+            1
+        ],
+        "Delivered": [
+            0
+        ],
+        "Balkans": [
+            1
+        ],
+        "Finland": [
+            1
+        ],
+        "Rumania": [
+            1
+        ],
+        "Ukrainian": [
+            1
+        ],
+        "Red Army": [
+            0
+        ],
+        "Pitirim Sorokin": [
+            0
+        ],
+        "Sorokin": [
+            0
+        ],
+        "Pitirim": [
+            0
+        ],
+        "Patriotism": [
+            1
+        ],
+        "Marxists": [
+            0
+        ],
+        "Plekhanov": [
+            0
+        ],
+        "Austria": [
+            1
+        ],
+        "English": [
+            1
+        ],
+        "Bolshevism": [
+            1
+        ],
+        "Archangel": [
+            0
+        ],
+        "Endnotes": [
+            0
+        ],
+        "Rabochiye Dumy": [
+            0
+        ],
+        "Kautsky": [
+            0
+        ],
+        "Ignaz Brand": [
+            0
+        ],
+        "Marxism": [
+            1
+        ],
+        "Stream": [
+            1
+        ],
+        "Geneva": [
+            1
+        ],
+        "Struve": [
+            0
+        ],
+        "Brentano": [
+            1
+        ],
+        "Kautskyism": [
+            1
+        ],
+        "Socialism": [
+            1
+        ],
+        "Capitalism": [
+            1
+        ],
+        "Highest": [
+            1
+        ],
+        "August": [
+            1
+        ],
+        "Marx": [
+            0
+        ],
+        "Sozialistische Auslandspotilih": [
+            0
+        ],
+        "Stockholm": [
+            1
+        ],
+        "Vol": [
+            0
+        ],
+        "Vorovsky": [
+            0
+        ],
+        "Scandinavian": [
+            1
+        ],
+        "Joffe": [
+            0
+        ],
+        "Berzin": [
+            0
+        ],
+        "Berlin": [
+            0
+        ],
+        "Please": [
+            1
+        ],
+        "Lenin Miscellany XXXVI": [
+            0
+        ],
+        "Milan": [
+            0
+        ],
+        "Italian": [
+            1
+        ],
+        "Zinoviev": [
+            0
+        ],
+        "Norway": [
+            1
+        ],
+        "Bernstein": [
+            0
+        ],
+        "Karl Marx": [
+            0
+        ],
+        "W\u00f6rtchens": [
+            0
+        ],
+        "Between": [
+            0
+        ],
+        "Engels": [
+            1
+        ],
+        "Literally": [
+            0
+        ],
+        "Everyone": [
+            1
+        ],
+        "Marxist": [
+            0
+        ],
+        "Mr. Kautsky": [
+            0
+        ],
+        "Simply": [
+            1
+        ],
+        "Thanks": [
+            1
+        ],
+        "England": [
+            1
+        ],
+        "Paris": [
+            1
+        ],
+        "Versailles": [
+            1
+        ],
+        "Louis Blanc\u2014which": [
+            0
+        ],
+        "Rosa Luxemburg": [
+            0
+        ],
+        "Dictatorship": [
+            1
+        ],
+        "Middle Ages": [
+            1
+        ],
+        "Selected Works": [
+            0
+        ],
+        "See Engels": [
+            0
+        ],
+        "Letter": [
+            1
+        ],
+        "Selected Correspondence": [
+            0
+        ],
+        "Manifesto": [
+            0
+        ],
+        "Bebel": [
+            0
+        ],
+        "Universal": [
+            1
+        ],
+        "Communes": [
+            1
+        ],
+        "Longuets": [
+            1
+        ],
+        "Kautskys": [
+            0
+        ],
+        "Krupp": [
+            0
+        ],
+        "Scheidemann": [
+            1
+        ],
+        "Renaudel": [
+            0
+        ],
+        "Judas": [
+            0
+        ],
+        "Negroes": [
+            0
+        ],
+        "Ireland": [
+            1
+        ],
+        "Proletarian": [
+            1
+        ],
+        "Take": [
+            1
+        ],
+        "Indirect": [
+            1
+        ],
+        "Shylock": [
+            0
+        ],
+        "Equality": [
+            1
+        ],
+        "Frederick Engels": [
+            0
+        ],
+        "Dreyfus": [
+            0
+        ],
+        "Jean Jaur\u00e8s": [
+            0
+        ],
+        "Anatole France": [
+            0
+        ],
+        "Irish": [
+            1
+        ],
+        "Violence": [
+            1
+        ],
+        "Augean": [
+            1
+        ],
+        "Paris Commune": [
+            0
+        ],
+        "Had": [
+            1
+        ],
+        "See Marx": [
+            0
+        ],
+        "Martov": [
+            0
+        ],
+        "Axelrod": [
+            0
+        ],
+        "Stein": [
+            0
+        ],
+        "Homeric": [
+            0
+        ],
+        "Excellent": [
+            1
+        ],
+        "Heaven": [
+            1
+        ],
+        "Whichever": [
+            1
+        ],
+        "Don": [
+            0
+        ],
+        "Mark": [
+            0
+        ],
+        "Incidentally": [
+            0
+        ],
+        "Steins": [
+            1
+        ],
+        "Kausky": [
+            0
+        ],
+        "Nothing": [
+            1
+        ],
+        "Second": [
+            1
+        ],
+        "Third": [
+            1
+        ],
+        "Fiat": [
+            1
+        ],
+        "Latin": [
+            1
+        ],
+        "Delegates Number": [
+            0
+        ],
+        "Bolsehviks": [
+            1
+        ],
+        "Fourth": [
+            1
+        ],
+        "Fifth": [
+            0
+        ],
+        "Russia Endnotes": [
+            1
+        ],
+        "Political Parties": [
+            0
+        ],
+        "New York Post": [
+            1
+        ],
+        "Peasants": [
+            0
+        ],
+        "Zemstvos": [
+            0
+        ],
+        "Bolsheviks": [
+            1
+        ],
+        "Kamenev": [
+            0
+        ],
+        "Clever": [
+            0
+        ],
+        "Bismarck": [
+            0
+        ],
+        "Gogol": [
+            1
+        ],
+        "Petrushka": [
+            0
+        ],
+        "Dutov": [
+            0
+        ],
+        "Krasnov": [
+            0
+        ],
+        "Hence": [
+            1
+        ],
+        "Isn": [
+            0
+        ],
+        "Arbitrariness": [
+            1
+        ],
+        "Golovlyov": [
+            0
+        ],
+        "Judas Kautsky": [
+            0
+        ],
+        "Potresovs": [
+            0
+        ],
+        "Tiflis Mensheviks": [
+            0
+        ],
+        "Agnes": [
+            0
+        ],
+        "Eugen Richter": [
+            0
+        ],
+        "Ramsay MacDonalds": [
+            0
+        ],
+        "Kolb": [
+            0
+        ],
+        "Kolbs": [
+            0
+        ],
+        "Tsarist": [
+            0
+        ],
+        "Popular": [
+            1
+        ],
+        "Kornilov": [
+            0
+        ],
+        "Dan": [
+            0
+        ],
+        "Demyan Bedny": [
+            0
+        ],
+        "Lieberdan": [
+            0
+        ],
+        "Kaledin": [
+            0
+        ],
+        "Ukrainian Rada": [
+            1
+        ],
+        "Frankfurter": [
+            1
+        ],
+        "Hearty": [
+            1
+        ],
+        "Turati": [
+            1
+        ],
+        "Nobs": [
+            0
+        ],
+        "Grimm": [
+            0
+        ],
+        "Graber": [
+            0
+        ],
+        "Naine": [
+            1
+        ],
+        "Ramsay MacDonald": [
+            0
+        ],
+        "Haase": [
+            0
+        ],
+        "Longuet": [
+            1
+        ],
+        "Zimmerwaldist": [
+            1
+        ],
+        "Zimmerwald": [
+            1
+        ],
+        "Power": [
+            1
+        ],
+        "Tolstoyans": [
+            1
+        ],
+        "Wilhelm": [
+            0
+        ],
+        "Frenchman": [
+            1
+        ],
+        "Turatis": [
+            1
+        ],
+        "Verst\u00fcmmelungen": [
+            1
+        ],
+        "Centrists": [
+            0
+        ],
+        "Look": [
+            1
+        ],
+        "Latvia": [
+            1
+        ],
+        "Estonia": [
+            1
+        ],
+        "Reich": [
+            0
+        ],
+        "Twelve Years": [
+            1
+        ],
+        "St. Petersburg": [
+            1
+        ],
+        "Menshevik Plekhanov": [
+            0
+        ],
+        "Zax": [
+            0
+        ],
+        "Maslov": [
+            0
+        ],
+        "Part": [
+            1
+        ],
+        "Heinrich Webers": [
+            0
+        ],
+        "London": [
+            1
+        ],
+        "Chinese": [
+            1
+        ],
+        "Proshyan": [
+            0
+        ],
+        "Muravyov": [
+            0
+        ],
+        "Avksentyev": [
+            0
+        ],
+        "Large": [
+            1
+        ],
+        "Various": [
+            1
+        ],
+        "Land Committees": [
+            0
+        ],
+        "Who": [
+            0
+        ],
+        "Next": [
+            1
+        ],
+        "Rodbertus": [
+            0
+        ],
+        "Agrarian": [
+            1
+        ],
+        "Socialist": [
+            1
+        ],
+        "Kiel": [
+            1
+        ],
+        "Znamya Trudovoi Kommuny": [
+            0
+        ],
+        "Volya Truda": [
+            0
+        ],
+        "Labour": [
+            1
+        ],
+        "Heinrich": [
+            0
+        ],
+        "Radio Station": [
+            0
+        ],
+        "Louis Auguste Blanqui": [
+            0
+        ],
+        "Blanquism": [
+            0
+        ],
+        "Agriculture S.": [
+            0
+        ],
+        "Rules": [
+            0
+        ],
+        "Land": [
+            1
+        ],
+        "Dyelo Naroda": [
+            0
+        ],
+        "Theorien": [
+            0
+        ],
+        "Mehrwert": [
+            0
+        ],
+        "Caucasus": [
+            1
+        ],
+        "Ukrainian Bada": [
+            1
+        ],
+        "Vandervelde": [
+            0
+        ],
+        "Vanderveldes": [
+            0
+        ],
+        "Therein": [
+            1
+        ],
+        "Littr\u00e9s": [
+            0
+        ],
+        "Too": [
+            0
+        ],
+        "Guesde": [
+            0
+        ],
+        "Monger": [
+            0
+        ],
+        "Ostrogorsky": [
+            0
+        ],
+        "La Democratie": [
+            0
+        ],
+        "Partis Politiques": [
+            0
+        ],
+        "Karl Liebknecht": [
+            0
+        ],
+        "Comrades": [
+            1
+        ],
+        "Kommunistischen Internationale": [
+            0
+        ],
+        "Thesis": [
+            1
+        ],
+        "Bourgeois Democracy": [
+            0
+        ],
+        "History": [
+            1
+        ],
+        "Genuine": [
+            1
+        ],
+        "Dreams": [
+            1
+        ],
+        "Democracy": [
+            0
+        ],
+        "Liberty": [
+            0
+        ],
+        "Branting": [
+            0
+        ],
+        "Die Freiheit": [
+            0
+        ],
+        "Independence": [
+            1
+        ],
+        "Tr\u00e4ger": [
+            0
+        ],
+        "Schutzer": [
+            1
+        ],
+        "Rudolf Hilferding": [
+            0
+        ],
+        "Long": [
+            1
+        ],
+        "Hungary": [
+            1
+        ],
+        "Platten": [
+            0
+        ],
+        "Victory": [
+            0
+        ],
+        "Poor Peasants": [
+            0
+        ],
+        "Earth": [
+            0
+        ],
+        "J. Fineberg": [
+            0
+        ],
+        "Lloyd George": [
+            0
+        ],
+        "Anfang": [
+            0
+        ],
+        "Yakov Mikhailovich Sverdlov": [
+            0
+        ],
+        "Ilyich": [
+            0
+        ],
+        "Islands": [
+            0
+        ],
+        "Insofar": [
+            1
+        ],
+        "Hilferding": [
+            0
+        ],
+        "Hungarian": [
+            1
+        ],
+        "Polish": [
+            1
+        ],
+        "How": [
+            0
+        ],
+        "Dzerzhinsky": [
+            1
+        ],
+        "Such": [
+            1
+        ],
+        "Smolny": [
+            1
+        ],
+        "Yakov Sverdlov": [
+            0
+        ],
+        "Food": [
+            1
+        ],
+        "Farm Labourers": [
+            0
+        ],
+        "Petrograd Gubernia": [
+            0
+        ],
+        "Great-Russian": [
+            1
+        ],
+        "Propaganda": [
+            1
+        ],
+        "Bednota": [
+            0
+        ],
+        "Bureau": [
+            1
+        ],
+        "Prinkipo": [
+            1
+        ],
+        "Great Britain": [
+            0
+        ],
+        "Japan": [
+            1
+        ],
+        "Independent": [
+            1
+        ],
+        "Farm Laborers": [
+            0
+        ],
+        "Derevenskaya Bednota": [
+            0
+        ],
+        "Derevenskaya Pravda": [
+            0
+        ],
+        "Sotsialisticheskoye Zemledeliye": [
+            0
+        ],
+        "Pure": [
+            1
+        ],
+        "Bukharin": [
+            0
+        ],
+        "Speak": [
+            1
+        ],
+        "Vyatka": [
+            1
+        ],
+        "Fundamental": [
+            1
+        ],
+        "Pardon": [
+            1
+        ],
+        "Svinhufvud": [
+            1
+        ],
+        "Finnish": [
+            1
+        ],
+        "Bashkirian Republic": [
+            1
+        ],
+        "Indians": [
+            1
+        ],
+        "Bashkirs": [
+            1
+        ],
+        "Kirghiz": [
+            0
+        ],
+        "Uzbeks": [
+            1
+        ],
+        "Tajiks": [
+            1
+        ],
+        "Turkmen": [
+            1
+        ],
+        "Bushmen": [
+            1
+        ],
+        "Poles": [
+            0
+        ],
+        "Schmidt": [
+            0
+        ],
+        "Bureaucracy": [
+            1
+        ],
+        "Western": [
+            1
+        ],
+        "Nobody": [
+            1
+        ],
+        "See F. Engels": [
+            0
+        ],
+        "Einleitung": [
+            0
+        ],
+        "Borkheims Schrift Zur Erinnerung": [
+            0
+        ],
+        "Sigismund Borkheim": [
+            0
+        ],
+        "Memory": [
+            1
+        ],
+        "Werke": [
+            0
+        ],
+        "See Karl Marx": [
+            0
+        ],
+        "Capital": [
+            1
+        ],
+        "Bashkirian": [
+            1
+        ],
+        "Soviet Power": [
+            0
+        ],
+        "Soviet Constitution": [
+            1
+        ],
+        "N\u00e9pszava No.71": [
+            0
+        ],
+        "Or\u2014and": [
+            1
+        ],
+        "Coercion": [
+            1
+        ],
+        "First": [
+            1
+        ],
+        "Lenin Endnotes": [
+            0
+        ],
+        "See Frederick Engels": [
+            0
+        ],
+        "Gorky": [
+            0
+        ],
+        "Undue": [
+            1
+        ],
+        "Agriculture": [
+            1
+        ],
+        "Amidst": [
+            1
+        ],
+        "Vast": [
+            1
+        ],
+        "Podbelsky": [
+            0
+        ],
+        "Pyatakov": [
+            0
+        ],
+        "Sunitsa": [
+            0
+        ],
+        "Did": [
+            1
+        ],
+        "Asia": [
+            1
+        ],
+        "Rykov": [
+            0
+        ],
+        "Swiss": [
+            1
+        ],
+        "Bureaus": [
+            0
+        ],
+        "Great Russian": [
+            0
+        ],
+        "Education": [
+            1
+        ],
+        "Erfurt": [
+            1
+        ],
+        "Zur Kritik": [
+            0
+        ],
+        "Jg": [
+            1
+        ],
+        "Bd": [
+            1
+        ],
+        "Koichak": [
+            0
+        ],
+        "Support": [
+            1
+        ],
+        "Pokrovsk": [
+            1
+        ],
+        "Aid": [
+            0
+        ],
+        "Action": [
+            1
+        ],
+        "Budapest": [
+            1
+        ],
+        "Be": [
+            1
+        ],
+        "Denikin": [
+            1
+        ],
+        "Number": [
+            0
+        ],
+        "Hours": [
+            0
+        ],
+        "Work": [
+            1
+        ],
+        "Per": [
+            0
+        ],
+        "Perovo": [
+            0
+        ],
+        "Alatyr": [
+            0
+        ],
+        "Passenger": [
+            1
+        ],
+        "Carriage": [
+            1
+        ],
+        "Current": [
+            0
+        ],
+        "Main": [
+            1
+        ],
+        "Railways": [
+            1
+        ],
+        "Twenty": [
+            1
+        ],
+        "Productivity": [
+            1
+        ],
+        "Vyazma": [
+            1
+        ],
+        "Worker": [
+            0
+        ],
+        "Arise Ye Starvelings": [
+            0
+        ],
+        "Night": [
+            1
+        ],
+        "Tver": [
+            1
+        ],
+        "Again": [
+            1
+        ],
+        "Saratou": [
+            0
+        ],
+        "Less": [
+            1
+        ],
+        "Jacoby": [
+            0
+        ],
+        "Sadowa": [
+            0
+        ],
+        "Austrian": [
+            1
+        ],
+        "Prussian": [
+            1
+        ],
+        "Hindenhurg": [
+            1
+        ],
+        "Foch": [
+            1
+        ],
+        "Japanese": [
+            1
+        ],
+        "Fewer": [
+            1
+        ],
+        "Public": [
+            1
+        ],
+        "Difficult": [
+            1
+        ],
+        "Dick": [
+            0
+        ],
+        "Harry": [
+            0
+        ],
+        "Good": [
+            1
+        ],
+        "Chernellkov": [
+            0
+        ],
+        "Seraya Loshad": [
+            0
+        ],
+        "Bohemia": [
+            1
+        ],
+        "Koniggratz": [
+            1
+        ],
+        "Hradec Kralove": [
+            0
+        ],
+        "Czechoslovakia": [
+            1
+        ],
+        "Denikin Must Be": [
+            0
+        ],
+        "Direct Aid": [
+            0
+        ],
+        "Cadets": [
+            1
+        ],
+        "Collegiate": [
+            1
+        ],
+        "Endless": [
+            1
+        ],
+        "Particular": [
+            1
+        ],
+        "Ryazan": [
+            0
+        ],
+        "Direct": [
+            1
+        ],
+        "Fresh": [
+            1
+        ],
+        "Whereas": [
+            1
+        ],
+        "Kolchakia": [
+            1
+        ],
+        "Urals": [
+            0
+        ],
+        "Chernov": [
+            0
+        ],
+        "Great Russia": [
+            1
+        ],
+        "Attitude": [
+            0
+        ],
+        "Towards Military": [
+            0
+        ],
+        "Regeneration": [
+            1
+        ],
+        "Hundreds": [
+            1
+        ],
+        "Experienced": [
+            0
+        ],
+        "Volsky": [
+            0
+        ],
+        "Chernovs": [
+            1
+        ],
+        "Will": [
+            0
+        ],
+        "Feudalism": [
+            0
+        ],
+        "Western Europe": [
+            1
+        ],
+        "Rome": [
+            1
+        ],
+        "Greek": [
+            1
+        ],
+        "Roman": [
+            1
+        ],
+        "Feudal": [
+            1
+        ],
+        "Spartacus": [
+            1
+        ],
+        "Roman Empire": [
+            0
+        ],
+        "Middle": [
+            1
+        ],
+        "Silver": [
+            1
+        ],
+        "Red": [
+            1
+        ],
+        "Obey": [
+            1
+        ],
+        "Fear": [
+            1
+        ],
+        "Yudenich": [
+            0
+        ],
+        "Rogues": [
+            1
+        ],
+        "Denikins": [
+            1
+        ],
+        "Czechoslovaks": [
+            1
+        ],
+        "Lefts": [
+            0
+        ],
+        "Kursk": [
+            1
+        ],
+        "Orel": [
+            1
+        ],
+        "Kharkov": [
+            0
+        ],
+        "Bulletin": [
+            1
+        ],
+        "R.C.P.": [
+            1
+        ],
+        "Party Week": [
+            0
+        ],
+        "Boldness": [
+            1
+        ],
+        "Whites": [
+            1
+        ],
+        "Jean Longuet": [
+            0
+        ],
+        "Friedrich Adler": [
+            0
+        ],
+        "Martovs": [
+            0
+        ],
+        "Moslem": [
+            1
+        ],
+        "Which": [
+            0
+        ],
+        "Huns": [
+            1
+        ],
+        "Americans": [
+            1
+        ],
+        "Churchill": [
+            1
+        ],
+        "it-Finland": [
+            1
+        ],
+        "Crimea": [
+            1
+        ],
+        "Krasnoye Solo": [
+            0
+        ],
+        "Lithuania": [
+            1
+        ],
+        "Eastern": [
+            1
+        ],
+        "China": [
+            1
+        ],
+        "Europe-Russia": [
+            1
+        ],
+        "Russians": [
+            1
+        ],
+        "B.C.P.": [
+            1
+        ],
+        "Tatars": [
+            0
+        ],
+        "Party Rules": [
+            0
+        ],
+        "Odessa": [
+            1
+        ],
+        "Labourbe": [
+            1
+        ],
+        "Radek": [
+            0
+        ],
+        "Swedish": [
+            1
+        ],
+        "Kolehak": [
+            1
+        ],
+        "Mamontov": [
+            0
+        ],
+        "Defence": [
+            1
+        ],
+        "Typhus": [
+            1
+        ],
+        "Sapronov": [
+            0
+        ],
+        "Draft Instructions": [
+            0
+        ],
+        "Gubernia": [
+            1
+        ],
+        "Uyezd": [
+            0
+        ],
+        "Volost Committees": [
+            0
+        ],
+        "Mr. Poole": [
+            0
+        ],
+        "Litvinov": [
+            0
+        ],
+        "Bullitt": [
+            0
+        ],
+        "Nansen": [
+            1
+        ],
+        "Drobnis": [
+            0
+        ],
+        "Manuilsky": [
+            0
+        ],
+        "Bubnov": [
+            0
+        ],
+        "Fuel": [
+            0
+        ],
+        "Chicherin": [
+            0
+        ],
+        "Vladimirsky": [
+            0
+        ],
+        "Osinsky": [
+            0
+        ],
+        "Party Membership": [
+            0
+        ],
+        "New Party": [
+            1
+        ],
+        "Sweden": [
+            1
+        ],
+        "Fredrik Strom": [
+            0
+        ],
+        "Lislok Dyela Naroda No": [
+            0
+        ],
+        "Rostopchin": [
+            0
+        ],
+        "Draft": [
+            0
+        ],
+        "Assistance": [
+            1
+        ],
+        "Artels": [
+            1
+        ],
+        "Finance": [
+            1
+        ],
+        "Izvestia No": [
+            0
+        ],
+        "Kiev": [
+            0
+        ],
+        "Poltava": [
+            0
+        ],
+        "Rostov": [
+            1
+        ],
+        "Great-Power": [
+            1
+        ],
+        "Latvian": [
+            1
+        ],
+        "Estonian": [
+            1
+        ],
+        "Experience": [
+            1
+        ],
+        "Lithuanian": [
+            1
+        ],
+        "Ukrainian Borotba": [
+            0
+        ],
+        "Ukrainians": [
+            1
+        ],
+        "Georgian Mensheviks": [
+            0
+        ],
+        "Mutual": [
+            1
+        ],
+        "Denikius": [
+            0
+        ],
+        "Lyons": [
+            1
+        ],
+        "German-Austrian": [
+            1
+        ],
+        "None": [
+            1
+        ],
+        "Ameri-can": [
+            1
+        ],
+        "Hand": [
+            1
+        ],
+        "Has": [
+            1
+        ],
+        "Peace": [
+            1
+        ],
+        "Property": [
+            1
+        ],
+        "Nations": [
+            1
+        ],
+        "Unity": [
+            1
+        ],
+        "Capitalist": [
+            1
+        ],
+        "Sevastopol": [
+            1
+        ],
+        "Liebknecht": [
+            0
+        ],
+        "Austrian Independents": [
+            1
+        ],
+        "Talk": [
+            1
+        ],
+        "Clarity": [
+            1
+        ],
+        "Prominence": [
+            1
+        ],
+        "Was": [
+            1
+        ],
+        "Happily": [
+            0
+        ],
+        "Tomsky": [
+            0
+        ],
+        "Ekonomicheskaya Zhizn": [
+            0
+        ],
+        "Maximovsky": [
+            0
+        ],
+        "Makhno": [
+            0
+        ],
+        "Makhaisky": [
+            0
+        ],
+        "Authentic": [
+            1
+        ],
+        "Yurenev": [
+            0
+        ],
+        "Shlyapnikov": [
+            0
+        ],
+        "Submit": [
+            1
+        ],
+        "Lutovinov": [
+            0
+        ],
+        "Ivan Ivanovich": [
+            0
+        ],
+        "Maria Ivanovna": [
+            0
+        ],
+        "Sidor Ivanovich": [
+            0
+        ],
+        "Kuban Cossacks": [
+            0
+        ],
+        "Milyutin": [
+            0
+        ],
+        "Tsyurupa": [
+            0
+        ],
+        "Health": [
+            1
+        ],
+        "Ivanovo": [
+            0
+        ],
+        "Milyu": [
+            0
+        ],
+        "Chuchin": [
+            0
+        ],
+        "Create": [
+            1
+        ],
+        "Choke": [
+            1
+        ],
+        "International": [
+            1
+        ],
+        "Urals Siberia": [
+            0
+        ],
+        "Trade": [
+            1
+        ],
+        "Smirnov": [
+            0
+        ],
+        "Lomov": [
+            0
+        ],
+        "Lozovsky": [
+            0
+        ],
+        "Andreyev": [
+            0
+        ],
+        "Artyom": [
+            1
+        ],
+        "Noske": [
+            0
+        ],
+        "Right Social-Democrat": [
+            0
+        ],
+        "Riga": [
+            0
+        ],
+        "Yuryev": [
+            1
+        ],
+        "Tartu": [
+            1
+        ],
+        "Gusev": [
+            1
+        ],
+        "Trade Unions": [
+            0
+        ],
+        "Management": [
+            1
+        ],
+        "Roads": [
+            1
+        ],
+        "Subbotniks": [
+            1
+        ],
+        "Perseverance": [
+            1
+        ],
+        "Kommunistichesky Subbotnik": [
+            0
+        ],
+        "Kommunistichesky Trud": [
+            1
+        ],
+        "Yaroslavsky": [
+            1
+        ],
+        "Kollontai": [
+            0
+        ],
+        "Serafimovich": [
+            1
+        ],
+        "Advanced": [
+            1
+        ],
+        "Herein": [
+            0
+        ],
+        "Otto Bauer": [
+            0
+        ],
+        "Slavs": [
+            1
+        ],
+        "Holy Alliance": [
+            0
+        ],
+        "Karl Kautsky": [
+            0
+        ],
+        "Iskra": [
+            1
+        ],
+        "No": [
+            1
+        ],
+        "Leipzig": [
+            1
+        ],
+        "Munich": [
+            1
+        ],
+        "Little": [
+            1
+        ],
+        "Anarchism": [
+            0
+        ],
+        "French Revolution": [
+            0
+        ],
+        "Legien": [
+            0
+        ],
+        "Hilferdings": [
+            1
+        ],
+        "Ledebours": [
+            0
+        ],
+        "Crispiens": [
+            1
+        ],
+        "Left Communism": [
+            0
+        ],
+        "Scheidemannites": [
+            1
+        ],
+        "Kautskyites": [
+            1
+        ],
+        "Fabians": [
+            1
+        ],
+        "Fabian": [
+            1
+        ],
+        "Karl Legien": [
+            0
+        ],
+        "Franz Mehring": [
+            0
+        ],
+        "Clara Zetkin": [
+            0
+        ],
+        "German Left": [
+            0
+        ],
+        "Junius": [
+            0
+        ],
+        "Pamphlet": [
+            0
+        ],
+        "Batum": [
+            0
+        ],
+        "Ardagan": [
+            0
+        ],
+        "Ultimatumism": [
+            1
+        ],
+        "Tsarism": [
+            0
+        ],
+        "Legal": [
+            1
+        ],
+        "Longuetism": [
+            0
+        ],
+        "Noskes": [
+            0
+        ],
+        "Renner": [
+            0
+        ],
+        "Austerlitz": [
+            1
+        ],
+        "Fritz Adler": [
+            0
+        ],
+        "Badayev": [
+            0
+        ],
+        "Muranov": [
+            0
+        ],
+        "Samoilov": [
+            0
+        ],
+        "Turukhansk Territory": [
+            0
+        ],
+        "Eastern Siberia": [
+            1
+        ],
+        "Fabian Society": [
+            1
+        ],
+        "James Keir Hardie": [
+            0
+        ],
+        "Millerand": [
+            0
+        ],
+        "Halle": [
+            1
+        ],
+        "Bolshevism Develop": [
+            0
+        ],
+        "Gain Strength": [
+            0
+        ],
+        "Become": [
+            0
+        ],
+        "Party Congress": [
+            0
+        ],
+        "Jouhaux": [
+            1
+        ],
+        "Merrheims": [
+            0
+        ],
+        "Legiens": [
+            1
+        ],
+        "Daniel De Leon": [
+            0
+        ],
+        "Folkets Dagblad Politiken": [
+            0
+        ],
+        "Zubatov": [
+            0
+        ],
+        "Holland": [
+            1
+        ],
+        "Week": [
+            0
+        ],
+        "Party Weeks": [
+            0
+        ],
+        "See LCW": [
+            0
+        ],
+        "Soviet Union": [
+            1
+        ],
+        "William Haywood": [
+            0
+        ],
+        "Canada": [
+            1
+        ],
+        "Australia": [
+            1
+        ],
+        "Latin America": [
+            0
+        ],
+        "South Africa": [
+            1
+        ],
+        "Labor": [
+            0
+        ],
+        "Zubatovs": [
+            0
+        ],
+        "Bourgeois Parliaments": [
+            1
+        ],
+        "Frankfurt": [
+            1
+        ],
+        "Volksstaat": [
+            0
+        ],
+        "Articles": [
+            1
+        ],
+        "St.": [
+            1
+        ],
+        "Zasulich": [
+            0
+        ],
+        "Potresov": [
+            0
+        ],
+        "Natanson": [
+            0
+        ],
+        "Kienthal": [
+            1
+        ],
+        "Narodnik": [
+            1
+        ],
+        "Right Mensheviks": [
+            0
+        ],
+        "Left Mensheviks": [
+            0
+        ],
+        "Crispien": [
+            0
+        ],
+        "Ledebour": [
+            0
+        ],
+        "Independents": [
+            1
+        ],
+        "Menshevism": [
+            0
+        ],
+        "Horner": [
+            0
+        ],
+        "Soviet Germany": [
+            1
+        ],
+        "See Marx/Engels": [
+            0
+        ],
+        "Dietz Verlag": [
+            0
+        ],
+        "Assembly": [
+            0
+        ],
+        "Kolegayev": [
+            0
+        ],
+        "Britian Table": [
+            0
+        ],
+        "Sylvia Pankhurst": [
+            0
+        ],
+        "Glasgow": [
+            1
+        ],
+        "Scotland": [
+            1
+        ],
+        "Henderson": [
+            0
+        ],
+        "Clynes": [
+            0
+        ],
+        "Snowden": [
+            0
+        ],
+        "God": [
+            0
+        ],
+        "Gallacher": [
+            0
+        ],
+        "Science": [
+            1
+        ],
+        "Asquith": [
+            0
+        ],
+        "Lloyd": [
+            0
+        ],
+        "George": [
+            0
+        ],
+        "Mr. Lloyd George": [
+            0
+        ],
+        "Wallace": [
+            1
+        ],
+        "Liberals": [
+            1
+        ],
+        "Inkpin": [
+            0
+        ],
+        "Snowdens": [
+            1
+        ],
+        "William Gallacher": [
+            0
+        ],
+        "Albert Inkpin": [
+            0
+        ],
+        "John Maclean": [
+            0
+        ],
+        "Rothstein": [
+            0
+        ],
+        "Hyndman": [
+            1
+        ],
+        "Salford": [
+            1
+        ],
+        "Welsh": [
+            1
+        ],
+        "Dissatisfaction": [
+            1
+        ],
+        "Kapp": [
+            1
+        ],
+        "Inexperienced": [
+            1
+        ],
+        "Life": [
+            1
+        ],
+        "Footnotes": [
+            0
+        ],
+        "Cavalry Corps": [
+            0
+        ],
+        "Seeckt": [
+            0
+        ],
+        "L\u00fcttwitz": [
+            1
+        ],
+        "Emile Zola": [
+            0
+        ],
+        "Appendix Table": [
+            0
+        ],
+        "Wijnkoop": [
+            1
+        ],
+        "Italy\u2014I": [
+            1
+        ],
+        "Il Soviet": [
+            0
+        ],
+        "Longuetists": [
+            1
+        ],
+        "Practical": [
+            1
+        ],
+        "Certain": [
+            1
+        ],
+        "Zentralorgan": [
+            1
+        ],
+        "Kommunistischen Partei Deutschlands": [
+            0
+        ],
+        "Spartakusbund": [
+            1
+        ],
+        "Freiheit": [
+            1
+        ],
+        "Arthur Crispien": [
+            0
+        ],
+        "Signor": [
+            0
+        ],
+        "Tr\u00e8ves": [
+            1
+        ],
+        "Modigliani": [
+            0
+        ],
+        "Dugoni": [
+            0
+        ],
+        "False": [
+            1
+        ],
+        "Parliamentarianism": [
+            1
+        ],
+        "Dutch": [
+            1
+        ],
+        "Dutch Tribunists": [
+            0
+        ],
+        "Lenin Letter": [
+            0
+        ],
+        "Wijnkoop Moscow": [
+            0
+        ],
+        "Wien": [
+            0
+        ],
+        "Nos": [
+            0
+        ],
+        "Ein": [
+            0
+        ],
+        "Abschnitt": [
+            0
+        ],
+        "Works Archive": [
+            0
+        ],
+        "Petlyura": [
+            0
+        ],
+        "Teatralnaya": [
+            1
+        ],
+        "Sverdlov Square": [
+            0
+        ],
+        "Italo-French": [
+            1
+        ],
+        "Balkan": [
+            1
+        ],
+        "Tatar Republics": [
+            0
+        ],
+        "Kirghizia": [
+            0
+        ],
+        "Colonies": [
+            1
+        ],
+        "Kaiser": [
+            1
+        ],
+        "Tatar": [
+            0
+        ],
+        "J. V. Stalin": [
+            0
+        ],
+        "Bashkiria": [
+            1
+        ],
+        "Preobrazhensky": [
+            0
+        ],
+        "Voprosy Istorii": [
+            0
+        ],
+        "Edvard Gylling": [
+            0
+        ],
+        "Yrj\u00f6 Sirola": [
+            0
+        ],
+        "Otto Kuusinen": [
+            0
+        ],
+        "White": [
+            1
+        ],
+        "Lettish": [
+            1
+        ],
+        "Ulmanis": [
+            1
+        ],
+        "Marchlewski": [
+            0
+        ],
+        "Grossbauern": [
+            1
+        ],
+        "Inasmuch": [
+            1
+        ],
+        "Southern States": [
+            1
+        ],
+        "Report": [
+            1
+        ],
+        "Lysis": [
+            0
+        ],
+        "Asian": [
+            1
+        ],
+        "Keynes": [
+            0
+        ],
+        "Krasin": [
+            0
+        ],
+        "Francc": [
+            1
+        ],
+        "Stormy": [
+            0
+        ],
+        "Lancashire": [
+            1
+        ],
+        "Bank": [
+            1
+        ],
+        "Money": [
+            1
+        ],
+        "Clemenceau": [
+            1
+        ],
+        "Orlando": [
+            0
+        ],
+        "Weak": [
+            1
+        ],
+        "Furious": [
+            1
+        ],
+        "Otto": [
+            0
+        ],
+        "Bauer": [
+            0
+        ],
+        "Otto Bauers": [
+            0
+        ],
+        "Opportunism": [
+            1
+        ],
+        "Albert Thomas": [
+            0
+        ],
+        "Indian": [
+            1
+        ],
+        "Much": [
+            1
+        ],
+        "Tanner": [
+            0
+        ],
+        "Ramsay": [
+            1
+        ],
+        "Serrati": [
+            0
+        ],
+        "Kautskian": [
+            1
+        ],
+        "Either Bernstein": [
+            0
+        ],
+        "Does": [
+            0
+        ],
+        "Stinnes": [
+            0
+        ],
+        "Varga": [
+            1
+        ],
+        "Munzenberg": [
+            1
+        ],
+        "Pannekoek": [
+            0
+        ],
+        "Muinzenberg": [
+            1
+        ],
+        "Ordine Nuovo": [
+            0
+        ],
+        "Bordiga": [
+            1
+        ],
+        "Theory": [
+            1
+        ],
+        "Souchy": [
+            1
+        ],
+        "Scottish": [
+            1
+        ],
+        "Sylvia": [
+            1
+        ],
+        "Pankhurst": [
+            0
+        ],
+        "Progress": [
+            1
+        ],
+        "Spain": [
+            1
+        ],
+        "Issue No": [
+            0
+        ],
+        "Korea": [
+            1
+        ],
+        "Basle": [
+            1
+        ],
+        "See KPSS": [
+            0
+        ],
+        "Morality": [
+            1
+        ],
+        "League": [
+            1
+        ],
+        "Whose": [
+            1
+        ],
+        "Proletcult": [
+            0
+        ],
+        "Bogdanov": [
+            1
+        ],
+        "Machism": [
+            0
+        ],
+        "Abstract": [
+            1
+        ],
+        "Pioletcult": [
+            1
+        ],
+        "Lunacharsky": [
+            0
+        ],
+        "Vladimir Ilyich": [
+            0
+        ],
+        "Kolchaks": [
+            0
+        ],
+        "Petlyuras": [
+            0
+        ],
+        "Makhnos": [
+            0
+        ],
+        "Every": [
+            0
+        ],
+        "Wrangel": [
+            0
+        ],
+        "Litkens": [
+            0
+        ],
+        "Krupskaya": [
+            0
+        ],
+        "Moscow Pravda": [
+            1
+        ],
+        "Production": [
+            1
+        ],
+        "Tsektran": [
+            0
+        ],
+        "Ninth Congress": [
+            0
+        ],
+        "Imagine": [
+            1
+        ],
+        "Serebryakov": [
+            0
+        ],
+        "Pravda No": [
+            0
+        ],
+        "Sosnovsky": [
+            0
+        ],
+        "Plenary Meeting": [
+            0
+        ],
+        "Glavpolitvod": [
+            0
+        ],
+        "Glavpolitput": [
+            0
+        ],
+        "Kalinin": [
+            0
+        ],
+        "Rudzutak": [
+            0
+        ],
+        "Petrovsky": [
+            0
+        ],
+        "Artyom Sergeyev": [
+            0
+        ],
+        "Eclecticism": [
+            0
+        ],
+        "School": [
+            0
+        ],
+        "Petrograd Bureau": [
+            0
+        ],
+        "Water Transport Workers": [
+            0
+        ],
+        "Dialectical": [
+            1
+        ],
+        "Hegel": [
+            0
+        ],
+        "Programme": [
+            1
+        ],
+        "Party Programme": [
+            0
+        ],
+        "Rabkrin": [
+            0
+        ],
+        "Krestinsky": [
+            0
+        ],
+        "July": [
+            1
+        ],
+        "Plenum": [
+            1
+        ],
+        "Priority": [
+            1
+        ],
+        "Preference": [
+            1
+        ],
+        "Rumour": [
+            1
+        ],
+        "Ideological": [
+            1
+        ],
+        "Gorki": [
+            1
+        ],
+        "Petrograd Truth": [
+            0
+        ],
+        "Petrograd Party Committees": [
+            0
+        ],
+        "Mariinsky Regional Water Transport": [
+            0
+        ],
+        "Zimin": [
+            1
+        ],
+        "Rail": [
+            1
+        ],
+        "Ekonomicheskaya": [
+            1
+        ],
+        "Zhizn": [
+            0
+        ],
+        "Larin": [
+            0
+        ],
+        "Kritsman": [
+            0
+        ],
+        "GOELRO": [
+            1
+        ],
+        "Bulletin No": [
+            0
+        ],
+        "Northern": [
+            1
+        ],
+        "Southern": [
+            1
+        ],
+        "Volga": [
+            0
+        ],
+        "Caucasian": [
+            1
+        ],
+        "Western Siberia": [
+            0
+        ],
+        "Northern Area": [
+            1
+        ],
+        "Ballod": [
+            0
+        ],
+        "Electrification": [
+            1
+        ],
+        "Pavel Pavlovich": [
+            0
+        ],
+        "Research": [
+            1
+        ],
+        "Men": [
+            1
+        ],
+        "U.S.S.R.": [
+            1
+        ],
+        "Bulleten Gosudarstvennoi Komissii": [
+            0
+        ],
+        "Elektrifikatsii Rossii": [
+            0
+        ],
+        "Der Zukunftsstaat": [
+            0
+        ],
+        "Konsum": [
+            1
+        ],
+        "Sozialstaat": [
+            1
+        ],
+        "Karl Ballod": [
+            0
+        ],
+        "Ostrovsky": [
+            0
+        ],
+        "Makhayev": [
+            0
+        ],
+        "Petrograders": [
+            1
+        ],
+        "Written": [
+            1
+        ],
+        "March": [
+            0
+        ],
+        "Remark": [
+            1
+        ],
+        "Tenth": [
+            1
+        ],
+        "Verbatim": [
+            0
+        ],
+        "Kiselyov": [
+            0
+        ],
+        "Marchenko": [
+            0
+        ],
+        "Amendment": [
+            1
+        ],
+        "Notes": [
+            0
+        ],
+        "See": [
+            0
+        ],
+        "Ten": [
+            1
+        ],
+        "Rafail": [
+            1
+        ],
+        "Anarchist Deviation": [
+            0
+        ],
+        "Lieu": [
+            1
+        ],
+        "Soviet Socialist Republic": [
+            0
+        ],
+        "Cross": [
+            1
+        ],
+        "Junker": [
+            0
+        ],
+        "Karelin": [
+            0
+        ],
+        "Ghe": [
+            0
+        ],
+        "Vperyod": [
+            0
+        ],
+        "Bogayevskys": [
+            1
+        ],
+        "Tax": [
+            1
+        ],
+        "Kind": [
+            1
+        ],
+        "Wrong": [
+            1
+        ],
+        "semi-barbarian": [
+            1
+        ],
+        "Practice": [
+            1
+        ],
+        "West": [
+            1
+        ],
+        "Orenburg": [
+            1
+        ],
+        "Tomsk": [
+            1
+        ],
+        "Oblomovism": [
+            0
+        ],
+        "Ours": [
+            1
+        ],
+        "War Communism": [
+            0
+        ],
+        "Bureaucratic": [
+            1
+        ],
+        "Lord": [
+            1
+        ],
+        "Young": [
+            1
+        ],
+        "Victor": [
+            0
+        ],
+        "Kronstadt": [
+            0
+        ],
+        "Kozlovsky": [
+            0
+        ],
+        "Victor Chernov": [
+            0
+        ],
+        "Rozhkov": [
+            0
+        ],
+        "Maisky": [
+            0
+        ],
+        "Hungarian Chernovs": [
+            1
+        ],
+        "Ruin": [
+            1
+        ],
+        "Exchange": [
+            1
+        ],
+        "Georgian": [
+            1
+        ],
+        "Letopis": [
+            1
+        ],
+        "Martynov": [
+            0
+        ],
+        "Vsegda Vperyod": [
+            0
+        ],
+        "Pushkin": [
+            0
+        ],
+        "Goncharov": [
+            0
+        ],
+        "Third Paragraph": [
+            0
+        ],
+        "Sotsialistichesky Vestnik": [
+            0
+        ],
+        "Tsentrosoyuz": [
+            0
+        ],
+        "Knd": [
+            1
+        ],
+        "Peasant": [
+            1
+        ],
+        "Delay": [
+            1
+        ],
+        "Zubatovism": [
+            0
+        ],
+        "Reference": [
+            1
+        ],
+        "Vareikis": [
+            0
+        ],
+        "Chernov\u2014and": [
+            1
+        ],
+        "Svidersky": [
+            0
+        ],
+        "Political Bureau": [
+            0
+        ],
+        "Chubar": [
+            1
+        ],
+        "Holtzmann": [
+            1
+        ],
+        "Tula": [
+            1
+        ],
+        "Tambov": [
+            1
+        ],
+        "Donbas": [
+            1
+        ],
+        "Volhynia": [
+            1
+        ],
+        "Tambov Gubernia": [
+            0
+        ],
+        "Paper Trust": [
+            0
+        ],
+        "Nikolayev Gubernia": [
+            0
+        ],
+        "Others": [
+            0
+        ],
+        "Local": [
+            1
+        ],
+        "Permission": [
+            1
+        ],
+        "Maintenance": [
+            1
+        ],
+        "Minsk": [
+            1
+        ],
+        "Vilno": [
+            0
+        ],
+        "Opposition": [
+            0
+        ],
+        "Permit Capitalism": [
+            0
+        ],
+        "Modest": [
+            1
+        ],
+        "Cadet": [
+            1
+        ],
+        "Friedrich Engels": [
+            0
+        ],
+        "Politisches Verm\u00e4chtnis": [
+            0
+        ],
+        "Nr": [
+            1
+        ],
+        "Lenin Moscow": [
+            0
+        ],
+        "Kremlin": [
+            0
+        ],
+        "La Stampa": [
+            0
+        ],
+        "Sera": [
+            1
+        ],
+        "Reggio Emilia": [
+            1
+        ],
+        "Avanti": [
+            1
+        ],
+        "Turati.": [
+            0
+        ],
+        "Italian Mensheviks": [
+            0
+        ],
+        "Lazzari": [
+            0
+        ],
+        "Frossard": [
+            0
+        ],
+        "Marxian": [
+            1
+        ],
+        "Gennari": [
+            1
+        ],
+        "Bravo": [
+            0
+        ],
+        "Terracini": [
+            1
+        ],
+        "Basic": [
+            1
+        ],
+        "Delete": [
+            1
+        ],
+        "H\u00f6lz": [
+            0
+        ],
+        "Levi": [
+            0
+        ],
+        "Throughout": [
+            1
+        ],
+        "Add": [
+            1
+        ],
+        "Smeral": [
+            0
+        ],
+        "Enormous": [
+            1
+        ],
+        "Frankfort": [
+            1
+        ],
+        "Gemany": [
+            1
+        ],
+        "Amritsar": [
+            1
+        ],
+        "Punjab": [
+            1
+        ],
+        "Moskovsky Bolshevik": [
+            0
+        ],
+        "Turin": [
+            1
+        ],
+        "Corriere": [
+            1
+        ],
+        "Sera No": [
+            0
+        ],
+        "Mussolini": [
+            0
+        ],
+        "Baratono": [
+            0
+        ],
+        "Florence": [
+            1
+        ],
+        "Eichhorn": [
+            0
+        ],
+        "Wilhelm Pieck": [
+            0
+        ],
+        "Rheinland": [
+            1
+        ],
+        "Bremen": [
+            1
+        ],
+        "Karl": [
+            0
+        ],
+        "Piedmont": [
+            0
+        ],
+        "Northern Italy": [
+            1
+        ],
+        "Sicily": [
+            1
+        ],
+        "Fascism": [
+            0
+        ],
+        "Moskau": [
+            1
+        ],
+        "Tasks": [
+            0
+        ],
+        "Kommunistichesky Internatsional": [
+            0
+        ],
+        "Resheniya": [
+            1
+        ],
+        "Documents": [
+            1
+        ],
+        "Plenary Meetings": [
+            0
+        ],
+        "Primorye": [
+            0
+        ],
+        "Khabarovsk": [
+            0
+        ],
+        "Prague": [
+            1
+        ],
+        "Vorw\u00e4rts": [
+            1
+        ],
+        "Reichenberg": [
+            1
+        ],
+        "Weltwirtschafw": [
+            0
+        ],
+        "Chinese Wall": [
+            1
+        ],
+        "Hillquits": [
+            0
+        ],
+        "Struggle": [
+            1
+        ],
+        "Basle Manifestos": [
+            0
+        ],
+        "New": [
+            1
+        ],
+        "Borne": [
+            0
+        ],
+        "Wholesale": [
+            1
+        ],
+        "Boast": [
+            0
+        ],
+        "Pilsudski": [
+            0
+        ],
+        "Emigr\u00e9 Literature": [
+            0
+        ],
+        "Dietz": [
+            0
+        ],
+        "Being Put": [
+            0
+        ],
+        "Which Recognises Private Ownership": [
+            0
+        ],
+        "Factories": [
+            0
+        ],
+        "Where Political Power Is": [
+            0
+        ],
+        "Reversion": [
+            1
+        ],
+        "Contact": [
+            0
+        ],
+        "Moscow Waterworks": [
+            1
+        ],
+        "Resolutions": [
+            1
+        ],
+        "Pod Znamenem Marksizma": [
+            0
+        ],
+        "Dietzgen": [
+            1
+        ],
+        "Einstein": [
+            1
+        ],
+        "Vozniknovenie Khristianstva": [
+            0
+        ],
+        "Pharos Publishing House": [
+            0
+        ],
+        "Arthur Drews": [
+            0
+        ],
+        "Die Christusmythe": [
+            0
+        ],
+        "Christ": [
+            0
+        ],
+        "Drews": [
+            0
+        ],
+        "Pod": [
+            1
+        ],
+        "Znamenem Marksizma": [
+            0
+        ],
+        "Marksizma No": [
+            0
+        ],
+        "Greater": [
+            1
+        ],
+        "Timiryazev": [
+            1
+        ],
+        "Hegelian": [
+            1
+        ],
+        "Modern": [
+            1
+        ],
+        "Shchedrin": [
+            0
+        ],
+        "Mr. P.": [
+            0
+        ],
+        "Mr. Sorekin": [
+            0
+        ],
+        "Anybody": [
+            1
+        ],
+        "Genoa": [
+            0
+        ],
+        "Needless": [
+            1
+        ],
+        "Turgenev": [
+            0
+        ],
+        "Soviet Orders": [
+            1
+        ],
+        "Retreat": [
+            1
+        ],
+        "Stop": [
+            1
+        ],
+        "Calm": [
+            1
+        ],
+        "Show": [
+            1
+        ],
+        "Cast": [
+            1
+        ],
+        "Ustryalov": [
+            0
+        ],
+        "Smena Vekh": [
+            0
+        ],
+        "Smena": [
+            0
+        ],
+        "Wherein": [
+            0
+        ],
+        "Alexander Todorsky": [
+            0
+        ],
+        "Vesyegonsk": [
+            1
+        ],
+        "Hard": [
+            0
+        ],
+        "Poincar\u00e9": [
+            1
+        ],
+        "Gorbunov": [
+            0
+        ],
+        "Miroshnikov": [
+            1
+        ],
+        "Libau": [
+            1
+        ],
+        "Culture": [
+            1
+        ],
+        "Dung": [
+            0
+        ],
+        "Peeple": [
+            0
+        ],
+        "Sixteen": [
+            1
+        ],
+        "Poor": [
+            0
+        ],
+        "Nationalities": [
+            1
+        ],
+        "Organisation": [
+            1
+        ],
+        "Kosior": [
+            0
+        ],
+        "Pray": [
+            0
+        ],
+        "Imagination": [
+            1
+        ],
+        "Applause": [
+            1
+        ],
+        "Thou": [
+            0
+        ],
+        "Had Comrade Kamenev": [
+            0
+        ],
+        "Wolfson": [
+            0
+        ],
+        "Krzhizhanovsky": [
+            0
+        ],
+        "Inquire": [
+            1
+        ],
+        "Ryazanov": [
+            0
+        ],
+        "Myasnikov": [
+            0
+        ],
+        "Make": [
+            1
+        ],
+        "Matyas Rakosi": [
+            0
+        ],
+        "Kurs": [
+            0
+        ],
+        "Sowjetrussland": [
+            1
+        ],
+        "Rakosi": [
+            0
+        ],
+        "Publication": [
+            1
+        ],
+        "Sokolnikov": [
+            0
+        ],
+        "Tver Gubernia": [
+            0
+        ],
+        "Kazan": [
+            0
+        ],
+        "Higher Learning": [
+            0
+        ],
+        "Political Schools": [
+            0
+        ],
+        "Lenin Miscellany XIII": [
+            0
+        ],
+        "Similar": [
+            1
+        ],
+        "Marcel Cachin": [
+            0
+        ],
+        "Jacob Friis": [
+            0
+        ],
+        "Vasil Kolarov": [
+            0
+        ],
+        "Karl Krejbich": [
+            0
+        ],
+        "Umberto Terracini": [
+            0
+        ],
+        "Arthur McManus": [
+            0
+        ],
+        "Certain Members": [
+            0
+        ],
+        "Perm Gubernia": [
+            0
+        ],
+        "Motovilikha": [
+            1
+        ],
+        "Eleventh Congress": [
+            0
+        ],
+        "Verbatim Report": [
+            0
+        ],
+        "Mdivani": [
+            0
+        ],
+        "Appropriate": [
+            1
+        ],
+        "Lenin P. S.": [
+            0
+        ],
+        "Byelorussian": [
+            1
+        ],
+        "Bokhara": [
+            1
+        ],
+        "Kharezm": [
+            0
+        ],
+        "Potel": [
+            1
+        ],
+        "Public Health": [
+            0
+        ],
+        "Republics": [
+            1
+        ],
+        "Collected Works": [
+            0
+        ],
+        "Ulyanov": [
+            1
+        ],
+        "Heavy": [
+            1
+        ],
+        "Russian\u2014it": [
+            1
+        ],
+        "Shouts": [
+            1
+        ],
+        "Revolutionaary Party": [
+            0
+        ],
+        "Ivan Turgenev": [
+            0
+        ],
+        "Rudin": [
+            0
+        ],
+        "Pigasov": [
+            0
+        ],
+        "Black Hundreds": [
+            0
+        ],
+        "Jewish": [
+            1
+        ],
+        "Moscow Soviet": [
+            1
+        ],
+        "Though": [
+            1
+        ],
+        "Straits": [
+            1
+        ],
+        "Dardanelles": [
+            1
+        ],
+        "Urquhart": [
+            0
+        ],
+        "Russkaya Mysl": [
+            1
+        ],
+        "Addition": [
+            1
+        ],
+        "Orjonikidze": [
+            1
+        ],
+        "Orgonikidze": [
+            0
+        ],
+        "Polyachiska": [
+            1
+        ],
+        "Prince": [
+            1
+        ],
+        "Khokhols": [
+            0
+        ],
+        "Public Education Section": [
+            0
+        ],
+        "Board": [
+            0
+        ],
+        "Cooperation": [
+            1
+        ],
+        "Asiatic": [
+            1
+        ],
+        "Robert Owen": [
+            0
+        ],
+        "Sukhanov": [
+            0
+        ],
+        "Prussia": [
+            1
+        ],
+        "Napoleon": [
+            1
+        ],
+        "Oriental": [
+            1
+        ],
+        "Kugelmann": [
+            0
+        ],
+        "Vladimir Lenin": [
+            0
+        ],
+        "Yermansky": [
+            0
+        ],
+        "Kerzhentsev": [
+            0
+        ],
+        "West-European": [
             1
         ]
     }
