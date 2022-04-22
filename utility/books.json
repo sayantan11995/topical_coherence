@@ -1,0 +1,51 @@
+{
+    "Gandhi1": {
+        "autobiography": "SOMEWT",
+        "biography": "Life_of_Mahatma_Gandhi",
+        "start_year": 1888,
+        "end_year": 1924,
+        "year_window": 5
+    },
+    "Gandhi2": {
+        "autobiography": "SOMEWT",
+        "biography": "Gandhi_Before_India",
+        "start_year": 1888,
+        "end_year": 1914,
+        "year_window": 5
+    },
+    "Nehru": {
+        "autobiography": "Jawaharlal_Nehru_Autobiography",
+        "biography": "Jawaharlal_Nehru_a_Biography",
+        "start_year": 1912,
+        "end_year": 1939,
+        "year_window": 5
+    },
+    "Lincoln": {
+        "autobiography": "Abraham_Lincoln_Autobiography",
+        "biography": "Life_of_Abraham_Lincoln",
+        "start_year": 1830,
+        "end_year": 1865,
+        "year_window": 8
+    },
+    "Nelson": {
+        "autobiography": "nelson_autobiography",
+        "biography": "nelson_mandela_biography",
+        "start_year": 1939,
+        "end_year": 1994,
+        "year_window": 7
+    },
+    "Sachin": {
+        "autobiography": "playing_it_my_way",
+        "biography": "sachin_story_of_my_life",
+        "start_year": 1884,
+        "end_year": 2008,
+        "year_window": 5
+    },
+    "Lenin": {
+        "autobiography": "SOMEWT",
+        "biography": "Lenin_a_Political_Life",
+        "start_year": 1890,
+        "end_year": 1914,
+        "year_window": 5
+    }
+}
