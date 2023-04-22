@@ -1,0 +1,1298 @@
+------------------------1939-1945--------------------------
+0.022
+------------------------Distinctive Topic--------------------------
+['connection' 'formation' 'government' 'beautiful' 'river' 'far'
+ 'document' 'sidelsky' 'piece' 'kaffir' 'contrary' 'disappear' 'rebel'
+ 'anger' 'client']
+['district' 'formally' 'president' 'sell' 'clarkebury' 'qualify' 'union'
+ 'belief' 'follower' 'trouble' 'member' 'cousin' 'nurse' 'island'
+ 'activist']
+0.034
+------------------------Distinctive Topic--------------------------
+['connection' 'formation' 'government' 'beautiful' 'river' 'far'
+ 'document' 'sidelsky' 'piece' 'kaffir' 'contrary' 'disappear' 'rebel'
+ 'anger' 'client']
+['household' 'summon' 'equal' 'audience' 'justice' 'measure' 'trader'
+ 'latin' 'clothe' 'afrikaner' 'trevor' 'voice' 'care' 'fort' 'run']
+0.026
+------------------------Distinctive Topic--------------------------
+['connection' 'formation' 'government' 'beautiful' 'river' 'far'
+ 'document' 'sidelsky' 'piece' 'kaffir' 'contrary' 'disappear' 'rebel'
+ 'anger' 'client']
+['sotho' 'visit' 'social' 'camp' 'compound' 'need' 'race' 'sisulus'
+ 'field' 'money' 'chase' 'madie' 'change' 'lie' 'movement']
+0.054
+------------------------Distinctive Topic--------------------------
+['connection' 'formation' 'government' 'beautiful' 'river' 'far'
+ 'document' 'sidelsky' 'piece' 'kaffir' 'contrary' 'disappear' 'rebel'
+ 'anger' 'client']
+['mandela' 'african' 'white' 'man' 'johannesburg' 'xhosa' 'school'
+ 'jongintaba' 'student' 'south' 'house' 'thembu' 'fort' 'africa' 'hare']
+0.026
+------------------------Distinctive Topic--------------------------
+['connection' 'formation' 'government' 'beautiful' 'river' 'far'
+ 'document' 'sidelsky' 'piece' 'kaffir' 'contrary' 'disappear' 'rebel'
+ 'anger' 'client']
+['protest' 'prominent' 'previously' 'confidence' 'klipspruit' 'develop'
+ 'sidelsky' 'survive' 'regularly' 'entrance' 'accompany' 'boat' 'western'
+ 'oliver' 'tent']
+0.03
+------------------------Distinctive Topic--------------------------
+['notice' 'justice' 'ideology' 'teacher' 'walk' 'campaign' 'carry' 'bram'
+ 'complex' 'nearly' 'black' 'sothos' 'utter' 'trader' 'leave']
+['district' 'formally' 'president' 'sell' 'clarkebury' 'qualify' 'union'
+ 'belief' 'follower' 'trouble' 'member' 'cousin' 'nurse' 'island'
+ 'activist']
+0.026
+------------------------Distinctive Topic--------------------------
+['notice' 'justice' 'ideology' 'teacher' 'walk' 'campaign' 'carry' 'bram'
+ 'complex' 'nearly' 'black' 'sothos' 'utter' 'trader' 'leave']
+['household' 'summon' 'equal' 'audience' 'justice' 'measure' 'trader'
+ 'latin' 'clothe' 'afrikaner' 'trevor' 'voice' 'care' 'fort' 'run']
+0.028
+------------------------Distinctive Topic--------------------------
+['notice' 'justice' 'ideology' 'teacher' 'walk' 'campaign' 'carry' 'bram'
+ 'complex' 'nearly' 'black' 'sothos' 'utter' 'trader' 'leave']
+['sotho' 'visit' 'social' 'camp' 'compound' 'need' 'race' 'sisulus'
+ 'field' 'money' 'chase' 'madie' 'change' 'lie' 'movement']
+0.07
+------------------------Distinctive Topic--------------------------
+['notice' 'justice' 'ideology' 'teacher' 'walk' 'campaign' 'carry' 'bram'
+ 'complex' 'nearly' 'black' 'sothos' 'utter' 'trader' 'leave']
+['mandela' 'african' 'white' 'man' 'johannesburg' 'xhosa' 'school'
+ 'jongintaba' 'student' 'south' 'house' 'thembu' 'fort' 'africa' 'hare']
+0.03
+------------------------Distinctive Topic--------------------------
+['notice' 'justice' 'ideology' 'teacher' 'walk' 'campaign' 'carry' 'bram'
+ 'complex' 'nearly' 'black' 'sothos' 'utter' 'trader' 'leave']
+['protest' 'prominent' 'previously' 'confidence' 'klipspruit' 'develop'
+ 'sidelsky' 'survive' 'regularly' 'entrance' 'accompany' 'boat' 'western'
+ 'oliver' 'tent']
+0.042
+------------------------Distinctive Topic--------------------------
+['regent' 'african' 'people' 'justice' 'white' 'man' 'johannesburg' 'life'
+ 'anc' 'lembede' 'chief' 'young' 'home' 'long' 'gaur']
+['district' 'formally' 'president' 'sell' 'clarkebury' 'qualify' 'union'
+ 'belief' 'follower' 'trouble' 'member' 'cousin' 'nurse' 'island'
+ 'activist']
+0.04
+------------------------Distinctive Topic--------------------------
+['regent' 'african' 'people' 'justice' 'white' 'man' 'johannesburg' 'life'
+ 'anc' 'lembede' 'chief' 'young' 'home' 'long' 'gaur']
+['household' 'summon' 'equal' 'audience' 'justice' 'measure' 'trader'
+ 'latin' 'clothe' 'afrikaner' 'trevor' 'voice' 'care' 'fort' 'run']
+0.048
+------------------------Distinctive Topic--------------------------
+['regent' 'african' 'people' 'justice' 'white' 'man' 'johannesburg' 'life'
+ 'anc' 'lembede' 'chief' 'young' 'home' 'long' 'gaur']
+['sotho' 'visit' 'social' 'camp' 'compound' 'need' 'race' 'sisulus'
+ 'field' 'money' 'chase' 'madie' 'change' 'lie' 'movement']
+0.148
+------------------------Distinctive Topic--------------------------
+['regent' 'african' 'people' 'justice' 'white' 'man' 'johannesburg' 'life'
+ 'anc' 'lembede' 'chief' 'young' 'home' 'long' 'gaur']
+['mandela' 'african' 'white' 'man' 'johannesburg' 'xhosa' 'school'
+ 'jongintaba' 'student' 'south' 'house' 'thembu' 'fort' 'africa' 'hare']
+0.04
+------------------------Distinctive Topic--------------------------
+['regent' 'african' 'people' 'justice' 'white' 'man' 'johannesburg' 'life'
+ 'anc' 'lembede' 'chief' 'young' 'home' 'long' 'gaur']
+['protest' 'prominent' 'previously' 'confidence' 'klipspruit' 'develop'
+ 'sidelsky' 'survive' 'regularly' 'entrance' 'accompany' 'boat' 'western'
+ 'oliver' 'tent']
+0.024
+------------------------Distinctive Topic--------------------------
+['road' 'light' 'recall' 'far' 'discussion' 'kind' 'alternative'
+ 'politically' 'black' 'discover' 'speaker' 'advice' 'discuss' 'buy' 'j']
+['district' 'formally' 'president' 'sell' 'clarkebury' 'qualify' 'union'
+ 'belief' 'follower' 'trouble' 'member' 'cousin' 'nurse' 'island'
+ 'activist']
+0.018
+------------------------Distinctive Topic--------------------------
+['road' 'light' 'recall' 'far' 'discussion' 'kind' 'alternative'
+ 'politically' 'black' 'discover' 'speaker' 'advice' 'discuss' 'buy' 'j']
+['household' 'summon' 'equal' 'audience' 'justice' 'measure' 'trader'
+ 'latin' 'clothe' 'afrikaner' 'trevor' 'voice' 'care' 'fort' 'run']
+0.026
+------------------------Distinctive Topic--------------------------
+['road' 'light' 'recall' 'far' 'discussion' 'kind' 'alternative'
+ 'politically' 'black' 'discover' 'speaker' 'advice' 'discuss' 'buy' 'j']
+['sotho' 'visit' 'social' 'camp' 'compound' 'need' 'race' 'sisulus'
+ 'field' 'money' 'chase' 'madie' 'change' 'lie' 'movement']
+0.066
+------------------------Distinctive Topic--------------------------
+['road' 'light' 'recall' 'far' 'discussion' 'kind' 'alternative'
+ 'politically' 'black' 'discover' 'speaker' 'advice' 'discuss' 'buy' 'j']
+['mandela' 'african' 'white' 'man' 'johannesburg' 'xhosa' 'school'
+ 'jongintaba' 'student' 'south' 'house' 'thembu' 'fort' 'africa' 'hare']
+0.036
+------------------------Distinctive Topic--------------------------
+['road' 'light' 'recall' 'far' 'discussion' 'kind' 'alternative'
+ 'politically' 'black' 'discover' 'speaker' 'advice' 'discuss' 'buy' 'j']
+['protest' 'prominent' 'previously' 'confidence' 'klipspruit' 'develop'
+ 'sidelsky' 'survive' 'regularly' 'entrance' 'accompany' 'boat' 'western'
+ 'oliver' 'tent']
+0.012
+------------------------Distinctive Topic--------------------------
+['fall' 'ellen' 'leaguer' 'epsom' 'lionel' 'seat' 'need' 'select'
+ 'gangster' 'later' 'extremely' 'poor' 'seek' 'succeed' 'lobola']
+['district' 'formally' 'president' 'sell' 'clarkebury' 'qualify' 'union'
+ 'belief' 'follower' 'trouble' 'member' 'cousin' 'nurse' 'island'
+ 'activist']
+0.014
+------------------------Distinctive Topic--------------------------
+['fall' 'ellen' 'leaguer' 'epsom' 'lionel' 'seat' 'need' 'select'
+ 'gangster' 'later' 'extremely' 'poor' 'seek' 'succeed' 'lobola']
+['household' 'summon' 'equal' 'audience' 'justice' 'measure' 'trader'
+ 'latin' 'clothe' 'afrikaner' 'trevor' 'voice' 'care' 'fort' 'run']
+0.032
+------------------------Distinctive Topic--------------------------
+['fall' 'ellen' 'leaguer' 'epsom' 'lionel' 'seat' 'need' 'select'
+ 'gangster' 'later' 'extremely' 'poor' 'seek' 'succeed' 'lobola']
+['sotho' 'visit' 'social' 'camp' 'compound' 'need' 'race' 'sisulus'
+ 'field' 'money' 'chase' 'madie' 'change' 'lie' 'movement']
+0.052
+------------------------Distinctive Topic--------------------------
+['fall' 'ellen' 'leaguer' 'epsom' 'lionel' 'seat' 'need' 'select'
+ 'gangster' 'later' 'extremely' 'poor' 'seek' 'succeed' 'lobola']
+['mandela' 'african' 'white' 'man' 'johannesburg' 'xhosa' 'school'
+ 'jongintaba' 'student' 'south' 'house' 'thembu' 'fort' 'africa' 'hare']
+0.032
+------------------------Distinctive Topic--------------------------
+['fall' 'ellen' 'leaguer' 'epsom' 'lionel' 'seat' 'need' 'select'
+ 'gangster' 'later' 'extremely' 'poor' 'seek' 'succeed' 'lobola']
+['protest' 'prominent' 'previously' 'confidence' 'klipspruit' 'develop'
+ 'sidelsky' 'survive' 'regularly' 'entrance' 'accompany' 'boat' 'western'
+ 'oliver' 'tent']
+------------------------1946-1952--------------------------
+0.02
+------------------------Distinctive Topic--------------------------
+['floor' 'helman' 'proceed' 'nonviolence' 'meeting' 'responsibility'
+ 'administer' 'era' 'general' 'fence' 'aim' 'strike' 'safe' 'circumstance'
+ 'pity']
+['big' 'freedom' 'question' 'generation' 'forward' 'past' 'moscow'
+ 'bulletin' 'sisulu' 'collaboration' 'blow' 'pay' 'nations' 'potent'
+ 'revolution']
+0.018
+------------------------Distinctive Topic--------------------------
+['floor' 'helman' 'proceed' 'nonviolence' 'meeting' 'responsibility'
+ 'administer' 'era' 'general' 'fence' 'aim' 'strike' 'safe' 'circumstance'
+ 'pity']
+['volunteer' 'create' 'activist' 'law' 'veteran' 'want' 'rare' 'failure'
+ 'calm' 'war' 'sentence' 'leader' 'generation' 'carry' 'decide']
+0.028
+------------------------Distinctive Topic--------------------------
+['floor' 'helman' 'proceed' 'nonviolence' 'meeting' 'responsibility'
+ 'administer' 'era' 'general' 'fence' 'aim' 'strike' 'safe' 'circumstance'
+ 'pity']
+['leader' 'political' 'malan' 'transvaal' 'protest' 'railway' 'train'
+ 'possess' 'jaydew' 'fierce' 'paramilitary' 'commando' 'solution' 'loss'
+ 'deputy']
+0.016
+------------------------Distinctive Topic--------------------------
+['floor' 'helman' 'proceed' 'nonviolence' 'meeting' 'responsibility'
+ 'administer' 'era' 'general' 'fence' 'aim' 'strike' 'safe' 'circumstance'
+ 'pity']
+['race' 'resign' 'alexandra' 'speaking' 'activist' 'room' 'complain'
+ 'matthews' 'revolutionary' 'idea' 'general' 'great' 'europe' 'afrikaner'
+ 'club']
+0.018
+------------------------Distinctive Topic--------------------------
+['floor' 'helman' 'proceed' 'nonviolence' 'meeting' 'responsibility'
+ 'administer' 'era' 'general' 'fence' 'aim' 'strike' 'safe' 'circumstance'
+ 'pity']
+['african' 'white' 'mandela' 'communist' 'government' 'anc' 'party'
+ 'africa' 'south' 'campaign' 'group' 'afrikaner' 'member' 'johannesburg'
+ 'youth']
+0.024
+------------------------Distinctive Topic--------------------------
+['free' 'resident' 'van' 'cut' 'head' 'independence' 'investigate' 'wish'
+ 'incident' 'extremely' 'pull' 'oslo' 'proud' 'level' 'exam']
+['big' 'freedom' 'question' 'generation' 'forward' 'past' 'moscow'
+ 'bulletin' 'sisulu' 'collaboration' 'blow' 'pay' 'nations' 'potent'
+ 'revolution']
+0.018
+------------------------Distinctive Topic--------------------------
+['free' 'resident' 'van' 'cut' 'head' 'independence' 'investigate' 'wish'
+ 'incident' 'extremely' 'pull' 'oslo' 'proud' 'level' 'exam']
+['volunteer' 'create' 'activist' 'law' 'veteran' 'want' 'rare' 'failure'
+ 'calm' 'war' 'sentence' 'leader' 'generation' 'carry' 'decide']
+0.022
+------------------------Distinctive Topic--------------------------
+['free' 'resident' 'van' 'cut' 'head' 'independence' 'investigate' 'wish'
+ 'incident' 'extremely' 'pull' 'oslo' 'proud' 'level' 'exam']
+['leader' 'political' 'malan' 'transvaal' 'protest' 'railway' 'train'
+ 'possess' 'jaydew' 'fierce' 'paramilitary' 'commando' 'solution' 'loss'
+ 'deputy']
+0.016
+------------------------Distinctive Topic--------------------------
+['free' 'resident' 'van' 'cut' 'head' 'independence' 'investigate' 'wish'
+ 'incident' 'extremely' 'pull' 'oslo' 'proud' 'level' 'exam']
+['race' 'resign' 'alexandra' 'speaking' 'activist' 'room' 'complain'
+ 'matthews' 'revolutionary' 'idea' 'general' 'great' 'europe' 'afrikaner'
+ 'club']
+0.012
+------------------------Distinctive Topic--------------------------
+['free' 'resident' 'van' 'cut' 'head' 'independence' 'investigate' 'wish'
+ 'incident' 'extremely' 'pull' 'oslo' 'proud' 'level' 'exam']
+['african' 'white' 'mandela' 'communist' 'government' 'anc' 'party'
+ 'africa' 'south' 'campaign' 'group' 'afrikaner' 'member' 'johannesburg'
+ 'youth']
+0.018
+------------------------Distinctive Topic--------------------------
+['doctor' 'criminal' 'triumph' 'confer' 'build' 'entrance' 'miner' 'bed'
+ 'transport' 'mda' 'insist' 'wind' 'festive' 'arthur' 'session']
+['big' 'freedom' 'question' 'generation' 'forward' 'past' 'moscow'
+ 'bulletin' 'sisulu' 'collaboration' 'blow' 'pay' 'nations' 'potent'
+ 'revolution']
+0.018
+------------------------Distinctive Topic--------------------------
+['doctor' 'criminal' 'triumph' 'confer' 'build' 'entrance' 'miner' 'bed'
+ 'transport' 'mda' 'insist' 'wind' 'festive' 'arthur' 'session']
+['volunteer' 'create' 'activist' 'law' 'veteran' 'want' 'rare' 'failure'
+ 'calm' 'war' 'sentence' 'leader' 'generation' 'carry' 'decide']
+0.014
+------------------------Distinctive Topic--------------------------
+['doctor' 'criminal' 'triumph' 'confer' 'build' 'entrance' 'miner' 'bed'
+ 'transport' 'mda' 'insist' 'wind' 'festive' 'arthur' 'session']
+['leader' 'political' 'malan' 'transvaal' 'protest' 'railway' 'train'
+ 'possess' 'jaydew' 'fierce' 'paramilitary' 'commando' 'solution' 'loss'
+ 'deputy']
+0.02
+------------------------Distinctive Topic--------------------------
+['doctor' 'criminal' 'triumph' 'confer' 'build' 'entrance' 'miner' 'bed'
+ 'transport' 'mda' 'insist' 'wind' 'festive' 'arthur' 'session']
+['race' 'resign' 'alexandra' 'speaking' 'activist' 'room' 'complain'
+ 'matthews' 'revolutionary' 'idea' 'general' 'great' 'europe' 'afrikaner'
+ 'club']
+0.028
+------------------------Distinctive Topic--------------------------
+['doctor' 'criminal' 'triumph' 'confer' 'build' 'entrance' 'miner' 'bed'
+ 'transport' 'mda' 'insist' 'wind' 'festive' 'arthur' 'session']
+['african' 'white' 'mandela' 'communist' 'government' 'anc' 'party'
+ 'africa' 'south' 'campaign' 'group' 'afrikaner' 'member' 'johannesburg'
+ 'youth']
+0.024
+------------------------Distinctive Topic--------------------------
+['military' 'moral' 'slight' 'hold' 'change' 'operate' 'afterward'
+ 'gentle' 'extra' 'broad' 'remain' 'homeless' 'elect' 'pose' 'branch']
+['big' 'freedom' 'question' 'generation' 'forward' 'past' 'moscow'
+ 'bulletin' 'sisulu' 'collaboration' 'blow' 'pay' 'nations' 'potent'
+ 'revolution']
+0.022
+------------------------Distinctive Topic--------------------------
+['military' 'moral' 'slight' 'hold' 'change' 'operate' 'afterward'
+ 'gentle' 'extra' 'broad' 'remain' 'homeless' 'elect' 'pose' 'branch']
+['volunteer' 'create' 'activist' 'law' 'veteran' 'want' 'rare' 'failure'
+ 'calm' 'war' 'sentence' 'leader' 'generation' 'carry' 'decide']
+0.02
+------------------------Distinctive Topic--------------------------
+['military' 'moral' 'slight' 'hold' 'change' 'operate' 'afterward'
+ 'gentle' 'extra' 'broad' 'remain' 'homeless' 'elect' 'pose' 'branch']
+['leader' 'political' 'malan' 'transvaal' 'protest' 'railway' 'train'
+ 'possess' 'jaydew' 'fierce' 'paramilitary' 'commando' 'solution' 'loss'
+ 'deputy']
+0.018
+------------------------Distinctive Topic--------------------------
+['military' 'moral' 'slight' 'hold' 'change' 'operate' 'afterward'
+ 'gentle' 'extra' 'broad' 'remain' 'homeless' 'elect' 'pose' 'branch']
+['race' 'resign' 'alexandra' 'speaking' 'activist' 'room' 'complain'
+ 'matthews' 'revolutionary' 'idea' 'general' 'great' 'europe' 'afrikaner'
+ 'club']
+0.03
+------------------------Distinctive Topic--------------------------
+['military' 'moral' 'slight' 'hold' 'change' 'operate' 'afterward'
+ 'gentle' 'extra' 'broad' 'remain' 'homeless' 'elect' 'pose' 'branch']
+['african' 'white' 'mandela' 'communist' 'government' 'anc' 'party'
+ 'africa' 'south' 'campaign' 'group' 'afrikaner' 'member' 'johannesburg'
+ 'youth']
+0.054
+------------------------Distinctive Topic--------------------------
+['african' 'anc' 'man' 'white' 'people' 'campaign' 'government' 'south'
+ 'police' 'home' 'member' 'johannesburg' 'organization' 'meeting' 'party']
+['big' 'freedom' 'question' 'generation' 'forward' 'past' 'moscow'
+ 'bulletin' 'sisulu' 'collaboration' 'blow' 'pay' 'nations' 'potent'
+ 'revolution']
+0.05
+------------------------Distinctive Topic--------------------------
+['african' 'anc' 'man' 'white' 'people' 'campaign' 'government' 'south'
+ 'police' 'home' 'member' 'johannesburg' 'organization' 'meeting' 'party']
+['volunteer' 'create' 'activist' 'law' 'veteran' 'want' 'rare' 'failure'
+ 'calm' 'war' 'sentence' 'leader' 'generation' 'carry' 'decide']
+0.062
+------------------------Distinctive Topic--------------------------
+['african' 'anc' 'man' 'white' 'people' 'campaign' 'government' 'south'
+ 'police' 'home' 'member' 'johannesburg' 'organization' 'meeting' 'party']
+['leader' 'political' 'malan' 'transvaal' 'protest' 'railway' 'train'
+ 'possess' 'jaydew' 'fierce' 'paramilitary' 'commando' 'solution' 'loss'
+ 'deputy']
+0.066
+------------------------Distinctive Topic--------------------------
+['african' 'anc' 'man' 'white' 'people' 'campaign' 'government' 'south'
+ 'police' 'home' 'member' 'johannesburg' 'organization' 'meeting' 'party']
+['race' 'resign' 'alexandra' 'speaking' 'activist' 'room' 'complain'
+ 'matthews' 'revolutionary' 'idea' 'general' 'great' 'europe' 'afrikaner'
+ 'club']
+0.182
+------------------------Distinctive Topic--------------------------
+['african' 'anc' 'man' 'white' 'people' 'campaign' 'government' 'south'
+ 'police' 'home' 'member' 'johannesburg' 'organization' 'meeting' 'party']
+['african' 'white' 'mandela' 'communist' 'government' 'anc' 'party'
+ 'africa' 'south' 'campaign' 'group' 'afrikaner' 'member' 'johannesburg'
+ 'youth']
+------------------------1953-1959--------------------------
+0.024
+------------------------Distinctive Topic--------------------------
+['situation' 'box' 'settle' 'seventy' 'observe' 'ask' 'immediately'
+ 'decide' 'property' 'sekhukhune' 'uphold' 'foreign' 'shepherd'
+ 'opportunity' 'pleasure']
+['mandela' 'white' 'anc' 'african' 'government' 'people' 'south' 'court'
+ 'communist' 'africa' 'congress' 'party' 'freedom' 'political' 'school']
+0.016
+------------------------Distinctive Topic--------------------------
+['situation' 'box' 'settle' 'seventy' 'observe' 'ask' 'immediately'
+ 'decide' 'property' 'sekhukhune' 'uphold' 'foreign' 'shepherd'
+ 'opportunity' 'pleasure']
+['daughter' 'mandela' 'huge' 'van' 'reply' 'contain' 'hesitation'
+ 'underground' 'firm' 'seize' 'wealth' 'direction' 'economic' 'teach'
+ 'solve']
+0.022
+------------------------Distinctive Topic--------------------------
+['situation' 'box' 'settle' 'seventy' 'observe' 'ask' 'immediately'
+ 'decide' 'property' 'sekhukhune' 'uphold' 'foreign' 'shepherd'
+ 'opportunity' 'pleasure']
+['lead' 'face' 'near' 'gold' 'session' 'hear' 'continuous' 'churchman'
+ 'union' 'buchar' 'lie' 'fort' 'threat' 'citizen' 'raid']
+0.016
+------------------------Distinctive Topic--------------------------
+['situation' 'box' 'settle' 'seventy' 'observe' 'ask' 'immediately'
+ 'decide' 'property' 'sekhukhune' 'uphold' 'foreign' 'shepherd'
+ 'opportunity' 'pleasure']
+['regulation' 'marriage' 'sunday' 'proceed' 'control' 'postpone'
+ 'particularly' 'rarely' 'willingness' 'desire' 'pray' 'rural' 'discover'
+ 'sense' 'goal']
+0.016
+------------------------Distinctive Topic--------------------------
+['situation' 'box' 'settle' 'seventy' 'observe' 'ask' 'immediately'
+ 'decide' 'property' 'sekhukhune' 'uphold' 'foreign' 'shepherd'
+ 'opportunity' 'pleasure']
+['cachalia' 'transfer' 'special' 'stay' 'ask' 'opera' 'molly' 'matanzima'
+ 'revenge' 'pace' 'son' 'word' 'black' 'reach' 'beat']
+0.05
+------------------------Distinctive Topic--------------------------
+['introduce' 'book' 'amamfengu' 'note' 'efficient' 'allow' 'unfit' 'carry'
+ 'q' 'prison' 'resume' 'abide' 'christian' 'yes' 'condition']
+['mandela' 'white' 'anc' 'african' 'government' 'people' 'south' 'court'
+ 'communist' 'africa' 'congress' 'party' 'freedom' 'political' 'school']
+0.02
+------------------------Distinctive Topic--------------------------
+['introduce' 'book' 'amamfengu' 'note' 'efficient' 'allow' 'unfit' 'carry'
+ 'q' 'prison' 'resume' 'abide' 'christian' 'yes' 'condition']
+['daughter' 'mandela' 'huge' 'van' 'reply' 'contain' 'hesitation'
+ 'underground' 'firm' 'seize' 'wealth' 'direction' 'economic' 'teach'
+ 'solve']
+0.022
+------------------------Distinctive Topic--------------------------
+['introduce' 'book' 'amamfengu' 'note' 'efficient' 'allow' 'unfit' 'carry'
+ 'q' 'prison' 'resume' 'abide' 'christian' 'yes' 'condition']
+['lead' 'face' 'near' 'gold' 'session' 'hear' 'continuous' 'churchman'
+ 'union' 'buchar' 'lie' 'fort' 'threat' 'citizen' 'raid']
+0.022
+------------------------Distinctive Topic--------------------------
+['introduce' 'book' 'amamfengu' 'note' 'efficient' 'allow' 'unfit' 'carry'
+ 'q' 'prison' 'resume' 'abide' 'christian' 'yes' 'condition']
+['regulation' 'marriage' 'sunday' 'proceed' 'control' 'postpone'
+ 'particularly' 'rarely' 'willingness' 'desire' 'pray' 'rural' 'discover'
+ 'sense' 'goal']
+0.016
+------------------------Distinctive Topic--------------------------
+['introduce' 'book' 'amamfengu' 'note' 'efficient' 'allow' 'unfit' 'carry'
+ 'q' 'prison' 'resume' 'abide' 'christian' 'yes' 'condition']
+['cachalia' 'transfer' 'special' 'stay' 'ask' 'opera' 'molly' 'matanzima'
+ 'revenge' 'pace' 'son' 'word' 'black' 'reach' 'beat']
+0.04
+------------------------Distinctive Topic--------------------------
+['manage' 'imagination' 'account' 'base' 'press' 'unity' 'fine' 'million'
+ 'dorp' 'divide' 'bitter' 'easily' 'pasture' 'ngoyi' 'cruel']
+['mandela' 'white' 'anc' 'african' 'government' 'people' 'south' 'court'
+ 'communist' 'africa' 'congress' 'party' 'freedom' 'political' 'school']
+0.01
+------------------------Distinctive Topic--------------------------
+['manage' 'imagination' 'account' 'base' 'press' 'unity' 'fine' 'million'
+ 'dorp' 'divide' 'bitter' 'easily' 'pasture' 'ngoyi' 'cruel']
+['daughter' 'mandela' 'huge' 'van' 'reply' 'contain' 'hesitation'
+ 'underground' 'firm' 'seize' 'wealth' 'direction' 'economic' 'teach'
+ 'solve']
+0.028
+------------------------Distinctive Topic--------------------------
+['manage' 'imagination' 'account' 'base' 'press' 'unity' 'fine' 'million'
+ 'dorp' 'divide' 'bitter' 'easily' 'pasture' 'ngoyi' 'cruel']
+['lead' 'face' 'near' 'gold' 'session' 'hear' 'continuous' 'churchman'
+ 'union' 'buchar' 'lie' 'fort' 'threat' 'citizen' 'raid']
+0.016
+------------------------Distinctive Topic--------------------------
+['manage' 'imagination' 'account' 'base' 'press' 'unity' 'fine' 'million'
+ 'dorp' 'divide' 'bitter' 'easily' 'pasture' 'ngoyi' 'cruel']
+['regulation' 'marriage' 'sunday' 'proceed' 'control' 'postpone'
+ 'particularly' 'rarely' 'willingness' 'desire' 'pray' 'rural' 'discover'
+ 'sense' 'goal']
+0.02
+------------------------Distinctive Topic--------------------------
+['manage' 'imagination' 'account' 'base' 'press' 'unity' 'fine' 'million'
+ 'dorp' 'divide' 'bitter' 'easily' 'pasture' 'ngoyi' 'cruel']
+['cachalia' 'transfer' 'special' 'stay' 'ask' 'opera' 'molly' 'matanzima'
+ 'revenge' 'pace' 'son' 'word' 'black' 'reach' 'beat']
+0.044
+------------------------Distinctive Topic--------------------------
+['instead' 'doctor' 'honor' 'pocket' 'charm' 'warning' 'generation' 'baby'
+ 'madikizela' 'nature' 'wife' 'pleased' 'insult' 'congress' 'prime']
+['mandela' 'white' 'anc' 'african' 'government' 'people' 'south' 'court'
+ 'communist' 'africa' 'congress' 'party' 'freedom' 'political' 'school']
+0.028
+------------------------Distinctive Topic--------------------------
+['instead' 'doctor' 'honor' 'pocket' 'charm' 'warning' 'generation' 'baby'
+ 'madikizela' 'nature' 'wife' 'pleased' 'insult' 'congress' 'prime']
+['daughter' 'mandela' 'huge' 'van' 'reply' 'contain' 'hesitation'
+ 'underground' 'firm' 'seize' 'wealth' 'direction' 'economic' 'teach'
+ 'solve']
+0.018
+------------------------Distinctive Topic--------------------------
+['instead' 'doctor' 'honor' 'pocket' 'charm' 'warning' 'generation' 'baby'
+ 'madikizela' 'nature' 'wife' 'pleased' 'insult' 'congress' 'prime']
+['lead' 'face' 'near' 'gold' 'session' 'hear' 'continuous' 'churchman'
+ 'union' 'buchar' 'lie' 'fort' 'threat' 'citizen' 'raid']
+0.022
+------------------------Distinctive Topic--------------------------
+['instead' 'doctor' 'honor' 'pocket' 'charm' 'warning' 'generation' 'baby'
+ 'madikizela' 'nature' 'wife' 'pleased' 'insult' 'congress' 'prime']
+['regulation' 'marriage' 'sunday' 'proceed' 'control' 'postpone'
+ 'particularly' 'rarely' 'willingness' 'desire' 'pray' 'rural' 'discover'
+ 'sense' 'goal']
+0.012
+------------------------Distinctive Topic--------------------------
+['instead' 'doctor' 'honor' 'pocket' 'charm' 'warning' 'generation' 'baby'
+ 'madikizela' 'nature' 'wife' 'pleased' 'insult' 'congress' 'prime']
+['cachalia' 'transfer' 'special' 'stay' 'ask' 'opera' 'molly' 'matanzima'
+ 'revenge' 'pace' 'son' 'word' 'black' 'reach' 'beat']
+0.174
+------------------------Distinctive Topic--------------------------
+['people' 'african' 'anc' 'white' 'government' 'man' 'great' 'father'
+ 'woman' 'chief' 'house' 'state' 'police' 'school' 'south']
+['mandela' 'white' 'anc' 'african' 'government' 'people' 'south' 'court'
+ 'communist' 'africa' 'congress' 'party' 'freedom' 'political' 'school']
+0.03
+------------------------Distinctive Topic--------------------------
+['people' 'african' 'anc' 'white' 'government' 'man' 'great' 'father'
+ 'woman' 'chief' 'house' 'state' 'police' 'school' 'south']
+['daughter' 'mandela' 'huge' 'van' 'reply' 'contain' 'hesitation'
+ 'underground' 'firm' 'seize' 'wealth' 'direction' 'economic' 'teach'
+ 'solve']
+0.052
+------------------------Distinctive Topic--------------------------
+['people' 'african' 'anc' 'white' 'government' 'man' 'great' 'father'
+ 'woman' 'chief' 'house' 'state' 'police' 'school' 'south']
+['lead' 'face' 'near' 'gold' 'session' 'hear' 'continuous' 'churchman'
+ 'union' 'buchar' 'lie' 'fort' 'threat' 'citizen' 'raid']
+0.048
+------------------------Distinctive Topic--------------------------
+['people' 'african' 'anc' 'white' 'government' 'man' 'great' 'father'
+ 'woman' 'chief' 'house' 'state' 'police' 'school' 'south']
+['regulation' 'marriage' 'sunday' 'proceed' 'control' 'postpone'
+ 'particularly' 'rarely' 'willingness' 'desire' 'pray' 'rural' 'discover'
+ 'sense' 'goal']
+0.042
+------------------------Distinctive Topic--------------------------
+['people' 'african' 'anc' 'white' 'government' 'man' 'great' 'father'
+ 'woman' 'chief' 'house' 'state' 'police' 'school' 'south']
+['cachalia' 'transfer' 'special' 'stay' 'ask' 'opera' 'molly' 'matanzima'
+ 'revenge' 'pace' 'son' 'word' 'black' 'reach' 'beat']
+------------------------1960-1966--------------------------
+0.012
+------------------------Distinctive Topic--------------------------
+['winter' 'throw' 'motsoaledi' 'congress' 'sensitive' 'ordinary'
+ 'alliance' 'bury' 'regulation' 'stream' 'camera' 'ability' 'behavior'
+ 'prevail' 'american']
+['harmony' 'terrain' 'tunisia' 'bucket' 'slovo' 'amateur' 'expression'
+ 'bizos' 'employer' 'defence' 'keen' 'hobble' 'commission' 'resident'
+ 'yard']
+0.02
+------------------------Distinctive Topic--------------------------
+['winter' 'throw' 'motsoaledi' 'congress' 'sensitive' 'ordinary'
+ 'alliance' 'bury' 'regulation' 'stream' 'camera' 'ability' 'behavior'
+ 'prevail' 'american']
+['press' 'draft' 'prematurely' 'return' 'lecturer' 'quarter' 'elderly'
+ 'maintain' 'ethiopia' 'centre' 'silently' 'firm' 'organise' 'object'
+ 'paralyse']
+0.02
+------------------------Distinctive Topic--------------------------
+['winter' 'throw' 'motsoaledi' 'congress' 'sensitive' 'ordinary'
+ 'alliance' 'bury' 'regulation' 'stream' 'camera' 'ability' 'behavior'
+ 'prevail' 'american']
+['manage' 'ban' 'peace' 'zindzi' 'demonstration' 'spokesman' 'finish'
+ 'rusty' 'cover' 'training' 'prize' 'wolpe' 'whip' 'pay' 'endanger']
+0.016
+------------------------Distinctive Topic--------------------------
+['winter' 'throw' 'motsoaledi' 'congress' 'sensitive' 'ordinary'
+ 'alliance' 'bury' 'regulation' 'stream' 'camera' 'ability' 'behavior'
+ 'prevail' 'american']
+['support' 'pan' 'view' 'violence' 'breakthrough' 'bergh' 'husband'
+ 'nation' 'confrontation' 'text' 'dismiss' 'adoption' 'privilege' 'play'
+ 'attitude']
+0.022
+------------------------Distinctive Topic--------------------------
+['winter' 'throw' 'motsoaledi' 'congress' 'sensitive' 'ordinary'
+ 'alliance' 'bury' 'regulation' 'stream' 'camera' 'ability' 'behavior'
+ 'prevail' 'american']
+['mandela' 'prisoner' 'government' 'anc' 'police' 'african' 'prison'
+ 'court' 'communist' 'white' 'trial' 'south' 'accuse' 'africa' 'political']
+0.006
+------------------------Distinctive Topic--------------------------
+['swanepoel' 'baby' 'jou' 'forum' 'diet' 'devotion' 'national' 'willing'
+ 'corridor' 'quiet' 'ladysmith' 'cubicle' 'witless' 'stair' 'basner']
+['harmony' 'terrain' 'tunisia' 'bucket' 'slovo' 'amateur' 'expression'
+ 'bizos' 'employer' 'defence' 'keen' 'hobble' 'commission' 'resident'
+ 'yard']
+0.01
+------------------------Distinctive Topic--------------------------
+['swanepoel' 'baby' 'jou' 'forum' 'diet' 'devotion' 'national' 'willing'
+ 'corridor' 'quiet' 'ladysmith' 'cubicle' 'witless' 'stair' 'basner']
+['press' 'draft' 'prematurely' 'return' 'lecturer' 'quarter' 'elderly'
+ 'maintain' 'ethiopia' 'centre' 'silently' 'firm' 'organise' 'object'
+ 'paralyse']
+0.01
+------------------------Distinctive Topic--------------------------
+['swanepoel' 'baby' 'jou' 'forum' 'diet' 'devotion' 'national' 'willing'
+ 'corridor' 'quiet' 'ladysmith' 'cubicle' 'witless' 'stair' 'basner']
+['manage' 'ban' 'peace' 'zindzi' 'demonstration' 'spokesman' 'finish'
+ 'rusty' 'cover' 'training' 'prize' 'wolpe' 'whip' 'pay' 'endanger']
+0.018
+------------------------Distinctive Topic--------------------------
+['swanepoel' 'baby' 'jou' 'forum' 'diet' 'devotion' 'national' 'willing'
+ 'corridor' 'quiet' 'ladysmith' 'cubicle' 'witless' 'stair' 'basner']
+['support' 'pan' 'view' 'violence' 'breakthrough' 'bergh' 'husband'
+ 'nation' 'confrontation' 'text' 'dismiss' 'adoption' 'privilege' 'play'
+ 'attitude']
+0.02
+------------------------Distinctive Topic--------------------------
+['swanepoel' 'baby' 'jou' 'forum' 'diet' 'devotion' 'national' 'willing'
+ 'corridor' 'quiet' 'ladysmith' 'cubicle' 'witless' 'stair' 'basner']
+['mandela' 'prisoner' 'government' 'anc' 'police' 'african' 'prison'
+ 'court' 'communist' 'white' 'trial' 'south' 'accuse' 'africa' 'political']
+0.01
+------------------------Distinctive Topic--------------------------
+['recently' 'swanepoel' 'government' 'blame' 'slow' 'assume' 'document'
+ 'typically' 'govern' 'reason' 'cell' 'publicity' 'constitution'
+ 'newspaper' 'comical']
+['harmony' 'terrain' 'tunisia' 'bucket' 'slovo' 'amateur' 'expression'
+ 'bizos' 'employer' 'defence' 'keen' 'hobble' 'commission' 'resident'
+ 'yard']
+0.016
+------------------------Distinctive Topic--------------------------
+['recently' 'swanepoel' 'government' 'blame' 'slow' 'assume' 'document'
+ 'typically' 'govern' 'reason' 'cell' 'publicity' 'constitution'
+ 'newspaper' 'comical']
+['press' 'draft' 'prematurely' 'return' 'lecturer' 'quarter' 'elderly'
+ 'maintain' 'ethiopia' 'centre' 'silently' 'firm' 'organise' 'object'
+ 'paralyse']
+0.014
+------------------------Distinctive Topic--------------------------
+['recently' 'swanepoel' 'government' 'blame' 'slow' 'assume' 'document'
+ 'typically' 'govern' 'reason' 'cell' 'publicity' 'constitution'
+ 'newspaper' 'comical']
+['manage' 'ban' 'peace' 'zindzi' 'demonstration' 'spokesman' 'finish'
+ 'rusty' 'cover' 'training' 'prize' 'wolpe' 'whip' 'pay' 'endanger']
+0.016
+------------------------Distinctive Topic--------------------------
+['recently' 'swanepoel' 'government' 'blame' 'slow' 'assume' 'document'
+ 'typically' 'govern' 'reason' 'cell' 'publicity' 'constitution'
+ 'newspaper' 'comical']
+['support' 'pan' 'view' 'violence' 'breakthrough' 'bergh' 'husband'
+ 'nation' 'confrontation' 'text' 'dismiss' 'adoption' 'privilege' 'play'
+ 'attitude']
+0.028
+------------------------Distinctive Topic--------------------------
+['recently' 'swanepoel' 'government' 'blame' 'slow' 'assume' 'document'
+ 'typically' 'govern' 'reason' 'cell' 'publicity' 'constitution'
+ 'newspaper' 'comical']
+['mandela' 'prisoner' 'government' 'anc' 'police' 'african' 'prison'
+ 'court' 'communist' 'white' 'trial' 'south' 'accuse' 'africa' 'political']
+0.014
+------------------------Distinctive Topic--------------------------
+['boost' 'essay' 'dangerous' 'boil' 'command' 'mistake' 'goldreich' 'note'
+ 'area' 'testify' 'south' 'wall' 'hurt' 'country' 'mile']
+['harmony' 'terrain' 'tunisia' 'bucket' 'slovo' 'amateur' 'expression'
+ 'bizos' 'employer' 'defence' 'keen' 'hobble' 'commission' 'resident'
+ 'yard']
+0.008
+------------------------Distinctive Topic--------------------------
+['boost' 'essay' 'dangerous' 'boil' 'command' 'mistake' 'goldreich' 'note'
+ 'area' 'testify' 'south' 'wall' 'hurt' 'country' 'mile']
+['press' 'draft' 'prematurely' 'return' 'lecturer' 'quarter' 'elderly'
+ 'maintain' 'ethiopia' 'centre' 'silently' 'firm' 'organise' 'object'
+ 'paralyse']
+0.01
+------------------------Distinctive Topic--------------------------
+['boost' 'essay' 'dangerous' 'boil' 'command' 'mistake' 'goldreich' 'note'
+ 'area' 'testify' 'south' 'wall' 'hurt' 'country' 'mile']
+['manage' 'ban' 'peace' 'zindzi' 'demonstration' 'spokesman' 'finish'
+ 'rusty' 'cover' 'training' 'prize' 'wolpe' 'whip' 'pay' 'endanger']
+0.008
+------------------------Distinctive Topic--------------------------
+['boost' 'essay' 'dangerous' 'boil' 'command' 'mistake' 'goldreich' 'note'
+ 'area' 'testify' 'south' 'wall' 'hurt' 'country' 'mile']
+['support' 'pan' 'view' 'violence' 'breakthrough' 'bergh' 'husband'
+ 'nation' 'confrontation' 'text' 'dismiss' 'adoption' 'privilege' 'play'
+ 'attitude']
+0.03
+------------------------Distinctive Topic--------------------------
+['boost' 'essay' 'dangerous' 'boil' 'command' 'mistake' 'goldreich' 'note'
+ 'area' 'testify' 'south' 'wall' 'hurt' 'country' 'mile']
+['mandela' 'prisoner' 'government' 'anc' 'police' 'african' 'prison'
+ 'court' 'communist' 'white' 'trial' 'south' 'accuse' 'africa' 'political']
+0.014
+------------------------Distinctive Topic--------------------------
+['prison' 'man' 'warder' 'prisoner' 'court' 'african' 'anc' 'people'
+ 'authority' 'white' 'state' 'want' 'cell' 'country' 'case']
+['harmony' 'terrain' 'tunisia' 'bucket' 'slovo' 'amateur' 'expression'
+ 'bizos' 'employer' 'defence' 'keen' 'hobble' 'commission' 'resident'
+ 'yard']
+0.024
+------------------------Distinctive Topic--------------------------
+['prison' 'man' 'warder' 'prisoner' 'court' 'african' 'anc' 'people'
+ 'authority' 'white' 'state' 'want' 'cell' 'country' 'case']
+['press' 'draft' 'prematurely' 'return' 'lecturer' 'quarter' 'elderly'
+ 'maintain' 'ethiopia' 'centre' 'silently' 'firm' 'organise' 'object'
+ 'paralyse']
+0.034
+------------------------Distinctive Topic--------------------------
+['prison' 'man' 'warder' 'prisoner' 'court' 'african' 'anc' 'people'
+ 'authority' 'white' 'state' 'want' 'cell' 'country' 'case']
+['manage' 'ban' 'peace' 'zindzi' 'demonstration' 'spokesman' 'finish'
+ 'rusty' 'cover' 'training' 'prize' 'wolpe' 'whip' 'pay' 'endanger']
+0.026
+------------------------Distinctive Topic--------------------------
+['prison' 'man' 'warder' 'prisoner' 'court' 'african' 'anc' 'people'
+ 'authority' 'white' 'state' 'want' 'cell' 'country' 'case']
+['support' 'pan' 'view' 'violence' 'breakthrough' 'bergh' 'husband'
+ 'nation' 'confrontation' 'text' 'dismiss' 'adoption' 'privilege' 'play'
+ 'attitude']
+0.184
+------------------------Distinctive Topic--------------------------
+['prison' 'man' 'warder' 'prisoner' 'court' 'african' 'anc' 'people'
+ 'authority' 'white' 'state' 'want' 'cell' 'country' 'case']
+['mandela' 'prisoner' 'government' 'anc' 'police' 'african' 'prison'
+ 'court' 'communist' 'white' 'trial' 'south' 'accuse' 'africa' 'political']
+------------------------1967-1973--------------------------
+0.032
+------------------------Distinctive Topic--------------------------
+['christmas' 'soldier' 'training' 'hole' 'mabel' 'communicate' 'wise'
+ 'creon' 'write' 'lose' 'immediately' 'rocky' 'regard' 'kidnap' 'glean']
+['pac' 'man' 'relative' 'difficult' 'old' 'marriage' 'trade' 'hardly'
+ 'photo' 'weep' 'spread' 'accompany' 'alternative' 'policy' 'future']
+0.02
+------------------------Distinctive Topic--------------------------
+['christmas' 'soldier' 'training' 'hole' 'mabel' 'communicate' 'wise'
+ 'creon' 'write' 'lose' 'immediately' 'rocky' 'regard' 'kidnap' 'glean']
+['threaten' 'condition' 'minister' 'national' 'political' 'persuade'
+ 'accept' 'window' 'away' 'mother' 'periodical' 'blow' 'detain' 'make'
+ 'decide']
+0.028
+------------------------Distinctive Topic--------------------------
+['christmas' 'soldier' 'training' 'hole' 'mabel' 'communicate' 'wise'
+ 'creon' 'write' 'lose' 'immediately' 'rocky' 'regard' 'kidnap' 'glean']
+['prevent' 'school' 'transkei' 'lead' 'middle' 'behaviour' 'generation'
+ 'entitle' 'policy' 'investor' 'read' 'foot' 'security' 'bedroom' 'help']
+0.02
+------------------------Distinctive Topic--------------------------
+['christmas' 'soldier' 'training' 'hole' 'mabel' 'communicate' 'wise'
+ 'creon' 'write' 'lose' 'immediately' 'rocky' 'regard' 'kidnap' 'glean']
+['court' 'early' 'clean' 'broken' 'distance' 'flare' 'mandate' 'african'
+ 'censorship' 'care' 'basis' 'ban' 'withdraw' 'politic' 'newspaper']
+0.042
+------------------------Distinctive Topic--------------------------
+['christmas' 'soldier' 'training' 'hole' 'mabel' 'communicate' 'wise'
+ 'creon' 'write' 'lose' 'immediately' 'rocky' 'regard' 'kidnap' 'glean']
+['mandela' 'black' 'winnie' 'white' 'prison' 'prisoner' 'government'
+ 'african' 'police' 'island' 'south' 'robben' 'homeland' 'area' 'visit']
+0.042
+------------------------Distinctive Topic--------------------------
+['minister' 'prison' 'doctor' 'circumstance' 'old' 'watch' 'talk' 'winnie'
+ 'representative' 'act' 'regard' 'obviously' 'toivo' 'neville' 'ja']
+['pac' 'man' 'relative' 'difficult' 'old' 'marriage' 'trade' 'hardly'
+ 'photo' 'weep' 'spread' 'accompany' 'alternative' 'policy' 'future']
+0.028
+------------------------Distinctive Topic--------------------------
+['minister' 'prison' 'doctor' 'circumstance' 'old' 'watch' 'talk' 'winnie'
+ 'representative' 'act' 'regard' 'obviously' 'toivo' 'neville' 'ja']
+['threaten' 'condition' 'minister' 'national' 'political' 'persuade'
+ 'accept' 'window' 'away' 'mother' 'periodical' 'blow' 'detain' 'make'
+ 'decide']
+0.03
+------------------------Distinctive Topic--------------------------
+['minister' 'prison' 'doctor' 'circumstance' 'old' 'watch' 'talk' 'winnie'
+ 'representative' 'act' 'regard' 'obviously' 'toivo' 'neville' 'ja']
+['prevent' 'school' 'transkei' 'lead' 'middle' 'behaviour' 'generation'
+ 'entitle' 'policy' 'investor' 'read' 'foot' 'security' 'bedroom' 'help']
+0.022
+------------------------Distinctive Topic--------------------------
+['minister' 'prison' 'doctor' 'circumstance' 'old' 'watch' 'talk' 'winnie'
+ 'representative' 'act' 'regard' 'obviously' 'toivo' 'neville' 'ja']
+['court' 'early' 'clean' 'broken' 'distance' 'flare' 'mandate' 'african'
+ 'censorship' 'care' 'basis' 'ban' 'withdraw' 'politic' 'newspaper']
+0.062
+------------------------Distinctive Topic--------------------------
+['minister' 'prison' 'doctor' 'circumstance' 'old' 'watch' 'talk' 'winnie'
+ 'representative' 'act' 'regard' 'obviously' 'toivo' 'neville' 'ja']
+['mandela' 'black' 'winnie' 'white' 'prison' 'prisoner' 'government'
+ 'african' 'police' 'island' 'south' 'robben' 'homeland' 'area' 'visit']
+0.042
+------------------------Distinctive Topic--------------------------
+['man' 'island' 'badenhorst' 'anc' 'warder' 'people' 'pac' 'prison'
+ 'prisoner' 'member' 'play' 'authority' 'officer' 'meeting' 'general']
+['pac' 'man' 'relative' 'difficult' 'old' 'marriage' 'trade' 'hardly'
+ 'photo' 'weep' 'spread' 'accompany' 'alternative' 'policy' 'future']
+0.05
+------------------------Distinctive Topic--------------------------
+['man' 'island' 'badenhorst' 'anc' 'warder' 'people' 'pac' 'prison'
+ 'prisoner' 'member' 'play' 'authority' 'officer' 'meeting' 'general']
+['threaten' 'condition' 'minister' 'national' 'political' 'persuade'
+ 'accept' 'window' 'away' 'mother' 'periodical' 'blow' 'detain' 'make'
+ 'decide']
+0.042
+------------------------Distinctive Topic--------------------------
+['man' 'island' 'badenhorst' 'anc' 'warder' 'people' 'pac' 'prison'
+ 'prisoner' 'member' 'play' 'authority' 'officer' 'meeting' 'general']
+['prevent' 'school' 'transkei' 'lead' 'middle' 'behaviour' 'generation'
+ 'entitle' 'policy' 'investor' 'read' 'foot' 'security' 'bedroom' 'help']
+0.046
+------------------------Distinctive Topic--------------------------
+['man' 'island' 'badenhorst' 'anc' 'warder' 'people' 'pac' 'prison'
+ 'prisoner' 'member' 'play' 'authority' 'officer' 'meeting' 'general']
+['court' 'early' 'clean' 'broken' 'distance' 'flare' 'mandate' 'african'
+ 'censorship' 'care' 'basis' 'ban' 'withdraw' 'politic' 'newspaper']
+0.142
+------------------------Distinctive Topic--------------------------
+['man' 'island' 'badenhorst' 'anc' 'warder' 'people' 'pac' 'prison'
+ 'prisoner' 'member' 'play' 'authority' 'officer' 'meeting' 'general']
+['mandela' 'black' 'winnie' 'white' 'prison' 'prisoner' 'government'
+ 'african' 'police' 'island' 'south' 'robben' 'homeland' 'area' 'visit']
+0.028
+------------------------Distinctive Topic--------------------------
+['discover' 'long' 'rise' 'english' 'open' 'run' 'democratic' 'truck'
+ 'prisoner' 'detain' 'examine' 'alexander' 'choose' 'treatment' 'telegram']
+['pac' 'man' 'relative' 'difficult' 'old' 'marriage' 'trade' 'hardly'
+ 'photo' 'weep' 'spread' 'accompany' 'alternative' 'policy' 'future']
+0.024
+------------------------Distinctive Topic--------------------------
+['discover' 'long' 'rise' 'english' 'open' 'run' 'democratic' 'truck'
+ 'prisoner' 'detain' 'examine' 'alexander' 'choose' 'treatment' 'telegram']
+['threaten' 'condition' 'minister' 'national' 'political' 'persuade'
+ 'accept' 'window' 'away' 'mother' 'periodical' 'blow' 'detain' 'make'
+ 'decide']
+0.024
+------------------------Distinctive Topic--------------------------
+['discover' 'long' 'rise' 'english' 'open' 'run' 'democratic' 'truck'
+ 'prisoner' 'detain' 'examine' 'alexander' 'choose' 'treatment' 'telegram']
+['prevent' 'school' 'transkei' 'lead' 'middle' 'behaviour' 'generation'
+ 'entitle' 'policy' 'investor' 'read' 'foot' 'security' 'bedroom' 'help']
+0.042
+------------------------Distinctive Topic--------------------------
+['discover' 'long' 'rise' 'english' 'open' 'run' 'democratic' 'truck'
+ 'prisoner' 'detain' 'examine' 'alexander' 'choose' 'treatment' 'telegram']
+['court' 'early' 'clean' 'broken' 'distance' 'flare' 'mandate' 'african'
+ 'censorship' 'care' 'basis' 'ban' 'withdraw' 'politic' 'newspaper']
+0.05
+------------------------Distinctive Topic--------------------------
+['discover' 'long' 'rise' 'english' 'open' 'run' 'democratic' 'truck'
+ 'prisoner' 'detain' 'examine' 'alexander' 'choose' 'treatment' 'telegram']
+['mandela' 'black' 'winnie' 'white' 'prison' 'prisoner' 'government'
+ 'african' 'police' 'island' 'south' 'robben' 'homeland' 'area' 'visit']
+0.03
+------------------------Distinctive Topic--------------------------
+['heel' 'late' 'pass' 'plan' 'colleague' 'result' 'unity' 'receive'
+ 'right' 'meet' 'explain' 'justice' 'religion' 'bar' 'command']
+['pac' 'man' 'relative' 'difficult' 'old' 'marriage' 'trade' 'hardly'
+ 'photo' 'weep' 'spread' 'accompany' 'alternative' 'policy' 'future']
+0.022
+------------------------Distinctive Topic--------------------------
+['heel' 'late' 'pass' 'plan' 'colleague' 'result' 'unity' 'receive'
+ 'right' 'meet' 'explain' 'justice' 'religion' 'bar' 'command']
+['threaten' 'condition' 'minister' 'national' 'political' 'persuade'
+ 'accept' 'window' 'away' 'mother' 'periodical' 'blow' 'detain' 'make'
+ 'decide']
+0.018
+------------------------Distinctive Topic--------------------------
+['heel' 'late' 'pass' 'plan' 'colleague' 'result' 'unity' 'receive'
+ 'right' 'meet' 'explain' 'justice' 'religion' 'bar' 'command']
+['prevent' 'school' 'transkei' 'lead' 'middle' 'behaviour' 'generation'
+ 'entitle' 'policy' 'investor' 'read' 'foot' 'security' 'bedroom' 'help']
+0.024
+------------------------Distinctive Topic--------------------------
+['heel' 'late' 'pass' 'plan' 'colleague' 'result' 'unity' 'receive'
+ 'right' 'meet' 'explain' 'justice' 'religion' 'bar' 'command']
+['court' 'early' 'clean' 'broken' 'distance' 'flare' 'mandate' 'african'
+ 'censorship' 'care' 'basis' 'ban' 'withdraw' 'politic' 'newspaper']
+0.052
+------------------------Distinctive Topic--------------------------
+['heel' 'late' 'pass' 'plan' 'colleague' 'result' 'unity' 'receive'
+ 'right' 'meet' 'explain' 'justice' 'religion' 'bar' 'command']
+['mandela' 'black' 'winnie' 'white' 'prison' 'prisoner' 'government'
+ 'african' 'police' 'island' 'south' 'robben' 'homeland' 'area' 'visit']
+------------------------1974-1980--------------------------
+0.0
+------------------------Distinctive Topic--------------------------
+['man' 'prison' 'authority' 'young' 'island' 'winnie' 'prisoner'
+ 'manuscript' 'zindzi' 'people' 'write' 'anc' 'turn' 'mac' 'old']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['man' 'prison' 'authority' 'young' 'island' 'winnie' 'prisoner'
+ 'manuscript' 'zindzi' 'people' 'write' 'anc' 'turn' 'mac' 'old']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['man' 'prison' 'authority' 'young' 'island' 'winnie' 'prisoner'
+ 'manuscript' 'zindzi' 'people' 'write' 'anc' 'turn' 'mac' 'old']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['man' 'prison' 'authority' 'young' 'island' 'winnie' 'prisoner'
+ 'manuscript' 'zindzi' 'people' 'write' 'anc' 'turn' 'mac' 'old']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['man' 'prison' 'authority' 'young' 'island' 'winnie' 'prisoner'
+ 'manuscript' 'zindzi' 'people' 'write' 'anc' 'turn' 'mac' 'old']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['black' 'prisoner' 'soil' 'away' 'traditional' 'create' 'wash' 'note'
+ 'general' 'child' 'let' 'miss' 'cross' 'relate' 'letter']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['black' 'prisoner' 'soil' 'away' 'traditional' 'create' 'wash' 'note'
+ 'general' 'child' 'let' 'miss' 'cross' 'relate' 'letter']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['black' 'prisoner' 'soil' 'away' 'traditional' 'create' 'wash' 'note'
+ 'general' 'child' 'let' 'miss' 'cross' 'relate' 'letter']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['black' 'prisoner' 'soil' 'away' 'traditional' 'create' 'wash' 'note'
+ 'general' 'child' 'let' 'miss' 'cross' 'relate' 'letter']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['black' 'prisoner' 'soil' 'away' 'traditional' 'create' 'wash' 'note'
+ 'general' 'child' 'let' 'miss' 'cross' 'relate' 'letter']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['permit' 'set' 'photograph' 'communist' 'appear' 'group' 'confirm' 'tend'
+ 'key' 'manuscript' 'greet' 'radio' 'young' 'terror' 'reach']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['permit' 'set' 'photograph' 'communist' 'appear' 'group' 'confirm' 'tend'
+ 'key' 'manuscript' 'greet' 'radio' 'young' 'terror' 'reach']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['permit' 'set' 'photograph' 'communist' 'appear' 'group' 'confirm' 'tend'
+ 'key' 'manuscript' 'greet' 'radio' 'young' 'terror' 'reach']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['permit' 'set' 'photograph' 'communist' 'appear' 'group' 'confirm' 'tend'
+ 'key' 'manuscript' 'greet' 'radio' 'young' 'terror' 'reach']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['permit' 'set' 'photograph' 'communist' 'appear' 'group' 'confirm' 'tend'
+ 'key' 'manuscript' 'greet' 'radio' 'young' 'terror' 'reach']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['require' 'walter' 'son' 'support' 'condition' 'dispose' 'strike' 'clear'
+ 'trench' 'youth' 'number' 'document' 'garden' 'consulting' 'statement']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['require' 'walter' 'son' 'support' 'condition' 'dispose' 'strike' 'clear'
+ 'trench' 'youth' 'number' 'document' 'garden' 'consulting' 'statement']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['require' 'walter' 'son' 'support' 'condition' 'dispose' 'strike' 'clear'
+ 'trench' 'youth' 'number' 'document' 'garden' 'consulting' 'statement']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['require' 'walter' 'son' 'support' 'condition' 'dispose' 'strike' 'clear'
+ 'trench' 'youth' 'number' 'document' 'garden' 'consulting' 'statement']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['require' 'walter' 'son' 'support' 'condition' 'dispose' 'strike' 'clear'
+ 'trench' 'youth' 'number' 'document' 'garden' 'consulting' 'statement']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['long' 'protest' 'sound' 'johannesburg' 'angel' 'information' 'age'
+ 'meaning' 'cell' 'warder' 'mac' 'drop' 'attempt' 'garden' 'embrace']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['long' 'protest' 'sound' 'johannesburg' 'angel' 'information' 'age'
+ 'meaning' 'cell' 'warder' 'mac' 'drop' 'attempt' 'garden' 'embrace']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['long' 'protest' 'sound' 'johannesburg' 'angel' 'information' 'age'
+ 'meaning' 'cell' 'warder' 'mac' 'drop' 'attempt' 'garden' 'embrace']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['long' 'protest' 'sound' 'johannesburg' 'angel' 'information' 'age'
+ 'meaning' 'cell' 'warder' 'mac' 'drop' 'attempt' 'garden' 'embrace']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['long' 'protest' 'sound' 'johannesburg' 'angel' 'information' 'age'
+ 'meaning' 'cell' 'warder' 'mac' 'drop' 'attempt' 'garden' 'embrace']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+------------------------1981-1987--------------------------
+0.068
+------------------------Distinctive Topic--------------------------
+['visit' 'shake' 'treatment' 'resolve' 'involve' 'renounce' 'concrete'
+ 'return' 'johannesburg' 'world' 'information' 'car' 'sell' 'authority'
+ 'govern']
+['mandela' 'government' 'botha' 'south' 'anc' 'white' 'africa' 'black'
+ 'prison' 'coetsee' 'african' 'talk' 'group' 'political' 'meeting']
+0.028
+------------------------Distinctive Topic--------------------------
+['visit' 'shake' 'treatment' 'resolve' 'involve' 'renounce' 'concrete'
+ 'return' 'johannesburg' 'world' 'information' 'car' 'sell' 'authority'
+ 'govern']
+['quarter' 'town' 'war' 'look' 'apartheid' 'constitution' 'cycle' 'cast'
+ 'reform' 'blue' 'garden' 'security' 'defy' 'condemnation' 'vegetable']
+0.028
+------------------------Distinctive Topic--------------------------
+['visit' 'shake' 'treatment' 'resolve' 'involve' 'renounce' 'concrete'
+ 'return' 'johannesburg' 'world' 'information' 'car' 'sell' 'authority'
+ 'govern']
+['lead' 'south' 'states' 'command' 'commitment' 'renounce' 'cut' 'radical'
+ 'community' 'firm' 'room' 'abroad' 'popular' 'mission' 'economy']
+0.034
+------------------------Distinctive Topic--------------------------
+['visit' 'shake' 'treatment' 'resolve' 'involve' 'renounce' 'concrete'
+ 'return' 'johannesburg' 'world' 'information' 'car' 'sell' 'authority'
+ 'govern']
+['office' 'order' 'onslaught' 'talk' 'matter' 'half' 'coloured'
+ 'principle' 'sign' 'area' 'anti' 'commonwealth' 'old' 'major' 'gregory']
+0.028
+------------------------Distinctive Topic--------------------------
+['visit' 'shake' 'treatment' 'resolve' 'involve' 'renounce' 'concrete'
+ 'return' 'johannesburg' 'world' 'information' 'car' 'sell' 'authority'
+ 'govern']
+['bank' 'opinion' 'defend' 'politic' 'shoe' 'surround' 'degree'
+ 'concerned' 'journey' 'prime' 'concrete' 'equally' 'political' 'target'
+ 'watch']
+0.16
+------------------------Distinctive Topic--------------------------
+['government' 'visit' 'prison' 'anc' 'want' 'talk' 'man' 'south'
+ 'pollsmoor' 'coetsee' 'winnie' 'prisoner' 'people' 'freedom' 'island']
+['mandela' 'government' 'botha' 'south' 'anc' 'white' 'africa' 'black'
+ 'prison' 'coetsee' 'african' 'talk' 'group' 'political' 'meeting']
+0.052
+------------------------Distinctive Topic--------------------------
+['government' 'visit' 'prison' 'anc' 'want' 'talk' 'man' 'south'
+ 'pollsmoor' 'coetsee' 'winnie' 'prisoner' 'people' 'freedom' 'island']
+['quarter' 'town' 'war' 'look' 'apartheid' 'constitution' 'cycle' 'cast'
+ 'reform' 'blue' 'garden' 'security' 'defy' 'condemnation' 'vegetable']
+0.056
+------------------------Distinctive Topic--------------------------
+['government' 'visit' 'prison' 'anc' 'want' 'talk' 'man' 'south'
+ 'pollsmoor' 'coetsee' 'winnie' 'prisoner' 'people' 'freedom' 'island']
+['lead' 'south' 'states' 'command' 'commitment' 'renounce' 'cut' 'radical'
+ 'community' 'firm' 'room' 'abroad' 'popular' 'mission' 'economy']
+0.058
+------------------------Distinctive Topic--------------------------
+['government' 'visit' 'prison' 'anc' 'want' 'talk' 'man' 'south'
+ 'pollsmoor' 'coetsee' 'winnie' 'prisoner' 'people' 'freedom' 'island']
+['office' 'order' 'onslaught' 'talk' 'matter' 'half' 'coloured'
+ 'principle' 'sign' 'area' 'anti' 'commonwealth' 'old' 'major' 'gregory']
+0.062
+------------------------Distinctive Topic--------------------------
+['government' 'visit' 'prison' 'anc' 'want' 'talk' 'man' 'south'
+ 'pollsmoor' 'coetsee' 'winnie' 'prisoner' 'people' 'freedom' 'island']
+['bank' 'opinion' 'defend' 'politic' 'shoe' 'surround' 'degree'
+ 'concerned' 'journey' 'prime' 'concrete' 'equally' 'political' 'target'
+ 'watch']
+0.072
+------------------------Distinctive Topic--------------------------
+['opportunity' 'stand' 'cherish' 'open' 'conservative' 'attempt' 'discuss'
+ 'advise' 'sound' 'mention' 'radio' 'sense' 'session' 'half' 'person']
+['mandela' 'government' 'botha' 'south' 'anc' 'white' 'africa' 'black'
+ 'prison' 'coetsee' 'african' 'talk' 'group' 'political' 'meeting']
+0.034
+------------------------Distinctive Topic--------------------------
+['opportunity' 'stand' 'cherish' 'open' 'conservative' 'attempt' 'discuss'
+ 'advise' 'sound' 'mention' 'radio' 'sense' 'session' 'half' 'person']
+['quarter' 'town' 'war' 'look' 'apartheid' 'constitution' 'cycle' 'cast'
+ 'reform' 'blue' 'garden' 'security' 'defy' 'condemnation' 'vegetable']
+0.028
+------------------------Distinctive Topic--------------------------
+['opportunity' 'stand' 'cherish' 'open' 'conservative' 'attempt' 'discuss'
+ 'advise' 'sound' 'mention' 'radio' 'sense' 'session' 'half' 'person']
+['lead' 'south' 'states' 'command' 'commitment' 'renounce' 'cut' 'radical'
+ 'community' 'firm' 'room' 'abroad' 'popular' 'mission' 'economy']
+0.024
+------------------------Distinctive Topic--------------------------
+['opportunity' 'stand' 'cherish' 'open' 'conservative' 'attempt' 'discuss'
+ 'advise' 'sound' 'mention' 'radio' 'sense' 'session' 'half' 'person']
+['office' 'order' 'onslaught' 'talk' 'matter' 'half' 'coloured'
+ 'principle' 'sign' 'area' 'anti' 'commonwealth' 'old' 'major' 'gregory']
+0.024
+------------------------Distinctive Topic--------------------------
+['opportunity' 'stand' 'cherish' 'open' 'conservative' 'attempt' 'discuss'
+ 'advise' 'sound' 'mention' 'radio' 'sense' 'session' 'half' 'person']
+['bank' 'opinion' 'defend' 'politic' 'shoe' 'surround' 'degree'
+ 'concerned' 'journey' 'prime' 'concrete' 'equally' 'political' 'target'
+ 'watch']
+0.062
+------------------------Distinctive Topic--------------------------
+['die' 'far' 'memorandum' 'place' 'usual' 'toe' 'kind' 'mail' 'speak'
+ 'include' 'examination' 'foot' 'anc' 'national' 'visitor']
+['mandela' 'government' 'botha' 'south' 'anc' 'white' 'africa' 'black'
+ 'prison' 'coetsee' 'african' 'talk' 'group' 'political' 'meeting']
+0.03
+------------------------Distinctive Topic--------------------------
+['die' 'far' 'memorandum' 'place' 'usual' 'toe' 'kind' 'mail' 'speak'
+ 'include' 'examination' 'foot' 'anc' 'national' 'visitor']
+['quarter' 'town' 'war' 'look' 'apartheid' 'constitution' 'cycle' 'cast'
+ 'reform' 'blue' 'garden' 'security' 'defy' 'condemnation' 'vegetable']
+0.02
+------------------------Distinctive Topic--------------------------
+['die' 'far' 'memorandum' 'place' 'usual' 'toe' 'kind' 'mail' 'speak'
+ 'include' 'examination' 'foot' 'anc' 'national' 'visitor']
+['lead' 'south' 'states' 'command' 'commitment' 'renounce' 'cut' 'radical'
+ 'community' 'firm' 'room' 'abroad' 'popular' 'mission' 'economy']
+0.02
+------------------------Distinctive Topic--------------------------
+['die' 'far' 'memorandum' 'place' 'usual' 'toe' 'kind' 'mail' 'speak'
+ 'include' 'examination' 'foot' 'anc' 'national' 'visitor']
+['office' 'order' 'onslaught' 'talk' 'matter' 'half' 'coloured'
+ 'principle' 'sign' 'area' 'anti' 'commonwealth' 'old' 'major' 'gregory']
+0.022
+------------------------Distinctive Topic--------------------------
+['die' 'far' 'memorandum' 'place' 'usual' 'toe' 'kind' 'mail' 'speak'
+ 'include' 'examination' 'foot' 'anc' 'national' 'visitor']
+['bank' 'opinion' 'defend' 'politic' 'shoe' 'surround' 'degree'
+ 'concerned' 'journey' 'prime' 'concrete' 'equally' 'political' 'target'
+ 'watch']
+0.066
+------------------------Distinctive Topic--------------------------
+['path' 'command' 'law' 'government' 'lay' 'struggle' 'agree' 'discover'
+ 'drive' 'run' 'contact' 'communicate' 'resent' 'justify' 'prize']
+['mandela' 'government' 'botha' 'south' 'anc' 'white' 'africa' 'black'
+ 'prison' 'coetsee' 'african' 'talk' 'group' 'political' 'meeting']
+0.032
+------------------------Distinctive Topic--------------------------
+['path' 'command' 'law' 'government' 'lay' 'struggle' 'agree' 'discover'
+ 'drive' 'run' 'contact' 'communicate' 'resent' 'justify' 'prize']
+['quarter' 'town' 'war' 'look' 'apartheid' 'constitution' 'cycle' 'cast'
+ 'reform' 'blue' 'garden' 'security' 'defy' 'condemnation' 'vegetable']
+0.024
+------------------------Distinctive Topic--------------------------
+['path' 'command' 'law' 'government' 'lay' 'struggle' 'agree' 'discover'
+ 'drive' 'run' 'contact' 'communicate' 'resent' 'justify' 'prize']
+['lead' 'south' 'states' 'command' 'commitment' 'renounce' 'cut' 'radical'
+ 'community' 'firm' 'room' 'abroad' 'popular' 'mission' 'economy']
+0.02
+------------------------Distinctive Topic--------------------------
+['path' 'command' 'law' 'government' 'lay' 'struggle' 'agree' 'discover'
+ 'drive' 'run' 'contact' 'communicate' 'resent' 'justify' 'prize']
+['office' 'order' 'onslaught' 'talk' 'matter' 'half' 'coloured'
+ 'principle' 'sign' 'area' 'anti' 'commonwealth' 'old' 'major' 'gregory']
+0.02
+------------------------Distinctive Topic--------------------------
+['path' 'command' 'law' 'government' 'lay' 'struggle' 'agree' 'discover'
+ 'drive' 'run' 'contact' 'communicate' 'resent' 'justify' 'prize']
+['bank' 'opinion' 'defend' 'politic' 'shoe' 'surround' 'degree'
+ 'concerned' 'journey' 'prime' 'concrete' 'equally' 'political' 'target'
+ 'watch']
+------------------------1988-1994--------------------------
+0.024
+------------------------Distinctive Topic--------------------------
+['reward' 'cheer' 'dish' 'pac' 'kathrada' 'make' 'recognize' 'grisly'
+ 'disclose' 'step' 'tuynhuy' 'service' 'nelson' 'school' 'extraordinary']
+['pretend' 'ridicule' 'standing' 'sign' 'contentious' 'internal'
+ 'knowledge' 'learn' 'consequence' 'outright' 'intimacy' 'admiration'
+ 'treble' 'usually' 'storm']
+0.018
+------------------------Distinctive Topic--------------------------
+['reward' 'cheer' 'dish' 'pac' 'kathrada' 'make' 'recognize' 'grisly'
+ 'disclose' 'step' 'tuynhuy' 'service' 'nelson' 'school' 'extraordinary']
+['quickly' 'nervous' 'slogan' 'circulate' 'cup' 'falati' 'kasril' 'bother'
+ 'count' 'window' 'constand' 'gun' 'observe' 'assert' 'carlton']
+0.03
+------------------------Distinctive Topic--------------------------
+['reward' 'cheer' 'dish' 'pac' 'kathrada' 'make' 'recognize' 'grisly'
+ 'disclose' 'step' 'tuynhuy' 'service' 'nelson' 'school' 'extraordinary']
+['mandela' 'anc' 'klerk' 'winnie' 'government' 'white' 'south' 'party'
+ 'africa' 'buthelezi' 'national' 'black' 'political' 'police' 'people']
+0.02
+------------------------Distinctive Topic--------------------------
+['reward' 'cheer' 'dish' 'pac' 'kathrada' 'make' 'recognize' 'grisly'
+ 'disclose' 'step' 'tuynhuy' 'service' 'nelson' 'school' 'extraordinary']
+['different' 'aid' 'hang' 'district' 'negotiation' 'unbanne'
+ 'privatisation' 'nation' 'seriously' 'song' 'account' 'mark' 'complicity'
+ 'ankle' 'railway']
+0.012
+------------------------Distinctive Topic--------------------------
+['reward' 'cheer' 'dish' 'pac' 'kathrada' 'make' 'recognize' 'grisly'
+ 'disclose' 'step' 'tuynhuy' 'service' 'nelson' 'school' 'extraordinary']
+['passage' 'bad' 'commander' 'fully' 'coetzee' 'asset' 'outburst' 'poorly'
+ 'george' 'difficulty' 'potchefstroom' 'enthusiasm' 'spend' 'generation'
+ 'burden']
+0.02
+------------------------Distinctive Topic--------------------------
+['reach' 'arrest' 'hear' 'half' 'difficult' 'ban' 'reject' 'van'
+ 'convention' 'vista' 'outdid' 'southwest' 'poster' 'consent' 'final']
+['pretend' 'ridicule' 'standing' 'sign' 'contentious' 'internal'
+ 'knowledge' 'learn' 'consequence' 'outright' 'intimacy' 'admiration'
+ 'treble' 'usually' 'storm']
+0.022
+------------------------Distinctive Topic--------------------------
+['reach' 'arrest' 'hear' 'half' 'difficult' 'ban' 'reject' 'van'
+ 'convention' 'vista' 'outdid' 'southwest' 'poster' 'consent' 'final']
+['quickly' 'nervous' 'slogan' 'circulate' 'cup' 'falati' 'kasril' 'bother'
+ 'count' 'window' 'constand' 'gun' 'observe' 'assert' 'carlton']
+0.024
+------------------------Distinctive Topic--------------------------
+['reach' 'arrest' 'hear' 'half' 'difficult' 'ban' 'reject' 'van'
+ 'convention' 'vista' 'outdid' 'southwest' 'poster' 'consent' 'final']
+['mandela' 'anc' 'klerk' 'winnie' 'government' 'white' 'south' 'party'
+ 'africa' 'buthelezi' 'national' 'black' 'political' 'police' 'people']
+0.02
+------------------------Distinctive Topic--------------------------
+['reach' 'arrest' 'hear' 'half' 'difficult' 'ban' 'reject' 'van'
+ 'convention' 'vista' 'outdid' 'southwest' 'poster' 'consent' 'final']
+['different' 'aid' 'hang' 'district' 'negotiation' 'unbanne'
+ 'privatisation' 'nation' 'seriously' 'song' 'account' 'mark' 'complicity'
+ 'ankle' 'railway']
+0.022
+------------------------Distinctive Topic--------------------------
+['reach' 'arrest' 'hear' 'half' 'difficult' 'ban' 'reject' 'van'
+ 'convention' 'vista' 'outdid' 'southwest' 'poster' 'consent' 'final']
+['passage' 'bad' 'commander' 'fully' 'coetzee' 'asset' 'outburst' 'poorly'
+ 'george' 'difficulty' 'potchefstroom' 'enthusiasm' 'spend' 'generation'
+ 'burden']
+0.032
+------------------------Distinctive Topic--------------------------
+['anc' 'government' 'people' 'klerk' 'south' 'man' 'party' 'africa'
+ 'negotiation' 'national' 'white' 'meeting' 'talk' 'freedom' 'country']
+['pretend' 'ridicule' 'standing' 'sign' 'contentious' 'internal'
+ 'knowledge' 'learn' 'consequence' 'outright' 'intimacy' 'admiration'
+ 'treble' 'usually' 'storm']
+0.022
+------------------------Distinctive Topic--------------------------
+['anc' 'government' 'people' 'klerk' 'south' 'man' 'party' 'africa'
+ 'negotiation' 'national' 'white' 'meeting' 'talk' 'freedom' 'country']
+['quickly' 'nervous' 'slogan' 'circulate' 'cup' 'falati' 'kasril' 'bother'
+ 'count' 'window' 'constand' 'gun' 'observe' 'assert' 'carlton']
+0.188
+------------------------Distinctive Topic--------------------------
+['anc' 'government' 'people' 'klerk' 'south' 'man' 'party' 'africa'
+ 'negotiation' 'national' 'white' 'meeting' 'talk' 'freedom' 'country']
+['mandela' 'anc' 'klerk' 'winnie' 'government' 'white' 'south' 'party'
+ 'africa' 'buthelezi' 'national' 'black' 'political' 'police' 'people']
+0.03
+------------------------Distinctive Topic--------------------------
+['anc' 'government' 'people' 'klerk' 'south' 'man' 'party' 'africa'
+ 'negotiation' 'national' 'white' 'meeting' 'talk' 'freedom' 'country']
+['different' 'aid' 'hang' 'district' 'negotiation' 'unbanne'
+ 'privatisation' 'nation' 'seriously' 'song' 'account' 'mark' 'complicity'
+ 'ankle' 'railway']
+0.028
+------------------------Distinctive Topic--------------------------
+['anc' 'government' 'people' 'klerk' 'south' 'man' 'party' 'africa'
+ 'negotiation' 'national' 'white' 'meeting' 'talk' 'freedom' 'country']
+['passage' 'bad' 'commander' 'fully' 'coetzee' 'asset' 'outburst' 'poorly'
+ 'george' 'difficulty' 'potchefstroom' 'enthusiasm' 'spend' 'generation'
+ 'burden']
+0.028
+------------------------Distinctive Topic--------------------------
+['bisho' 'british' 'veto' 'watch' 'turn' 'cook' 'reiterate' 'hare' 'crime'
+ 'glass' 'race' 'team' 'deadline' 'dozen' 'warrant']
+['pretend' 'ridicule' 'standing' 'sign' 'contentious' 'internal'
+ 'knowledge' 'learn' 'consequence' 'outright' 'intimacy' 'admiration'
+ 'treble' 'usually' 'storm']
+0.014
+------------------------Distinctive Topic--------------------------
+['bisho' 'british' 'veto' 'watch' 'turn' 'cook' 'reiterate' 'hare' 'crime'
+ 'glass' 'race' 'team' 'deadline' 'dozen' 'warrant']
+['quickly' 'nervous' 'slogan' 'circulate' 'cup' 'falati' 'kasril' 'bother'
+ 'count' 'window' 'constand' 'gun' 'observe' 'assert' 'carlton']
+0.022
+------------------------Distinctive Topic--------------------------
+['bisho' 'british' 'veto' 'watch' 'turn' 'cook' 'reiterate' 'hare' 'crime'
+ 'glass' 'race' 'team' 'deadline' 'dozen' 'warrant']
+['mandela' 'anc' 'klerk' 'winnie' 'government' 'white' 'south' 'party'
+ 'africa' 'buthelezi' 'national' 'black' 'political' 'police' 'people']
+0.012
+------------------------Distinctive Topic--------------------------
+['bisho' 'british' 'veto' 'watch' 'turn' 'cook' 'reiterate' 'hare' 'crime'
+ 'glass' 'race' 'team' 'deadline' 'dozen' 'warrant']
+['different' 'aid' 'hang' 'district' 'negotiation' 'unbanne'
+ 'privatisation' 'nation' 'seriously' 'song' 'account' 'mark' 'complicity'
+ 'ankle' 'railway']
+0.016
+------------------------Distinctive Topic--------------------------
+['bisho' 'british' 'veto' 'watch' 'turn' 'cook' 'reiterate' 'hare' 'crime'
+ 'glass' 'race' 'team' 'deadline' 'dozen' 'warrant']
+['passage' 'bad' 'commander' 'fully' 'coetzee' 'asset' 'outburst' 'poorly'
+ 'george' 'difficulty' 'potchefstroom' 'enthusiasm' 'spend' 'generation'
+ 'burden']
+0.024
+------------------------Distinctive Topic--------------------------
+['joy' 'swear' 'underground' 'sight' 'action' 'pollsmoor' 'precondition'
+ 'departure' 'transvaal' 'occasionally' 'woode' 'angola' 'assembly'
+ 'rescue' 'plus']
+['pretend' 'ridicule' 'standing' 'sign' 'contentious' 'internal'
+ 'knowledge' 'learn' 'consequence' 'outright' 'intimacy' 'admiration'
+ 'treble' 'usually' 'storm']
+0.01
+------------------------Distinctive Topic--------------------------
+['joy' 'swear' 'underground' 'sight' 'action' 'pollsmoor' 'precondition'
+ 'departure' 'transvaal' 'occasionally' 'woode' 'angola' 'assembly'
+ 'rescue' 'plus']
+['quickly' 'nervous' 'slogan' 'circulate' 'cup' 'falati' 'kasril' 'bother'
+ 'count' 'window' 'constand' 'gun' 'observe' 'assert' 'carlton']
+0.03
+------------------------Distinctive Topic--------------------------
+['joy' 'swear' 'underground' 'sight' 'action' 'pollsmoor' 'precondition'
+ 'departure' 'transvaal' 'occasionally' 'woode' 'angola' 'assembly'
+ 'rescue' 'plus']
+['mandela' 'anc' 'klerk' 'winnie' 'government' 'white' 'south' 'party'
+ 'africa' 'buthelezi' 'national' 'black' 'political' 'police' 'people']
+0.018
+------------------------Distinctive Topic--------------------------
+['joy' 'swear' 'underground' 'sight' 'action' 'pollsmoor' 'precondition'
+ 'departure' 'transvaal' 'occasionally' 'woode' 'angola' 'assembly'
+ 'rescue' 'plus']
+['different' 'aid' 'hang' 'district' 'negotiation' 'unbanne'
+ 'privatisation' 'nation' 'seriously' 'song' 'account' 'mark' 'complicity'
+ 'ankle' 'railway']
+0.026
+------------------------Distinctive Topic--------------------------
+['joy' 'swear' 'underground' 'sight' 'action' 'pollsmoor' 'precondition'
+ 'departure' 'transvaal' 'occasionally' 'woode' 'angola' 'assembly'
+ 'rescue' 'plus']
+['passage' 'bad' 'commander' 'fully' 'coetzee' 'asset' 'outburst' 'poorly'
+ 'george' 'difficulty' 'potchefstroom' 'enthusiasm' 'spend' 'generation'
+ 'burden']

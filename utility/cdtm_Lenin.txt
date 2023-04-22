@@ -1,0 +1,755 @@
+------------------------1890-1894--------------------------
+0.044
+------------------------Distinctive Topic--------------------------
+['industry' 'worker' 'peasant' 'factory' 'gubernia' 'number' 'production'
+ 'land' 'lenin' 'datum' 'capitalist' 'agriculture']
+['appeal' 'socialist' 'right' 'contact' 'engel' 'ability' 'man' 'turn'
+ 'knowledge' 'exile' 'party' 'account']
+0.084
+------------------------Distinctive Topic--------------------------
+['industry' 'worker' 'peasant' 'factory' 'gubernia' 'number' 'production'
+ 'land' 'lenin' 'datum' 'capitalist' 'agriculture']
+['ulyanov' 'marx' 'political' 'russian' 'marxist' 'group' 'plekhanov'
+ 'freedom' 'revolutionary' 'economic' 'vladimir' 'marxism']
+0.052
+------------------------Distinctive Topic--------------------------
+['industry' 'worker' 'peasant' 'factory' 'gubernia' 'number' 'production'
+ 'land' 'lenin' 'datum' 'capitalist' 'agriculture']
+['alakaevka' 'revolution' 'marxism' 'encounter' 'degree' 'switzerland'
+ 'constitute' 'ensue' 'draft' 'room' 'new' 'perspective']
+0.05
+------------------------Distinctive Topic--------------------------
+['industry' 'worker' 'peasant' 'factory' 'gubernia' 'number' 'production'
+ 'land' 'lenin' 'datum' 'capitalist' 'agriculture']
+['narodnik' 'activity' 'estate' 'brother' 'transition' 'life'
+ 'opportunity' 'criticise' 'outside' 'sanction' 'practical' 'ex']
+0.054
+------------------------Distinctive Topic--------------------------
+['industry' 'worker' 'peasant' 'factory' 'gubernia' 'number' 'production'
+ 'land' 'lenin' 'datum' 'capitalist' 'agriculture']
+['authority' 'sabunaev' 'road' 'writing' 'duhring' 'form' 'approve'
+ 'activism' 'theorist' 'student' 'interpret' 'instructive']
+0.006
+------------------------Distinctive Topic--------------------------
+['relatively' 'plate' 'different' 'enterprising' 'seventh' 'steel'
+ 'putting' 'army' 'exchangeable' 'select' 'depeasantising' 'kulaks']
+['appeal' 'socialist' 'right' 'contact' 'engel' 'ability' 'man' 'turn'
+ 'knowledge' 'exile' 'party' 'account']
+0.012
+------------------------Distinctive Topic--------------------------
+['relatively' 'plate' 'different' 'enterprising' 'seventh' 'steel'
+ 'putting' 'army' 'exchangeable' 'select' 'depeasantising' 'kulaks']
+['ulyanov' 'marx' 'political' 'russian' 'marxist' 'group' 'plekhanov'
+ 'freedom' 'revolutionary' 'economic' 'vladimir' 'marxism']
+0.01
+------------------------Distinctive Topic--------------------------
+['relatively' 'plate' 'different' 'enterprising' 'seventh' 'steel'
+ 'putting' 'army' 'exchangeable' 'select' 'depeasantising' 'kulaks']
+['alakaevka' 'revolution' 'marxism' 'encounter' 'degree' 'switzerland'
+ 'constitute' 'ensue' 'draft' 'room' 'new' 'perspective']
+0.012
+------------------------Distinctive Topic--------------------------
+['relatively' 'plate' 'different' 'enterprising' 'seventh' 'steel'
+ 'putting' 'army' 'exchangeable' 'select' 'depeasantising' 'kulaks']
+['narodnik' 'activity' 'estate' 'brother' 'transition' 'life'
+ 'opportunity' 'criticise' 'outside' 'sanction' 'practical' 'ex']
+0.01
+------------------------Distinctive Topic--------------------------
+['relatively' 'plate' 'different' 'enterprising' 'seventh' 'steel'
+ 'putting' 'army' 'exchangeable' 'select' 'depeasantising' 'kulaks']
+['authority' 'sabunaev' 'road' 'writing' 'duhring' 'form' 'approve'
+ 'activism' 'theorist' 'student' 'interpret' 'instructive']
+0.006
+------------------------Distinctive Topic--------------------------
+['agrarian' 'breed' 'society' 'katunki' 'speculative' 'head'
+ 'shipbuilding' 'mere' 'process' 'emerge' 'sheepskinner' 'dyakovo']
+['appeal' 'socialist' 'right' 'contact' 'engel' 'ability' 'man' 'turn'
+ 'knowledge' 'exile' 'party' 'account']
+0.012
+------------------------Distinctive Topic--------------------------
+['agrarian' 'breed' 'society' 'katunki' 'speculative' 'head'
+ 'shipbuilding' 'mere' 'process' 'emerge' 'sheepskinner' 'dyakovo']
+['ulyanov' 'marx' 'political' 'russian' 'marxist' 'group' 'plekhanov'
+ 'freedom' 'revolutionary' 'economic' 'vladimir' 'marxism']
+0.01
+------------------------Distinctive Topic--------------------------
+['agrarian' 'breed' 'society' 'katunki' 'speculative' 'head'
+ 'shipbuilding' 'mere' 'process' 'emerge' 'sheepskinner' 'dyakovo']
+['alakaevka' 'revolution' 'marxism' 'encounter' 'degree' 'switzerland'
+ 'constitute' 'ensue' 'draft' 'room' 'new' 'perspective']
+0.018
+------------------------Distinctive Topic--------------------------
+['agrarian' 'breed' 'society' 'katunki' 'speculative' 'head'
+ 'shipbuilding' 'mere' 'process' 'emerge' 'sheepskinner' 'dyakovo']
+['narodnik' 'activity' 'estate' 'brother' 'transition' 'life'
+ 'opportunity' 'criticise' 'outside' 'sanction' 'practical' 'ex']
+0.01
+------------------------Distinctive Topic--------------------------
+['agrarian' 'breed' 'society' 'katunki' 'speculative' 'head'
+ 'shipbuilding' 'mere' 'process' 'emerge' 'sheepskinner' 'dyakovo']
+['authority' 'sabunaev' 'road' 'writing' 'duhring' 'form' 'approve'
+ 'activism' 'theorist' 'student' 'interpret' 'instructive']
+0.01
+------------------------Distinctive Topic--------------------------
+['register' 'speculation' 'owe' 'relate' 'lessor' 'depeasantise' 'fus'
+ 'separately' 'vary' 'abacus' 'branch' 'slow']
+['appeal' 'socialist' 'right' 'contact' 'engel' 'ability' 'man' 'turn'
+ 'knowledge' 'exile' 'party' 'account']
+0.01
+------------------------Distinctive Topic--------------------------
+['register' 'speculation' 'owe' 'relate' 'lessor' 'depeasantise' 'fus'
+ 'separately' 'vary' 'abacus' 'branch' 'slow']
+['ulyanov' 'marx' 'political' 'russian' 'marxist' 'group' 'plekhanov'
+ 'freedom' 'revolutionary' 'economic' 'vladimir' 'marxism']
+0.01
+------------------------Distinctive Topic--------------------------
+['register' 'speculation' 'owe' 'relate' 'lessor' 'depeasantise' 'fus'
+ 'separately' 'vary' 'abacus' 'branch' 'slow']
+['alakaevka' 'revolution' 'marxism' 'encounter' 'degree' 'switzerland'
+ 'constitute' 'ensue' 'draft' 'room' 'new' 'perspective']
+0.012
+------------------------Distinctive Topic--------------------------
+['register' 'speculation' 'owe' 'relate' 'lessor' 'depeasantise' 'fus'
+ 'separately' 'vary' 'abacus' 'branch' 'slow']
+['narodnik' 'activity' 'estate' 'brother' 'transition' 'life'
+ 'opportunity' 'criticise' 'outside' 'sanction' 'practical' 'ex']
+0.01
+------------------------Distinctive Topic--------------------------
+['register' 'speculation' 'owe' 'relate' 'lessor' 'depeasantise' 'fus'
+ 'separately' 'vary' 'abacus' 'branch' 'slow']
+['authority' 'sabunaev' 'road' 'writing' 'duhring' 'form' 'approve'
+ 'activism' 'theorist' 'student' 'interpret' 'instructive']
+0.014
+------------------------Distinctive Topic--------------------------
+['total' 'slovo' 'board' 'succeed' 'betray' 'sharp' 'kulak' 'folk'
+ 'business' 'case' 'type' 'isolated']
+['appeal' 'socialist' 'right' 'contact' 'engel' 'ability' 'man' 'turn'
+ 'knowledge' 'exile' 'party' 'account']
+0.006
+------------------------Distinctive Topic--------------------------
+['total' 'slovo' 'board' 'succeed' 'betray' 'sharp' 'kulak' 'folk'
+ 'business' 'case' 'type' 'isolated']
+['ulyanov' 'marx' 'political' 'russian' 'marxist' 'group' 'plekhanov'
+ 'freedom' 'revolutionary' 'economic' 'vladimir' 'marxism']
+0.01
+------------------------Distinctive Topic--------------------------
+['total' 'slovo' 'board' 'succeed' 'betray' 'sharp' 'kulak' 'folk'
+ 'business' 'case' 'type' 'isolated']
+['alakaevka' 'revolution' 'marxism' 'encounter' 'degree' 'switzerland'
+ 'constitute' 'ensue' 'draft' 'room' 'new' 'perspective']
+0.01
+------------------------Distinctive Topic--------------------------
+['total' 'slovo' 'board' 'succeed' 'betray' 'sharp' 'kulak' 'folk'
+ 'business' 'case' 'type' 'isolated']
+['narodnik' 'activity' 'estate' 'brother' 'transition' 'life'
+ 'opportunity' 'criticise' 'outside' 'sanction' 'practical' 'ex']
+0.004
+------------------------Distinctive Topic--------------------------
+['total' 'slovo' 'board' 'succeed' 'betray' 'sharp' 'kulak' 'folk'
+ 'business' 'case' 'type' 'isolated']
+['authority' 'sabunaev' 'road' 'writing' 'duhring' 'form' 'approve'
+ 'activism' 'theorist' 'student' 'interpret' 'instructive']
+------------------------1895-1899--------------------------
+0.016
+------------------------Distinctive Topic--------------------------
+['government' 'wage' 'book' 'raw' 'spring' 'gloss' 'struve' 'progress'
+ 'yevropy' 'point' 'oppression' 'amusement']
+['terrorist' 'develop' 'akselrod' 'labour' 'gap' 'collection' 'article'
+ 'struggle' 'elder' 'train' 'criticism' 'internal']
+0.016
+------------------------Distinctive Topic--------------------------
+['government' 'wage' 'book' 'raw' 'spring' 'gloss' 'struve' 'progress'
+ 'yevropy' 'point' 'oppression' 'amusement']
+['aim' 'existence' 'enter' 'appeal' 'power' 'plekhanov' 'main' 'war'
+ 'battle' 'hire' 'link' 'socialism']
+0.014
+------------------------Distinctive Topic--------------------------
+['government' 'wage' 'book' 'raw' 'spring' 'gloss' 'struve' 'progress'
+ 'yevropy' 'point' 'oppression' 'amusement']
+['family' 'ulyanov' 'steady' 'vorontsov' 'factory' 'object' 'friend'
+ 'face' 'place' 'conclusion' 'admit' 'issue']
+0.022
+------------------------Distinctive Topic--------------------------
+['government' 'wage' 'book' 'raw' 'spring' 'gloss' 'struve' 'progress'
+ 'yevropy' 'point' 'oppression' 'amusement']
+['history' 'brief' 'century' 'wage' 'text' 'v' 'treatise' 'mikhailovski'
+ 'authority' 'approach' 'central' 'visitor']
+0.038
+------------------------Distinctive Topic--------------------------
+['government' 'wage' 'book' 'raw' 'spring' 'gloss' 'struve' 'progress'
+ 'yevropy' 'point' 'oppression' 'amusement']
+['ulyanov' 'plekhanov' 'worker' 'political' 'russian' 'party' 'struve'
+ 'marxist' 'capitalism' 'russia' 'social' 'economic']
+0.014
+------------------------Distinctive Topic--------------------------
+['declare' 'sally' 'v' 'cheap' 'populate' 'agent' 'embellishment' 'survey'
+ 'wine' 'complicate' 'legal' 'permanent']
+['terrorist' 'develop' 'akselrod' 'labour' 'gap' 'collection' 'article'
+ 'struggle' 'elder' 'train' 'criticism' 'internal']
+0.01
+------------------------Distinctive Topic--------------------------
+['declare' 'sally' 'v' 'cheap' 'populate' 'agent' 'embellishment' 'survey'
+ 'wine' 'complicate' 'legal' 'permanent']
+['aim' 'existence' 'enter' 'appeal' 'power' 'plekhanov' 'main' 'war'
+ 'battle' 'hire' 'link' 'socialism']
+0.016
+------------------------Distinctive Topic--------------------------
+['declare' 'sally' 'v' 'cheap' 'populate' 'agent' 'embellishment' 'survey'
+ 'wine' 'complicate' 'legal' 'permanent']
+['family' 'ulyanov' 'steady' 'vorontsov' 'factory' 'object' 'friend'
+ 'face' 'place' 'conclusion' 'admit' 'issue']
+0.012
+------------------------Distinctive Topic--------------------------
+['declare' 'sally' 'v' 'cheap' 'populate' 'agent' 'embellishment' 'survey'
+ 'wine' 'complicate' 'legal' 'permanent']
+['history' 'brief' 'century' 'wage' 'text' 'v' 'treatise' 'mikhailovski'
+ 'authority' 'approach' 'central' 'visitor']
+0.03
+------------------------Distinctive Topic--------------------------
+['declare' 'sally' 'v' 'cheap' 'populate' 'agent' 'embellishment' 'survey'
+ 'wine' 'complicate' 'legal' 'permanent']
+['ulyanov' 'plekhanov' 'worker' 'political' 'russian' 'party' 'struve'
+ 'marxist' 'capitalism' 'russia' 'social' 'economic']
+0.012
+------------------------Distinctive Topic--------------------------
+['highly' 'horseless' 'acquaintance' 'severely' 'multitude' 'closely'
+ 'devoid' 'accounting' 'animal' 'prepared' 'dispossess' 'thresh']
+['terrorist' 'develop' 'akselrod' 'labour' 'gap' 'collection' 'article'
+ 'struggle' 'elder' 'train' 'criticism' 'internal']
+0.012
+------------------------Distinctive Topic--------------------------
+['highly' 'horseless' 'acquaintance' 'severely' 'multitude' 'closely'
+ 'devoid' 'accounting' 'animal' 'prepared' 'dispossess' 'thresh']
+['aim' 'existence' 'enter' 'appeal' 'power' 'plekhanov' 'main' 'war'
+ 'battle' 'hire' 'link' 'socialism']
+0.018
+------------------------Distinctive Topic--------------------------
+['highly' 'horseless' 'acquaintance' 'severely' 'multitude' 'closely'
+ 'devoid' 'accounting' 'animal' 'prepared' 'dispossess' 'thresh']
+['family' 'ulyanov' 'steady' 'vorontsov' 'factory' 'object' 'friend'
+ 'face' 'place' 'conclusion' 'admit' 'issue']
+0.018
+------------------------Distinctive Topic--------------------------
+['highly' 'horseless' 'acquaintance' 'severely' 'multitude' 'closely'
+ 'devoid' 'accounting' 'animal' 'prepared' 'dispossess' 'thresh']
+['history' 'brief' 'century' 'wage' 'text' 'v' 'treatise' 'mikhailovski'
+ 'authority' 'approach' 'central' 'visitor']
+0.022
+------------------------Distinctive Topic--------------------------
+['highly' 'horseless' 'acquaintance' 'severely' 'multitude' 'closely'
+ 'devoid' 'accounting' 'animal' 'prepared' 'dispossess' 'thresh']
+['ulyanov' 'plekhanov' 'worker' 'political' 'russian' 'party' 'struve'
+ 'marxist' 'capitalism' 'russia' 'social' 'economic']
+0.018
+------------------------Distinctive Topic--------------------------
+['depth' 'exposition' 'flourish' 'repeatedly' 'odessa' 'reaping'
+ 'neighbouring' 'relation' 'centre' 'extremely' 'realism' 'fight']
+['terrorist' 'develop' 'akselrod' 'labour' 'gap' 'collection' 'article'
+ 'struggle' 'elder' 'train' 'criticism' 'internal']
+0.018
+------------------------Distinctive Topic--------------------------
+['depth' 'exposition' 'flourish' 'repeatedly' 'odessa' 'reaping'
+ 'neighbouring' 'relation' 'centre' 'extremely' 'realism' 'fight']
+['aim' 'existence' 'enter' 'appeal' 'power' 'plekhanov' 'main' 'war'
+ 'battle' 'hire' 'link' 'socialism']
+0.022
+------------------------Distinctive Topic--------------------------
+['depth' 'exposition' 'flourish' 'repeatedly' 'odessa' 'reaping'
+ 'neighbouring' 'relation' 'centre' 'extremely' 'realism' 'fight']
+['family' 'ulyanov' 'steady' 'vorontsov' 'factory' 'object' 'friend'
+ 'face' 'place' 'conclusion' 'admit' 'issue']
+0.018
+------------------------Distinctive Topic--------------------------
+['depth' 'exposition' 'flourish' 'repeatedly' 'odessa' 'reaping'
+ 'neighbouring' 'relation' 'centre' 'extremely' 'realism' 'fight']
+['history' 'brief' 'century' 'wage' 'text' 'v' 'treatise' 'mikhailovski'
+ 'authority' 'approach' 'central' 'visitor']
+0.02
+------------------------Distinctive Topic--------------------------
+['depth' 'exposition' 'flourish' 'repeatedly' 'odessa' 'reaping'
+ 'neighbouring' 'relation' 'centre' 'extremely' 'realism' 'fight']
+['ulyanov' 'plekhanov' 'worker' 'political' 'russian' 'party' 'struve'
+ 'marxist' 'capitalism' 'russia' 'social' 'economic']
+0.042
+------------------------Distinctive Topic--------------------------
+['peasant' 'labour' 'worker' 'gubernia' 'agricultural' 'capitalism'
+ 'russia' 'narodnik' 'land' 'capitalist' 'population' 'service']
+['terrorist' 'develop' 'akselrod' 'labour' 'gap' 'collection' 'article'
+ 'struggle' 'elder' 'train' 'criticism' 'internal']
+0.036
+------------------------Distinctive Topic--------------------------
+['peasant' 'labour' 'worker' 'gubernia' 'agricultural' 'capitalism'
+ 'russia' 'narodnik' 'land' 'capitalist' 'population' 'service']
+['aim' 'existence' 'enter' 'appeal' 'power' 'plekhanov' 'main' 'war'
+ 'battle' 'hire' 'link' 'socialism']
+0.04
+------------------------Distinctive Topic--------------------------
+['peasant' 'labour' 'worker' 'gubernia' 'agricultural' 'capitalism'
+ 'russia' 'narodnik' 'land' 'capitalist' 'population' 'service']
+['family' 'ulyanov' 'steady' 'vorontsov' 'factory' 'object' 'friend'
+ 'face' 'place' 'conclusion' 'admit' 'issue']
+0.046
+------------------------Distinctive Topic--------------------------
+['peasant' 'labour' 'worker' 'gubernia' 'agricultural' 'capitalism'
+ 'russia' 'narodnik' 'land' 'capitalist' 'population' 'service']
+['history' 'brief' 'century' 'wage' 'text' 'v' 'treatise' 'mikhailovski'
+ 'authority' 'approach' 'central' 'visitor']
+0.108
+------------------------Distinctive Topic--------------------------
+['peasant' 'labour' 'worker' 'gubernia' 'agricultural' 'capitalism'
+ 'russia' 'narodnik' 'land' 'capitalist' 'population' 'service']
+['ulyanov' 'plekhanov' 'worker' 'political' 'russian' 'party' 'struve'
+ 'marxist' 'capitalism' 'russia' 'social' 'economic']
+------------------------1900-1904--------------------------
+0.022
+------------------------Distinctive Topic--------------------------
+['forestall' 'tkachov' 'charming' 'spade' 'osvobozhdeniye' 'wide'
+ 'temporary' 'intervene' 'battery' 'obey' 'warily' 'emphasise']
+['lenin' 'party' 'iskra' 'plekhanov' 'political' 'social' 'russian'
+ 'committee' 'ulyanov' 'central' 'worker' 'russia']
+0.008
+------------------------Distinctive Topic--------------------------
+['forestall' 'tkachov' 'charming' 'spade' 'osvobozhdeniye' 'wide'
+ 'temporary' 'intervene' 'battery' 'obey' 'warily' 'emphasise']
+['board' 'friend' 'pskov' 'clear' 'protest' 'introduce' 'catch'
+ 'capitalism' 'house' 'soon' 'event' 'intellectual']
+0.016
+------------------------Distinctive Topic--------------------------
+['forestall' 'tkachov' 'charming' 'spade' 'osvobozhdeniye' 'wide'
+ 'temporary' 'intervene' 'battery' 'obey' 'warily' 'emphasise']
+['cut' 'mean' 'discontent' 'future' 'favour' 'belong' 'possibility'
+ 'disorder' 'task' 'colleague' 'ahead' 'goal']
+0.01
+------------------------Distinctive Topic--------------------------
+['forestall' 'tkachov' 'charming' 'spade' 'osvobozhdeniye' 'wide'
+ 'temporary' 'intervene' 'battery' 'obey' 'warily' 'emphasise']
+['union' 'induce' 'congress' 'emigre' 'urban' 'v' 'commune' 'assembly'
+ 'point' 'approve' 'prove' 'problem']
+0.01
+------------------------Distinctive Topic--------------------------
+['forestall' 'tkachov' 'charming' 'spade' 'osvobozhdeniye' 'wide'
+ 'temporary' 'intervene' 'battery' 'obey' 'warily' 'emphasise']
+['include' 'organiser' 'valentinov' 'try' 'opportunist' 'abroad' 'zemstva'
+ 'activist' 'reach' 'republic' 'stand' 'zasulich']
+0.014
+------------------------Distinctive Topic--------------------------
+['disorder' 'paradox' 'paradoxical' 'morning' 'permanently' 'demoralise'
+ 'event' 'transitory' 'consider' 'supply' 'hold' 'militant']
+['lenin' 'party' 'iskra' 'plekhanov' 'political' 'social' 'russian'
+ 'committee' 'ulyanov' 'central' 'worker' 'russia']
+0.014
+------------------------Distinctive Topic--------------------------
+['disorder' 'paradox' 'paradoxical' 'morning' 'permanently' 'demoralise'
+ 'event' 'transitory' 'consider' 'supply' 'hold' 'militant']
+['board' 'friend' 'pskov' 'clear' 'protest' 'introduce' 'catch'
+ 'capitalism' 'house' 'soon' 'event' 'intellectual']
+0.01
+------------------------Distinctive Topic--------------------------
+['disorder' 'paradox' 'paradoxical' 'morning' 'permanently' 'demoralise'
+ 'event' 'transitory' 'consider' 'supply' 'hold' 'militant']
+['cut' 'mean' 'discontent' 'future' 'favour' 'belong' 'possibility'
+ 'disorder' 'task' 'colleague' 'ahead' 'goal']
+0.008
+------------------------Distinctive Topic--------------------------
+['disorder' 'paradox' 'paradoxical' 'morning' 'permanently' 'demoralise'
+ 'event' 'transitory' 'consider' 'supply' 'hold' 'militant']
+['union' 'induce' 'congress' 'emigre' 'urban' 'v' 'commune' 'assembly'
+ 'point' 'approve' 'prove' 'problem']
+0.01
+------------------------Distinctive Topic--------------------------
+['disorder' 'paradox' 'paradoxical' 'morning' 'permanently' 'demoralise'
+ 'event' 'transitory' 'consider' 'supply' 'hold' 'militant']
+['include' 'organiser' 'valentinov' 'try' 'opportunist' 'abroad' 'zemstva'
+ 'activist' 'reach' 'republic' 'stand' 'zasulich']
+0.146
+------------------------Distinctive Topic--------------------------
+['party' 'comrade' 'congress' 'organisation' 'social' 'political'
+ 'struggle' 'question' 'iskra' 'worker' 'revolutionary' 'martov']
+['lenin' 'party' 'iskra' 'plekhanov' 'political' 'social' 'russian'
+ 'committee' 'ulyanov' 'central' 'worker' 'russia']
+0.06
+------------------------Distinctive Topic--------------------------
+['party' 'comrade' 'congress' 'organisation' 'social' 'political'
+ 'struggle' 'question' 'iskra' 'worker' 'revolutionary' 'martov']
+['board' 'friend' 'pskov' 'clear' 'protest' 'introduce' 'catch'
+ 'capitalism' 'house' 'soon' 'event' 'intellectual']
+0.056
+------------------------Distinctive Topic--------------------------
+['party' 'comrade' 'congress' 'organisation' 'social' 'political'
+ 'struggle' 'question' 'iskra' 'worker' 'revolutionary' 'martov']
+['cut' 'mean' 'discontent' 'future' 'favour' 'belong' 'possibility'
+ 'disorder' 'task' 'colleague' 'ahead' 'goal']
+0.048
+------------------------Distinctive Topic--------------------------
+['party' 'comrade' 'congress' 'organisation' 'social' 'political'
+ 'struggle' 'question' 'iskra' 'worker' 'revolutionary' 'martov']
+['union' 'induce' 'congress' 'emigre' 'urban' 'v' 'commune' 'assembly'
+ 'point' 'approve' 'prove' 'problem']
+0.052
+------------------------Distinctive Topic--------------------------
+['party' 'comrade' 'congress' 'organisation' 'social' 'political'
+ 'struggle' 'question' 'iskra' 'worker' 'revolutionary' 'martov']
+['include' 'organiser' 'valentinov' 'try' 'opportunist' 'abroad' 'zemstva'
+ 'activist' 'reach' 'republic' 'stand' 'zasulich']
+0.01
+------------------------Distinctive Topic--------------------------
+['selfsame' 'corrupt' 'united' 'bank' 'idea' 'resort' 'mentality'
+ 'withdrawal' 'original' 'world' 'principled' 'compliment']
+['lenin' 'party' 'iskra' 'plekhanov' 'political' 'social' 'russian'
+ 'committee' 'ulyanov' 'central' 'worker' 'russia']
+0.012
+------------------------Distinctive Topic--------------------------
+['selfsame' 'corrupt' 'united' 'bank' 'idea' 'resort' 'mentality'
+ 'withdrawal' 'original' 'world' 'principled' 'compliment']
+['board' 'friend' 'pskov' 'clear' 'protest' 'introduce' 'catch'
+ 'capitalism' 'house' 'soon' 'event' 'intellectual']
+0.012
+------------------------Distinctive Topic--------------------------
+['selfsame' 'corrupt' 'united' 'bank' 'idea' 'resort' 'mentality'
+ 'withdrawal' 'original' 'world' 'principled' 'compliment']
+['cut' 'mean' 'discontent' 'future' 'favour' 'belong' 'possibility'
+ 'disorder' 'task' 'colleague' 'ahead' 'goal']
+0.01
+------------------------Distinctive Topic--------------------------
+['selfsame' 'corrupt' 'united' 'bank' 'idea' 'resort' 'mentality'
+ 'withdrawal' 'original' 'world' 'principled' 'compliment']
+['union' 'induce' 'congress' 'emigre' 'urban' 'v' 'commune' 'assembly'
+ 'point' 'approve' 'prove' 'problem']
+0.01
+------------------------Distinctive Topic--------------------------
+['selfsame' 'corrupt' 'united' 'bank' 'idea' 'resort' 'mentality'
+ 'withdrawal' 'original' 'world' 'principled' 'compliment']
+['include' 'organiser' 'valentinov' 'try' 'opportunist' 'abroad' 'zemstva'
+ 'activist' 'reach' 'republic' 'stand' 'zasulich']
+0.01
+------------------------Distinctive Topic--------------------------
+['serfdom' 'wax' 'stream' 'multiplicity' 'sin' 'quibble' 'petrov'
+ 'superficial' 'proceeding' 'assert' 'splendidly' 'appendix']
+['lenin' 'party' 'iskra' 'plekhanov' 'political' 'social' 'russian'
+ 'committee' 'ulyanov' 'central' 'worker' 'russia']
+0.01
+------------------------Distinctive Topic--------------------------
+['serfdom' 'wax' 'stream' 'multiplicity' 'sin' 'quibble' 'petrov'
+ 'superficial' 'proceeding' 'assert' 'splendidly' 'appendix']
+['board' 'friend' 'pskov' 'clear' 'protest' 'introduce' 'catch'
+ 'capitalism' 'house' 'soon' 'event' 'intellectual']
+0.008
+------------------------Distinctive Topic--------------------------
+['serfdom' 'wax' 'stream' 'multiplicity' 'sin' 'quibble' 'petrov'
+ 'superficial' 'proceeding' 'assert' 'splendidly' 'appendix']
+['cut' 'mean' 'discontent' 'future' 'favour' 'belong' 'possibility'
+ 'disorder' 'task' 'colleague' 'ahead' 'goal']
+0.006
+------------------------Distinctive Topic--------------------------
+['serfdom' 'wax' 'stream' 'multiplicity' 'sin' 'quibble' 'petrov'
+ 'superficial' 'proceeding' 'assert' 'splendidly' 'appendix']
+['union' 'induce' 'congress' 'emigre' 'urban' 'v' 'commune' 'assembly'
+ 'point' 'approve' 'prove' 'problem']
+0.008
+------------------------Distinctive Topic--------------------------
+['serfdom' 'wax' 'stream' 'multiplicity' 'sin' 'quibble' 'petrov'
+ 'superficial' 'proceeding' 'assert' 'splendidly' 'appendix']
+['include' 'organiser' 'valentinov' 'try' 'opportunist' 'abroad' 'zemstva'
+ 'activist' 'reach' 'republic' 'stand' 'zasulich']
+------------------------1905-1909--------------------------
+0.028
+------------------------Distinctive Topic--------------------------
+['revolution' 'revolutionary' 'class' 'party' 'people' 'peasant' 'social'
+ 'marx' 'democratic' 'government' 'proletariat' 'struggle']
+['range' 'instal' 'project' 'keen' 'camera' 'deviation' 'mass' 'invite'
+ 'difference' 'britain' 'religion' 'internal']
+0.05
+------------------------Distinctive Topic--------------------------
+['revolution' 'revolutionary' 'class' 'party' 'people' 'peasant' 'social'
+ 'marx' 'democratic' 'government' 'proletariat' 'struggle']
+['market' 'tskhakaya' 'tic' 'obvious' 'false' 'live' 'engage' 'standpoint'
+ 'file' 'specific' 'convene' 'property']
+0.148
+------------------------Distinctive Topic--------------------------
+['revolution' 'revolutionary' 'class' 'party' 'people' 'peasant' 'social'
+ 'marx' 'democratic' 'government' 'proletariat' 'struggle']
+['lenin' 'party' 'bolshevik' 'bogdanov' 'committee' 'social' 'political'
+ 'duma' 'central' 'congress' 'menshevik' 'russia']
+0.028
+------------------------Distinctive Topic--------------------------
+['revolution' 'revolutionary' 'class' 'party' 'people' 'peasant' 'social'
+ 'marx' 'democratic' 'government' 'proletariat' 'struggle']
+['arrange' 'representative' 'process' 'initiate' 'hear' 'enter' 'french'
+ 'divide' 'bother' 'mensheviks' 'stormy' 'consider']
+0.028
+------------------------Distinctive Topic--------------------------
+['revolution' 'revolutionary' 'class' 'party' 'people' 'peasant' 'social'
+ 'marx' 'democratic' 'government' 'proletariat' 'struggle']
+['perish' 'russian' 'limited' 'output' 'modern' 'ignore' 'abo' 'hardly'
+ 'publish' 'bourgeoisie' 'desnitski' 'expectation']
+0.008
+------------------------Distinctive Topic--------------------------
+['cheap' 'hegel' 'common' 'frank' 'aforementioned' 'notice' 'accordance'
+ 'fashion' 'exploiting' 'wear' 'rotten' 'family']
+['range' 'instal' 'project' 'keen' 'camera' 'deviation' 'mass' 'invite'
+ 'difference' 'britain' 'religion' 'internal']
+0.008
+------------------------Distinctive Topic--------------------------
+['cheap' 'hegel' 'common' 'frank' 'aforementioned' 'notice' 'accordance'
+ 'fashion' 'exploiting' 'wear' 'rotten' 'family']
+['market' 'tskhakaya' 'tic' 'obvious' 'false' 'live' 'engage' 'standpoint'
+ 'file' 'specific' 'convene' 'property']
+0.014
+------------------------Distinctive Topic--------------------------
+['cheap' 'hegel' 'common' 'frank' 'aforementioned' 'notice' 'accordance'
+ 'fashion' 'exploiting' 'wear' 'rotten' 'family']
+['lenin' 'party' 'bolshevik' 'bogdanov' 'committee' 'social' 'political'
+ 'duma' 'central' 'congress' 'menshevik' 'russia']
+0.01
+------------------------Distinctive Topic--------------------------
+['cheap' 'hegel' 'common' 'frank' 'aforementioned' 'notice' 'accordance'
+ 'fashion' 'exploiting' 'wear' 'rotten' 'family']
+['arrange' 'representative' 'process' 'initiate' 'hear' 'enter' 'french'
+ 'divide' 'bother' 'mensheviks' 'stormy' 'consider']
+0.018
+------------------------Distinctive Topic--------------------------
+['cheap' 'hegel' 'common' 'frank' 'aforementioned' 'notice' 'accordance'
+ 'fashion' 'exploiting' 'wear' 'rotten' 'family']
+['perish' 'russian' 'limited' 'output' 'modern' 'ignore' 'abo' 'hardly'
+ 'publish' 'bourgeoisie' 'desnitski' 'expectation']
+0.006
+------------------------Distinctive Topic--------------------------
+['justification' 'unquestionably' 'personal' 'orbit' 'complex' 'inapt'
+ 'dyelo' 'plunderer' 'energetic' 'equivocation' 'lawful' 'district']
+['range' 'instal' 'project' 'keen' 'camera' 'deviation' 'mass' 'invite'
+ 'difference' 'britain' 'religion' 'internal']
+0.008
+------------------------Distinctive Topic--------------------------
+['justification' 'unquestionably' 'personal' 'orbit' 'complex' 'inapt'
+ 'dyelo' 'plunderer' 'energetic' 'equivocation' 'lawful' 'district']
+['market' 'tskhakaya' 'tic' 'obvious' 'false' 'live' 'engage' 'standpoint'
+ 'file' 'specific' 'convene' 'property']
+0.016
+------------------------Distinctive Topic--------------------------
+['justification' 'unquestionably' 'personal' 'orbit' 'complex' 'inapt'
+ 'dyelo' 'plunderer' 'energetic' 'equivocation' 'lawful' 'district']
+['lenin' 'party' 'bolshevik' 'bogdanov' 'committee' 'social' 'political'
+ 'duma' 'central' 'congress' 'menshevik' 'russia']
+0.014
+------------------------Distinctive Topic--------------------------
+['justification' 'unquestionably' 'personal' 'orbit' 'complex' 'inapt'
+ 'dyelo' 'plunderer' 'energetic' 'equivocation' 'lawful' 'district']
+['arrange' 'representative' 'process' 'initiate' 'hear' 'enter' 'french'
+ 'divide' 'bother' 'mensheviks' 'stormy' 'consider']
+0.008
+------------------------Distinctive Topic--------------------------
+['justification' 'unquestionably' 'personal' 'orbit' 'complex' 'inapt'
+ 'dyelo' 'plunderer' 'energetic' 'equivocation' 'lawful' 'district']
+['perish' 'russian' 'limited' 'output' 'modern' 'ignore' 'abo' 'hardly'
+ 'publish' 'bourgeoisie' 'desnitski' 'expectation']
+0.004
+------------------------Distinctive Topic--------------------------
+['clever' 'organised' 'disagree' 'coloured' 'solution' 'romulus' 'censor'
+ 'clericat' 'institution' 'programme' 'proceed' 'plunge']
+['range' 'instal' 'project' 'keen' 'camera' 'deviation' 'mass' 'invite'
+ 'difference' 'britain' 'religion' 'internal']
+0.004
+------------------------Distinctive Topic--------------------------
+['clever' 'organised' 'disagree' 'coloured' 'solution' 'romulus' 'censor'
+ 'clericat' 'institution' 'programme' 'proceed' 'plunge']
+['market' 'tskhakaya' 'tic' 'obvious' 'false' 'live' 'engage' 'standpoint'
+ 'file' 'specific' 'convene' 'property']
+0.018
+------------------------Distinctive Topic--------------------------
+['clever' 'organised' 'disagree' 'coloured' 'solution' 'romulus' 'censor'
+ 'clericat' 'institution' 'programme' 'proceed' 'plunge']
+['lenin' 'party' 'bolshevik' 'bogdanov' 'committee' 'social' 'political'
+ 'duma' 'central' 'congress' 'menshevik' 'russia']
+0.016
+------------------------Distinctive Topic--------------------------
+['clever' 'organised' 'disagree' 'coloured' 'solution' 'romulus' 'censor'
+ 'clericat' 'institution' 'programme' 'proceed' 'plunge']
+['arrange' 'representative' 'process' 'initiate' 'hear' 'enter' 'french'
+ 'divide' 'bother' 'mensheviks' 'stormy' 'consider']
+0.008
+------------------------Distinctive Topic--------------------------
+['clever' 'organised' 'disagree' 'coloured' 'solution' 'romulus' 'censor'
+ 'clericat' 'institution' 'programme' 'proceed' 'plunge']
+['perish' 'russian' 'limited' 'output' 'modern' 'ignore' 'abo' 'hardly'
+ 'publish' 'bourgeoisie' 'desnitski' 'expectation']
+0.004
+------------------------Distinctive Topic--------------------------
+['human' 'depose' 'exponent' 'removal' 'vodka' 'liebknecht'
+ 'inappropriate' 'jahrb' 'proclamation' 'early' 'allied' 'coincide']
+['range' 'instal' 'project' 'keen' 'camera' 'deviation' 'mass' 'invite'
+ 'difference' 'britain' 'religion' 'internal']
+0.004
+------------------------Distinctive Topic--------------------------
+['human' 'depose' 'exponent' 'removal' 'vodka' 'liebknecht'
+ 'inappropriate' 'jahrb' 'proclamation' 'early' 'allied' 'coincide']
+['market' 'tskhakaya' 'tic' 'obvious' 'false' 'live' 'engage' 'standpoint'
+ 'file' 'specific' 'convene' 'property']
+0.018
+------------------------Distinctive Topic--------------------------
+['human' 'depose' 'exponent' 'removal' 'vodka' 'liebknecht'
+ 'inappropriate' 'jahrb' 'proclamation' 'early' 'allied' 'coincide']
+['lenin' 'party' 'bolshevik' 'bogdanov' 'committee' 'social' 'political'
+ 'duma' 'central' 'congress' 'menshevik' 'russia']
+0.024
+------------------------Distinctive Topic--------------------------
+['human' 'depose' 'exponent' 'removal' 'vodka' 'liebknecht'
+ 'inappropriate' 'jahrb' 'proclamation' 'early' 'allied' 'coincide']
+['arrange' 'representative' 'process' 'initiate' 'hear' 'enter' 'french'
+ 'divide' 'bother' 'mensheviks' 'stormy' 'consider']
+0.014
+------------------------Distinctive Topic--------------------------
+['human' 'depose' 'exponent' 'removal' 'vodka' 'liebknecht'
+ 'inappropriate' 'jahrb' 'proclamation' 'early' 'allied' 'coincide']
+['perish' 'russian' 'limited' 'output' 'modern' 'ignore' 'abo' 'hardly'
+ 'publish' 'bourgeoisie' 'desnitski' 'expectation']
+------------------------1910-1914--------------------------
+0.04
+------------------------Distinctive Topic--------------------------
+['clearly' 'character' 'nominal' 'war' 'widely' 'french' 'uprising'
+ 'property' 'commune' 'design' 'fundamental' 'influential']
+['lenin' 'party' 'bolshevik' 'russian' 'war' 'social' 'political' 'russia'
+ 'central' 'socialist' 'committee' 'german']
+0.01
+------------------------Distinctive Topic--------------------------
+['clearly' 'character' 'nominal' 'war' 'widely' 'french' 'uprising'
+ 'property' 'commune' 'design' 'fundamental' 'influential']
+['explanation' 'notebook' 'sit' 'human' 'room' 'dispute' 'schismatic'
+ 'destiny' 'declaration' 'circulate' 'criticise' 'communication']
+0.014
+------------------------Distinctive Topic--------------------------
+['clearly' 'character' 'nominal' 'war' 'widely' 'french' 'uprising'
+ 'property' 'commune' 'design' 'fundamental' 'influential']
+['disappear' 'associate' 'genuinely' 'pressure' 'win' 'investigation'
+ 'embody' 'happy' 'dawn' 'message' 'massive' 'research']
+0.014
+------------------------Distinctive Topic--------------------------
+['clearly' 'character' 'nominal' 'war' 'widely' 'french' 'uprising'
+ 'property' 'commune' 'design' 'fundamental' 'influential']
+['faction' 'arbitrator' 'gossip' 'role' 'repeatedly' 'course' 'slur'
+ 'stop' 'victim' 'bluntly' 'mind' 'european']
+0.014
+------------------------Distinctive Topic--------------------------
+['clearly' 'character' 'nominal' 'war' 'widely' 'french' 'uprising'
+ 'property' 'commune' 'design' 'fundamental' 'influential']
+['secession' 'hilferding' 'cross' 'fear' 'initiative' 'totally' 'supply'
+ 'traditional' 'demonstratively' 'krakow' 'interpretation' 'implore']
+0.05
+------------------------Distinctive Topic--------------------------
+['international' 'february' 'easily' 'slander' 'position' 'advocate'
+ 'reverse' 'sectarian' 'good' 'number' 'office' 'late']
+['lenin' 'party' 'bolshevik' 'russian' 'war' 'social' 'political' 'russia'
+ 'central' 'socialist' 'committee' 'german']
+0.014
+------------------------Distinctive Topic--------------------------
+['international' 'february' 'easily' 'slander' 'position' 'advocate'
+ 'reverse' 'sectarian' 'good' 'number' 'office' 'late']
+['explanation' 'notebook' 'sit' 'human' 'room' 'dispute' 'schismatic'
+ 'destiny' 'declaration' 'circulate' 'criticise' 'communication']
+0.016
+------------------------Distinctive Topic--------------------------
+['international' 'february' 'easily' 'slander' 'position' 'advocate'
+ 'reverse' 'sectarian' 'good' 'number' 'office' 'late']
+['disappear' 'associate' 'genuinely' 'pressure' 'win' 'investigation'
+ 'embody' 'happy' 'dawn' 'message' 'massive' 'research']
+0.016
+------------------------Distinctive Topic--------------------------
+['international' 'february' 'easily' 'slander' 'position' 'advocate'
+ 'reverse' 'sectarian' 'good' 'number' 'office' 'late']
+['faction' 'arbitrator' 'gossip' 'role' 'repeatedly' 'course' 'slur'
+ 'stop' 'victim' 'bluntly' 'mind' 'european']
+0.016
+------------------------Distinctive Topic--------------------------
+['international' 'february' 'easily' 'slander' 'position' 'advocate'
+ 'reverse' 'sectarian' 'good' 'number' 'office' 'late']
+['secession' 'hilferding' 'cross' 'fear' 'initiative' 'totally' 'supply'
+ 'traditional' 'demonstratively' 'krakow' 'interpretation' 'implore']
+0.032
+------------------------Distinctive Topic--------------------------
+['specific' 'implement' 'opportunism' 'scale' 'european' 'project'
+ 'finally' 'menshevik' 'distribution' 'criminal' 'standpoint' 'openly']
+['lenin' 'party' 'bolshevik' 'russian' 'war' 'social' 'political' 'russia'
+ 'central' 'socialist' 'committee' 'german']
+0.018
+------------------------Distinctive Topic--------------------------
+['specific' 'implement' 'opportunism' 'scale' 'european' 'project'
+ 'finally' 'menshevik' 'distribution' 'criminal' 'standpoint' 'openly']
+['explanation' 'notebook' 'sit' 'human' 'room' 'dispute' 'schismatic'
+ 'destiny' 'declaration' 'circulate' 'criticise' 'communication']
+0.016
+------------------------Distinctive Topic--------------------------
+['specific' 'implement' 'opportunism' 'scale' 'european' 'project'
+ 'finally' 'menshevik' 'distribution' 'criminal' 'standpoint' 'openly']
+['disappear' 'associate' 'genuinely' 'pressure' 'win' 'investigation'
+ 'embody' 'happy' 'dawn' 'message' 'massive' 'research']
+0.018
+------------------------Distinctive Topic--------------------------
+['specific' 'implement' 'opportunism' 'scale' 'european' 'project'
+ 'finally' 'menshevik' 'distribution' 'criminal' 'standpoint' 'openly']
+['faction' 'arbitrator' 'gossip' 'role' 'repeatedly' 'course' 'slur'
+ 'stop' 'victim' 'bluntly' 'mind' 'european']
+0.018
+------------------------Distinctive Topic--------------------------
+['specific' 'implement' 'opportunism' 'scale' 'european' 'project'
+ 'finally' 'menshevik' 'distribution' 'criminal' 'standpoint' 'openly']
+['secession' 'hilferding' 'cross' 'fear' 'initiative' 'totally' 'supply'
+ 'traditional' 'demonstratively' 'krakow' 'interpretation' 'implore']
+0.138
+------------------------Distinctive Topic--------------------------
+['worker' 'revolution' 'party' 'war' 'trotsky' 'social' 'class' 'group'
+ 'country' 'question' 'bourgeois' 'russia']
+['lenin' 'party' 'bolshevik' 'russian' 'war' 'social' 'political' 'russia'
+ 'central' 'socialist' 'committee' 'german']
+0.024
+------------------------Distinctive Topic--------------------------
+['worker' 'revolution' 'party' 'war' 'trotsky' 'social' 'class' 'group'
+ 'country' 'question' 'bourgeois' 'russia']
+['explanation' 'notebook' 'sit' 'human' 'room' 'dispute' 'schismatic'
+ 'destiny' 'declaration' 'circulate' 'criticise' 'communication']
+0.026
+------------------------Distinctive Topic--------------------------
+['worker' 'revolution' 'party' 'war' 'trotsky' 'social' 'class' 'group'
+ 'country' 'question' 'bourgeois' 'russia']
+['disappear' 'associate' 'genuinely' 'pressure' 'win' 'investigation'
+ 'embody' 'happy' 'dawn' 'message' 'massive' 'research']
+0.018
+------------------------Distinctive Topic--------------------------
+['worker' 'revolution' 'party' 'war' 'trotsky' 'social' 'class' 'group'
+ 'country' 'question' 'bourgeois' 'russia']
+['faction' 'arbitrator' 'gossip' 'role' 'repeatedly' 'course' 'slur'
+ 'stop' 'victim' 'bluntly' 'mind' 'european']
+0.02
+------------------------Distinctive Topic--------------------------
+['worker' 'revolution' 'party' 'war' 'trotsky' 'social' 'class' 'group'
+ 'country' 'question' 'bourgeois' 'russia']
+['secession' 'hilferding' 'cross' 'fear' 'initiative' 'totally' 'supply'
+ 'traditional' 'demonstratively' 'krakow' 'interpretation' 'implore']
+0.036
+------------------------Distinctive Topic--------------------------
+['chauvinism' 'estate' 'argument' 'road' 'insert' 'entire' 'numerous'
+ 'non' 'monger' 'internationalist' 'cherish' 'build']
+['lenin' 'party' 'bolshevik' 'russian' 'war' 'social' 'political' 'russia'
+ 'central' 'socialist' 'committee' 'german']
+0.008
+------------------------Distinctive Topic--------------------------
+['chauvinism' 'estate' 'argument' 'road' 'insert' 'entire' 'numerous'
+ 'non' 'monger' 'internationalist' 'cherish' 'build']
+['explanation' 'notebook' 'sit' 'human' 'room' 'dispute' 'schismatic'
+ 'destiny' 'declaration' 'circulate' 'criticise' 'communication']
+0.016
+------------------------Distinctive Topic--------------------------
+['chauvinism' 'estate' 'argument' 'road' 'insert' 'entire' 'numerous'
+ 'non' 'monger' 'internationalist' 'cherish' 'build']
+['disappear' 'associate' 'genuinely' 'pressure' 'win' 'investigation'
+ 'embody' 'happy' 'dawn' 'message' 'massive' 'research']
+0.022
+------------------------Distinctive Topic--------------------------
+['chauvinism' 'estate' 'argument' 'road' 'insert' 'entire' 'numerous'
+ 'non' 'monger' 'internationalist' 'cherish' 'build']
+['faction' 'arbitrator' 'gossip' 'role' 'repeatedly' 'course' 'slur'
+ 'stop' 'victim' 'bluntly' 'mind' 'european']
+0.026
+------------------------Distinctive Topic--------------------------
+['chauvinism' 'estate' 'argument' 'road' 'insert' 'entire' 'numerous'
+ 'non' 'monger' 'internationalist' 'cherish' 'build']
+['secession' 'hilferding' 'cross' 'fear' 'initiative' 'totally' 'supply'
+ 'traditional' 'demonstratively' 'krakow' 'interpretation' 'implore']

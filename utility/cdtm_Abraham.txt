@@ -1,0 +1,865 @@
+------------------------1830-1837--------------------------
+0.022
+------------------------Distinctive Topic--------------------------
+['examination' 'act' 'thomas' 'heretofore' 'republican' 'dear' 'follow'
+ 'tract' 'appoint' 'young' 'knowledge' 'burn' 'abuse' 'ascertain'
+ 'defense']
+['adapt' 'exactly' 'spirit' 'address' 'practical' 'debt' 'remain'
+ 'arrangement' 'major' 'build' 'single' 'ring' 'limit' 'think' 'scene']
+0.03
+------------------------Distinctive Topic--------------------------
+['examination' 'act' 'thomas' 'heretofore' 'republican' 'dear' 'follow'
+ 'tract' 'appoint' 'young' 'knowledge' 'burn' 'abuse' 'ascertain'
+ 'defense']
+['doubtless' 'western' 'icer' 'special' 'interfere' 'forget' 'uence'
+ 'treasurer' 'experience' 'hat' 'lay' 'mile' 'x' 'county' 'examine']
+0.062
+------------------------Distinctive Topic--------------------------
+['examination' 'act' 'thomas' 'heretofore' 'republican' 'dear' 'follow'
+ 'tract' 'appoint' 'young' 'knowledge' 'burn' 'abuse' 'ascertain'
+ 'defense']
+['lincoln' 'man' 'state' 'life' 'case' 'story' 'old' 'good' 'power'
+ 'great' 'friend' 'lawyer' 'general' 'new' 'fact']
+0.016
+------------------------Distinctive Topic--------------------------
+['examination' 'act' 'thomas' 'heretofore' 'republican' 'dear' 'follow'
+ 'tract' 'appoint' 'young' 'knowledge' 'burn' 'abuse' 'ascertain'
+ 'defense']
+['educate' 'laugh' 'acquisition' 'private' 'journal' 'humbler' 'cease'
+ 'institution' 'moderate' 'er' 'woman' 'politic' 'survey' 'apprehension'
+ 'fight']
+0.016
+------------------------Distinctive Topic--------------------------
+['examination' 'act' 'thomas' 'heretofore' 'republican' 'dear' 'follow'
+ 'tract' 'appoint' 'young' 'knowledge' 'burn' 'abuse' 'ascertain'
+ 'defense']
+['word' 'cunning' 'war' 'improvement' 'rst' 'verdict' 'doubt' 'member'
+ 'army' 'professional' 'kill' 'progress' 'trouble' 'fee' 'good']
+0.042
+------------------------Distinctive Topic--------------------------
+['shall' 'man' 'general' 'assignment' 'law' 'talbott' 'bank' 'deed'
+ 'adams' 'state' 'let' 'case' 'think' 'people' 'gen']
+['adapt' 'exactly' 'spirit' 'address' 'practical' 'debt' 'remain'
+ 'arrangement' 'major' 'build' 'single' 'ring' 'limit' 'think' 'scene']
+0.05
+------------------------Distinctive Topic--------------------------
+['shall' 'man' 'general' 'assignment' 'law' 'talbott' 'bank' 'deed'
+ 'adams' 'state' 'let' 'case' 'think' 'people' 'gen']
+['doubtless' 'western' 'icer' 'special' 'interfere' 'forget' 'uence'
+ 'treasurer' 'experience' 'hat' 'lay' 'mile' 'x' 'county' 'examine']
+0.142
+------------------------Distinctive Topic--------------------------
+['shall' 'man' 'general' 'assignment' 'law' 'talbott' 'bank' 'deed'
+ 'adams' 'state' 'let' 'case' 'think' 'people' 'gen']
+['lincoln' 'man' 'state' 'life' 'case' 'story' 'old' 'good' 'power'
+ 'great' 'friend' 'lawyer' 'general' 'new' 'fact']
+0.048
+------------------------Distinctive Topic--------------------------
+['shall' 'man' 'general' 'assignment' 'law' 'talbott' 'bank' 'deed'
+ 'adams' 'state' 'let' 'case' 'think' 'people' 'gen']
+['educate' 'laugh' 'acquisition' 'private' 'journal' 'humbler' 'cease'
+ 'institution' 'moderate' 'er' 'woman' 'politic' 'survey' 'apprehension'
+ 'fight']
+0.054
+------------------------Distinctive Topic--------------------------
+['shall' 'man' 'general' 'assignment' 'law' 'talbott' 'bank' 'deed'
+ 'adams' 'state' 'let' 'case' 'think' 'people' 'gen']
+['word' 'cunning' 'war' 'improvement' 'rst' 'verdict' 'doubt' 'member'
+ 'army' 'professional' 'kill' 'progress' 'trouble' 'fee' 'good']
+0.016
+------------------------Distinctive Topic--------------------------
+['fond' 'writing' 'kitchen' 'furnish' 'death' 'integrity' 'child' 'e'
+ 'victim' 'example' 'tend' 'fair' 'experiment' 'information' 'protection']
+['adapt' 'exactly' 'spirit' 'address' 'practical' 'debt' 'remain'
+ 'arrangement' 'major' 'build' 'single' 'ring' 'limit' 'think' 'scene']
+0.028
+------------------------Distinctive Topic--------------------------
+['fond' 'writing' 'kitchen' 'furnish' 'death' 'integrity' 'child' 'e'
+ 'victim' 'example' 'tend' 'fair' 'experiment' 'information' 'protection']
+['doubtless' 'western' 'icer' 'special' 'interfere' 'forget' 'uence'
+ 'treasurer' 'experience' 'hat' 'lay' 'mile' 'x' 'county' 'examine']
+0.046
+------------------------Distinctive Topic--------------------------
+['fond' 'writing' 'kitchen' 'furnish' 'death' 'integrity' 'child' 'e'
+ 'victim' 'example' 'tend' 'fair' 'experiment' 'information' 'protection']
+['lincoln' 'man' 'state' 'life' 'case' 'story' 'old' 'good' 'power'
+ 'great' 'friend' 'lawyer' 'general' 'new' 'fact']
+0.026
+------------------------Distinctive Topic--------------------------
+['fond' 'writing' 'kitchen' 'furnish' 'death' 'integrity' 'child' 'e'
+ 'victim' 'example' 'tend' 'fair' 'experiment' 'information' 'protection']
+['educate' 'laugh' 'acquisition' 'private' 'journal' 'humbler' 'cease'
+ 'institution' 'moderate' 'er' 'woman' 'politic' 'survey' 'apprehension'
+ 'fight']
+0.018
+------------------------Distinctive Topic--------------------------
+['fond' 'writing' 'kitchen' 'furnish' 'death' 'integrity' 'child' 'e'
+ 'victim' 'example' 'tend' 'fair' 'experiment' 'information' 'protection']
+['word' 'cunning' 'war' 'improvement' 'rst' 'verdict' 'doubt' 'member'
+ 'army' 'professional' 'kill' 'progress' 'trouble' 'fee' 'good']
+0.008
+------------------------Distinctive Topic--------------------------
+['alike' 'air' 'liar' 'world' 'execute' 'support' 'chancery' 'face' 'form'
+ 'stop' 'freshness' 'task' 'succeed' 'probable' 'sacri']
+['adapt' 'exactly' 'spirit' 'address' 'practical' 'debt' 'remain'
+ 'arrangement' 'major' 'build' 'single' 'ring' 'limit' 'think' 'scene']
+0.026
+------------------------Distinctive Topic--------------------------
+['alike' 'air' 'liar' 'world' 'execute' 'support' 'chancery' 'face' 'form'
+ 'stop' 'freshness' 'task' 'succeed' 'probable' 'sacri']
+['doubtless' 'western' 'icer' 'special' 'interfere' 'forget' 'uence'
+ 'treasurer' 'experience' 'hat' 'lay' 'mile' 'x' 'county' 'examine']
+0.052
+------------------------Distinctive Topic--------------------------
+['alike' 'air' 'liar' 'world' 'execute' 'support' 'chancery' 'face' 'form'
+ 'stop' 'freshness' 'task' 'succeed' 'probable' 'sacri']
+['lincoln' 'man' 'state' 'life' 'case' 'story' 'old' 'good' 'power'
+ 'great' 'friend' 'lawyer' 'general' 'new' 'fact']
+0.022
+------------------------Distinctive Topic--------------------------
+['alike' 'air' 'liar' 'world' 'execute' 'support' 'chancery' 'face' 'form'
+ 'stop' 'freshness' 'task' 'succeed' 'probable' 'sacri']
+['educate' 'laugh' 'acquisition' 'private' 'journal' 'humbler' 'cease'
+ 'institution' 'moderate' 'er' 'woman' 'politic' 'survey' 'apprehension'
+ 'fight']
+0.014
+------------------------Distinctive Topic--------------------------
+['alike' 'air' 'liar' 'world' 'execute' 'support' 'chancery' 'face' 'form'
+ 'stop' 'freshness' 'task' 'succeed' 'probable' 'sacri']
+['word' 'cunning' 'war' 'improvement' 'rst' 'verdict' 'doubt' 'member'
+ 'army' 'professional' 'kill' 'progress' 'trouble' 'fee' 'good']
+0.012
+------------------------Distinctive Topic--------------------------
+['thought' 'wm' 'convinced' 'pass' 'mary' 'man' 'deny' 'principal' 'erect'
+ 'grow' 'deal' 'request' 'old' 'manner' 'cost']
+['adapt' 'exactly' 'spirit' 'address' 'practical' 'debt' 'remain'
+ 'arrangement' 'major' 'build' 'single' 'ring' 'limit' 'think' 'scene']
+0.032
+------------------------Distinctive Topic--------------------------
+['thought' 'wm' 'convinced' 'pass' 'mary' 'man' 'deny' 'principal' 'erect'
+ 'grow' 'deal' 'request' 'old' 'manner' 'cost']
+['doubtless' 'western' 'icer' 'special' 'interfere' 'forget' 'uence'
+ 'treasurer' 'experience' 'hat' 'lay' 'mile' 'x' 'county' 'examine']
+0.064
+------------------------Distinctive Topic--------------------------
+['thought' 'wm' 'convinced' 'pass' 'mary' 'man' 'deny' 'principal' 'erect'
+ 'grow' 'deal' 'request' 'old' 'manner' 'cost']
+['lincoln' 'man' 'state' 'life' 'case' 'story' 'old' 'good' 'power'
+ 'great' 'friend' 'lawyer' 'general' 'new' 'fact']
+0.016
+------------------------Distinctive Topic--------------------------
+['thought' 'wm' 'convinced' 'pass' 'mary' 'man' 'deny' 'principal' 'erect'
+ 'grow' 'deal' 'request' 'old' 'manner' 'cost']
+['educate' 'laugh' 'acquisition' 'private' 'journal' 'humbler' 'cease'
+ 'institution' 'moderate' 'er' 'woman' 'politic' 'survey' 'apprehension'
+ 'fight']
+0.014
+------------------------Distinctive Topic--------------------------
+['thought' 'wm' 'convinced' 'pass' 'mary' 'man' 'deny' 'principal' 'erect'
+ 'grow' 'deal' 'request' 'old' 'manner' 'cost']
+['word' 'cunning' 'war' 'improvement' 'rst' 'verdict' 'doubt' 'member'
+ 'army' 'professional' 'kill' 'progress' 'trouble' 'fee' 'good']
+------------------------1838-1845--------------------------
+0.018
+------------------------Distinctive Topic--------------------------
+['victory' 'expense' 'drink' 'drinker' 'territory' 'james' 'period'
+ 'draft' 'simply' 'pecuniary' 'single' 'slave' 'truly' 'labor' 'property']
+['happiness' 'guarantee' 'feeling' 'result' 'hope' 'constitution' 'far'
+ 'read' 'opposition' 'louisville' 'enter' 'reformer' 'session' 'champion'
+ 'think']
+0.036
+------------------------Distinctive Topic--------------------------
+['victory' 'expense' 'drink' 'drinker' 'territory' 'james' 'period'
+ 'draft' 'simply' 'pecuniary' 'single' 'slave' 'truly' 'labor' 'property']
+['subject' 'arm' 'follow' 'law' 'oppose' 'intend' 'charge' 'press' 'let'
+ 'demand' 'person' 'property' 'new' 'power' 'disregard']
+0.02
+------------------------Distinctive Topic--------------------------
+['victory' 'expense' 'drink' 'drinker' 'territory' 'james' 'period'
+ 'draft' 'simply' 'pecuniary' 'single' 'slave' 'truly' 'labor' 'property']
+['learn' 'soon' 'regard' 'eloquence' 'friendship' 'attempt' 'question'
+ 'certainly' 'fairness' 'date' 'remember' 'extend' 'danger' 'cause'
+ 'gentleman']
+0.036
+------------------------Distinctive Topic--------------------------
+['victory' 'expense' 'drink' 'drinker' 'territory' 'james' 'period'
+ 'draft' 'simply' 'pecuniary' 'single' 'slave' 'truly' 'labor' 'property']
+['frame' 'relation' 'long' 'leader' 'session' 'disappointment' 'present'
+ 'enthusiasm' 'great' 'letter' 'common' 'presidency' 'answer' 'humble'
+ 'fully']
+0.028
+------------------------Distinctive Topic--------------------------
+['victory' 'expense' 'drink' 'drinker' 'territory' 'james' 'period'
+ 'draft' 'simply' 'pecuniary' 'single' 'slave' 'truly' 'labor' 'property']
+['lincoln' 'man' 'state' 'party' 'slavery' 'kansas' 'political' 'friend'
+ 'shall' 'vote' 'people' 'speech' 'slave' 'free' 'clay']
+0.06
+------------------------Distinctive Topic--------------------------
+['state' 'shall' 'whig' 'man' 'think' 'good' 'party' 'people' 'write'
+ 'friend' 'court' 'letter' 'county' 'let' 'great']
+['happiness' 'guarantee' 'feeling' 'result' 'hope' 'constitution' 'far'
+ 'read' 'opposition' 'louisville' 'enter' 'reformer' 'session' 'champion'
+ 'think']
+0.078
+------------------------Distinctive Topic--------------------------
+['state' 'shall' 'whig' 'man' 'think' 'good' 'party' 'people' 'write'
+ 'friend' 'court' 'letter' 'county' 'let' 'great']
+['subject' 'arm' 'follow' 'law' 'oppose' 'intend' 'charge' 'press' 'let'
+ 'demand' 'person' 'property' 'new' 'power' 'disregard']
+0.078
+------------------------Distinctive Topic--------------------------
+['state' 'shall' 'whig' 'man' 'think' 'good' 'party' 'people' 'write'
+ 'friend' 'court' 'letter' 'county' 'let' 'great']
+['learn' 'soon' 'regard' 'eloquence' 'friendship' 'attempt' 'question'
+ 'certainly' 'fairness' 'date' 'remember' 'extend' 'danger' 'cause'
+ 'gentleman']
+0.076
+------------------------Distinctive Topic--------------------------
+['state' 'shall' 'whig' 'man' 'think' 'good' 'party' 'people' 'write'
+ 'friend' 'court' 'letter' 'county' 'let' 'great']
+['frame' 'relation' 'long' 'leader' 'session' 'disappointment' 'present'
+ 'enthusiasm' 'great' 'letter' 'common' 'presidency' 'answer' 'humble'
+ 'fully']
+0.14
+------------------------Distinctive Topic--------------------------
+['state' 'shall' 'whig' 'man' 'think' 'good' 'party' 'people' 'write'
+ 'friend' 'court' 'letter' 'county' 'let' 'great']
+['lincoln' 'man' 'state' 'party' 'slavery' 'kansas' 'political' 'friend'
+ 'shall' 'vote' 'people' 'speech' 'slave' 'free' 'clay']
+0.03
+------------------------Distinctive Topic--------------------------
+['forbear' 'lincoln' 'escape' 'set' 'contest' 'miss' 'swear' 'continuance'
+ 'blow' 'excitement' 'ce' 'dictate' 'fashion' 'surrender' 'consumption']
+['happiness' 'guarantee' 'feeling' 'result' 'hope' 'constitution' 'far'
+ 'read' 'opposition' 'louisville' 'enter' 'reformer' 'session' 'champion'
+ 'think']
+0.032
+------------------------Distinctive Topic--------------------------
+['forbear' 'lincoln' 'escape' 'set' 'contest' 'miss' 'swear' 'continuance'
+ 'blow' 'excitement' 'ce' 'dictate' 'fashion' 'surrender' 'consumption']
+['subject' 'arm' 'follow' 'law' 'oppose' 'intend' 'charge' 'press' 'let'
+ 'demand' 'person' 'property' 'new' 'power' 'disregard']
+0.026
+------------------------Distinctive Topic--------------------------
+['forbear' 'lincoln' 'escape' 'set' 'contest' 'miss' 'swear' 'continuance'
+ 'blow' 'excitement' 'ce' 'dictate' 'fashion' 'surrender' 'consumption']
+['learn' 'soon' 'regard' 'eloquence' 'friendship' 'attempt' 'question'
+ 'certainly' 'fairness' 'date' 'remember' 'extend' 'danger' 'cause'
+ 'gentleman']
+0.026
+------------------------Distinctive Topic--------------------------
+['forbear' 'lincoln' 'escape' 'set' 'contest' 'miss' 'swear' 'continuance'
+ 'blow' 'excitement' 'ce' 'dictate' 'fashion' 'surrender' 'consumption']
+['frame' 'relation' 'long' 'leader' 'session' 'disappointment' 'present'
+ 'enthusiasm' 'great' 'letter' 'common' 'presidency' 'answer' 'humble'
+ 'fully']
+0.044
+------------------------Distinctive Topic--------------------------
+['forbear' 'lincoln' 'escape' 'set' 'contest' 'miss' 'swear' 'continuance'
+ 'blow' 'excitement' 'ce' 'dictate' 'fashion' 'surrender' 'consumption']
+['lincoln' 'man' 'state' 'party' 'slavery' 'kansas' 'political' 'friend'
+ 'shall' 'vote' 'people' 'speech' 'slave' 'free' 'clay']
+0.018
+------------------------Distinctive Topic--------------------------
+['recommend' 'icer' 'man' 'guess' 'bring' 'agony' 'look' 'census' 'reply'
+ 'oh' 'prevail' 'deter' 'cession' 'document' 'notice']
+['happiness' 'guarantee' 'feeling' 'result' 'hope' 'constitution' 'far'
+ 'read' 'opposition' 'louisville' 'enter' 'reformer' 'session' 'champion'
+ 'think']
+0.018
+------------------------Distinctive Topic--------------------------
+['recommend' 'icer' 'man' 'guess' 'bring' 'agony' 'look' 'census' 'reply'
+ 'oh' 'prevail' 'deter' 'cession' 'document' 'notice']
+['subject' 'arm' 'follow' 'law' 'oppose' 'intend' 'charge' 'press' 'let'
+ 'demand' 'person' 'property' 'new' 'power' 'disregard']
+0.032
+------------------------Distinctive Topic--------------------------
+['recommend' 'icer' 'man' 'guess' 'bring' 'agony' 'look' 'census' 'reply'
+ 'oh' 'prevail' 'deter' 'cession' 'document' 'notice']
+['learn' 'soon' 'regard' 'eloquence' 'friendship' 'attempt' 'question'
+ 'certainly' 'fairness' 'date' 'remember' 'extend' 'danger' 'cause'
+ 'gentleman']
+0.022
+------------------------Distinctive Topic--------------------------
+['recommend' 'icer' 'man' 'guess' 'bring' 'agony' 'look' 'census' 'reply'
+ 'oh' 'prevail' 'deter' 'cession' 'document' 'notice']
+['frame' 'relation' 'long' 'leader' 'session' 'disappointment' 'present'
+ 'enthusiasm' 'great' 'letter' 'common' 'presidency' 'answer' 'humble'
+ 'fully']
+0.028
+------------------------Distinctive Topic--------------------------
+['recommend' 'icer' 'man' 'guess' 'bring' 'agony' 'look' 'census' 'reply'
+ 'oh' 'prevail' 'deter' 'cession' 'document' 'notice']
+['lincoln' 'man' 'state' 'party' 'slavery' 'kansas' 'political' 'friend'
+ 'shall' 'vote' 'people' 'speech' 'slave' 'free' 'clay']
+0.028
+------------------------Distinctive Topic--------------------------
+['news' 'force' 'able' 'texas' 'case' 'seller' 'publish' 'accurate' 'rude'
+ 'executive' 'ceremony' 'express' 'divide' 'voter' 'domestic']
+['happiness' 'guarantee' 'feeling' 'result' 'hope' 'constitution' 'far'
+ 'read' 'opposition' 'louisville' 'enter' 'reformer' 'session' 'champion'
+ 'think']
+0.028
+------------------------Distinctive Topic--------------------------
+['news' 'force' 'able' 'texas' 'case' 'seller' 'publish' 'accurate' 'rude'
+ 'executive' 'ceremony' 'express' 'divide' 'voter' 'domestic']
+['subject' 'arm' 'follow' 'law' 'oppose' 'intend' 'charge' 'press' 'let'
+ 'demand' 'person' 'property' 'new' 'power' 'disregard']
+0.018
+------------------------Distinctive Topic--------------------------
+['news' 'force' 'able' 'texas' 'case' 'seller' 'publish' 'accurate' 'rude'
+ 'executive' 'ceremony' 'express' 'divide' 'voter' 'domestic']
+['learn' 'soon' 'regard' 'eloquence' 'friendship' 'attempt' 'question'
+ 'certainly' 'fairness' 'date' 'remember' 'extend' 'danger' 'cause'
+ 'gentleman']
+0.022
+------------------------Distinctive Topic--------------------------
+['news' 'force' 'able' 'texas' 'case' 'seller' 'publish' 'accurate' 'rude'
+ 'executive' 'ceremony' 'express' 'divide' 'voter' 'domestic']
+['frame' 'relation' 'long' 'leader' 'session' 'disappointment' 'present'
+ 'enthusiasm' 'great' 'letter' 'common' 'presidency' 'answer' 'humble'
+ 'fully']
+0.028
+------------------------Distinctive Topic--------------------------
+['news' 'force' 'able' 'texas' 'case' 'seller' 'publish' 'accurate' 'rude'
+ 'executive' 'ceremony' 'express' 'divide' 'voter' 'domestic']
+['lincoln' 'man' 'state' 'party' 'slavery' 'kansas' 'political' 'friend'
+ 'shall' 'vote' 'people' 'speech' 'slave' 'free' 'clay']
+------------------------1846-1853--------------------------
+0.03
+------------------------Distinctive Topic--------------------------
+['authorize' 'monstrous' 'head' 'evil' 'construction' 'sheer' 'tend'
+ 'tail' 'tendency' 'arrest' 'hand' 'stack' 'ghte' 'satis' 'hungarian']
+['set' 'meeting' 'nebraska' 'representative' 'wave' 'behalf' 'altogether'
+ 'equal' 'period' 'arrangement' 'jury' 'feel' 'testi' 'son' 'party']
+0.026
+------------------------Distinctive Topic--------------------------
+['authorize' 'monstrous' 'head' 'evil' 'construction' 'sheer' 'tend'
+ 'tail' 'tendency' 'arrest' 'hand' 'stack' 'ghte' 'satis' 'hungarian']
+['certain' 'double' 'choose' 'deception' 'clay' 'dollar' 'bearing'
+ 'record' 'seat' 'love' 'seaton' 'language' 'light' 'nominate'
+ 'politician']
+0.02
+------------------------Distinctive Topic--------------------------
+['authorize' 'monstrous' 'head' 'evil' 'construction' 'sheer' 'tend'
+ 'tail' 'tendency' 'arrest' 'hand' 'stack' 'ghte' 'satis' 'hungarian']
+['triumph' 'child' 'pain' 'champion' 'army' 'arrest' 'place' 'idea'
+ 'press' 'territorial' 'mastery' 'wretche' 'desire' 'editor' 'contrary']
+0.034
+------------------------Distinctive Topic--------------------------
+['authorize' 'monstrous' 'head' 'evil' 'construction' 'sheer' 'tend'
+ 'tail' 'tendency' 'arrest' 'hand' 'stack' 'ghte' 'satis' 'hungarian']
+['army' 'continue' 'hope' 'appointment' 'expect' 'delivery' 'view'
+ 'particularly' 'compel' 'country' 'tone' 'successful' 'elector' 'city'
+ 'limit']
+0.024
+------------------------Distinctive Topic--------------------------
+['authorize' 'monstrous' 'head' 'evil' 'construction' 'sheer' 'tend'
+ 'tail' 'tendency' 'arrest' 'hand' 'stack' 'ghte' 'satis' 'hungarian']
+['lincoln' 'man' 'war' 'state' 'president' 'people' 'general' 'slavery'
+ 'party' 'vote' 'congress' 'question' 'great' 'whig' 'speech']
+0.026
+------------------------Distinctive Topic--------------------------
+['faith' 'political' 'able' 'previous' 'assumption' 'people' 'shake'
+ 'presence' 'democratic' 'distinct' 'position' 'brook' 'length'
+ 'responsibility' 'seaboard']
+['set' 'meeting' 'nebraska' 'representative' 'wave' 'behalf' 'altogether'
+ 'equal' 'period' 'arrangement' 'jury' 'feel' 'testi' 'son' 'party']
+0.03
+------------------------Distinctive Topic--------------------------
+['faith' 'political' 'able' 'previous' 'assumption' 'people' 'shake'
+ 'presence' 'democratic' 'distinct' 'position' 'brook' 'length'
+ 'responsibility' 'seaboard']
+['certain' 'double' 'choose' 'deception' 'clay' 'dollar' 'bearing'
+ 'record' 'seat' 'love' 'seaton' 'language' 'light' 'nominate'
+ 'politician']
+0.016
+------------------------Distinctive Topic--------------------------
+['faith' 'political' 'able' 'previous' 'assumption' 'people' 'shake'
+ 'presence' 'democratic' 'distinct' 'position' 'brook' 'length'
+ 'responsibility' 'seaboard']
+['triumph' 'child' 'pain' 'champion' 'army' 'arrest' 'place' 'idea'
+ 'press' 'territorial' 'mastery' 'wretche' 'desire' 'editor' 'contrary']
+0.016
+------------------------Distinctive Topic--------------------------
+['faith' 'political' 'able' 'previous' 'assumption' 'people' 'shake'
+ 'presence' 'democratic' 'distinct' 'position' 'brook' 'length'
+ 'responsibility' 'seaboard']
+['army' 'continue' 'hope' 'appointment' 'expect' 'delivery' 'view'
+ 'particularly' 'compel' 'country' 'tone' 'successful' 'elector' 'city'
+ 'limit']
+0.022
+------------------------Distinctive Topic--------------------------
+['faith' 'political' 'able' 'previous' 'assumption' 'people' 'shake'
+ 'presence' 'democratic' 'distinct' 'position' 'brook' 'length'
+ 'responsibility' 'seaboard']
+['lincoln' 'man' 'war' 'state' 'president' 'people' 'general' 'slavery'
+ 'party' 'vote' 'congress' 'question' 'great' 'whig' 'speech']
+0.034
+------------------------Distinctive Topic--------------------------
+['portion' 'writer' 'board' 'scheme' 'investigation' 'manner' 'caucus'
+ 'silence' 'constant' 'lady' 'compel' 'commence' 'adoption' 'pen'
+ 'specimen']
+['set' 'meeting' 'nebraska' 'representative' 'wave' 'behalf' 'altogether'
+ 'equal' 'period' 'arrangement' 'jury' 'feel' 'testi' 'son' 'party']
+0.036
+------------------------Distinctive Topic--------------------------
+['portion' 'writer' 'board' 'scheme' 'investigation' 'manner' 'caucus'
+ 'silence' 'constant' 'lady' 'compel' 'commence' 'adoption' 'pen'
+ 'specimen']
+['certain' 'double' 'choose' 'deception' 'clay' 'dollar' 'bearing'
+ 'record' 'seat' 'love' 'seaton' 'language' 'light' 'nominate'
+ 'politician']
+0.014
+------------------------Distinctive Topic--------------------------
+['portion' 'writer' 'board' 'scheme' 'investigation' 'manner' 'caucus'
+ 'silence' 'constant' 'lady' 'compel' 'commence' 'adoption' 'pen'
+ 'specimen']
+['triumph' 'child' 'pain' 'champion' 'army' 'arrest' 'place' 'idea'
+ 'press' 'territorial' 'mastery' 'wretche' 'desire' 'editor' 'contrary']
+0.014
+------------------------Distinctive Topic--------------------------
+['portion' 'writer' 'board' 'scheme' 'investigation' 'manner' 'caucus'
+ 'silence' 'constant' 'lady' 'compel' 'commence' 'adoption' 'pen'
+ 'specimen']
+['army' 'continue' 'hope' 'appointment' 'expect' 'delivery' 'view'
+ 'particularly' 'compel' 'country' 'tone' 'successful' 'elector' 'city'
+ 'limit']
+0.022
+------------------------Distinctive Topic--------------------------
+['portion' 'writer' 'board' 'scheme' 'investigation' 'manner' 'caucus'
+ 'silence' 'constant' 'lady' 'compel' 'commence' 'adoption' 'pen'
+ 'specimen']
+['lincoln' 'man' 'war' 'state' 'president' 'people' 'general' 'slavery'
+ 'party' 'vote' 'congress' 'question' 'great' 'whig' 'speech']
+0.036
+------------------------Distinctive Topic--------------------------
+['scott' 'states' 'spring' 'honest' 'retire' 'texas' 'hear' 'perfectly'
+ 'improved' 'fame' 'rely' 'measure' 'inferior' 'contract' 'ectually']
+['set' 'meeting' 'nebraska' 'representative' 'wave' 'behalf' 'altogether'
+ 'equal' 'period' 'arrangement' 'jury' 'feel' 'testi' 'son' 'party']
+0.038
+------------------------Distinctive Topic--------------------------
+['scott' 'states' 'spring' 'honest' 'retire' 'texas' 'hear' 'perfectly'
+ 'improved' 'fame' 'rely' 'measure' 'inferior' 'contract' 'ectually']
+['certain' 'double' 'choose' 'deception' 'clay' 'dollar' 'bearing'
+ 'record' 'seat' 'love' 'seaton' 'language' 'light' 'nominate'
+ 'politician']
+0.01
+------------------------Distinctive Topic--------------------------
+['scott' 'states' 'spring' 'honest' 'retire' 'texas' 'hear' 'perfectly'
+ 'improved' 'fame' 'rely' 'measure' 'inferior' 'contract' 'ectually']
+['triumph' 'child' 'pain' 'champion' 'army' 'arrest' 'place' 'idea'
+ 'press' 'territorial' 'mastery' 'wretche' 'desire' 'editor' 'contrary']
+0.01
+------------------------Distinctive Topic--------------------------
+['scott' 'states' 'spring' 'honest' 'retire' 'texas' 'hear' 'perfectly'
+ 'improved' 'fame' 'rely' 'measure' 'inferior' 'contract' 'ectually']
+['army' 'continue' 'hope' 'appointment' 'expect' 'delivery' 'view'
+ 'particularly' 'compel' 'country' 'tone' 'successful' 'elector' 'city'
+ 'limit']
+0.034
+------------------------Distinctive Topic--------------------------
+['scott' 'states' 'spring' 'honest' 'retire' 'texas' 'hear' 'perfectly'
+ 'improved' 'fame' 'rely' 'measure' 'inferior' 'contract' 'ectually']
+['lincoln' 'man' 'war' 'state' 'president' 'people' 'general' 'slavery'
+ 'party' 'vote' 'congress' 'question' 'great' 'whig' 'speech']
+0.072
+------------------------Distinctive Topic--------------------------
+['judge' 'state' 'man' 'slavery' 'question' 'douglas' 'general' 'shall'
+ 'right' 'territory' 'think' 'people' 'constitution' 'congress' 'new']
+['set' 'meeting' 'nebraska' 'representative' 'wave' 'behalf' 'altogether'
+ 'equal' 'period' 'arrangement' 'jury' 'feel' 'testi' 'son' 'party']
+0.08
+------------------------Distinctive Topic--------------------------
+['judge' 'state' 'man' 'slavery' 'question' 'douglas' 'general' 'shall'
+ 'right' 'territory' 'think' 'people' 'constitution' 'congress' 'new']
+['certain' 'double' 'choose' 'deception' 'clay' 'dollar' 'bearing'
+ 'record' 'seat' 'love' 'seaton' 'language' 'light' 'nominate'
+ 'politician']
+0.056
+------------------------Distinctive Topic--------------------------
+['judge' 'state' 'man' 'slavery' 'question' 'douglas' 'general' 'shall'
+ 'right' 'territory' 'think' 'people' 'constitution' 'congress' 'new']
+['triumph' 'child' 'pain' 'champion' 'army' 'arrest' 'place' 'idea'
+ 'press' 'territorial' 'mastery' 'wretche' 'desire' 'editor' 'contrary']
+0.054
+------------------------Distinctive Topic--------------------------
+['judge' 'state' 'man' 'slavery' 'question' 'douglas' 'general' 'shall'
+ 'right' 'territory' 'think' 'people' 'constitution' 'congress' 'new']
+['army' 'continue' 'hope' 'appointment' 'expect' 'delivery' 'view'
+ 'particularly' 'compel' 'country' 'tone' 'successful' 'elector' 'city'
+ 'limit']
+0.194
+------------------------Distinctive Topic--------------------------
+['judge' 'state' 'man' 'slavery' 'question' 'douglas' 'general' 'shall'
+ 'right' 'territory' 'think' 'people' 'constitution' 'congress' 'new']
+['lincoln' 'man' 'war' 'state' 'president' 'people' 'general' 'slavery'
+ 'party' 'vote' 'congress' 'question' 'great' 'whig' 'speech']
+------------------------1854-1861--------------------------
+0.028
+------------------------Distinctive Topic--------------------------
+['state' 'man' 'slavery' 'judge' 'douglas' 'people' 'shall' 'slave'
+ 'constitution' 'right' 'think' 'government' 'question' 'law' 'union']
+['gun' 'occupation' 'labor' 'coward' 'hate' 'kick' 'withdraw' 'douglas'
+ 'review' 'store' 'apportionment' 'royal' 'exquisite' 'pure' 'probably']
+0.024
+------------------------Distinctive Topic--------------------------
+['state' 'man' 'slavery' 'judge' 'douglas' 'people' 'shall' 'slave'
+ 'constitution' 'right' 'think' 'government' 'question' 'law' 'union']
+['right' 'step' 'population' 'debate' 'arbitrary' 'communicate' 'concede'
+ 'joint' 'trade' 'defensive' 'heretofore' 'tired' 'divide' 'fraud'
+ 'assassinate']
+0.026
+------------------------Distinctive Topic--------------------------
+['state' 'man' 'slavery' 'judge' 'douglas' 'people' 'shall' 'slave'
+ 'constitution' 'right' 'think' 'government' 'question' 'law' 'union']
+['iciently' 'physical' 'news' 'lion' 'grati' 'mankind' 'withstand' 'hate'
+ 'judge' 'friendly' 'erect' 'foresee' 'passion' 'republic' 'laugh']
+0.192
+------------------------Distinctive Topic--------------------------
+['state' 'man' 'slavery' 'judge' 'douglas' 'people' 'shall' 'slave'
+ 'constitution' 'right' 'think' 'government' 'question' 'law' 'union']
+['lincoln' 'state' 'man' 'people' 'government' 'president' 'great'
+ 'slavery' 'douglas' 'general' 'union' 'country' 'right' 'party'
+ 'constitution']
+0.02
+------------------------Distinctive Topic--------------------------
+['state' 'man' 'slavery' 'judge' 'douglas' 'people' 'shall' 'slave'
+ 'constitution' 'right' 'think' 'government' 'question' 'law' 'union']
+['eminent' 'faithful' 'frequently' 'sane' 'medicine' 'icultie' 'bewilder'
+ 'disagree' 'permanently' 'ghte' 'explanation' 'midst' 'nde' 'latitude'
+ 'candid']
+0.022
+------------------------Distinctive Topic--------------------------
+['interview' 'hold' 'stride' 'perpetuate' 'unavoidable' 'divide' 'deed'
+ 'resolute' 'age' 'cation' 'particularly' 'vastly' 'debate' 'kaskaskia'
+ 'reception']
+['gun' 'occupation' 'labor' 'coward' 'hate' 'kick' 'withdraw' 'douglas'
+ 'review' 'store' 'apportionment' 'royal' 'exquisite' 'pure' 'probably']
+0.024
+------------------------Distinctive Topic--------------------------
+['interview' 'hold' 'stride' 'perpetuate' 'unavoidable' 'divide' 'deed'
+ 'resolute' 'age' 'cation' 'particularly' 'vastly' 'debate' 'kaskaskia'
+ 'reception']
+['right' 'step' 'population' 'debate' 'arbitrary' 'communicate' 'concede'
+ 'joint' 'trade' 'defensive' 'heretofore' 'tired' 'divide' 'fraud'
+ 'assassinate']
+0.008
+------------------------Distinctive Topic--------------------------
+['interview' 'hold' 'stride' 'perpetuate' 'unavoidable' 'divide' 'deed'
+ 'resolute' 'age' 'cation' 'particularly' 'vastly' 'debate' 'kaskaskia'
+ 'reception']
+['iciently' 'physical' 'news' 'lion' 'grati' 'mankind' 'withstand' 'hate'
+ 'judge' 'friendly' 'erect' 'foresee' 'passion' 'republic' 'laugh']
+0.018
+------------------------Distinctive Topic--------------------------
+['interview' 'hold' 'stride' 'perpetuate' 'unavoidable' 'divide' 'deed'
+ 'resolute' 'age' 'cation' 'particularly' 'vastly' 'debate' 'kaskaskia'
+ 'reception']
+['lincoln' 'state' 'man' 'people' 'government' 'president' 'great'
+ 'slavery' 'douglas' 'general' 'union' 'country' 'right' 'party'
+ 'constitution']
+0.016
+------------------------Distinctive Topic--------------------------
+['interview' 'hold' 'stride' 'perpetuate' 'unavoidable' 'divide' 'deed'
+ 'resolute' 'age' 'cation' 'particularly' 'vastly' 'debate' 'kaskaskia'
+ 'reception']
+['eminent' 'faithful' 'frequently' 'sane' 'medicine' 'icultie' 'bewilder'
+ 'disagree' 'permanently' 'ghte' 'explanation' 'midst' 'nde' 'latitude'
+ 'candid']
+0.022
+------------------------Distinctive Topic--------------------------
+['instant' 'unimportant' 'painfully' 'icte' 'noble' 'teacher' 'refuse'
+ 'outpost' 'obviously' 'thousand' 'grain' 'sorrow' 'usually' 'elegant'
+ 'danville']
+['gun' 'occupation' 'labor' 'coward' 'hate' 'kick' 'withdraw' 'douglas'
+ 'review' 'store' 'apportionment' 'royal' 'exquisite' 'pure' 'probably']
+0.012
+------------------------Distinctive Topic--------------------------
+['instant' 'unimportant' 'painfully' 'icte' 'noble' 'teacher' 'refuse'
+ 'outpost' 'obviously' 'thousand' 'grain' 'sorrow' 'usually' 'elegant'
+ 'danville']
+['right' 'step' 'population' 'debate' 'arbitrary' 'communicate' 'concede'
+ 'joint' 'trade' 'defensive' 'heretofore' 'tired' 'divide' 'fraud'
+ 'assassinate']
+0.01
+------------------------Distinctive Topic--------------------------
+['instant' 'unimportant' 'painfully' 'icte' 'noble' 'teacher' 'refuse'
+ 'outpost' 'obviously' 'thousand' 'grain' 'sorrow' 'usually' 'elegant'
+ 'danville']
+['iciently' 'physical' 'news' 'lion' 'grati' 'mankind' 'withstand' 'hate'
+ 'judge' 'friendly' 'erect' 'foresee' 'passion' 'republic' 'laugh']
+0.016
+------------------------Distinctive Topic--------------------------
+['instant' 'unimportant' 'painfully' 'icte' 'noble' 'teacher' 'refuse'
+ 'outpost' 'obviously' 'thousand' 'grain' 'sorrow' 'usually' 'elegant'
+ 'danville']
+['lincoln' 'state' 'man' 'people' 'government' 'president' 'great'
+ 'slavery' 'douglas' 'general' 'union' 'country' 'right' 'party'
+ 'constitution']
+0.018
+------------------------Distinctive Topic--------------------------
+['instant' 'unimportant' 'painfully' 'icte' 'noble' 'teacher' 'refuse'
+ 'outpost' 'obviously' 'thousand' 'grain' 'sorrow' 'usually' 'elegant'
+ 'danville']
+['eminent' 'faithful' 'frequently' 'sane' 'medicine' 'icultie' 'bewilder'
+ 'disagree' 'permanently' 'ghte' 'explanation' 'midst' 'nde' 'latitude'
+ 'candid']
+0.012
+------------------------Distinctive Topic--------------------------
+['embrace' 'concentrate' 'irmation' 'similar' 'retirement' 'rati' 'globe'
+ 'army' 'venture' 'mingle' 'lose' 'campbell' 'reckless' 'demand' 'witt']
+['gun' 'occupation' 'labor' 'coward' 'hate' 'kick' 'withdraw' 'douglas'
+ 'review' 'store' 'apportionment' 'royal' 'exquisite' 'pure' 'probably']
+0.008
+------------------------Distinctive Topic--------------------------
+['embrace' 'concentrate' 'irmation' 'similar' 'retirement' 'rati' 'globe'
+ 'army' 'venture' 'mingle' 'lose' 'campbell' 'reckless' 'demand' 'witt']
+['right' 'step' 'population' 'debate' 'arbitrary' 'communicate' 'concede'
+ 'joint' 'trade' 'defensive' 'heretofore' 'tired' 'divide' 'fraud'
+ 'assassinate']
+0.008
+------------------------Distinctive Topic--------------------------
+['embrace' 'concentrate' 'irmation' 'similar' 'retirement' 'rati' 'globe'
+ 'army' 'venture' 'mingle' 'lose' 'campbell' 'reckless' 'demand' 'witt']
+['iciently' 'physical' 'news' 'lion' 'grati' 'mankind' 'withstand' 'hate'
+ 'judge' 'friendly' 'erect' 'foresee' 'passion' 'republic' 'laugh']
+0.024
+------------------------Distinctive Topic--------------------------
+['embrace' 'concentrate' 'irmation' 'similar' 'retirement' 'rati' 'globe'
+ 'army' 'venture' 'mingle' 'lose' 'campbell' 'reckless' 'demand' 'witt']
+['lincoln' 'state' 'man' 'people' 'government' 'president' 'great'
+ 'slavery' 'douglas' 'general' 'union' 'country' 'right' 'party'
+ 'constitution']
+0.012
+------------------------Distinctive Topic--------------------------
+['embrace' 'concentrate' 'irmation' 'similar' 'retirement' 'rati' 'globe'
+ 'army' 'venture' 'mingle' 'lose' 'campbell' 'reckless' 'demand' 'witt']
+['eminent' 'faithful' 'frequently' 'sane' 'medicine' 'icultie' 'bewilder'
+ 'disagree' 'permanently' 'ghte' 'explanation' 'midst' 'nde' 'latitude'
+ 'candid']
+0.018
+------------------------Distinctive Topic--------------------------
+['seaman' 'oppression' 'series' 'dollar' 'washington' 'undoubted' 'code'
+ 'cover' 'mischief' 'couch' 'alternate' 'taney' 'designation' 'tarry'
+ 'sneer']
+['gun' 'occupation' 'labor' 'coward' 'hate' 'kick' 'withdraw' 'douglas'
+ 'review' 'store' 'apportionment' 'royal' 'exquisite' 'pure' 'probably']
+0.01
+------------------------Distinctive Topic--------------------------
+['seaman' 'oppression' 'series' 'dollar' 'washington' 'undoubted' 'code'
+ 'cover' 'mischief' 'couch' 'alternate' 'taney' 'designation' 'tarry'
+ 'sneer']
+['right' 'step' 'population' 'debate' 'arbitrary' 'communicate' 'concede'
+ 'joint' 'trade' 'defensive' 'heretofore' 'tired' 'divide' 'fraud'
+ 'assassinate']
+0.002
+------------------------Distinctive Topic--------------------------
+['seaman' 'oppression' 'series' 'dollar' 'washington' 'undoubted' 'code'
+ 'cover' 'mischief' 'couch' 'alternate' 'taney' 'designation' 'tarry'
+ 'sneer']
+['iciently' 'physical' 'news' 'lion' 'grati' 'mankind' 'withstand' 'hate'
+ 'judge' 'friendly' 'erect' 'foresee' 'passion' 'republic' 'laugh']
+0.02
+------------------------Distinctive Topic--------------------------
+['seaman' 'oppression' 'series' 'dollar' 'washington' 'undoubted' 'code'
+ 'cover' 'mischief' 'couch' 'alternate' 'taney' 'designation' 'tarry'
+ 'sneer']
+['lincoln' 'state' 'man' 'people' 'government' 'president' 'great'
+ 'slavery' 'douglas' 'general' 'union' 'country' 'right' 'party'
+ 'constitution']
+0.026
+------------------------Distinctive Topic--------------------------
+['seaman' 'oppression' 'series' 'dollar' 'washington' 'undoubted' 'code'
+ 'cover' 'mischief' 'couch' 'alternate' 'taney' 'designation' 'tarry'
+ 'sneer']
+['eminent' 'faithful' 'frequently' 'sane' 'medicine' 'icultie' 'bewilder'
+ 'disagree' 'permanently' 'ghte' 'explanation' 'midst' 'nde' 'latitude'
+ 'candid']
+------------------------1862-1869--------------------------
+0.026
+------------------------Distinctive Topic--------------------------
+['general' 'washington' 'state' 'united' 'states' 'e' 'war' 'shall'
+ 'major' 'ecutive' 'mansion' 'president' 'man' 'department' 'government']
+['debt' 'entrench' 'meade' 'notorious' 'practicable' 'cleveland' 'gently'
+ 'golden' 'loomis' 'handsome' 'contend' 'excellent' 'bureau' 'till' 'herd']
+0.028
+------------------------Distinctive Topic--------------------------
+['general' 'washington' 'state' 'united' 'states' 'e' 'war' 'shall'
+ 'major' 'ecutive' 'mansion' 'president' 'man' 'department' 'government']
+['tender' 'thorough' 'reading' 'inde' 'fortunately' 'attendance'
+ 'announce' 'toss' 'thereto' 'bestow' 'eyebrow' 'supersede' 'nancially'
+ 'ticket' 'doubtless']
+0.03
+------------------------Distinctive Topic--------------------------
+['general' 'washington' 'state' 'united' 'states' 'e' 'war' 'shall'
+ 'major' 'ecutive' 'mansion' 'president' 'man' 'department' 'government']
+['spend' 'achieve' 'telling' 'pursue' 'redemption' 'build' 'land'
+ 'incident' 'government' 'previously' 'master' 'dinner' 'probability'
+ 'accord' 'cheat']
+0.014
+------------------------Distinctive Topic--------------------------
+['general' 'washington' 'state' 'united' 'states' 'e' 'war' 'shall'
+ 'major' 'ecutive' 'mansion' 'president' 'man' 'department' 'government']
+['negotiate' 'interval' 'responsibility' 'health' 'jealousy' 'leavitt'
+ 'grandeur' 'range' 'unorganized' 'linkum' 'wisdom' 'cance' 'society'
+ 'battle' 'altoona']
+0.196
+------------------------Distinctive Topic--------------------------
+['general' 'washington' 'state' 'united' 'states' 'e' 'war' 'shall'
+ 'major' 'ecutive' 'mansion' 'president' 'man' 'department' 'government']
+['lincoln' 'general' 'man' 'president' 'state' 'government' 'war' 'army'
+ 'great' 'people' 'rebel' 'shall' 'country' 'good' 'enemy']
+0.016
+------------------------Distinctive Topic--------------------------
+['presume' 'cautiously' 'ectually' 'annul' 'consistently' 'vicinity'
+ 'religion' 'abolishing' 'cure' 'patuxent' 'defend' 'henderson' 'speak'
+ 'dollar' 'essential']
+['debt' 'entrench' 'meade' 'notorious' 'practicable' 'cleveland' 'gently'
+ 'golden' 'loomis' 'handsome' 'contend' 'excellent' 'bureau' 'till' 'herd']
+0.018
+------------------------Distinctive Topic--------------------------
+['presume' 'cautiously' 'ectually' 'annul' 'consistently' 'vicinity'
+ 'religion' 'abolishing' 'cure' 'patuxent' 'defend' 'henderson' 'speak'
+ 'dollar' 'essential']
+['tender' 'thorough' 'reading' 'inde' 'fortunately' 'attendance'
+ 'announce' 'toss' 'thereto' 'bestow' 'eyebrow' 'supersede' 'nancially'
+ 'ticket' 'doubtless']
+0.016
+------------------------Distinctive Topic--------------------------
+['presume' 'cautiously' 'ectually' 'annul' 'consistently' 'vicinity'
+ 'religion' 'abolishing' 'cure' 'patuxent' 'defend' 'henderson' 'speak'
+ 'dollar' 'essential']
+['spend' 'achieve' 'telling' 'pursue' 'redemption' 'build' 'land'
+ 'incident' 'government' 'previously' 'master' 'dinner' 'probability'
+ 'accord' 'cheat']
+0.016
+------------------------Distinctive Topic--------------------------
+['presume' 'cautiously' 'ectually' 'annul' 'consistently' 'vicinity'
+ 'religion' 'abolishing' 'cure' 'patuxent' 'defend' 'henderson' 'speak'
+ 'dollar' 'essential']
+['negotiate' 'interval' 'responsibility' 'health' 'jealousy' 'leavitt'
+ 'grandeur' 'range' 'unorganized' 'linkum' 'wisdom' 'cance' 'society'
+ 'battle' 'altoona']
+0.01
+------------------------Distinctive Topic--------------------------
+['presume' 'cautiously' 'ectually' 'annul' 'consistently' 'vicinity'
+ 'religion' 'abolishing' 'cure' 'patuxent' 'defend' 'henderson' 'speak'
+ 'dollar' 'essential']
+['lincoln' 'general' 'man' 'president' 'state' 'government' 'war' 'army'
+ 'great' 'people' 'rebel' 'shall' 'country' 'good' 'enemy']
+0.018
+------------------------Distinctive Topic--------------------------
+['senior' 'painful' 'knoxville' 'overrule' 'shorten' 'marine'
+ 'subdivision' 'maturely' 'pecuniarily' 'grimsley' 'condition' 'drop'
+ 'worship' 'comprise' 'huidekoper']
+['debt' 'entrench' 'meade' 'notorious' 'practicable' 'cleveland' 'gently'
+ 'golden' 'loomis' 'handsome' 'contend' 'excellent' 'bureau' 'till' 'herd']
+0.012
+------------------------Distinctive Topic--------------------------
+['senior' 'painful' 'knoxville' 'overrule' 'shorten' 'marine'
+ 'subdivision' 'maturely' 'pecuniarily' 'grimsley' 'condition' 'drop'
+ 'worship' 'comprise' 'huidekoper']
+['tender' 'thorough' 'reading' 'inde' 'fortunately' 'attendance'
+ 'announce' 'toss' 'thereto' 'bestow' 'eyebrow' 'supersede' 'nancially'
+ 'ticket' 'doubtless']
+0.008
+------------------------Distinctive Topic--------------------------
+['senior' 'painful' 'knoxville' 'overrule' 'shorten' 'marine'
+ 'subdivision' 'maturely' 'pecuniarily' 'grimsley' 'condition' 'drop'
+ 'worship' 'comprise' 'huidekoper']
+['spend' 'achieve' 'telling' 'pursue' 'redemption' 'build' 'land'
+ 'incident' 'government' 'previously' 'master' 'dinner' 'probability'
+ 'accord' 'cheat']
+0.018
+------------------------Distinctive Topic--------------------------
+['senior' 'painful' 'knoxville' 'overrule' 'shorten' 'marine'
+ 'subdivision' 'maturely' 'pecuniarily' 'grimsley' 'condition' 'drop'
+ 'worship' 'comprise' 'huidekoper']
+['negotiate' 'interval' 'responsibility' 'health' 'jealousy' 'leavitt'
+ 'grandeur' 'range' 'unorganized' 'linkum' 'wisdom' 'cance' 'society'
+ 'battle' 'altoona']
+0.012
+------------------------Distinctive Topic--------------------------
+['senior' 'painful' 'knoxville' 'overrule' 'shorten' 'marine'
+ 'subdivision' 'maturely' 'pecuniarily' 'grimsley' 'condition' 'drop'
+ 'worship' 'comprise' 'huidekoper']
+['lincoln' 'general' 'man' 'president' 'state' 'government' 'war' 'army'
+ 'great' 'people' 'rebel' 'shall' 'country' 'good' 'enemy']
+0.01
+------------------------Distinctive Topic--------------------------
+['independent' 'xed' 'ne' 'gradually' 'populous' 'clearance' 'facilitated'
+ 'attentively' 'misunderstood' 'track' 'gap' 'ruin' 'reverse' 'cease'
+ 'wound']
+['debt' 'entrench' 'meade' 'notorious' 'practicable' 'cleveland' 'gently'
+ 'golden' 'loomis' 'handsome' 'contend' 'excellent' 'bureau' 'till' 'herd']
+0.01
+------------------------Distinctive Topic--------------------------
+['independent' 'xed' 'ne' 'gradually' 'populous' 'clearance' 'facilitated'
+ 'attentively' 'misunderstood' 'track' 'gap' 'ruin' 'reverse' 'cease'
+ 'wound']
+['tender' 'thorough' 'reading' 'inde' 'fortunately' 'attendance'
+ 'announce' 'toss' 'thereto' 'bestow' 'eyebrow' 'supersede' 'nancially'
+ 'ticket' 'doubtless']
+0.014
+------------------------Distinctive Topic--------------------------
+['independent' 'xed' 'ne' 'gradually' 'populous' 'clearance' 'facilitated'
+ 'attentively' 'misunderstood' 'track' 'gap' 'ruin' 'reverse' 'cease'
+ 'wound']
+['spend' 'achieve' 'telling' 'pursue' 'redemption' 'build' 'land'
+ 'incident' 'government' 'previously' 'master' 'dinner' 'probability'
+ 'accord' 'cheat']
+0.01
+------------------------Distinctive Topic--------------------------
+['independent' 'xed' 'ne' 'gradually' 'populous' 'clearance' 'facilitated'
+ 'attentively' 'misunderstood' 'track' 'gap' 'ruin' 'reverse' 'cease'
+ 'wound']
+['negotiate' 'interval' 'responsibility' 'health' 'jealousy' 'leavitt'
+ 'grandeur' 'range' 'unorganized' 'linkum' 'wisdom' 'cance' 'society'
+ 'battle' 'altoona']
+0.02
+------------------------Distinctive Topic--------------------------
+['independent' 'xed' 'ne' 'gradually' 'populous' 'clearance' 'facilitated'
+ 'attentively' 'misunderstood' 'track' 'gap' 'ruin' 'reverse' 'cease'
+ 'wound']
+['lincoln' 'general' 'man' 'president' 'state' 'government' 'war' 'army'
+ 'great' 'people' 'rebel' 'shall' 'country' 'good' 'enemy']
+0.012
+------------------------Distinctive Topic--------------------------
+['recover' 'heartily' 'empower' 'europe' 'civil' 'government' 'rowan'
+ 'transpire' 'cavalry' 'confer' 'profanation' 'leonard' 'incorporate'
+ 'merchant' 'meig']
+['debt' 'entrench' 'meade' 'notorious' 'practicable' 'cleveland' 'gently'
+ 'golden' 'loomis' 'handsome' 'contend' 'excellent' 'bureau' 'till' 'herd']
+0.01
+------------------------Distinctive Topic--------------------------
+['recover' 'heartily' 'empower' 'europe' 'civil' 'government' 'rowan'
+ 'transpire' 'cavalry' 'confer' 'profanation' 'leonard' 'incorporate'
+ 'merchant' 'meig']
+['tender' 'thorough' 'reading' 'inde' 'fortunately' 'attendance'
+ 'announce' 'toss' 'thereto' 'bestow' 'eyebrow' 'supersede' 'nancially'
+ 'ticket' 'doubtless']
+0.014
+------------------------Distinctive Topic--------------------------
+['recover' 'heartily' 'empower' 'europe' 'civil' 'government' 'rowan'
+ 'transpire' 'cavalry' 'confer' 'profanation' 'leonard' 'incorporate'
+ 'merchant' 'meig']
+['spend' 'achieve' 'telling' 'pursue' 'redemption' 'build' 'land'
+ 'incident' 'government' 'previously' 'master' 'dinner' 'probability'
+ 'accord' 'cheat']
+0.016
+------------------------Distinctive Topic--------------------------
+['recover' 'heartily' 'empower' 'europe' 'civil' 'government' 'rowan'
+ 'transpire' 'cavalry' 'confer' 'profanation' 'leonard' 'incorporate'
+ 'merchant' 'meig']
+['negotiate' 'interval' 'responsibility' 'health' 'jealousy' 'leavitt'
+ 'grandeur' 'range' 'unorganized' 'linkum' 'wisdom' 'cance' 'society'
+ 'battle' 'altoona']
+0.014
+------------------------Distinctive Topic--------------------------
+['recover' 'heartily' 'empower' 'europe' 'civil' 'government' 'rowan'
+ 'transpire' 'cavalry' 'confer' 'profanation' 'leonard' 'incorporate'
+ 'merchant' 'meig']
+['lincoln' 'general' 'man' 'president' 'state' 'government' 'war' 'army'
+ 'great' 'people' 'rebel' 'shall' 'country' 'good' 'enemy']

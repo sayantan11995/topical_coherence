@@ -1,0 +1,854 @@
+####################################### Autobiography ###############################################
+snap1 Community2 words ['acquaintance', 'friend', 'man', 'woman', 'boy', 'person', 'gentleman', 'girl', 'suspect', 'young', 'youth', 'husband', 'father', 'mother', 'wife', 'family', 'brother', 'married', 'son', 'daughter', 'widow', 'colleague', 'prostitute', 'lady', 'old', 'child', 'youngster', 'people', 'striker', 'youths', 'unmarried', 'marry', 'marriage'] -> snap2 community22 words ['man', 'woman', 'boy', 'suspect', 'person', 'victim', 'gentleman', 'friend', 'brother', 'wife', 'husband', 'acquaintance', 'son', 'mother', 'father', 'comrade', 'lover', 'sister', 'family', 'widow', 'married', 'child', 'baby', 'trustee', 'administrator', 'talented', 'young', 'versatile', 'lady', 'prostitute', 'people', 'youths', 'old', 'youngster', 'elder', 'secretary', 'chief', 'minister', 'youth', 'executive', 'president', 'manager', 'detective', 'lieutenant', 'police', 'sergeant', 'reformer', 'statesman', 'soldier', 'corporal', 'colonel', 'infantry', 'commander', 'command', 'officer', 'connoisseur', 'bride', 'marry', 'marriage', 'wedding', 'defendant', 'plaintiff', 'patriot', 'birth', 'fiend', 'military']
+Evolution = Grow
+snap1 Community3 words ['hinduism', 'marathi', 'gita', 'gandhi', 'hindu', 'england', 'portsmouth', 'english', 'france', 'germany', 'america', 'india', 'london', 'howard', 'africa', 'richmond', 'arnold', 'brighton', 'sunday', 'african', 'roberts', 'robert', 'englishman', 'europe', 'dutch', 'williams', 'edward', 'french', 'german', 'bengali', 'hindi', 'bombay', 'bhai', 'paris', 'john', 'emily'] -> snap2 community21 words ['india', 'european', 'europeans', 'africa', 'asia', 'england', 'english', 'african', 'february', 'british', 'london', 'europe', 'rome', 'william', 'henry', 'spencer', 'walton', 'washington', 'irving', 'arnold', 'mrs', 'john', 'stanley', 'robert', 'roberts', 'harris', 'pearson', 'adam', 'paul', 'robinson', 'arthur', 'victoria', 'edward', 'sunday', 'anna', 'englishman', 'mayne', 'plymouth', 'leicester', 'rs', 'kop']
+Evolution = Survive
+snap1 Community5 words ['trial', 'case', 'jury', 'lawyer', 'barrister', 'attorney', 'counsel', 'accountant', 'judge', 'suit', 'complaint', 'magistrate', 'court', 'arbitration', 'arbitrator', 'grievance'] -> snap2 community30 words ['magistrate', 'court', 'judge', 'lawyer', 'barrister', 'solicitor', 'counsel', 'attorney']
+Evolution = Survive
+snap1 Community6 words ['knowledge', 'experience', 'understanding', 'discover', 'find', 'learn', 'remember', 'forget', 'recollect', 'warning', 'warn', 'understand', 'grasp', 'explain', 'aware', 'speak', 'talk', 'discuss', 'teach', 'preach', 'tutor', 'instruct', 'instruction', 'school', 'student', 'college', 'curriculum', 'worry', 'complain', 'argument', 'informed', 'apprise', 'inform', 'ascertain', 'examine', 'confirm', 'refer', 'describe', 'bother', 'expose', 'reveal', 'indicate', 'reasoning', 'concerned', 'advice', 'advise', 'training', 'reason', 'explanation', 'acquaint', 'consult', 'beware', 'instructor'] -> snap2 community6 words ['verify', 'identify', 'determine', 'ascertain', 'confirm', 'find', 'recognize', 'distinguish', 'learn', 'teach', 'understand', 'educate', 'discover', 'realize', 'believe', 'argue', 'acknowledge', 'perceive', 'realization', 'forget', 'appreciate', 'agree', 'accept', 'insist', 'sympathize', 'finding', 'found', 'salute', 'applaud', 'explain', 'explanation', 'reveal', 'examine', 'describe', 'decipher', 'inform', 'insistence', 'embrace', 'accede', 'accepted', 'reason', 'instruct', 'lesson', 'teaching', 'instruction', 'interpret', 'misunderstand', 'warn', 'remind', 'advise', 'warning', 'forewarn', 'oblige', 'acquaint', 'reminder', 'thank', 'commend', 'consult', 'adamant', 'insistent', 'budge', 'contend', 'suggest', 'acquainted', 'assume', 'indicate', 'interpretation', 'resent', 'ignore', 'heed', 'refer', 'cite', 'inspection', 'examination', 'inspect', 'claim', 'demonstrate', 'expose', 'admire', 'appreciation', 'advice', 'resented', 'attribute', 'inquire', 'training', 'sympathetic']
+Evolution = Grow
+snap1 Community7 words ['chance', 'hope', 'opportunity', 'afraid', 'happen', 'mean', 'decide', 'ask', 'choose', 'dictate', 'help', 'try', 'assist', 'enable', 'wish', 'fail', 'refuse', 'proper', 'necessary', 'need', 'want', 'ought', 'effort', 'attempt', 'affect', 'able', 'expect', 'dare', 'hesitate', 'let', 'deserve', 'prefer', 'willing', 'urge', 'shall', 'eager', 'preparation', 'prepare', 'keen', 'question', 'answer', 'depend', 'allow', 'encourage', 'loath', 'refusal', 'respond', 'inclined', 'likely', 'beg', 'choice', 'gladly', 'affected', 'complicate', 'imperil', 'inspire', 'prepared', 'eschew', 'ruin'] -> snap2 community3 words ['intention', 'opportunity', 'chance', 'ready', 'willing', 'prepare', 'prepared', 'eager', 'want', 'ask', 'need', 'expect', 'ought', 'let', 'hesitate', 'refuse', 'dare', 'try', 'afraid', 'deserve', 'wish', 'able', 'intend', 'worry', 'shall', 'henceforth', 'hope', 'asking', 'question', 'answer', 'beg', 'seek', 'seeking', 'pursue', 'unable', 'refusal', 'inability', 'failure', 'unwilling', 'effort', 'attempt', 'fail', 'obliged', 'react', 'behave', 'respond', 'gladly', 'willingly', 'loath', 'temerity', 'preparation', 'worried', 'fret', 'fear', 'concern', 'misbehave', 'voluntarily', 'nervous', 'ability', 'plea', 'plead', 'panic', 'intent', 'lack', 'absence']
+Evolution = Survive
+snap1 Community10 words ['grace', 'humility', 'pride', 'joy', 'futility', 'folly', 'gratefulness', 'devotion', 'generosity', 'gratitude', 'kindness', 'sorrow', 'lust', 'selfishness', 'essence', 'spirit', 'passion', 'affection', 'unfailing', 'unflagging', 'ambition', 'desire', 'fondness', 'enthusiasm', 'zeal', 'dignity', 'reverence', 'wisdom', 'courage', 'ignorance', 'cowardice', 'helplessness', 'regard', 'respect', 'relation', 'ethic', 'vision', 'fear', 'anxiety', 'dread', 'delight', 'pleasure', 'coward', 'liar', 'determination', 'intention', 'brave', 'generous', 'enjoyment', 'fond', 'confidence', 'connection', 'dissembler', 'deceiver', 'solicitude', 'pain', 'grief', 'discomfort', 'sore', 'helpless'] -> snap2 community2 words ['desire', 'determination', 'enthusiasm', 'passion', 'belief', 'ambition', 'aspiration', 'weeping', 'sorrow', 'anger', 'jealous', 'satisfaction', 'kindness', 'humility', 'devotion', 'compassion', 'bravery', 'courage', 'affection', 'generosity', 'selfless', 'regard', 'respect', 'relation', 'connection', 'delight', 'joy', 'pleasure', 'dismay', 'astonishment', 'contentment', 'love', 'despair', 'emotion', 'enjoyment', 'sympathy', 'helplessness', 'grief', 'grieve', 'pathos', 'earnestness', 'narrative', 'hesitation', 'trepidation', 'privilege', 'skill', 'aptitude', 'independent', 'impartial', 'antagonism', 'resentment', 'dislike', 'jealousy', 'rift', 'indifference', 'cowardice', 'arrogance', 'ignorance', 'impatience', 'selfishness', 'disgust', 'disregard', 'insincerity', 'faith', 'perseverance', 'faithfulness', 'patience', 'hate', 'temperament', 'appetite', 'thirst', 'aversion', 'insatiable', 'lust', 'honesty', 'wisdom', 'reverence', 'sagacity', 'dignity', 'erudition', 'adversity', 'persistence', 'loyalty', 'patriotism', 'friendship', 'panegyric', 'erudite', 'cherish', 'solicitude', 'pain', 'stiffness', 'displeasure', 'misgiving', 'coward', 'folly', 'spirit', 'curiosity', 'zest', 'confidence', 'rage', 'majesty', 'scoundrel', 'abhorrence', 'esteem', 'enjoy', 'relish', 'helpless', 'cherished', 'precious', 'envy', 'intellect', 'wit', 'amiability', 'story', 'article', 'tale', 'column', 'liking', 'abyss', 'generous', 'generously', 'expectation', 'divide', 'infatuation', 'squeamishness', 'snobbishness', 'sore', 'truthfulness', 'truthful', 'honest', 'veracity', 'correctness', 'frank', 'dream', 'sagacious', 'charm']
+Evolution = Grow
+snap1 Community16 words ['vegetarian', 'vegetarianism', 'fruitarian'] -> snap2 community196 words ['vegetarian', 'vegetarianism']
+Evolution = Survive
+snap1 Community17 words ['conference', 'meeting', 'press', 'banter', 'matter', 'issue', 'meet', 'satisfy', 'placate', 'prove', 'tempt', 'attract', 'persuade', 'discussion', 'hearing', 'conversation', 'chatter', 'subject', 'topic', 'compel', 'convince', 'assure', 'pacify', 'impress'] -> snap2 community33 words ['issue', 'matter', 'problem', 'topic', 'discussion', 'meeting', 'debate', 'conversation', 'discourse', 'accommodate', 'satisfy', 'subject', 'meet', 'fulfill', 'communicate', 'discuss', 'speak', 'talk', 'convene', 'speaking', 'praise', 'criticism', 'applause', 'hearing', 'audience', 'crowd', 'talking', 'controversy', 'trouble', 'difficulty', 'slake', 'shortcoming', 'communication', 'connect', 'unfulfilled', 'criticize', 'accuse']
+Evolution = Grow
+snap1 Community18 words ['invite', 'join', 'invitation', 'welcome', 'attend', 'participate', 'enlist', 'partake', 'indulge', 'engage', 'undertake', 'undertaking'] -> snap2 community36 words ['leave', 'return', 'stay', 'depart', 'undertake', 'engage', 'welcome', 'invite', 'keep', 'remain', 'rejoin', 'vote', 'continue', 'persist', 'invitation', 'join', 'attend', 'participate', 'appoint', 'arrive', 'arrival', 'participation', 'departure', 'appointment', 'fester', 'elect', 'election', 'voter', 'candidate']
+Evolution = Grow
+snap1 Community19 words ['port', 'dock', 'boat', 'journey', 'voyage', 'sail'] -> snap2 community76 words ['brook', 'river', 'stint', 'sojourn', 'water', 'dock', 'port', 'ship', 'quay', 'boat', 'wharf', 'paddle', 'canoe', 'oar', 'voyage', 'sail', 'journey', 'steamer', 'steamship', 'pilgrimage']
+Evolution = Grow
+snap1 Community28 words ['sit', 'stand'] -> snap2 community24 words ['stand', 'sit', 'standing', 'stare']
+Evolution = Grow
+snap1 Community29 words ['play', 'game', 'player'] -> snap2 community184 words ['play', 'game', 'player']
+Evolution = Survive
+snap1 Community34 words ['vow', 'pledge', 'promise'] -> snap2 community122 words ['promise', 'pledge']
+Evolution = Survive
+snap1 Community38 words ['move', 'step'] -> snap2 community141 words ['move', 'step']
+Evolution = Survive
+snap1 Community39 words ['away', 'apart'] -> snap2 community111 words ['away', 'apart']
+Evolution = Survive
+snap1 Community40 words ['wit', 'eloquence', 'intellect', 'adroitness', 'economically', 'economy', 'economic', 'intellectually', 'financial'] -> snap2 community130 words ['economy', 'economic', 'financial']
+Evolution = Contract
+snap1 Community42 words ['long', 'short'] -> snap2 community107 words ['long', 'short']
+Evolution = Survive
+snap1 Community43 words ['phrase', 'verb', 'noun', 'word', 'simile', 'translation', 'language', 'grammar', 'vocabulary'] -> snap2 community104 words ['translation', 'language', 'vocabulary', 'alphabet', 'bilingual']
+Evolution = Survive
+snap1 Community50 words ['music', 'song', 'writer', 'writing', 'author', 'editor', 'poet', 'read', 'write', 'reading', 'book', 'poem', 'novel', 'compose', 'verse'] -> snap2 community31 words ['submit', 'publish', 'read', 'reading', 'write', 'writing', 'compose', 'publication', 'journal']
+Evolution = Survive
+snap1 Community54 words ['hear', 'listen'] -> snap2 community49 words ['hear', 'listen']
+Evolution = Survive
+snap1 Community56 words ['pair', 'couple'] -> snap2 community99 words ['couple', 'pair']
+Evolution = Survive
+snap1 Community58 words ['dirty', 'clean'] -> snap2 community82 words ['clean', 'tidy', 'dirty', 'cleaning', 'wash', 'housekeeping']
+Evolution = Grow
+snap1 Community59 words ['brown', 'white', 'orange', 'red', 'green'] -> snap2 community27 words ['white', 'red', 'orange', 'black', 'green']
+Evolution = Survive
+snap1 Community63 words ['stature', 'reputation'] -> snap2 community174 words ['prestige', 'reputation', 'repute']
+Evolution = Survive
+snap1 Community65 words ['deal', 'accord', 'compromise'] -> snap2 community139 words ['settlement', 'agreement', 'arrangement', 'deal', 'accord', 'partner', 'partnership', 'compromise']
+Evolution = Grow
+snap1 Community73 words ['live', 'living'] -> snap2 community79 words ['live', 'living']
+Evolution = Survive
+snap1 Community75 words ['lead', 'advantage', 'disadvantage'] -> snap2 community124 words ['lead', 'advantage', 'disadvantage']
+Evolution = Survive
+snap1 Community76 words ['early', 'late'] -> snap2 community74 words ['late', 'early']
+Evolution = Survive
+snap1 Community77 words ['letter', 'document', 'correspondence'] -> snap2 community102 words ['correspondence', 'letter', 'statement', 'telegram', 'telegraph']
+Evolution = Grow
+snap1 Community78 words ['exterior', 'interior', 'fanlight'] -> snap2 community123 words ['interior', 'exterior']
+Evolution = Survive
+snap1 Community80 words ['tall', 'foot'] -> snap2 community118 words ['pound', 'foot', 'inch']
+Evolution = Survive
+snap1 Community82 words ['door', 'window'] -> snap2 community156 words ['window', 'door']
+Evolution = Survive
+snap1 Community88 words ['twice', 'thrice'] -> snap2 community181 words ['twice', 'times', 'thrice']
+Evolution = Survive
+snap1 Community93 words ['devout', 'ardent'] -> snap2 community106 words ['devout', 'faithful']
+Evolution = Survive
+snap1 Community95 words ['contribute', 'contribution'] -> snap2 community78 words ['contribute', 'contribution', 'donation', 'gift']
+Evolution = Grow
+snap1 Community97 words ['right', 'wrong', 'incorrect', 'amiss', 'correct', 'false', 'fix', 'rectify', 'remedy', 'resolve', 'cure'] -> snap2 community83 words ['repair', 'fix', 'maintenance', 'fixing', 'remedy', 'redress', 'cure']
+Evolution = Survive
+snap1 Community99 words ['meantime', 'addition'] -> snap2 community147 words ['meantime', 'addition']
+Evolution = Survive
+snap1 Community101 words ['assistance', 'aid', 'support'] -> snap2 community112 words ['relief', 'aid']
+Evolution = Survive
+snap1 Community105 words ['battle', 'struggle'] -> snap2 community95 words ['struggle', 'fight', 'battle', 'fighter']
+Evolution = Grow
+snap1 Community106 words ['incident', 'mishap'] -> snap2 community53 words ['incident', 'assault']
+Evolution = Survive
+snap1 Community107 words ['half', 'quarter', 'net'] -> snap2 community152 words ['period', 'quarter', 'half']
+Evolution = Survive
+snap1 Community108 words ['dozen', 'hundred', 'thirty', 'fourteen'] -> snap2 community93 words ['thousand', 'hundred', 'thirty', 'dozen']
+Evolution = Survive
+snap1 Community110 words ['foolscap', 'paper'] -> snap2 community133 words ['paper', 'newspaper']
+Evolution = Survive
+snap1 Community111 words ['public', 'private'] -> snap2 community113 words ['public', 'private']
+Evolution = Survive
+snap1 Community115 words ['anecdote', 'reminiscence'] -> snap2 community175 words ['reminiscence', 'anecdote', 'analogy']
+Evolution = Survive
+snap1 Community124 words ['internal', 'external', 'internally'] -> snap2 community136 words ['internal', 'external']
+Evolution = Survive
+snap1 Community128 words ['expensive', 'cost', 'fee'] -> snap2 community70 words ['cheaper', 'expensive', 'fee', 'cost']
+Evolution = Survive
+snap1 Community129 words ['second', 'final'] -> snap2 community92 words ['final', 'second']
+Evolution = Survive
+snap1 Community136 words ['extent', 'scope'] -> snap2 community61 words ['scope', 'extent', 'applicability']
+Evolution = Survive
+snap1 Community138 words ['result', 'consequence'] -> snap2 community90 words ['result', 'consequence', 'repercussion', 'implication']
+Evolution = Grow
+snap1 Community139 words ['succumb', 'suffer', 'resist', 'severe', 'severer'] -> snap2 community94 words ['suffer', 'suffering', 'severe', 'endure', 'acute', 'severer']
+Evolution = Survive
+snap1 Community140 words ['moderate', 'conservative', 'liberal'] -> snap2 community116 words ['conservatives', 'liberal']
+Evolution = Survive
+snap1 Community144 words ['lay', 'lie'] -> snap2 community119 words ['lie', 'lay']
+Evolution = Survive
+snap1 Community146 words ['break', 'breaking'] -> snap2 community23 words ['break', 'breaking', 'broken']
+Evolution = Survive
+snap1 Community147 words ['mistake', 'error'] -> snap2 community85 words ['blunder', 'mistake']
+Evolution = Survive
+snap1 Community149 words ['profession', 'professional'] -> snap2 community177 words ['profession', 'professional']
+Evolution = Survive
+snap1 Community152 words ['treatment', 'treat'] -> snap2 community140 words ['treatment', 'treat']
+Evolution = Survive
+snap1 Community155 words ['disposal', 'disposed'] -> snap2 community127 words ['disposal', 'dispose', 'disposed', 'bury']
+Evolution = Grow
+snap1 Community159 words ['liable', 'responsible'] -> snap2 community37 words ['liable', 'responsible', 'burden', 'responsibility']
+Evolution = Grow
+snap2 Community4 words ['experience', 'knowledge'] -> snap3 community8 words ['experience', 'knowledge']
+Evolution = Survive
+snap2 Community24 words ['stand', 'sit', 'standing', 'stare'] -> snap3 community30 words ['stare', 'sit']
+Evolution = Survive
+snap2 Community54 words ['turban', 'scarf', 'dress', 'coat', 'wearing', 'cloth', 'shirt', 'jacket', 'wear', 'frock', 'costume', 'pant', 'dressing', 'trouser', 'hem', 'hat', 'silk', 'wool'] -> snap3 community46 words ['shirt', 'scarf', 'wear', 'dress', 'dhotis', 'turbans', 'turban']
+Evolution = Contract
+snap2 Community64 words ['right', 'wrong'] -> snap3 community16 words ['right', 'wrong', 'correct']
+Evolution = Survive
+snap2 Community82 words ['clean', 'tidy', 'dirty', 'cleaning', 'wash', 'housekeeping'] -> snap3 community32 words ['clean', 'cleaning']
+Evolution = Contract
+snap2 Community91 words ['south', 'north', 'near', 'eastern', 'western'] -> snap3 community9 words ['south', 'near']
+Evolution = Contract
+snap2 Community102 words ['correspondence', 'letter', 'statement', 'telegram', 'telegraph'] -> snap3 community45 words ['letter', 'correspondence']
+Evolution = Contract
+snap2 Community152 words ['period', 'quarter', 'half'] -> snap3 community44 words ['half', 'quarter']
+Evolution = Survive
+snap2 Community159 words ['outbreak', 'epidemic'] -> snap3 community38 words ['outbreak', 'epidemic']
+Evolution = Survive
+snap2 Community183 words ['stalwart', 'staunch'] -> snap3 community43 words ['veteran', 'stalwart']
+Evolution = Survive
+snap2 Community220 words ['stink', 'reek', 'smell'] -> snap3 community29 words ['stink', 'stench']
+Evolution = Survive
+snap3 Community8 words ['experience', 'knowledge'] -> snap4 community85 words ['knowledge', 'experience', 'experienced']
+Evolution = Survive
+snap3 Community9 words ['south', 'near'] -> snap4 community14 words ['south', 'western', 'north', 'near', 'vicinity', 'area']
+Evolution = Grow
+snap3 Community10 words ['engage', 'undertake'] -> snap4 community98 words ['undertake', 'engage']
+Evolution = Survive
+snap3 Community16 words ['right', 'wrong', 'correct'] -> snap4 community86 words ['wrong', 'right', 'correct', 'accurate']
+Evolution = Survive
+snap3 Community25 words ['young', 'inexperienced', 'youth'] -> snap4 community174 words ['young', 'youth']
+Evolution = Survive
+snap3 Community30 words ['stare', 'sit'] -> snap4 community118 words ['stare', 'sit', 'stand']
+Evolution = Survive
+snap3 Community32 words ['clean', 'cleaning'] -> snap4 community146 words ['clean', 'dirty', 'tidy']
+Evolution = Survive
+snap3 Community34 words ['frequent', 'frequently'] -> snap4 community202 words ['frequent', 'occasional']
+Evolution = Survive
+snap3 Community39 words ['overwhelm', 'inundate'] -> snap4 community181 words ['inundate', 'submerge']
+Evolution = Survive
+snap3 Community44 words ['half', 'quarter'] -> snap4 community65 words ['period', 'quarter', 'net', 'half']
+Evolution = Grow
+snap3 Community45 words ['letter', 'correspondence'] -> snap4 community114 words ['letter', 'statement', 'document', 'correspondence', 'telegram']
+Evolution = Grow
+snap3 Community46 words ['shirt', 'scarf', 'wear', 'dress', 'dhotis', 'turbans', 'turban'] -> snap4 community73 words ['shirt', 'scarf', 'hat', 'cape']
+Evolution = Survive
+snap4 Community3 words ['think', 'realize', 'definitely', 'thought', 'suppose', 'feel', 'believe', 'certainly', 'kind', 'sort', 'wonder', 'thinking', 'understand', 'argue', 'remember', 'probably', 'worry', 'lot', 'imagine', 'frankly', 'obviously', 'presume', 'guess', 'forget', 'realization', 'aware', 'definite', 'insist', 'suggest', 'agree', 'convinced', 'surely', 'yes', 'indicate', 'imply', 'sense', 'feeling', 'mean', 'means', 'happen', 'necessarily', 'ponder', 'absolutely', 'prove', 'proof', 'clearly', 'evidently', 'doubt', 'assume', 'simply', 'merely', 'instead', 'mere', 'certain', 'particular', 'type', 'meaning', 'fear', 'concern', 'hardly', 'scarcely', 'especially', 'unfortunately', 'little', 'possibility', 'prospect', 'possibly', 'fret', 'conclude', 'indication', 'claim', 'evidence', 'fortunately', 'occur', 'happening', 'recollect', 'likely', 'arise', 'presuppose'] -> snap5 community10 words ['understand', 'sort', 'actually', 'think', 'certainly', 'type', 'kind', 'explain', 'realize', 'appreciate', 'understanding', 'believe', 'assume', 'describe', 'definitely', 'thank', 'feeling', 'sense', 'feel', 'refer', 'sure', 'entirely', 'completely', 'probably', 'exactly', 'remember', 'realization', 'forget', 'surely', 'hardly', 'practically', 'experience', 'knowledge', 'recollect', 'scarcely', 'little', 'likely']
+Evolution = Contract
+snap4 Community8 words ['vow', 'promise'] -> snap5 community15 words ['vow', 'pledge']
+Evolution = Survive
+snap4 Community13 words ['wife', 'husband', 'sister', 'brother', 'friend', 'family', 'mother', 'son', 'daughter', 'father', 'cousin', 'widow', 'child', 'baby', 'girl', 'birth', 'man', 'suspect', 'woman', 'victim', 'comrade', 'acquaintance', 'colleague', 'soldier', 'old', 'prostitute', 'lady'] -> snap5 community11 words ['friend', 'mother', 'acquaintance', 'father', 'son', 'colleague', 'family', 'child', 'boy', 'girl', 'youngster', 'old']
+Evolution = Contract
+snap4 Community17 words ['respect', 'regard', 'relation', 'connection'] -> snap5 community32 words ['respect', 'regard']
+Evolution = Survive
+snap4 Community42 words ['long', 'short'] -> snap5 community45 words ['long', 'short']
+Evolution = Survive
+snap4 Community44 words ['conscience', 'moral', 'perform', 'sing', 'religion', 'hymn', 'song', 'fasting', 'prayer', 'scripture', 'religious', 'spiritual', 'creed', 'intellect', 'intellectually', 'wit', 'temperament', 'verse', 'verses', 'morally', 'ethical', 'gospel'] -> snap5 community24 words ['religious', 'religion', 'spiritual', 'morally', 'moral', 'verse', 'scripture', 'hymn']
+Evolution = Contract
+snap4 Community45 words ['vegetarianism', 'vegetarian'] -> snap5 community30 words ['vegetarian', 'vegetarianism']
+Evolution = Survive
+snap4 Community50 words ['separate', 'distinct', 'different', 'identical', 'similar', 'unique'] -> snap5 community39 words ['similar', 'different', 'identical']
+Evolution = Survive
+snap4 Community53 words ['final', 'second'] -> snap5 community41 words ['second', 'fourth']
+Evolution = Survive
+snap4 Community64 words ['live', 'living'] -> snap5 community57 words ['live', 'living']
+Evolution = Survive
+snap4 Community86 words ['wrong', 'right', 'correct', 'accurate'] -> snap5 community72 words ['right', 'wrong', 'correct']
+Evolution = Survive
+snap4 Community92 words ['lay', 'lie'] -> snap5 community68 words ['lay', 'lie', 'lying']
+Evolution = Survive
+snap4 Community96 words ['aid', 'assistance', 'relief', 'support'] -> snap5 community19 words ['support', 'assistance']
+Evolution = Survive
+snap4 Community98 words ['undertake', 'engage'] -> snap5 community22 words ['undertake', 'engage']
+Evolution = Survive
+snap4 Community99 words ['hear', 'listen'] -> snap5 community8 words ['hear', 'listen']
+Evolution = Survive
+snap4 Community102 words ['temple', 'sacred', 'ancient'] -> snap5 community20 words ['temple', 'monastery']
+Evolution = Survive
+snap4 Community113 words ['physical', 'mental'] -> snap5 community38 words ['physically', 'physical', 'mental']
+Evolution = Survive
+snap4 Community117 words ['confess', 'admit'] -> snap5 community31 words ['confess', 'forgive']
+Evolution = Survive
+snap4 Community119 words ['animal', 'goat', 'dog', 'cow', 'buffalo'] -> snap5 community47 words ['cow', 'buffalo']
+Evolution = Contract
+snap4 Community131 words ['violence', 'crime', 'criminal'] -> snap5 community83 words ['violently', 'violent', 'violence']
+Evolution = Survive
+snap4 Community133 words ['translation', 'language'] -> snap5 community80 words ['language', 'grammar']
+Evolution = Survive
+snap4 Community161 words ['quantity', 'amount', 'sum'] -> snap5 community78 words ['amount', 'quantity']
+Evolution = Survive
+snap4 Community162 words ['confine', 'situate'] -> snap5 community82 words ['situate', 'confine']
+Evolution = Survive
+snap4 Community172 words ['consciously', 'unconsciously', 'deliberately'] -> snap5 community34 words ['purposely', 'consciously']
+Evolution = Survive
+snap4 Community174 words ['young', 'youth'] -> snap5 community23 words ['young', 'youth']
+Evolution = Survive
+snap5 Community11 words ['friend', 'mother', 'acquaintance', 'father', 'son', 'colleague', 'family', 'child', 'boy', 'girl', 'youngster', 'old'] -> snap6 community28 words ['friend', 'brother', 'mother', 'lover', 'wife', 'husband', 'uncle', 'son', 'acquaintance', 'cousin', 'daughter', 'pal', 'father', 'sister', 'boy', 'brothers', 'child', 'girl', 'people', 'person', 'man', 'woman', 'victim', 'gentleman', 'lady', 'youngster', 'lad', 'widow', 'family', 'mama', 'old', 'devotee', 'clan', 'elder', 'babe', 'assailant', 'disciple']
+Evolution = Grow
+snap5 Community15 words ['vow', 'pledge'] -> snap6 community32 words ['promise', 'pledge', 'vow']
+Evolution = Survive
+snap5 Community19 words ['support', 'assistance'] -> snap6 community170 words ['relief', 'aid', 'assistance', 'support']
+Evolution = Grow
+snap5 Community29 words ['morning', 'midday'] -> snap6 community123 words ['morning', 'midday', "o'clock", 'midnight', 'nightfall']
+Evolution = Grow
+snap5 Community30 words ['vegetarian', 'vegetarianism'] -> snap6 community145 words ['fruitarian', 'vegetarian', 'vegetarianism']
+Evolution = Survive
+snap5 Community34 words ['purposely', 'consciously'] -> snap6 community68 words ['consciously', 'unconsciously']
+Evolution = Survive
+snap5 Community38 words ['physically', 'physical', 'mental'] -> snap6 community94 words ['psychological', 'physical', 'mental']
+Evolution = Survive
+snap5 Community41 words ['second', 'fourth'] -> snap6 community139 words ['second', 'fifth', 'final']
+Evolution = Survive
+snap5 Community42 words ['book', 'novel'] -> snap6 community125 words ['book', 'novel', 'autobiography']
+Evolution = Survive
+snap5 Community45 words ['long', 'short'] -> snap6 community16 words ['long', 'short']
+Evolution = Survive
+snap5 Community46 words ['literature', 'literary', 'intellectual'] -> snap6 community109 words ['poet', 'literary', 'literature']
+Evolution = Survive
+snap5 Community48 words ['discuss', 'meeting', 'talk', 'speak', 'meet', 'satisfy', 'discussion', 'conversation'] -> snap6 community23 words ['constructive', 'dialogue', 'discuss', 'speak', 'talk', 'meeting', 'communicate', 'express', 'convey', 'expression', 'communication', 'news', 'press', 'accommodate', 'satisfy', 'meet', 'testify', 'hearing', 'discussion', 'conference', 'session', 'chat', 'conversation', 'discourse', 'witness', 'evoke', 'disputation']
+Evolution = Grow
+snap5 Community50 words ['accident', 'incident'] -> snap6 community75 words ['accident', 'incident']
+Evolution = Survive
+snap5 Community56 words ['breaking', 'break'] -> snap6 community52 words ['break', 'broken']
+Evolution = Survive
+snap5 Community57 words ['live', 'living'] -> snap6 community63 words ['live', 'living', 'reside']
+Evolution = Survive
+snap5 Community64 words ['exist', 'belong'] -> snap6 community142 words ['belong', 'exist', 'existence']
+Evolution = Survive
+snap5 Community65 words ['shoulder', 'arm'] -> snap6 community162 words ['calf', 'shoulder', 'leg', 'arm', 'neck', 'throat']
+Evolution = Grow
+snap5 Community66 words ['responsibility', 'responsible', 'burden'] -> snap6 community129 words ['blame', 'responsibility', 'fault', 'responsible', 'burden']
+Evolution = Grow
+snap5 Community68 words ['lay', 'lie', 'lying'] -> snap6 community78 words ['lay', 'lie']
+Evolution = Survive
+snap5 Community70 words ['gardening', 'garden'] -> snap6 community193 words ['planter', 'garden']
+Evolution = Survive
+snap5 Community72 words ['right', 'wrong', 'correct'] -> snap6 community84 words ['wrong', 'right', 'correct', 'incorrect', 'false', 'misleading', 'faulty', 'defective']
+Evolution = Grow
+snap5 Community74 words ['deal', 'accord'] -> snap6 community106 words ['accord', 'deal', 'compromise', 'contract']
+Evolution = Grow
+snap5 Community80 words ['language', 'grammar'] -> snap6 community72 words ['language', 'dialect', 'grammar']
+Evolution = Survive
+snap5 Community8 words ['hear', 'listen'] -> snap6 community36 words ['hear', 'listen']
+Evolution = Survive
+
+
+
+
+####################################### Biography ###############################################
+snap1 Community2 words ['india', 'london', 'portsmouth', 'british', 'henry', 'england', 'france', 'germany', 'america', 'paris', 'africa', 'thomas', 'britain', 'lincoln', 'annie', 'february', 'george', 'christ', 'english', 'american', 'spanish', 'french', 'german', 'englishman', 'leo', 'mrs', 'latin'] -> snap2 community3 words ['india', 'africa', 'african', 'england', 'european', 'british', 'london', 'arab', 'american', 'english', 'dutch', 'persian', 'david', 'john', 'johnston', 'michael', 'chris', 'victoria', 'mrs', 'alexander', 'joseph', 'edward', 'thompson', 'plymouth', 'jesus', 'englishman', 'harry', 'god', 'heaven', 'salvation']
+Evolution = Survive
+snap1 Community3 words ['attorney', 'lawyer', 'court', 'judge', 'barrister'] -> snap2 community25 words ['barrister', 'lawyer', 'attorney']
+Evolution = Survive
+snap1 Community15 words ['person', 'man', 'people', 'woman', 'gentleman', 'boy', 'girl', 'brother', 'friend', 'mother', 'daughter', 'father', 'son', 'wife', 'husband', 'grandfather', 'acquaintance', 'family', 'child', 'old'] -> snap2 community17 words ['boy', 'father', 'grandfather', 'family', 'brother', 'friend', 'mother', 'son', 'sister', 'husband', 'wife', 'widow', 'child', 'old']
+Evolution = Survive
+snap1 Community16 words ['fear', 'afraid', 'concern', 'want', 'ask', 'refuse', 'effort', 'attempt', 'key', 'essential', 'critical', 'need', 'necessary', 'help', 'try', 'able', 'let', 'wish', 'expect', 'hope', 'proper'] -> snap2 community28 words ['try', 'want', 'let', 'able', 'attempt', 'choose', 'decide', 'ask', 'ponder', 'require', 'allow', 'prohibit', 'need', 'refuse', 'answer', 'question', 'flee', 'escape', 'intend', 'expect', 'failure', 'fail', 'aspire', 'urge', 'wish', 'ought', 'suggest', 'believe', 'encourage', 'hope', 'discourage', 'inspire', 'forbid', 'restrict', 'avoid', 'effort', 'shall']
+Evolution = Grow
+snap1 Community21 words ['spend', 'invest', 'spending', 'buy', 'develop', 'acquire', 'produce', 'build', 'purchase', 'sell', 'budget'] -> snap2 community36 words ['purchase', 'sell', 'acquire', 'buy', 'develop', 'establish']
+Evolution = Survive
+snap1 Community25 words ['hat', 'shirt'] -> snap2 community34 words ['hat', 'cape']
+Evolution = Survive
+snap1 Community32 words ['temple', 'holy'] -> snap2 community96 words ['sacred', 'holy']
+Evolution = Survive
+snap1 Community34 words ['persist', 'remain', 'intensify', 'keep', 'stay', 'leave', 'return'] -> snap2 community12 words ['leave', 'return', 'stay', 'remain', 'continue', 'keep', 'staying']
+Evolution = Survive
+snap1 Community35 words ['write', 'read', 'reading'] -> snap2 community80 words ['write', 'read', 'publish', 'publication']
+Evolution = Survive
+snap1 Community36 words ['expensive', 'cost'] -> snap2 community102 words ['cost', 'fee']
+Evolution = Survive
+snap1 Community37 words ['street', 'boulevard'] -> snap2 community122 words ['street', 'pavement', 'footpath']
+Evolution = Survive
+snap1 Community41 words ['give', 'bring', 'receive', 'offer', 'earn', 'obtain'] -> snap2 community9 words ['earn', 'receive', 'attain', 'give', 'obtain', 'bring', 'deliver', 'offer', 'achieve', 'reach', 'surpass']
+Evolution = Grow
+snap1 Community45 words ['autobiographical', 'memoir', 'autobiography', 'book', 'tome', 'treatise', 'essay'] -> snap2 community95 words ['book', 'autobiography', 'memoir', 'author']
+Evolution = Survive
+snap1 Community49 words ['second', 'final'] -> snap2 community84 words ['ninth', 'second']
+Evolution = Survive
+snap1 Community51 words ['house', 'home'] -> snap2 community54 words ['home', 'house', 'residence']
+Evolution = Survive
+snap1 Community52 words ['experience', 'knowledge'] -> snap2 community60 words ['experience', 'knowledge']
+Evolution = Survive
+snap1 Community57 words ['live', 'living'] -> snap2 community124 words ['reside', 'live', 'living']
+Evolution = Survive
+snap1 Community65 words ['enjoy', 'relish', 'partake', 'invite', 'join', 'engage'] -> snap2 community85 words ['invite', 'join', 'enlist', 'participate', 'recruit']
+Evolution = Survive
+snap1 Community69 words ['executive', 'chief', 'secretary', 'minister'] -> snap2 community24 words ['minister', 'secretary', 'president', 'chief']
+Evolution = Survive
+snap1 Community70 words ['committee', 'board'] -> snap2 community37 words ['board', 'committee']
+Evolution = Survive
+snap1 Community73 words ['translation', 'language'] -> snap2 community91 words ['vocabulary', 'language']
+Evolution = Survive
+snap4 Community3 words ['south', 'near', 'southern', 'western'] -> snap5 community45 words ['central', 'western', 'south', 'north', 'near']
+Evolution = Survive
+snap4 Community7 words ['understand', 'believe', 'claim', 'assert', 'argue', 'contend', 'accept', 'recognize', 'agree', 'embrace', 'defend', 'jaunty', 'cheerful', 'feel', 'sense', 'think', 'definitely', 'wonderful', 'issue', 'matter', 'problem', 'great', 'dull', 'pleasant', 'stoical', 'defiant', 'smile', 'conversation', 'discussion', 'laugh', 'realization', 'realize', 'assume', 'certainly', 'frankly', 'kind', 'hardly', 'anybody', 'surely', 'truly', 'good', 'awesome', 'real', 'perfect', 'suggest', 'insist', 'thought', 'meet', 'meeting', 'prove', 'disprove', 'fear', 'worry', 'concern', 'trouble', 'genuine', 'speak', 'discuss', 'talk', 'convene', 'wonder', 'imagine', 'fret', 'forget', 'remember', 'perfectly', 'beautiful', 'love', 'beauty', 'attractive', 'ideal', 'complain', 'sure', 'little', 'scarcely', 'construe', 'interpret', 'argument', 'aware', 'talking', 'alas', 'notion', 'interpretation', 'concept'] -> snap5 community10 words ['kind', 'think', 'little', 'actually', 'stuff', 'sort', 'suggest', 'insist', 'believe', 'argue', 'indicate', 'confirm', 'imply', 'mean', 'convince', 'assure', 'prove', 'everybody', 'anybody', 'lot', 'guy', 'thought', 'assume', 'feel', 'feeling', 'realize', 'understand', 'probably', 'remember', 'refer', 'describe', 'agree', 'experience', 'knowledge', 'acknowledge', 'accept', 'recognize', 'assert', 'claim', 'argument', 'reveal', 'explain', 'explanation', 'defend', 'declare', 'proclaim', 'appreciate', 'plenty', 'concur', 'mood', 'attitude', 'asserted', 'affirm', 'admit', 'interpretation', 'interpret', 'characterize', 'thank', 'profess', 'understanding', 'recognition', 'likely', 'insight', 'ample', 'quarrel', 'dispute', 'appreciation']
+Evolution = Survive
+snap4 Community8 words ['hope', 'wish', 'chance', 'generally', 'tend', 'frequently', 'usually', 'opportunity', 'reject', 'accordingly', 'properly', 'rejection', 'refuse', 'denial', 'inadequate', 'adequate', 'lack', 'help', 'try', 'assist', 'want', 'need', 'ought', 'require', 'necessary', 'intend', 'let', 'prefer', 'willing', 'facilitate', 'allow', 'convince', 'impress', 'compel', 'persuade', 'shall', 'choose', 'fail', 'keen', 'eager', 'outdo', 'constant', 'constantly', 'choice', 'copious', 'ample', 'proper', 'fully'] -> snap5 community18 words ['spark', 'spur', 'require', 'allow', 'need', 'involve', 'fail', 'refuse', 'faith', 'spirit', 'essence', 'enthusiasm', 'aim', 'objective', 'intention', 'hope', 'optimism', 'chance', 'wish', 'encourage', 'stimulate', 'want', 'withhold', 'withdraw', 'assist', 'help', 'belief', 'expect', 'able', 'try', 'ability', 'unable', 'ask', 'intend', 'prefer', 'let', 'answer', 'decide', 'question', 'desire', 'effort', 'attempt', 'anticipate', 'abandon', 'foresee', 'necessary', 'refusal', 'purpose', 'opportunity', 'choose', 'dictate', 'consist', 'include', 'eschew', 'inability', 'preferred', 'lack', 'absence', 'absent', 'involved', 'interested']
+Evolution = Survive
+snap4 Community10 words ['right', 'wrong'] -> snap5 community105 words ['right', 'wrong', 'correct', 'economical', 'reliable', 'accurate']
+Evolution = Grow
+snap4 Community11 words ['long', 'short'] -> snap5 community70 words ['short', 'long']
+Evolution = Survive
+snap4 Community12 words ['allegiance', 'loyalty'] -> snap5 community112 words ['loyalty', 'loyal', 'allegiance']
+Evolution = Survive
+snap4 Community13 words ['accord', 'deal', 'agreement', 'settlement'] -> snap5 community78 words ['compromise', 'accord', 'deal']
+Evolution = Survive
+snap4 Community18 words ['lawyer', 'attorney'] -> snap5 community62 words ['magistrate', 'court', 'judge', 'lawyer', 'barrister', 'attorney', 'solicitor']
+Evolution = Grow
+snap4 Community21 words ['person', 'man', 'woman', 'people', 'boy', 'victim', 'officer', 'sergeant', 'soldier', 'comrade', 'friend', 'wife', 'son', 'father', 'husband', 'mother', 'daughter', 'brother', 'colleague', 'family', 'child', 'old', 'police', 'prostitute', 'infant', 'spouse', 'sister', 'married', 'gay', 'sex', 'papa', 'marry', 'bride', 'marrying', 'sexual', 'intercourse', 'carnal'] -> snap5 community14 words ['cousin', 'friend', 'brother', 'family', 'daughter', 'son', 'father', 'mother', 'wife', 'man', 'woman', 'boy', 'victim', 'person', 'girl', 'old', 'people', 'assailant', 'child', 'baby']
+Evolution = Survive
+snap4 Community22 words ['commence', 'proceed', 'resume', 'proceeding'] -> snap5 community71 words ['commence', 'proceed']
+Evolution = Survive
+snap4 Community23 words ['offer', 'give', 'provide', 'receive', 'earn', 'forge', 'establish', 'create', 'attain', 'reach', 'sustain', 'achieve', 'bring', 'deliver', 'add', 'push', 'move', 'augment'] -> snap5 community9 words ['offer', 'give', 'convert', 'conversion', 'incorporate', 'inject', 'infuse', 'bring', 'create', 'add', 'build', 'establish', 'creation', 'forge', 'receive', 'earn', 'put', 'translation', 'translating', 'translate', 'expand', 'building', 'erect', 'reach', 'attain', 'grow', 'development', 'project', 'construction']
+Evolution = Grow
+snap4 Community26 words ['physical', 'physically'] -> snap5 community108 words ['physically', 'physical', 'mental']
+Evolution = Survive
+snap4 Community29 words ['similarly', 'likewise', 'highly', 'mildly', 'equally', 'especially', 'extremely', 'pretty'] -> snap5 community83 words ['equally', 'extremely', 'highly', 'particularly', 'especially']
+Evolution = Survive
+snap4 Community31 words ['red', 'white', 'brown', 'orange', 'black'] -> snap5 community30 words ['black', 'brown', 'white', 'yellow', 'purple', 'orange']
+Evolution = Survive
+snap4 Community32 words ['goatee', 'paunch', 'hair', 'skin'] -> snap5 community54 words ['skin', 'hair']
+Evolution = Survive
+snap4 Community33 words ['stand', 'sit'] -> snap5 community49 words ['sit', 'stand']
+Evolution = Survive
+snap4 Community34 words ['hand', 'finger', 'nose', 'ear', 'lip', 'chin'] -> snap5 community84 words ['hand', 'finger', 'lip', 'nose']
+Evolution = Survive
+snap4 Community35 words ['shoulder', 'arm', 'knee', 'hip'] -> snap5 community106 words ['rib', 'leg', 'shoulder', 'arm']
+Evolution = Survive
+snap4 Community36 words ['member', 'representative', 'chairman', 'secretary', 'minister', 'vice'] -> snap5 community35 words ['minister', 'secretary', 'commissioner', 'chief', 'deputy', 'president']
+Evolution = Survive
+snap4 Community37 words ['live', 'living', 'reside'] -> snap5 community15 words ['live', 'living']
+Evolution = Survive
+snap4 Community39 words ['public', 'private'] -> snap5 community75 words ['public', 'private']
+Evolution = Survive
+snap4 Community42 words ['news', 'press'] -> snap5 community22 words ['news', 'press']
+Evolution = Survive
+snap4 Community43 words ['visit', 'trip', 'journey', 'trek', 'expedition'] -> snap5 community40 words ['visit', 'trip', 'sojourn', 'journey', 'battle', 'fight', 'struggle', 'quest', 'travel', 'tour']
+Evolution = Grow
+snap4 Community52 words ['arrive', 'arrival', 'departure'] -> snap5 community153 words ['arrive', 'arrival']
+Evolution = Survive
+snap4 Community55 words ['home', 'house', 'residence', 'villa', 'abode', 'cottage', 'palace'] -> snap5 community43 words ['house', 'home']
+Evolution = Contract
+snap4 Community59 words ['join', 'attend', 'invite'] -> snap5 community63 words ['attend', 'join']
+Evolution = Survive
+snap4 Community60 words ['return', 'leave', 'remain', 'stay', 'continue', 'keep', 'persist', 'intensify'] -> snap5 community55 words ['return', 'leave', 'stay', 'left', 'keep', 'remain', 'continue']
+Evolution = Survive
+snap4 Community61 words ['promise', 'vow', 'pledge'] -> snap5 community7 words ['vow', 'promise']
+Evolution = Survive
+snap4 Community66 words ['thirty', 'thousand', 'fourteen'] -> snap5 community90 words ['thousand', 'seventy', 'thirty', 'ninety', 'sixteen']
+Evolution = Grow
+snap4 Community67 words ['million', 'roughly'] -> snap5 community96 words ['nearly', 'total', 'million']
+Evolution = Survive
+snap4 Community68 words ['pound', 'foot', 'tall'] -> snap5 community51 words ['foot', 'pound', 'tall', 'inch', 'diminutive', 'bearded', 'burly']
+Evolution = Grow
+snap4 Community72 words ['finance', 'banking', 'financial', 'economic', 'economy'] -> snap5 community163 words ['financial', 'economic', 'economy']
+Evolution = Survive
+snap4 Community73 words ['listen', 'hear'] -> snap5 community88 words ['hear', 'listen']
+Evolution = Survive
+snap4 Community77 words ['entire', 'rest'] -> snap5 community85 words ['entire', 'rest']
+Evolution = Survive
+snap4 Community84 words ['country', 'world', 'continent'] -> snap5 community136 words ['continent', 'country', 'world', 'nation']
+Evolution = Survive
+snap4 Community85 words ['consent', 'assent'] -> snap5 community36 words ['assent', 'approval', 'consent', 'permission', 'permit']
+Evolution = Grow
+snap4 Community94 words ['jeopardy', 'danger', 'threat'] -> snap5 community92 words ['threat', 'danger']
+Evolution = Survive
+snap4 Community97 words ['aid', 'relief'] -> snap5 community123 words ['support', 'assistance', 'aid', 'relief']
+Evolution = Grow
+snap4 Community101 words ['task', 'chore'] -> snap5 community158 words ['chore', 'task']
+Evolution = Survive
+snap4 Community104 words ['print', 'printing'] -> snap5 community65 words ['print', 'printing']
+Evolution = Survive
+snap4 Community106 words ['register', 'registration'] -> snap5 community29 words ['registration', 'register', 'registered']
+Evolution = Survive
+snap4 Community109 words ['document', 'letter'] -> snap5 community143 words ['letter', 'statement', 'correspondence']
+Evolution = Survive
+snap4 Community110 words ['exclaim', 'weep', 'shout', 'scream', 'cry', 'sob'] -> snap5 community109 words ['weep', 'cry']
+Evolution = Contract
+snap4 Community112 words ['crowd', 'audience'] -> snap5 community66 words ['crowd', 'audience', 'throng', 'raucous', 'greet', 'greeting']
+Evolution = Grow
+snap4 Community115 words ['registra', 'obliga'] -> snap5 community81 words ['registra', 'organiza']
+Evolution = Survive
+snap4 Community122 words ['limit', 'minimum', 'maximum'] -> snap5 community160 words ['threshold', 'limit', 'minimum', 'maximum', 'max']
+Evolution = Grow
+snap4 Community127 words ['final', 'second', 'fourth'] -> snap5 community13 words ['second', 'eighth', 'final']
+Evolution = Survive
+snap4 Community130 words ['completely', 'wholly', 'essentially', 'simply', 'instead', 'merely', 'mere'] -> snap5 community114 words ['instead', 'merely']
+Evolution = Contract
+snap4 Community136 words ['professional', 'profession'] -> snap5 community146 words ['profession', 'professional']
+Evolution = Survive
+snap4 Community141 words ['gold', 'silver'] -> snap5 community77 words ['copper', 'silver']
+Evolution = Survive
+snap4 Community144 words ['sleepless', 'sleep', 'asleep', 'bed'] -> snap5 community126 words ['sleep', 'bed', 'sleeping', 'awake', 'pillow']
+Evolution = Survive
+snap4 Community149 words ['burden', 'responsibility', 'blame'] -> snap5 community59 words ['responsible', 'culpable', 'responsibility', 'guilty', 'burden']
+Evolution = Grow
+snap4 Community150 words ['vegetarian', 'vegetarianism'] -> snap5 community169 words ['vegetarian', 'fruitarian', 'vegetarianism']
+Evolution = Survive
+snap5 Community2 words ['gandhi', 'satya', 'ali', 'ahmad', 'mohammed', 'pathan', 'allah', 'alam', 'hindu', 'rao', 'sanyasin', 'mahatma', 'bombay', 'chandra', 'hindus', 'tamil', 'telugu', 'krishna', 'gopal', 'mohan', 'swaraj', 'brahmacharya', 'sanskrit', 'peda', 'buddhist', 'moslem', 'koran', 'christian', 'christianity', 'buddhism', 'jewish', 'moslems', 'christians', 'jews', 'lage', 'khan', 'gita', 'baptist', 'catholic', 'gulab', 'hindi', 'swami', 'rl'] -> snap6 community22 words ['satyagraha', 'swaraj', 'gandhi', 'hindu', 'ahmed', 'lahore', 'punjab', 'mahatma', 'bombay', 'gujarat', 'tamil', 'telugu', 'malayalam', 'bengali', 'punjabi', 'sri', 'raja', 'nehru', 'hinduism', 'pathan', 'daro', 'karachi', 'kshatriya', 'islam', 'hindus', 'lakshmi', 'mohammed', 'sikh', 'pandit', 'lucknow', 'shukla', 'nepal', 'bihar', 'patna', 'babu', 'maulana', 'christian', 'moslem', 'aryan', 'buddhism', 'buddhist', 'volk', 'urdu', 'maharaja', 'pater', 'sanskrit', 'veda', 'gita', 'seva', 'indo', 'ahmedabad', 'hindi', 'untouchability', 'rajas', 'caste', 'desai', 'maharani', 'buddha', 'prasad', 'maharajas']
+Evolution = Survive
+snap5 Community7 words ['vow', 'promise'] -> snap6 community19 words ['promise', 'pledge']
+Evolution = Survive
+snap5 Community8 words ['imperial', 'imperialistic', 'tsarist', 'unfairness', 'inequality', 'equal', 'equality', 'mankind', 'peaceful', 'peace', 'civilized', 'violence', 'brutality', 'crime', 'repression', 'violent', 'cruelty', 'oppression', 'reconciliation', 'reconcile', 'society', 'civilization', 'human', 'humanity', 'liberty', 'democracy', 'tyranny', 'freedom', 'prejudiced', 'prejudice', 'cruel', 'poverty', 'deprivation', 'discrimination', 'repugnant', 'obnoxious', 'earth', 'vicious', 'privation', 'hardship', 'slavery', 'slave', 'neglect', 'irksome', 'harsh', 'capitalist', 'militarism', 'justice', 'landlordism', 'liberation'] -> snap6 community26 words ['justice', 'equality', 'injustice', 'abuse', 'violence', 'equal', 'unequal', 'respect', 'regard', 'dignity', 'tyrant', 'unjust', 'cruel', 'inhuman', 'shameful', 'liberty', 'freedom', 'bad', 'ugly', 'poor', 'alarmed', 'disconcerting', 'integrity', 'impartiality', 'prejudice', 'discrimination', 'relation', 'embarrassing', 'unnatural', 'strange', 'inequality', 'anarchy', 'backwardness', 'ruthless', 'brutal', 'savage', 'bloodthirsty', 'vicious', 'violent', 'peculiar', 'irksome', 'regime', 'evil', 'shame', 'disgusting', 'humiliation', 'inhumanity', 'link', 'connection', 'hideous', 'hunger', 'poverty', 'degrading', 'miserable', 'misery']
+Evolution = Survive
+snap5 Community10 words ['kind', 'think', 'little', 'actually', 'stuff', 'sort', 'suggest', 'insist', 'believe', 'argue', 'indicate', 'confirm', 'imply', 'mean', 'convince', 'assure', 'prove', 'everybody', 'anybody', 'lot', 'guy', 'thought', 'assume', 'feel', 'feeling', 'realize', 'understand', 'probably', 'remember', 'refer', 'describe', 'agree', 'experience', 'knowledge', 'acknowledge', 'accept', 'recognize', 'assert', 'claim', 'argument', 'reveal', 'explain', 'explanation', 'defend', 'declare', 'proclaim', 'appreciate', 'plenty', 'concur', 'mood', 'attitude', 'asserted', 'affirm', 'admit', 'interpretation', 'interpret', 'characterize', 'thank', 'profess', 'understanding', 'recognition', 'likely', 'insight', 'ample', 'quarrel', 'dispute', 'appreciation'] -> snap6 community17 words ['contemplate', 'believe', 'think', 'thought', 'argue', 'assume', 'insist', 'suggest', 'agree', 'somebody', 'assert', 'defend', 'prove', 'claim', 'lot', 'imagine', 'envisage', 'suppose', 'anybody', 'certainly', 'obviously', 'everybody', 'reveal', 'instead', 'merely', 'simply', 'mere', 'little', 'bit', 'kind', 'presumably', 'occasionally', 'rarely', 'frequently', 'regularly', 'seldom', 'sir', 'yes', 'frankly', 'actually', 'surely', 'probably', 'feel', 'thinking', 'particular', 'certain', 'type', 'confirm', 'fairly', 'somewhat', 'ridiculously', 'comparatively', 'sense', 'markedly', 'sharply', 'drastically', 'totally', 'proof', 'argument', 'hardly', 'entirely', 'altogether', 'quarrel', 'especially', 'likely', 'scarcely', 'theoretically', 'apparently', 'evidence', 'expose', 'exactly']
+Evolution = Survive
+snap5 Community14 words ['cousin', 'friend', 'brother', 'family', 'daughter', 'son', 'father', 'mother', 'wife', 'man', 'woman', 'boy', 'victim', 'person', 'girl', 'old', 'people', 'assailant', 'child', 'baby'] -> snap6 community24 words ['child', 'boy', 'son', 'mother', 'daughter', 'prison', 'jail', 'sentence', 'imprisonment', 'prisoner', 'convict', 'inmate', 'court', 'judge', 'magistrate', 'wife', 'sister', 'friend', 'family', 'husband', 'cousin', 'widow', 'father', 'brother', 'spouse', 'woman', 'man', 'person', 'victim', 'lady', 'arrest', 'police', 'suspect', 'policeman', 'constable', 'detective', 'imprison', 'deport', 'incarcerate', 'bail', 'counsel', 'lawyer', 'gentleman', 'soldier', 'comrade', 'people', 'officer', 'lieutenant', 'prosecutor', 'investigator', 'bond', 'immigration', 'colleague', 'soulmate', 'citizenship', 'citizen', 'old']
+Evolution = Grow
+snap5 Community18 words ['spark', 'spur', 'require', 'allow', 'need', 'involve', 'fail', 'refuse', 'faith', 'spirit', 'essence', 'enthusiasm', 'aim', 'objective', 'intention', 'hope', 'optimism', 'chance', 'wish', 'encourage', 'stimulate', 'want', 'withhold', 'withdraw', 'assist', 'help', 'belief', 'expect', 'able', 'try', 'ability', 'unable', 'ask', 'intend', 'prefer', 'let', 'answer', 'decide', 'question', 'desire', 'effort', 'attempt', 'anticipate', 'abandon', 'foresee', 'necessary', 'refusal', 'purpose', 'opportunity', 'choose', 'dictate', 'consist', 'include', 'eschew', 'inability', 'preferred', 'lack', 'absence', 'absent', 'involved', 'interested'] -> snap6 community16 words ['decide', 'prepare', 'preparation', 'ready', 'prepared', 'issue', 'problem', 'matter', 'want', 'choose', 'choice', 'prefer', 'hope', 'expect', 'ask', 'attempt', 'trying', 'try', 'effort', 'able', 'ability', 'willing', 'intention', 'intend', 'desire', 'necessary', 'need', 'sufficient', 'wish', 'let', 'refuse', 'dare', 'ought', 'tend', 'afraid', 'fear', 'worried', 'concern', 'dread', 'allow', 'answer', 'question', 'beg', 'explanation', 'trouble', 'difficulty', 'exclaim', 'shout', 'groan', 'weep', 'loathe', 'plead', 'complain', 'hum', 'whine', 'noise', 'din', 'throb', 'abhor', 'riddle', 'nervous', 'anxious', 'fret', 'shortcoming', 'hate', 'strove', 'help', 'yearning', 'shall', 'enable', 'crave', 'flaw', 'ache', 'resent', 'propensity', 'mater', 'loud', 'sound', 'reason']
+Evolution = Survive
+snap5 Community20 words ['opponent', 'adversary', 'foe'] -> snap6 community64 words ['ally', 'adversary', 'interlocutor', 'opponent', 'antagonist', 'enemy']
+Evolution = Grow
+snap5 Community26 words ['destroyer', 'ship', 'sail', 'dock', 'steamer', 'hull'] -> snap6 community77 words ['trek', 'voyage', 'sojourn', 'pilgrimage', 'tour', 'ship', 'vessel', 'steamer', 'sail', 'shipping', 'dock']
+Evolution = Grow
+snap5 Community27 words ['interaction', 'collaboration', 'communication', 'educate', 'advice', 'advise', 'student', 'teacher', 'college', 'school', 'nurse', 'teaching', 'algebra', 'principal', 'speak', 'talk', 'speaking', 'communicate', 'teach', 'preach', 'learn', 'instruction', 'lesson', 'learning', 'consult', 'inform', 'pray', 'uncover', 'conceal', 'find', 'discover', 'sin', 'sinner', 'logic', 'notify', 'repent', 'convey', 'evoke', 'echo', 'heighten', 'training', 'education', 'nursing', 'patient', 'doctor', 'mathematics', 'arithmetic', 'saint', 'sainthood', 'martyr', 'acquaint', 'connect'] -> snap6 community37 words ['urge', 'exhort', 'advise', 'realize', 'inform', 'communicate', 'explain', 'warn', 'remind', 'educate', 'consult', 'describe', 'refer', 'speak', 'understand', 'connect', 'communication', 'demonstrate', 'emphasize', 'recognize', 'exemplify', 'examine', 'instruction', 'teach', 'promote', 'thank', 'commend', 'appreciate', 'find', 'discover', 'found', 'witness', 'testify', 'inquiry', 'investigate', 'investigation', 'inquire', 'review', 'appreciation', 'talk', 'beware', 'ascertain', 'speaking', 'learn', 'impart', 'lesson']
+Evolution = Survive
+snap5 Community30 words ['black', 'brown', 'white', 'yellow', 'purple', 'orange'] -> snap6 community59 words ['black', 'white']
+Evolution = Contract
+snap5 Community31 words ['tactic', 'trick', 'method', 'tool'] -> snap6 community41 words ['tool', 'method', 'tactic', 'technique']
+Evolution = Survive
+snap5 Community33 words ['crown', 'champion', 'title'] -> snap6 community188 words ['title', 'champion']
+Evolution = Survive
+snap5 Community36 words ['assent', 'approval', 'consent', 'permission', 'permit'] -> snap6 community10 words ['permit', 'permission']
+Evolution = Contract
+snap5 Community40 words ['visit', 'trip', 'sojourn', 'journey', 'battle', 'fight', 'struggle', 'quest', 'travel', 'tour'] -> snap6 community90 words ['duel', 'battle', 'clash', 'pugilist', 'wrestler', 'fighter', 'fight', 'struggle', 'match']
+Evolution = Survive
+snap5 Community41 words ['meeting', 'meet'] -> snap6 community71 words ['meet', 'meeting', 'discussion', 'session', 'conversation']
+Evolution = Grow
+snap5 Community45 words ['central', 'western', 'south', 'north', 'near'] -> snap6 community30 words ['south', 'western', 'near', 'eastern', 'north', 'southern', 'adjoining', 'nearby', 'central']
+Evolution = Grow
+snap5 Community47 words ['inner', 'outer'] -> snap6 community158 words ['inner', 'outer']
+Evolution = Survive
+snap5 Community49 words ['sit', 'stand'] -> snap6 community150 words ['stand', 'sit']
+Evolution = Survive
+snap5 Community50 words ['silent', 'silence'] -> snap6 community151 words ['mute', 'silent']
+Evolution = Survive
+snap5 Community51 words ['foot', 'pound', 'tall', 'inch', 'diminutive', 'bearded', 'burly'] -> snap6 community12 words ['pound', 'foot']
+Evolution = Contract
+snap5 Community59 words ['responsible', 'culpable', 'responsibility', 'guilty', 'burden'] -> snap6 community102 words ['responsibility', 'responsible']
+Evolution = Contract
+snap5 Community63 words ['attend', 'join'] -> snap6 community34 words ['join', 'invite', 'attend', 'participate', 'welcome']
+Evolution = Grow
+snap5 Community67 words ['customary', 'usual'] -> snap6 community149 words ['usual', 'typical']
+Evolution = Survive
+snap5 Community69 words ['morning', 'noon', 'afternoon', 'yesterday', 'tomorrow', 'today'] -> snap6 community83 words ['morning', 'yesterday', 'today', 'tomorrow']
+Evolution = Survive
+snap5 Community70 words ['short', 'long'] -> snap6 community56 words ['long', 'short']
+Evolution = Survive
+snap5 Community72 words ['tired', 'accustomed'] -> snap6 community139 words ['tired', 'weary']
+Evolution = Survive
+snap5 Community73 words ['outside', 'inside'] -> snap6 community47 words ['outside', 'inside']
+Evolution = Survive
+snap5 Community75 words ['public', 'private'] -> snap6 community119 words ['public', 'private']
+Evolution = Survive
+snap5 Community77 words ['copper', 'silver'] -> snap6 community111 words ['gold', 'silver', 'bronze']
+Evolution = Survive
+snap5 Community82 words ['pressure', 'stress'] -> snap6 community118 words ['pressure', 'stress']
+Evolution = Survive
+snap5 Community84 words ['hand', 'finger', 'lip', 'nose'] -> snap6 community166 words ['ear', 'nose', 'mouth', 'lip']
+Evolution = Survive
+snap5 Community85 words ['entire', 'rest'] -> snap6 community126 words ['rest', 'entire']
+Evolution = Survive
+snap5 Community86 words ['situation', 'circumstance'] -> snap6 community123 words ['situation', 'circumstance']
+Evolution = Survive
+snap5 Community88 words ['hear', 'listen'] -> snap6 community99 words ['hear', 'listen']
+Evolution = Survive
+snap5 Community90 words ['thousand', 'seventy', 'thirty', 'ninety', 'sixteen'] -> snap6 community39 words ['handful', 'dozen', 'numerous', 'thousand', 'thirty', 'seventy', 'eighty', 'hundred', 'multitude', 'multiple', 'multitudinous', 'multiplicity', 'panoply', 'sixteen']
+Evolution = Grow
+snap5 Community91 words ['despite', 'amidst', 'midst'] -> snap6 community49 words ['despite', 'amid']
+Evolution = Survive
+snap5 Community92 words ['threat', 'danger'] -> snap6 community50 words ['risk', 'danger', 'threat', 'dangerous', 'harmful']
+Evolution = Grow
+snap5 Community94 words ['welfare', 'health'] -> snap6 community196 words ['welfare', 'health']
+Evolution = Survive
+snap5 Community96 words ['nearly', 'total', 'million'] -> snap6 community74 words ['total', 'approximately', 'million']
+Evolution = Survive
+snap5 Community97 words ['assault', 'attack', 'incident'] -> snap6 community66 words ['incident', 'assault', 'attack']
+Evolution = Survive
+snap5 Community100 words ['cold', 'warm', 'icy'] -> snap6 community125 words ['cold', 'wet', 'dry']
+Evolution = Survive
+snap5 Community102 words ['strike', 'union'] -> snap6 community38 words ['strike', 'union']
+Evolution = Survive
+snap5 Community105 words ['right', 'wrong', 'correct', 'economical', 'reliable', 'accurate'] -> snap6 community33 words ['right', 'wrong', 'accordingly', 'properly', 'carefully', 'adequately', 'correctly', 'careful', 'correct', 'closely']
+Evolution = Grow
+snap5 Community106 words ['rib', 'leg', 'shoulder', 'arm'] -> snap6 community122 words ['knee', 'leg', 'heel', 'arm']
+Evolution = Survive
+snap5 Community107 words ['stitch', 'sew'] -> snap6 community172 words ['sewing', 'sew']
+Evolution = Survive
+snap5 Community122 words ['photograph', 'picture', 'image'] -> snap6 community193 words ['photograph', 'picture', 'image']
+Evolution = Survive
+snap5 Community130 words ['rich', 'wealthy'] -> snap6 community198 words ['rich', 'wealthy']
+Evolution = Survive
+snap5 Community131 words ['utensil', 'spoon'] -> snap6 community55 words ['utensil', 'toothpick', 'spoon', 'jar']
+Evolution = Grow
+snap5 Community132 words ['hold', 'holding'] -> snap6 community87 words ['hold', 'holding']
+Evolution = Survive
+snap5 Community135 words ['boyish', 'youthful', 'young'] -> snap6 community199 words ['youth', 'young']
+Evolution = Survive
+snap5 Community136 words ['continent', 'country', 'world', 'nation'] -> snap6 community92 words ['country', 'nation', 'world', 'continent', 'region', 'area']
+Evolution = Survive
+snap5 Community145 words ['invasion', 'war'] -> snap6 community144 words ['war', 'invasion', 'conflict', 'invade']
+Evolution = Grow
+snap5 Community152 words ['train', 'railway'] -> snap6 community61 words ['rail', 'train', 'railway', 'trolley', 'cart']
+Evolution = Grow
+snap5 Community158 words ['chore', 'task'] -> snap6 community89 words ['challenge', 'task']
+Evolution = Survive
+snap5 Community163 words ['financial', 'economic', 'economy'] -> snap6 community181 words ['economic', 'economy', 'financial']
+Evolution = Survive
+snap5 Community164 words ['property', 'land', 'acre', 'tract'] -> snap6 community95 words ['property', 'land', 'acre']
+Evolution = Survive
+snap5 Community168 words ['machinery', 'equipment'] -> snap6 community68 words ['equipment', 'machinery', 'machine']
+Evolution = Survive
+snap5 Community172 words ['cow', 'buffalo'] -> snap6 community106 words ['herd', 'cow', 'buffalo']
+Evolution = Survive
+snap5 Community174 words ['army', 'military', 'garrison'] -> snap6 community67 words ['army', 'military', 'navy']
+Evolution = Survive
+snap5 Community177 words ['guide', 'booklet'] -> snap6 community154 words ['guide', 'booklet', 'pamphlet']
+Evolution = Survive
+snap5 Community22 words ['news', 'press'] -> snap6 community108 words ['news', 'press']
+Evolution = Survive
+snap6 Community3 words ['mut', 'albert', 'benjamin', 'european', 'africa', 'newcastle', 'india', 'german', 'england', 'british', 'african', 'london', 'february', 'britain', 'english', 'japan', 'italy', 'austria', 'italian', 'american', 'europe', 'irish', 'russian', 'egypt', 'chris', 'germany', 'jesus', 'christ', 'iran', 'andrew', 'pearson', 'englishman', 'robertson', 'gilbert', 'murray', 'henry', 'andrews', 'allan', 'george', 'webb', 'roy', 'wright', 'matthew', 'arnold', 'adam', 'ndia', 'charles', 'william', 'solomon', 'clare', 'mrs', 'shelley', 'annie', 'bruno', 'norfolk', 'edward', 'hume', 'ur', 'leo', 'alfred', 'paris', 'zulu', 'oh', 'ita', 'spect', 'brah'] -> snap7 community10 words ['jl', 'bri', 'cyrus', 'alexander', 'portugal', 'holland', 'robert', 'watson', 'paul', 'williams', 'roberts', 'george', 'annie', 'stewart', 'thomson', 'edward', 'india', 'british', 'africa', 'england', 'britain', 'russian', 'greece', 'spanish', 'america', 'spain', 'dutch', 'french', 'europe', 'london', 'english', 'european', 'englishman', 'france', 'russia', 'japanese', 'russians', 'irish', 'scotland', 'african', 'italian', 'washington', 'canada', 'australia', 'february', 'ireland', 'egypt', 'asia', 'christ', 'iously', 'mrs', 'wilson', 'lloyd', 'harry', 'michael', 'bristol', 'syria', 'romans', 'cambridge', 'victoria', 'turkish', 'belgian', 'mary', 'jenny', 'persian', 'babylon', 'russo', 'john', 'sidney', 'columbus', 'portuguese', 'paris', 'scott', 'friday', 'drake', 'windsor', 'middleton']
+Evolution = Survive
+snap6 Community6 words ['final', 'second', 'fourth', 'half', 'quarter', 'fifth', 'seventieth', 'twentieth', 'period', 'nineteenth'] -> snap7 community88 words ['fifteenth', 'sixteenth', 'seventeenth', 'eighteenth', 'nineteenth', 'fifth', 'twentieth', 'third', 'second', 'thirtieth', 'fourth', 'sixth', 'half', 'quarter', 'period', 'net', 'final']
+Evolution = Grow
+snap6 Community13 words ['tax', 'levy'] -> snap7 community149 words ['taxation', 'tax']
+Evolution = Survive
+snap6 Community15 words ['consider', 'propose', 'defer', 'look', 'accept', 'plan', 'proposal', 'resume', 'commence', 'suspend', 'abolish', 'stop', 'halt', 'cease', 'proceed', 'reject', 'embrace', 'acquiesce', 'accepted', 'renounce', 'enact', 'criticize', 'condemn', 'laud', 'chide', 'oppose', 'abandon', 'shun', 'forsake', 'withdraw', 'audience', 'crowd', 'proceeding', 'punish', 'deny', 'bill', 'postpone', 'delay', 'cancel', 'adjourn', 'repeal', 'measure', 'reintroduce', 'impose', 'reform', 'praise', 'applause', 'adopt', 'contradict', 'contrary', 'refute', 'absolve', 'renunciation', 'recess', 'reconvene'] -> snap7 community18 words ['condemn', 'speak', 'talk', 'testify', 'discuss', 'recruit', 'enlist', 'hire', 'recruiting', 'join', 'enlisted', 'appoint', 'reject', 'abjure', 'renunciation', 'renounce', 'oppose', 'deny', 'accept', 'abandon', 'approve', 'repudiate', 'dismiss', 'expose', 'criticize', 'denounce', 'disagree', 'opposed', 'examine', 'demonstration', 'protest', 'demonstrator', 'acquiesce', 'withdraw', 'stop', 'forsake', 'discontinue', 'suspend', 'assent', 'approval', 'consent', 'meet', 'meeting', 'emasculate', 'blame', 'responsible', 'fault', 'resign', 'elect', 'convene', 'complain', 'permit', 'permission', 'vote', 'population', 'populace', 'embarrass', 'accuse', 'admonish', 'invite', 'invitation', 'welcome', 'punish', 'resume', 'commence', 'session', 'attend', 'debate', 'conversation', 'discussion', 'electorate', 'election', 'presidency', 'press', 'conference', 'news', 'hearing', 'halt', 'cease', 'cancel', 'cancellation', 'postpone', 'inquiry', 'investigate', 'investigation', 'proceed', 'witness', 'retire', 'retirement', 'pension', 'delay', 'proceeding', 'adjourn']
+Evolution = Grow
+snap6 Community16 words ['decide', 'prepare', 'preparation', 'ready', 'prepared', 'issue', 'problem', 'matter', 'want', 'choose', 'choice', 'prefer', 'hope', 'expect', 'ask', 'attempt', 'trying', 'try', 'effort', 'able', 'ability', 'willing', 'intention', 'intend', 'desire', 'necessary', 'need', 'sufficient', 'wish', 'let', 'refuse', 'dare', 'ought', 'tend', 'afraid', 'fear', 'worried', 'concern', 'dread', 'allow', 'answer', 'question', 'beg', 'explanation', 'trouble', 'difficulty', 'exclaim', 'shout', 'groan', 'weep', 'loathe', 'plead', 'complain', 'hum', 'whine', 'noise', 'din', 'throb', 'abhor', 'riddle', 'nervous', 'anxious', 'fret', 'shortcoming', 'hate', 'strove', 'help', 'yearning', 'shall', 'enable', 'crave', 'flaw', 'ache', 'resent', 'propensity', 'mater', 'loud', 'sound', 'reason'] -> snap7 community8 words ['disgrace', 'want', 'let', 'refuse', 'ask', 'need', 'deserve', 'afraid', 'try', 'hesitate', 'dare', 'able', 'intend', 'prefer', 'expect', 'ought', 'aspire', 'willing', 'ability', 'willingness', 'failure', 'fail', 'reluctant', 'decide', 'answer', 'question', 'happy', 'aspiration', 'desire', 'dream', 'ambition', 'effort', 'attempt', 'sure', 'difficult', 'recommend', 'intention', 'determination', 'bother', 'likely', 'inclined', 'apt', 'readiness', 'glance', 'look', 'deserving', 'nervous', 'uncomfortable', 'anxious', 'apologize', 'regret', 'ashamed', 'sorry', 'eager', 'easy', 'simple', 'impossible', 'preferred', 'prepare', 'ready', 'prepared', 'propose', 'consider', 'humiliating', 'humiliation', 'shall', 'unable', 'contemplate', 'predict', 'foresee', 'hard', 'aim', 'dictate', 'choose', 'respond', 'envisage', 'sad', 'satisfied', 'pleased', 'depend', 'yearn', 'choice', 'gladly']
+Evolution = Survive
+snap6 Community17 words ['contemplate', 'believe', 'think', 'thought', 'argue', 'assume', 'insist', 'suggest', 'agree', 'somebody', 'assert', 'defend', 'prove', 'claim', 'lot', 'imagine', 'envisage', 'suppose', 'anybody', 'certainly', 'obviously', 'everybody', 'reveal', 'instead', 'merely', 'simply', 'mere', 'little', 'bit', 'kind', 'presumably', 'occasionally', 'rarely', 'frequently', 'regularly', 'seldom', 'sir', 'yes', 'frankly', 'actually', 'surely', 'probably', 'feel', 'thinking', 'particular', 'certain', 'type', 'confirm', 'fairly', 'somewhat', 'ridiculously', 'comparatively', 'sense', 'markedly', 'sharply', 'drastically', 'totally', 'proof', 'argument', 'hardly', 'entirely', 'altogether', 'quarrel', 'especially', 'likely', 'scarcely', 'theoretically', 'apparently', 'evidence', 'expose', 'exactly'] -> snap7 community13 words ['think', 'lot', 'doubt', 'wonder', 'feel', 'suppose', 'probably', 'thought', 'anybody', 'reckon', 'honestly', 'everybody', 'certainly', 'actually', 'obviously', 'kind', 'sense', 'surely', 'inevitably', 'hardly', 'little', 'yes', 'possibly', 'likewise', 'similarly', 'somebody', 'generally', 'totally', 'entirely', 'wholly', 'practically', 'barely', 'naturally', 'seldom', 'frequently', 'usually', 'regularly', 'rarely', 'universally', 'particularly', 'remarkably', 'supremely', 'sir', 'sincerely', 'personally', 'incessantly', 'especially', 'incredibly', 'unfortunately', 'genuinely', 'deeply', 'pretty', 'virtually']
+Evolution = Survive
+snap6 Community19 words ['promise', 'pledge'] -> snap7 community58 words ['vow', 'pledge', 'promise']
+Evolution = Survive
+snap6 Community21 words ['volun', 'volunteer'] -> snap7 community160 words ['volun', 'volunteer']
+Evolution = Survive
+snap6 Community22 words ['satyagraha', 'swaraj', 'gandhi', 'hindu', 'ahmed', 'lahore', 'punjab', 'mahatma', 'bombay', 'gujarat', 'tamil', 'telugu', 'malayalam', 'bengali', 'punjabi', 'sri', 'raja', 'nehru', 'hinduism', 'pathan', 'daro', 'karachi', 'kshatriya', 'islam', 'hindus', 'lakshmi', 'mohammed', 'sikh', 'pandit', 'lucknow', 'shukla', 'nepal', 'bihar', 'patna', 'babu', 'maulana', 'christian', 'moslem', 'aryan', 'buddhism', 'buddhist', 'volk', 'urdu', 'maharaja', 'pater', 'sanskrit', 'veda', 'gita', 'seva', 'indo', 'ahmedabad', 'hindi', 'untouchability', 'rajas', 'caste', 'desai', 'maharani', 'buddha', 'prasad', 'maharajas'] -> snap7 community12 words ['ali', 'mohammed', 'mahatma', 'gandhi', 'satya', 'nehru', 'gujarat', 'hindu', 'bombay', 'hindus', 'nawab', 'delhi', 'islam', 'hinduism', 'maharashtra', 'punjab', 'sikh', 'bagh', 'nepal', 'lahore', 'maulana', 'kalam', 'azad', 'lal', 'patel', 'ahmedabad', 'assam', 'surat', 'swaraj', 'jew', 'palestine', 'moslem', 'mohamed', 'khan', 'lac', 'crore', 'tehsil', 'maharajas', 'sepoy', 'thana', 'caste', 'untouchability', 'cantonment', 'tilak', 'dhoti', 'gita', 'agitation', 'satyagraha', 'hartal', 'salaam', 'wale', 'maga', 'himalayan', 'loincloth']
+Evolution = Survive
+snap6 Community24 words ['child', 'boy', 'son', 'mother', 'daughter', 'prison', 'jail', 'sentence', 'imprisonment', 'prisoner', 'convict', 'inmate', 'court', 'judge', 'magistrate', 'wife', 'sister', 'friend', 'family', 'husband', 'cousin', 'widow', 'father', 'brother', 'spouse', 'woman', 'man', 'person', 'victim', 'lady', 'arrest', 'police', 'suspect', 'policeman', 'constable', 'detective', 'imprison', 'deport', 'incarcerate', 'bail', 'counsel', 'lawyer', 'gentleman', 'soldier', 'comrade', 'people', 'officer', 'lieutenant', 'prosecutor', 'investigator', 'bond', 'immigration', 'colleague', 'soulmate', 'citizenship', 'citizen', 'old'] -> snap7 community9 words ['people', 'person', 'woman', 'man', 'mother', 'housewife', 'boy', 'girl', 'gentleman', 'wife', 'father', 'husband', 'lover', 'brother', 'family', 'friend', 'son', 'brothers', 'young', 'youth', 'child', 'shopkeeper', 'teen', 'old', 'shop', 'colleague']
+Evolution = Contract
+snap6 Community27 words ['cape', 'loincloth', 'jacket', 'sugar', 'rice', 'chocolate', 'vegetable', 'wheat', 'grain', 'cotton', 'fruit', 'marmalade', 'dress', 'wear', 'sari', 'garb', 'skirt', 'shirt', 'smock', 'cloth', 'sandal', 'shoe', 'clothing', 'garment', 'turban', 'flower', 'garden', 'crop', 'planter', 'textile', 'handicraft', 'almond', 'coat', 'harvest'] -> snap7 community79 words ['naked', 'underwear', 'bare', 'skirt', 'dress', 'textile', 'broadcloth', 'cloth', 'handicraft', 'garment', 'uniform', 'garb', 'sandal', 'shoe', 'wear', 'attire', 'clothing', 'apparel', 'hat', 'shirt', 'jacket', 'coat', 'trouser', 'waistcoat', 'sock', 'sleeveless']
+Evolution = Survive
+snap6 Community30 words ['south', 'western', 'near', 'eastern', 'north', 'southern', 'adjoining', 'nearby', 'central'] -> snap7 community26 words ['south', 'western', 'north', 'southern', 'northern', 'eastern', 'near', 'central', 'adjoining', 'nearby']
+Evolution = Survive
+snap6 Community32 words ['turn', 'turning', 'spinning', 'spin'] -> snap7 community140 words ['spinning', 'turning', 'spin', 'turn']
+Evolution = Survive
+snap6 Community35 words ['opening', 'open'] -> snap7 community201 words ['open', 'opening']
+Evolution = Survive
+snap6 Community39 words ['handful', 'dozen', 'numerous', 'thousand', 'thirty', 'seventy', 'eighty', 'hundred', 'multitude', 'multiple', 'multitudinous', 'multiplicity', 'panoply', 'sixteen'] -> snap7 community46 words ['thousand', 'thirty', 'eighty', 'seventy', 'hundred', 'fourteen', 'four', 'sixteen', 'two', 'dozen']
+Evolution = Survive
+snap6 Community41 words ['tool', 'method', 'tactic', 'technique'] -> snap7 community132 words ['trick', 'tactic', 'technique']
+Evolution = Survive
+snap6 Community43 words ['result', 'consequence'] -> snap7 community203 words ['result', 'consequence']
+Evolution = Survive
+snap6 Community45 words ['company', 'firm'] -> snap7 community112 words ['company', 'business', 'maker', 'industry', 'firm', 'market', 'price']
+Evolution = Grow
+snap6 Community47 words ['outside', 'inside'] -> snap7 community56 words ['outside', 'inside']
+Evolution = Survive
+snap6 Community49 words ['despite', 'amid'] -> snap7 community110 words ['despite', 'amid', 'amidst']
+Evolution = Survive
+snap6 Community59 words ['black', 'white'] -> snap7 community127 words ['black', 'white', 'orange', 'red']
+Evolution = Grow
+snap6 Community61 words ['rail', 'train', 'railway', 'trolley', 'cart'] -> snap7 community159 words ['rail', 'train', 'railway']
+Evolution = Survive
+snap6 Community62 words ['success', 'successful'] -> snap7 community34 words ['successful', 'success']
+Evolution = Survive
+snap6 Community64 words ['ally', 'adversary', 'interlocutor', 'opponent', 'antagonist', 'enemy'] -> snap7 community82 words ['enemy', 'adversary', 'ally', 'rival', 'foe', 'opponent']
+Evolution = Survive
+snap6 Community66 words ['incident', 'assault', 'attack'] -> snap7 community74 words ['crash', 'collision', 'attack', 'assault', 'incident']
+Evolution = Grow
+snap6 Community69 words ['complaint', 'grievance', 'suit', 'petition'] -> snap7 community165 words ['complaint', 'grievance']
+Evolution = Survive
+snap6 Community72 words ['smile', 'laugh'] -> snap7 community77 words ['laugh', 'smile']
+Evolution = Survive
+snap6 Community73 words ['report', 'survey', 'study'] -> snap7 community167 words ['report', 'summary']
+Evolution = Survive
+snap6 Community74 words ['total', 'approximately', 'million'] -> snap7 community45 words ['average', 'total', 'approximately', 'million']
+Evolution = Survive
+snap6 Community78 words ['town', 'city', 'village', 'pupil', 'student', 'school', 'teacher', 'chief', 'state', 'district', 'secretary', 'chairman', 'minister', 'commissioner', 'member', 'chairmanship', 'president', 'chair', 'vice', 'founder', 'representative', 'university', 'college', 'education', 'administrator', 'principal', 'superintendent', 'hut', 'locality'] -> snap7 community40 words ['district', 'state', 'school', 'city', 'county', 'village', 'town', 'hut', 'educational', 'education', 'literacy', 'pupil', 'teacher', 'student', 'headmistress', 'elementary', 'principal', 'college', 'university', 'council', 'commission', 'committee']
+Evolution = Survive
+snap6 Community80 words ['supply', 'demand'] -> snap7 community138 words ['supply', 'demand']
+Evolution = Survive
+snap6 Community82 words ['spot', 'place'] -> snap7 community120 words ['place', 'spot']
+Evolution = Survive
+snap6 Community86 words ['early', 'late'] -> snap7 community106 words ['early', 'late']
+Evolution = Survive
+snap6 Community88 words ['shoot', 'shot'] -> snap7 community206 words ['shoot', 'shooting']
+Evolution = Survive
+snap6 Community89 words ['challenge', 'task'] -> snap7 community139 words ['challenge', 'obstacle', 'task']
+Evolution = Survive
+snap6 Community90 words ['duel', 'battle', 'clash', 'pugilist', 'wrestler', 'fighter', 'fight', 'struggle', 'match'] -> snap7 community43 words ['fight', 'battle', 'fighting', 'struggle', 'fighter', 'skirmish', 'quest', 'feud', 'combat']
+Evolution = Survive
+snap6 Community91 words ['fill', 'replace', 'supplant'] -> snap7 community103 words ['displace', 'supplant', 'fill', 'replace']
+Evolution = Survive
+snap6 Community92 words ['country', 'nation', 'world', 'continent', 'region', 'area'] -> snap7 community21 words ['world', 'country', 'nation', 'region', 'area']
+Evolution = Survive
+snap6 Community98 words ['lie', 'lay'] -> snap7 community42 words ['lie', 'lay']
+Evolution = Survive
+snap6 Community99 words ['hear', 'listen'] -> snap7 community208 words ['hear', 'listen']
+Evolution = Survive
+snap6 Community100 words ['later', 'ago', 'past', 'previous', 'recent'] -> snap7 community64 words ['later', 'subsequently', 'last', 'ago', 'consequently', 'recent', 'prior', 'previous', 'subsequent', 'pre']
+Evolution = Grow
+snap6 Community104 words ['quickly', 'fast', 'immediately', 'soon', 'slowly', 'gradually', 'slow', 'shortly', 'quietly', 'timidly', 'patiently'] -> snap7 community72 words ['quickly', 'gradually', 'soon', 'fast', 'immediately', 'easily', 'slowly', 'conveniently', 'shortly', 'slow', 'quietly']
+Evolution = Survive
+snap6 Community107 words ['fate', 'destiny'] -> snap7 community19 words ['fate', 'destiny']
+Evolution = Survive
+snap6 Community112 words ['money', 'fund'] -> snap7 community117 words ['money', 'fund']
+Evolution = Survive
+snap6 Community113 words ['similar', 'different'] -> snap7 community116 words ['similar', 'different']
+Evolution = Survive
+snap6 Community114 words ['lead', 'advantage', 'edge'] -> snap7 community29 words ['lead', 'advantage']
+Evolution = Survive
+snap6 Community116 words ['unexpectedly', 'suddenly', 'sudden'] -> snap7 community71 words ['suddenly', 'sudden']
+Evolution = Survive
+snap6 Community119 words ['public', 'private'] -> snap7 community185 words ['public', 'private']
+Evolution = Survive
+snap6 Community122 words ['knee', 'leg', 'heel', 'arm'] -> snap7 community17 words ['arm', 'leg', 'illness', 'injury', 'knee']
+Evolution = Survive
+snap6 Community123 words ['situation', 'circumstance'] -> snap7 community44 words ['predicament', 'situation', 'circumstance']
+Evolution = Survive
+snap6 Community124 words ['purifying', 'purify'] -> snap7 community14 words ['purge', 'cleansing', 'purify']
+Evolution = Survive
+snap6 Community126 words ['rest', 'entire'] -> snap7 community84 words ['entire', 'rest']
+Evolution = Survive
+snap6 Community136 words ['province', 'provincial'] -> snap7 community114 words ['provincial', 'province']
+Evolution = Survive
+snap6 Community142 words ['memorial', 'tribute', 'funeral'] -> snap7 community133 words ['tribute', 'salute', 'memorial', 'monument']
+Evolution = Survive
+snap6 Community144 words ['war', 'invasion', 'conflict', 'invade'] -> snap7 community22 words ['war', 'invasion', 'invade']
+Evolution = Survive
+snap6 Community147 words ['deliberately', 'purposely', 'unintentionally'] -> snap7 community202 words ['unintentionally', 'deliberately', 'deliberate']
+Evolution = Survive
+snap6 Community148 words ['quiet', 'calm'] -> snap7 community164 words ['quiet', 'calm']
+Evolution = Survive
+snap6 Community150 words ['stand', 'sit'] -> snap7 community136 words ['stand', 'sit', 'standing']
+Evolution = Survive
+snap6 Community156 words ['unfettered', 'unimpeded'] -> snap7 community113 words ['unhampered', 'unfettered', 'unrestrained']
+Evolution = Survive
+snap6 Community165 words ['spend', 'dedicate', 'devoted'] -> snap7 community67 words ['devoted', 'dedicate', 'spend']
+Evolution = Survive
+snap6 Community170 words ['instance', 'example'] -> snap7 community85 words ['example', 'instance']
+Evolution = Survive
+snap6 Community173 words ['factory', 'plant'] -> snap7 community143 words ['factory', 'mill']
+Evolution = Survive
+snap6 Community174 words ['absolute', 'utter'] -> snap7 community168 words ['utter', 'absolute']
+Evolution = Survive
+snap6 Community176 words ['make', 'making'] -> snap7 community50 words ['make', 'making']
+Evolution = Survive
+snap6 Community185 words ['temporary', 'permanent'] -> snap7 community191 words ['permanent', 'temporary']
+Evolution = Survive
+snap6 Community187 words ['shaven', 'bearded'] -> snap7 community205 words ['bearded', 'turbaned']
+Evolution = Survive
+snap6 Community189 words ['stature', 'prestige'] -> snap7 community166 words ['prestige', 'reputation']
+Evolution = Survive
+snap6 Community191 words ['wait', 'await'] -> snap7 community190 words ['wait', 'await']
+Evolution = Survive
+snap6 Community203 words ['evident', 'visible'] -> snap7 community41 words ['definite', 'obvious', 'whatsoever', 'visible', 'evident', 'clear', 'apparent']
+Evolution = Grow
+snap6 Community205 words ['craftsman', 'weaver', 'potter'] -> snap7 community213 words ['dyer', 'weaver']
+Evolution = Survive
+snap6 Community101 words ['shape', 'fit'] -> snap7 community175 words ['shape', 'fit']
+Evolution = Survive
+snap6 Community143 words ['factor', 'element'] -> snap7 community192 words ['factor', 'element']
+Evolution = Survive
+snap7 Community3 words ['partnership', 'partner', 'agreement', 'alliance', 'settlement', 'compromise', 'accord'] -> snap8 community19 words ['deal', 'pact', 'accord', 'alliance', 'compromise']
+Evolution = Survive
+snap7 Community18 words ['condemn', 'speak', 'talk', 'testify', 'discuss', 'recruit', 'enlist', 'hire', 'recruiting', 'join', 'enlisted', 'appoint', 'reject', 'abjure', 'renunciation', 'renounce', 'oppose', 'deny', 'accept', 'abandon', 'approve', 'repudiate', 'dismiss', 'expose', 'criticize', 'denounce', 'disagree', 'opposed', 'examine', 'demonstration', 'protest', 'demonstrator', 'acquiesce', 'withdraw', 'stop', 'forsake', 'discontinue', 'suspend', 'assent', 'approval', 'consent', 'meet', 'meeting', 'emasculate', 'blame', 'responsible', 'fault', 'resign', 'elect', 'convene', 'complain', 'permit', 'permission', 'vote', 'population', 'populace', 'embarrass', 'accuse', 'admonish', 'invite', 'invitation', 'welcome', 'punish', 'resume', 'commence', 'session', 'attend', 'debate', 'conversation', 'discussion', 'electorate', 'election', 'presidency', 'press', 'conference', 'news', 'hearing', 'halt', 'cease', 'cancel', 'cancellation', 'postpone', 'inquiry', 'investigate', 'investigation', 'proceed', 'witness', 'retire', 'retirement', 'pension', 'delay', 'proceeding', 'adjourn'] -> snap8 community90 words ['cease', 'stop', 'suspend', 'deny', 'reject', 'fault', 'blame', 'liable', 'responsible', 'criticize', 'protest', 'denounce', 'agitation', 'demonstration', 'condemn', 'oppose', 'admonish', 'accuse', 'abandon', 'commence', 'resume', 'proceed', 'reinstate', 'postpone', 'proceeding', 'relinquish', 'withdraw', 'spurn', 'withdrawal', 'renew', 'opposed', 'delay']
+Evolution = Contract
+snap7 Community8 words ['disgrace', 'want', 'let', 'refuse', 'ask', 'need', 'deserve', 'afraid', 'try', 'hesitate', 'dare', 'able', 'intend', 'prefer', 'expect', 'ought', 'aspire', 'willing', 'ability', 'willingness', 'failure', 'fail', 'reluctant', 'decide', 'answer', 'question', 'happy', 'aspiration', 'desire', 'dream', 'ambition', 'effort', 'attempt', 'sure', 'difficult', 'recommend', 'intention', 'determination', 'bother', 'likely', 'inclined', 'apt', 'readiness', 'glance', 'look', 'deserving', 'nervous', 'uncomfortable', 'anxious', 'apologize', 'regret', 'ashamed', 'sorry', 'eager', 'easy', 'simple', 'impossible', 'preferred', 'prepare', 'ready', 'prepared', 'propose', 'consider', 'humiliating', 'humiliation', 'shall', 'unable', 'contemplate', 'predict', 'foresee', 'hard', 'aim', 'dictate', 'choose', 'respond', 'envisage', 'sad', 'satisfied', 'pleased', 'depend', 'yearn', 'choice', 'gladly'] -> snap8 community13 words ['include', 'involve', 'consist', 'shall', 'ought', 'able', 'want', 'try', 'frequently', 'occasionally', 'repeatedly', 'usually', 'habitually', 'frequent', 'regularly', 'incessantly', 'ask', 'refuse', 'answer', 'decide', 'question', 'expect', 'fail', 'convince', 'persuade', 'impress', 'compel', 'assure', 'need', 'let', 'dare', 'deserve', 'tend', 'prefer', 'cajole', 'allow', 'require', 'enable', 'help', 'attempt', 'occasional', 'likely', 'effort', 'limit', 'minimum', 'choose', 'choice', 'equip', 'normally', 'consistently', 'requirement', 'criterion', 'continuously', 'examine', 'determine', 'inclined', 'constitute', 'query', 'inquire', 'investigate', 'furiously', 'inspect']
+Evolution = Survive
+snap7 Community9 words ['people', 'person', 'woman', 'man', 'mother', 'housewife', 'boy', 'girl', 'gentleman', 'wife', 'father', 'husband', 'lover', 'brother', 'family', 'friend', 'son', 'brothers', 'young', 'youth', 'child', 'shopkeeper', 'teen', 'old', 'shop', 'colleague'] -> snap8 community3 words ['family', 'father', 'wife', 'son', 'husband', 'cousin', 'mother', 'grandmother', 'daughter', 'lover', 'boy', 'brother', 'widow', 'friend', 'grandfather', 'granddaughter', 'brothers', 'sister', 'widower', 'woman', 'man', 'girl', 'person', 'lady', 'victim', 'married', 'mistress', 'child', 'old', 'baby', 'grandparent', 'youngster', 'policeman', 'gentleman', 'suspect', 'marry', 'marriage', 'remarry', 'wedding', 'divorce', 'people', 'remarriage', 'affair', 'tryst', 'colonel', 'police', 'parent', 'birth', 'babe', 'admiral', 'navy', 'army']
+Evolution = Grow
+snap7 Community10 words ['jl', 'bri', 'cyrus', 'alexander', 'portugal', 'holland', 'robert', 'watson', 'paul', 'williams', 'roberts', 'george', 'annie', 'stewart', 'thomson', 'edward', 'india', 'british', 'africa', 'england', 'britain', 'russian', 'greece', 'spanish', 'america', 'spain', 'dutch', 'french', 'europe', 'london', 'english', 'european', 'englishman', 'france', 'russia', 'japanese', 'russians', 'irish', 'scotland', 'african', 'italian', 'washington', 'canada', 'australia', 'february', 'ireland', 'egypt', 'asia', 'christ', 'iously', 'mrs', 'wilson', 'lloyd', 'harry', 'michael', 'bristol', 'syria', 'romans', 'cambridge', 'victoria', 'turkish', 'belgian', 'mary', 'jenny', 'persian', 'babylon', 'russo', 'john', 'sidney', 'columbus', 'portuguese', 'paris', 'scott', 'friday', 'drake', 'windsor', 'middleton'] -> snap8 community2 words ['india', 'mrs', 'alexander', 'charlie', 'andrews', 'charles', 'andrew', 'leo', 'francis', 'maria', 'ellis', 'paul', 'kelly', 'stanley', 'john', 'simon', 'alan', 'johnson', 'africa', 'england', 'british', 'german', 'european', 'russia', 'america', 'ireland', 'britain', 'american', 'japan', 'malta', 'europe', 'switzerland', 'russian', 'washington', 'germany', 'london', 'christ', 'jesus', 'italy', 'english', 'manu', 'englishman', 'greece', 'scotland', 'roy', 'campbell', 'vince', 'arab', 'rome', 'pierre', 'dominic', 'irwin', 'lester', 'italian', 'french', 'york', 'february', 'tuesday', 'friday', 'swiss', 'soviet', 'moscow', 'fein', 'mohamed', 'arabic', 'etc', 'madden', 'wednesday', 'monday', 'paris', 'geneva', 'geste', 'jones', 'tory']
+Evolution = Survive
+snap7 Community12 words ['ali', 'mohammed', 'mahatma', 'gandhi', 'satya', 'nehru', 'gujarat', 'hindu', 'bombay', 'hindus', 'nawab', 'delhi', 'islam', 'hinduism', 'maharashtra', 'punjab', 'sikh', 'bagh', 'nepal', 'lahore', 'maulana', 'kalam', 'azad', 'lal', 'patel', 'ahmedabad', 'assam', 'surat', 'swaraj', 'jew', 'palestine', 'moslem', 'mohamed', 'khan', 'lac', 'crore', 'tehsil', 'maharajas', 'sepoy', 'thana', 'caste', 'untouchability', 'cantonment', 'tilak', 'dhoti', 'gita', 'agitation', 'satyagraha', 'hartal', 'salaam', 'wale', 'maga', 'himalayan', 'loincloth'] -> snap8 community1 words ['gandhi', 'hindu', 'mahatma', 'islam', 'krishna', 'bihar', 'nehru', 'mahasabha', 'ali', 'bombay', 'patna', 'hindus', 'hinduism', 'allah', 'sahib', 'maulana', 'kalam', 'azad', 'gaye', 'jain', 'gujarat', 'abdul', 'marathi', 'bangalore', 'patel', 'delhi', 'mangalore', 'sinha', 'bahadur', 'pandit', 'christians', 'christian', 'vatican', 'ba', 'tor', 'sinn', 'moun', 'tain', 'suc', 'da', 'ene', 'lem', 'bom', 'ts', 'gita', 'ence', 'sion', 'en', 'num', 'swaraj', 'moslem', 'moslems', 'koran', 'handel', 'rie', 'agra', 'vj', 'sug', 'conver', 'reli', 'assam', 'ih', 'tej', 'untouchability', 'caste', 'desai', 'carnatic', 'oman', 'ahmedabad', 'dur', 'abu', 'maga', 'das', 'darshan', 'tilak', 'fs', 'de']
+Evolution = Survive
+snap7 Community13 words ['think', 'lot', 'doubt', 'wonder', 'feel', 'suppose', 'probably', 'thought', 'anybody', 'reckon', 'honestly', 'everybody', 'certainly', 'actually', 'obviously', 'kind', 'sense', 'surely', 'inevitably', 'hardly', 'little', 'yes', 'possibly', 'likewise', 'similarly', 'somebody', 'generally', 'totally', 'entirely', 'wholly', 'practically', 'barely', 'naturally', 'seldom', 'frequently', 'usually', 'regularly', 'rarely', 'universally', 'particularly', 'remarkably', 'supremely', 'sir', 'sincerely', 'personally', 'incessantly', 'especially', 'incredibly', 'unfortunately', 'genuinely', 'deeply', 'pretty', 'virtually'] -> snap8 community18 words ['lot', 'especially', 'mean', 'happen', 'necessarily', 'think', 'kind', 'certainly', 'little', 'actually', 'obviously', 'bit', 'type', 'stuff', 'ooo', 'wonder', 'doubt', 'suppose', 'anybody', 'probably', 'everybody', 'frankly', 'evidently', 'hardly', 'absolutely', 'truly', 'somebody', 'honestly', 'feel', 'thinking', 'thought', 'sense', 'feeling', 'instead', 'merely', 'simply', 'completely', 'totally', 'entirely', 'practically', 'wholly', 'altogether', 'utterly', 'possibly', 'possibility', 'apparently', 'sir', 'yes', 'plainly', 'mere', 'personally', 'oh', 'scarcely', 'sadly', 'realistically']
+Evolution = Survive
+snap7 Community7 words ['urge', 'wish', 'learn', 'discover', 'teach', 'educate', 'learning', 'understand', 'declare', 'proclaim', 'defend', 'assert', 'insist', 'suggest', 'insistence', 'agree', 'believe', 'argue', 'warn', 'contend', 'convinced', 'adamant', 'realize', 'imply', 'confirm', 'indicate', 'advise', 'advice', 'instruct', 'inform', 'suggestion', 'remark', 'idea', 'reveal', 'explain', 'insistent', 'irritate', 'endear', 'hope', 'optimism', 'incredulously', 'sarcastically', 'decipher', 'describe', 'define', 'find', 'identify', 'finding', 'found', 'preach', 'preaching', 'concept', 'attract', 'woo', 'captivate', 'safeguard', 'prove', 'proof', 'convince', 'avow', 'affirm', 'mollify', 'impress', 'persuade', 'instruction', 'distinguish', 'infuriated', 'resent', 'upset', 'assume', 'understanding', 'interpret', 'secure', 'reinforce', 'outburst', 'ensure', 'assure', 'protection', 'realization', 'characterize', 'appreciate', 'thank', 'evidence', 'claim', 'cite', 'warning', 'reiterate', 'refer', 'disappoint', 'confidence', 'demonstrate', 'emphasize', 'attribute', 'supervise', 'informed'] -> snap8 community24 words ['implication', 'assertion', 'understand', 'learn', 'perceive', 'realize', 'aware', 'educate', 'explain', 'recognize', 'appreciate', 'claim', 'contend', 'argue', 'assert', 'refer', 'ascribe', 'cite', 'describe', 'teach', 'discover', 'learned', 'insist', 'believe', 'insistence', 'warn', 'agree', 'suggest', 'letter', 'correspondence', 'telegram', 'memorandum', 'document', 'statement', 'tutor', 'preach', 'lesson', 'prove', 'embrace', 'accept', 'remember', 'urge', 'find', 'encourage', 'study', 'survey', 'declare', 'declaration', 'proclaim', 'perception', 'argument', 'realization', 'contemplate', 'consider', 'countenance', 'entreat', 'introduction', 'launch', 'introduce', 'advent', 'recommend', 'advise', 'propose', 'recommendation', 'belief', 'inform', 'warning', 'found', 'advice', 'faith', 'remark', 'retort', 'outburst', 'report', 'bulletin', 'summary', 'assume', 'announcement', 'announce', 'decision', 'nouncement', 'insistent', 'acquiesce', 'promote', 'plan', 'proposal', 'recognition', 'look', 'denunciation', 'rebuke', 'reason', 'motivation', 'explanation', 'affirm', 'reiterate', 'uphold', 'attribute', 'glance', 'summarize', 'request', 'expectation', 'apology', 'communique', 'indication', 'indicate', 'confirm', 'analysis', 'distinguish', 'defend']
+Evolution = Survive
+snap7 Community21 words ['world', 'country', 'nation', 'region', 'area'] -> snap8 community7 words ['country', 'world', 'nation', 'region']
+Evolution = Survive
+snap7 Community24 words ['add', 'bring', 'create', 'deliver', 'give', 'put', 'provide', 'achieve', 'produce', 'receive', 'offer', 'allow', 'fall', 'rise', 'fell', 'drop', 'encourage', 'facilitate', 'stimulate', 'discourage', 'help', 'enable', 'assist', 'dissuade', 'require', 'disturb', 'obstruct', 'offend', 'interfere', 'disturbed', 'frighten', 'reach', 'attain', 'mean', 'necessarily', 'necessitate', 'entail', 'happen', 'maintain', 'obtain', 'narrow', 'widen', 'subdue', 'extinguish', 'restrain', 'climb', 'evolve', 'transform', 'grow', 'prevent', 'thwart', 'prohibit', 'avert', 'establish', 'build', 'forge', 'inflame', 'increase', 'reduce', 'renew', 'extend', 'expand', 'enhance', 'restore', 'restoration', 'kindle', 'spark', 'arouse', 'fire', 'shrink', 'coincide', 'precede', 'expansion', 'development', 'building', 'limit', 'restrict', 'revolutionize', 'impetus', 'provoke', 'cut', 'suppress', 'induce', 'improved', 'improve', 'beget', 'ensue', 'stir', 'evoke', 'constitute', 'involve', 'represent', 'retain', 'advancement', 'justify', 'collect', 'echo', 'consist', 'include', 'suffice', 'prelude', 'erect', 'occur', 'occurrence', 'arise', 'gathering', 'gather', 'accompany', 'tamper', 'relieve'] -> snap8 community6 words ['leave', 'stay', 'return', 'left', 'receive', 'give', 'earn', 'obtain', 'offer', 'bring', 'wane', 'subside', 'retain', 'regain', 'maintain', 'attain', 'achieve', 'reach', 'sustain', 'elevate', 'continue', 'remain', 'intensify', 'persist', 'keep', 'deliver', 'shave', 'cut', 'nourish', 'purify', 'cultivate', 'building', 'build', 'tower', 'fall', 'rise', 'drop', 'spring', 'grow', 'grown', 'growth', 'mature', 'chop', 'lose', 'earning', 'create', 'add', 'produce', 'develop', 'increase', 'surge', 'dip', 'reduce', 'soothe', 'relieve', 'recover', 'stabilize', 'recuperate', 'heal', 'linger', 'restore', 'revive', 'mend', 'strengthen', 'establish', 'creation', 'collect', 'income', 'profit', 'revenue', 'purifier', 'convalescence', 'wave', 'improve', 'summer']
+Evolution = Survive
+snap7 Community26 words ['south', 'western', 'north', 'southern', 'northern', 'eastern', 'near', 'central', 'adjoining', 'nearby'] -> snap8 community47 words ['near', 'south', 'north', 'western', 'eastern', 'southern', 'central']
+Evolution = Survive
+snap7 Community27 words ['great', 'good', 'magnificent', 'perfect', 'real', 'brilliant', 'big', 'fantastic', 'wonderful', 'huge', 'remarkable', 'excellent', 'strong', 'cherished', 'precious', 'important', 'key', 'valuable', 'integral', 'indispensable', 'vital', 'essential', 'weak', 'strength', 'necessary', 'weakness', 'major', 'considerable', 'vast', 'substantial', 'undue', 'majesty', 'gigantic', 'ideal', 'desirable', 'superior', 'inferior', 'disappointing', 'surprising', 'sufficient', 'monumental', 'dramatic', 'mammoth', 'exciting', 'shock', 'surprise', 'unprecedented', 'extraordinary', 'drastic', 'admirable', 'noble', 'saintly'] -> snap8 community17 words ['great', 'remarkable', 'perfect', 'terrific', 'decent', 'big', 'good', 'huge', 'tremendous', 'amazing', 'wonderful', 'real', 'brilliant', 'beautiful', 'extremely', 'remarkably', 'equally', 'sweet', 'delightful', 'wondrous', 'admirable', 'perfection', 'perfectly', 'genius', 'masterpiece', 'strong', 'strength', 'weak', 'beauty', 'serenity', 'substantial', 'actual', 'softness', 'weakness', 'wise', 'irresistible', 'pleasant', 'wonderfully', 'glorious', 'friendly', 'congenial', 'serene', 'quiet', 'beaming', 'smile', 'cheerful', 'equable', 'exact', 'alluring', 'vast', 'mammoth', 'exquisitely', 'contentment', 'happiness', 'majesty', 'calm', 'nobility']
+Evolution = Survive
+snap7 Community40 words ['district', 'state', 'school', 'city', 'county', 'village', 'town', 'hut', 'educational', 'education', 'literacy', 'pupil', 'teacher', 'student', 'headmistress', 'elementary', 'principal', 'college', 'university', 'council', 'commission', 'committee'] -> snap8 community27 words ['teacher', 'nurse', 'school', 'student', 'pupil', 'education', 'educational', 'educationally', 'medicine', 'medical', 'physician', 'patient', 'hospital', 'surgical', 'doctor', 'state', 'district', 'surgeon', 'hut', 'village', 'hovel', 'civic', 'municipal', 'town', 'villager', 'locality', 'city', 'provincial', 'council', 'committee', 'board', 'commission', 'townspeople', 'province', 'college', 'university', 'health', 'institute']
+Evolution = Grow
+snap7 Community29 words ['lead', 'advantage'] -> snap8 community116 words ['lead', 'advantage', 'edge']
+Evolution = Survive
+snap7 Community34 words ['successful', 'success'] -> snap8 community78 words ['success', 'successful', 'fruitful']
+Evolution = Survive
+snap7 Community36 words ['feed', 'fed'] -> snap8 community134 words ['feed', 'feeding']
+Evolution = Survive
+snap7 Community38 words ['heckling', 'boisterous', 'audience', 'crowd', 'disorderly', 'unruly', 'applause'] -> snap8 community174 words ['audience', 'crowd']
+Evolution = Contract
+snap7 Community39 words ['repression', 'imperialism', 'colonial', 'colony', 'slave', 'imperial', 'freedom', 'equality', 'liberty', 'peacefully', 'peaceful', 'constitutional', 'democratic', 'ineradicable', 'bolshevism', 'incubus', 'excrescence', 'brotherhood', 'amity', 'unity', 'friendship', 'rule', 'law', 'antiquity', 'civilization', 'queen', 'king', 'royal', 'prince', 'peace', 'dictator', 'emperor', 'throne', 'ruler', 'sultan', 'commoner', 'monarchy', 'viceroy', 'warlike', 'imperialistic', 'bellicose', 'dictatorship', 'autocracy', 'capitalist', 'aristocrat', 'autocrat', 'caliph', 'dynastic', 'constitution', 'viceregal', 'regime', 'autocratic', 'repressive', 'colonizer', 'equal', 'justice', 'united', 'unite', 'paternalistic', 'censorship', 'civilized', 'insensate', 'caliphate'] -> snap8 community9 words ['politician', 'political', 'parliamentarian', 'businessman', 'secretary', 'director', 'chief', 'minister', 'commissioner', 'friendship', 'culture', 'society', 'mankind', 'law', 'rule', 'constitutional', 'religious', 'human', 'humanity', 'religion', 'associate', 'head', 'manager', 'president', 'equal', 'equality', 'tyrant', 'religionist', 'atheist', 'irreligion', 'civilization', 'partisan', 'democratic', 'legislative', 'imperialist', 'regime', 'dictatorship', 'secular', 'republic', 'liberty', 'capitalist', 'democracy', 'liberalism', 'bolshevism', 'nationalism', 'rationalist', 'rationalism', 'liberal', 'peace', 'unity', 'amity', 'congress', 'parliament', 'war', 'occupation', 'fascist', 'proletarian', 'government', 'legislature', 'administration', 'nationalist', 'unite', 'united', 'brotherhood', 'harmony', 'earth', 'industrialist', 'freedom', 'poverty', 'hunger', 'inequality', 'peasant', 'proletariat', 'hungry', 'founder', 'mutual', 'relationship', 'metaphysics']
+Evolution = Survive
+snap7 Community42 words ['lie', 'lay'] -> snap8 community155 words ['lay', 'lie']
+Evolution = Survive
+snap7 Community43 words ['fight', 'battle', 'fighting', 'struggle', 'fighter', 'skirmish', 'quest', 'feud', 'combat'] -> snap8 community77 words ['struggle', 'battle', 'fight', 'fighting']
+Evolution = Contract
+snap7 Community44 words ['predicament', 'situation', 'circumstance'] -> snap8 community150 words ['situation', 'circumstance']
+Evolution = Survive
+snap7 Community46 words ['thousand', 'thirty', 'eighty', 'seventy', 'hundred', 'fourteen', 'four', 'sixteen', 'two', 'dozen'] -> snap8 community70 words ['thirty', 'sixteen', 'hundred', 'thousand', 'seventy', 'ten', 'ninety', 'dozen', 'handful']
+Evolution = Survive
+snap7 Community50 words ['make', 'making'] -> snap8 community53 words ['make', 'making']
+Evolution = Survive
+snap7 Community52 words ['live', 'living'] -> snap8 community38 words ['live', 'living']
+Evolution = Survive
+snap7 Community54 words ['exertion', 'strenuous', 'vigorous'] -> snap8 community169 words ['perspire', 'bathe', 'exertion', 'bath', 'wash', 'strenuous']
+Evolution = Grow
+snap7 Community55 words ['treatment', 'treat'] -> snap8 community71 words ['treatment', 'treat']
+Evolution = Survive
+snap7 Community56 words ['outside', 'inside'] -> snap8 community147 words ['outside', 'inside']
+Evolution = Survive
+snap7 Community58 words ['vow', 'pledge', 'promise'] -> snap8 community192 words ['vow', 'pledge', 'promise']
+Evolution = Survive
+snap7 Community62 words ['badly', 'severely'] -> snap8 community200 words ['badly', 'severely']
+Evolution = Survive
+snap7 Community64 words ['later', 'subsequently', 'last', 'ago', 'consequently', 'recent', 'prior', 'previous', 'subsequent', 'pre'] -> snap8 community65 words ['later', 'ago', 'last', 'past', 'recently', 'recent', 'previous']
+Evolution = Survive
+snap7 Community69 words ['nap', 'sleep', 'sleeplessness'] -> snap8 community136 words ['sleep', 'nap', 'bed']
+Evolution = Survive
+snap7 Community72 words ['quickly', 'gradually', 'soon', 'fast', 'immediately', 'easily', 'slowly', 'conveniently', 'shortly', 'slow', 'quietly'] -> snap8 community31 words ['gradually', 'quickly', 'slowly', 'fast', 'slow', 'soon', 'immediately', 'shortly', 'easily', 'silently', 'noiselessly', 'patiently', 'imperceptibly', 'rapid']
+Evolution = Survive
+snap7 Community73 words ['relief', 'aid', 'support', 'assistance'] -> snap8 community14 words ['relief', 'aid']
+Evolution = Survive
+snap7 Community80 words ['hide', 'conceal'] -> snap8 community142 words ['hidden', 'hide']
+Evolution = Survive
+snap7 Community84 words ['entire', 'rest'] -> snap8 community118 words ['entire', 'rest']
+Evolution = Survive
+snap7 Community85 words ['example', 'instance'] -> snap8 community33 words ['instance', 'example']
+Evolution = Survive
+snap7 Community88 words ['fifteenth', 'sixteenth', 'seventeenth', 'eighteenth', 'nineteenth', 'fifth', 'twentieth', 'third', 'second', 'thirtieth', 'fourth', 'sixth', 'half', 'quarter', 'period', 'net', 'final'] -> snap8 community62 words ['half', 'quarter', 'second', 'fourth', 'seventh', 'sixth', 'final', 'fifth', 'period', 'nineteenth', 'twentieth']
+Evolution = Survive
+snap7 Community90 words ['overland', 'route'] -> snap8 community122 words ['path', 'route']
+Evolution = Survive
+snap7 Community93 words ['bank', 'branch', 'banker'] -> snap8 community148 words ['bank', 'branch']
+Evolution = Survive
+snap7 Community94 words ['century', 'decade'] -> snap8 community210 words ['century', 'decade']
+Evolution = Survive
+snap7 Community96 words ['sweep', 'victory', 'rout', 'defeat', 'win', 'triumph', 'victorious', 'setback', 'victor', 'champion', 'beat', 'score', 'finish', 'play', 'victoriously', 'title'] -> snap8 community84 words ['loss', 'defeat', 'play', 'score', 'finish', 'win', 'underdog', 'outsider', 'overtake', 'dethrone', 'beat', 'victory', 'depose', 'sweep']
+Evolution = Survive
+snap7 Community97 words ['home', 'house', 'villa', 'cottage'] -> snap8 community55 words ['king', 'prince', 'princess', 'queen', 'kingdom', 'palace', 'home', 'house', 'cottage', 'villa', 'hotel', 'resort', 'apartment', 'porch', 'deck']
+Evolution = Grow
+snap7 Community103 words ['displace', 'supplant', 'fill', 'replace'] -> snap8 community159 words ['replace', 'fill']
+Evolution = Survive
+snap7 Community106 words ['early', 'late'] -> snap8 community30 words ['early', 'late', 'mid']
+Evolution = Survive
+snap7 Community109 words ['cold', 'warm', 'humid', 'warmth'] -> snap8 community104 words ['cold', 'warm']
+Evolution = Survive
+snap7 Community116 words ['similar', 'different'] -> snap8 community119 words ['different', 'similar']
+Evolution = Survive
+snap7 Community117 words ['money', 'fund'] -> snap8 community86 words ['money', 'fund']
+Evolution = Survive
+snap7 Community119 words ['move', 'step'] -> snap8 community179 words ['step', 'move']
+Evolution = Survive
+snap7 Community120 words ['place', 'spot'] -> snap8 community135 words ['place', 'spot']
+Evolution = Survive
+snap7 Community125 words ['wrong', 'right'] -> snap8 community121 words ['right', 'wrong', 'correct']
+Evolution = Survive
+snap7 Community126 words ['overnight', 'morning', 'midday', 'afternoon', 'midnight'] -> snap8 community105 words ['morning', 'afternoon', 'midday', 'midnight']
+Evolution = Survive
+snap7 Community127 words ['black', 'white', 'orange', 'red'] -> snap8 community60 words ['red', 'white', 'orange', 'brown', 'black']
+Evolution = Survive
+snap7 Community129 words ['nd', 'rd', 'st'] -> snap8 community165 words ['nd', 'rd', 'st']
+Evolution = Survive
+snap7 Community132 words ['trick', 'tactic', 'technique'] -> snap8 community163 words ['method', 'technique', 'tool']
+Evolution = Survive
+snap7 Community135 words ['directly', 'direct', 'indirectly'] -> snap8 community138 words ['direct', 'directly']
+Evolution = Survive
+snap7 Community136 words ['stand', 'sit', 'standing'] -> snap8 community91 words ['sit', 'stand']
+Evolution = Survive
+snap7 Community138 words ['supply', 'demand'] -> snap8 community181 words ['supply', 'demand']
+Evolution = Survive
+snap7 Community140 words ['spinning', 'turning', 'spin', 'turn'] -> snap8 community94 words ['spin', 'spinning', 'spun']
+Evolution = Survive
+snap7 Community142 words ['convert', 'conversion'] -> snap8 community112 words ['conversion', 'convert']
+Evolution = Survive
+snap7 Community150 words ['innumerable', 'numerous', 'multitude'] -> snap8 community183 words ['variety', 'multitude']
+Evolution = Survive
+snap7 Community151 words ['widespread', 'persistent', 'rampant'] -> snap8 community46 words ['amok', 'rampant']
+Evolution = Survive
+snap7 Community155 words ['rifle', 'weapon', 'revolver', 'firearm', 'gun', 'ammunition', 'rapier', 'sword', 'knife'] -> snap8 community206 words ['knife', 'sword', 'weapon', 'gun', 'razor', 'spear', 'revolver']
+Evolution = Survive
+snap7 Community159 words ['rail', 'train', 'railway'] -> snap8 community92 words ['train', 'railway']
+Evolution = Survive
+snap7 Community161 words ['hopeless', 'powerless', 'helpless'] -> snap8 community172 words ['powerless', 'helpless', 'unaccountable']
+Evolution = Survive
+snap7 Community162 words ['throw', 'hurl'] -> snap8 community58 words ['throw', 'tossed']
+Evolution = Survive
+snap7 Community168 words ['utter', 'absolute'] -> snap8 community143 words ['absolute', 'utter']
+Evolution = Survive
+snap7 Community176 words ['lawyer', 'judge', 'counsel', 'tribunal', 'court', 'courtroom'] -> snap8 community113 words ['lawyer', 'judge', 'magistrate', 'court']
+Evolution = Survive
+snap7 Community177 words ['tenet', 'principle', 'doctrine'] -> snap8 community218 words ['doctrine', 'principle', 'logic']
+Evolution = Survive
+snap7 Community180 words ['abroad', 'foreign'] -> snap8 community186 words ['foreign', 'abroad']
+Evolution = Survive
+snap7 Community185 words ['public', 'private'] -> snap8 community66 words ['public', 'private']
+Evolution = Survive
+snap7 Community186 words ['pursue', 'seek'] -> snap8 community124 words ['seek', 'pursue']
+Evolution = Survive
+snap7 Community191 words ['permanent', 'temporary'] -> snap8 community173 words ['temporarily', 'temporary']
+Evolution = Survive
+snap7 Community192 words ['factor', 'element'] -> snap8 community213 words ['element', 'aspect']
+Evolution = Survive
+snap7 Community196 words ['association', 'organization', 'group'] -> snap8 community43 words ['group', 'organization']
+Evolution = Survive
+snap7 Community197 words ['leader', 'leadership'] -> snap8 community167 words ['leadership', 'leader']
+Evolution = Survive
+snap7 Community198 words ['newspaper', 'paper'] -> snap8 community127 words ['newspaper', 'paper']
+Evolution = Survive
+snap7 Community199 words ['impending', 'imminent'] -> snap8 community20 words ['impending', 'imminent']
+Evolution = Survive
+snap7 Community201 words ['open', 'opening'] -> snap8 community123 words ['open', 'opening']
+Evolution = Survive
+snap7 Community207 words ['border', 'frontier'] -> snap8 community64 words ['border', 'frontier']
+Evolution = Survive
+snap7 Community208 words ['hear', 'listen'] -> snap8 community82 words ['hear', 'listen']
+Evolution = Survive
+snap7 Community210 words ['convex', 'rectangular', 'wooden'] -> snap8 community103 words ['wood', 'wooden']
+Evolution = Survive
+snap7 Community213 words ['dyer', 'weaver'] -> snap8 community88 words ['apprentice', 'carpenter', 'weaver']
+Evolution = Survive
+snap7 Community214 words ['story', 'article'] -> snap8 community73 words ['obituary', 'article', 'epitaph', 'story', 'column']
+Evolution = Grow
+snap7 Community215 words ['entrance', 'gate'] -> snap8 community5 words ['gate', 'entrance']
+Evolution = Survive
+snap7 Community78 words ['character', 'personality'] -> snap8 community41 words ['personality', 'character']
+Evolution = Survive
+snap7 Community66 words ['weaving', 'weave', 'wove'] -> snap8 community52 words ['weave', 'wove', 'weaving']
+Evolution = Survive

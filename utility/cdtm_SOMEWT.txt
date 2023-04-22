@@ -1,0 +1,942 @@
+------------------------1888-1892--------------------------
+0.042
+------------------------Distinctive Topic--------------------------
+['english' 'old' 'let' 'finally' 'ashamed' 'roman' 'money' 'avail'
+ 'entirely' 'eiffel' 'lay' 'service' 'naturally' 'easily' 'result']
+['brother' 'dress' 'home' 'man' 'action' 'teacher' 'seek' 'gandhi'
+ 'obtain' 'person' 'dead' 'acquaintance' 'study' 'delicate' 'future']
+0.048
+------------------------Distinctive Topic--------------------------
+['english' 'old' 'let' 'finally' 'ashamed' 'roman' 'money' 'avail'
+ 'entirely' 'eiffel' 'lay' 'service' 'naturally' 'easily' 'result']
+['gandhi' 'vegetarian' 'book' 'clothe' 'read' 'man' 'great' 'law' 'new'
+ 'later' 'learn' 'brother' 'narayan' 'failure' 'porbandar']
+0.042
+------------------------Distinctive Topic--------------------------
+['english' 'old' 'let' 'finally' 'ashamed' 'roman' 'money' 'avail'
+ 'entirely' 'eiffel' 'lay' 'service' 'naturally' 'easily' 'result']
+['india' 'life' 'food' 'england' 'old' 'heart' 'french' 'dress' 'shock'
+ 'mother' 'meet' 'whosoever' 'satisfaction' 'lawyer' 'period']
+0.038
+------------------------Distinctive Topic--------------------------
+['english' 'old' 'let' 'finally' 'ashamed' 'roman' 'money' 'avail'
+ 'entirely' 'eiffel' 'lay' 'service' 'naturally' 'easily' 'result']
+['london' 'student' 'raychandbai' 'visit' 'ear' 'regard' 'minister' 'inn'
+ 'meat' 'quickly' 'shirt' 'testament' 'food' 'v' 'prosecute']
+0.026
+------------------------Distinctive Topic--------------------------
+['english' 'old' 'let' 'finally' 'ashamed' 'roman' 'money' 'avail'
+ 'entirely' 'eiffel' 'lay' 'service' 'naturally' 'easily' 'result']
+['narayan' 'life' 'egg' 'eat' 'fact' 'england' 'gentleman' 'shy' 'morning'
+ 'ye' 'british' 'relish' 'moslem' 'half' 'indecent']
+0.04
+------------------------Distinctive Topic--------------------------
+['feeling' 'decide' 'demand' 'bear' 'landlady' 'walk' 'gokhale' 'non'
+ 'bad' 'condition' 'distinction' 'hospitality' 'lie' 'bombay' 'external']
+['brother' 'dress' 'home' 'man' 'action' 'teacher' 'seek' 'gandhi'
+ 'obtain' 'person' 'dead' 'acquaintance' 'study' 'delicate' 'future']
+0.038
+------------------------Distinctive Topic--------------------------
+['feeling' 'decide' 'demand' 'bear' 'landlady' 'walk' 'gokhale' 'non'
+ 'bad' 'condition' 'distinction' 'hospitality' 'lie' 'bombay' 'external']
+['gandhi' 'vegetarian' 'book' 'clothe' 'read' 'man' 'great' 'law' 'new'
+ 'later' 'learn' 'brother' 'narayan' 'failure' 'porbandar']
+0.052
+------------------------Distinctive Topic--------------------------
+['feeling' 'decide' 'demand' 'bear' 'landlady' 'walk' 'gokhale' 'non'
+ 'bad' 'condition' 'distinction' 'hospitality' 'lie' 'bombay' 'external']
+['india' 'life' 'food' 'england' 'old' 'heart' 'french' 'dress' 'shock'
+ 'mother' 'meet' 'whosoever' 'satisfaction' 'lawyer' 'period']
+0.032
+------------------------Distinctive Topic--------------------------
+['feeling' 'decide' 'demand' 'bear' 'landlady' 'walk' 'gokhale' 'non'
+ 'bad' 'condition' 'distinction' 'hospitality' 'lie' 'bombay' 'external']
+['london' 'student' 'raychandbai' 'visit' 'ear' 'regard' 'minister' 'inn'
+ 'meat' 'quickly' 'shirt' 'testament' 'food' 'v' 'prosecute']
+0.04
+------------------------Distinctive Topic--------------------------
+['feeling' 'decide' 'demand' 'bear' 'landlady' 'walk' 'gokhale' 'non'
+ 'bad' 'condition' 'distinction' 'hospitality' 'lie' 'bombay' 'external']
+['narayan' 'life' 'egg' 'eat' 'fact' 'england' 'gentleman' 'shy' 'morning'
+ 'ye' 'british' 'relish' 'moslem' 'half' 'indecent']
+0.038
+------------------------Distinctive Topic--------------------------
+['party' 'fresh' 'barrister' 'committee' 'attention' 'actually' 'room'
+ 'practically' 'service' 'bar' 'vow' 'manage' 'text' 'surprised' 'spare']
+['brother' 'dress' 'home' 'man' 'action' 'teacher' 'seek' 'gandhi'
+ 'obtain' 'person' 'dead' 'acquaintance' 'study' 'delicate' 'future']
+0.044
+------------------------Distinctive Topic--------------------------
+['party' 'fresh' 'barrister' 'committee' 'attention' 'actually' 'room'
+ 'practically' 'service' 'bar' 'vow' 'manage' 'text' 'surprised' 'spare']
+['gandhi' 'vegetarian' 'book' 'clothe' 'read' 'man' 'great' 'law' 'new'
+ 'later' 'learn' 'brother' 'narayan' 'failure' 'porbandar']
+0.028
+------------------------Distinctive Topic--------------------------
+['party' 'fresh' 'barrister' 'committee' 'attention' 'actually' 'room'
+ 'practically' 'service' 'bar' 'vow' 'manage' 'text' 'surprised' 'spare']
+['india' 'life' 'food' 'england' 'old' 'heart' 'french' 'dress' 'shock'
+ 'mother' 'meet' 'whosoever' 'satisfaction' 'lawyer' 'period']
+0.034
+------------------------Distinctive Topic--------------------------
+['party' 'fresh' 'barrister' 'committee' 'attention' 'actually' 'room'
+ 'practically' 'service' 'bar' 'vow' 'manage' 'text' 'surprised' 'spare']
+['london' 'student' 'raychandbai' 'visit' 'ear' 'regard' 'minister' 'inn'
+ 'meat' 'quickly' 'shirt' 'testament' 'food' 'v' 'prosecute']
+0.038
+------------------------Distinctive Topic--------------------------
+['party' 'fresh' 'barrister' 'committee' 'attention' 'actually' 'room'
+ 'practically' 'service' 'bar' 'vow' 'manage' 'text' 'surprised' 'spare']
+['narayan' 'life' 'egg' 'eat' 'fact' 'england' 'gentleman' 'shy' 'morning'
+ 'ye' 'british' 'relish' 'moslem' 'half' 'indecent']
+0.038
+------------------------Distinctive Topic--------------------------
+['war' 'favour' 'frankness' 'dine' 'improper' 'legal' 'try' 'hill'
+ 'friend' 'attract' 'lawyer' 'youth' 'respect' 'care' 'youngster']
+['brother' 'dress' 'home' 'man' 'action' 'teacher' 'seek' 'gandhi'
+ 'obtain' 'person' 'dead' 'acquaintance' 'study' 'delicate' 'future']
+0.04
+------------------------Distinctive Topic--------------------------
+['war' 'favour' 'frankness' 'dine' 'improper' 'legal' 'try' 'hill'
+ 'friend' 'attract' 'lawyer' 'youth' 'respect' 'care' 'youngster']
+['gandhi' 'vegetarian' 'book' 'clothe' 'read' 'man' 'great' 'law' 'new'
+ 'later' 'learn' 'brother' 'narayan' 'failure' 'porbandar']
+0.036
+------------------------Distinctive Topic--------------------------
+['war' 'favour' 'frankness' 'dine' 'improper' 'legal' 'try' 'hill'
+ 'friend' 'attract' 'lawyer' 'youth' 'respect' 'care' 'youngster']
+['india' 'life' 'food' 'england' 'old' 'heart' 'french' 'dress' 'shock'
+ 'mother' 'meet' 'whosoever' 'satisfaction' 'lawyer' 'period']
+0.038
+------------------------Distinctive Topic--------------------------
+['war' 'favour' 'frankness' 'dine' 'improper' 'legal' 'try' 'hill'
+ 'friend' 'attract' 'lawyer' 'youth' 'respect' 'care' 'youngster']
+['london' 'student' 'raychandbai' 'visit' 'ear' 'regard' 'minister' 'inn'
+ 'meat' 'quickly' 'shirt' 'testament' 'food' 'v' 'prosecute']
+0.04
+------------------------Distinctive Topic--------------------------
+['war' 'favour' 'frankness' 'dine' 'improper' 'legal' 'try' 'hill'
+ 'friend' 'attract' 'lawyer' 'youth' 'respect' 'care' 'youngster']
+['narayan' 'life' 'egg' 'eat' 'fact' 'england' 'gentleman' 'shy' 'morning'
+ 'ye' 'british' 'relish' 'moslem' 'half' 'indecent']
+0.074
+------------------------Distinctive Topic--------------------------
+['case' 'feel' 'man' 'read' 'client' 'vegetarian' 'good' 'england'
+ 'course' 'officer' 'think' 'milk' 'counsel' 'place' 'great']
+['brother' 'dress' 'home' 'man' 'action' 'teacher' 'seek' 'gandhi'
+ 'obtain' 'person' 'dead' 'acquaintance' 'study' 'delicate' 'future']
+0.104
+------------------------Distinctive Topic--------------------------
+['case' 'feel' 'man' 'read' 'client' 'vegetarian' 'good' 'england'
+ 'course' 'officer' 'think' 'milk' 'counsel' 'place' 'great']
+['gandhi' 'vegetarian' 'book' 'clothe' 'read' 'man' 'great' 'law' 'new'
+ 'later' 'learn' 'brother' 'narayan' 'failure' 'porbandar']
+0.068
+------------------------Distinctive Topic--------------------------
+['case' 'feel' 'man' 'read' 'client' 'vegetarian' 'good' 'england'
+ 'course' 'officer' 'think' 'milk' 'counsel' 'place' 'great']
+['india' 'life' 'food' 'england' 'old' 'heart' 'french' 'dress' 'shock'
+ 'mother' 'meet' 'whosoever' 'satisfaction' 'lawyer' 'period']
+0.066
+------------------------Distinctive Topic--------------------------
+['case' 'feel' 'man' 'read' 'client' 'vegetarian' 'good' 'england'
+ 'course' 'officer' 'think' 'milk' 'counsel' 'place' 'great']
+['london' 'student' 'raychandbai' 'visit' 'ear' 'regard' 'minister' 'inn'
+ 'meat' 'quickly' 'shirt' 'testament' 'food' 'v' 'prosecute']
+0.054
+------------------------Distinctive Topic--------------------------
+['case' 'feel' 'man' 'read' 'client' 'vegetarian' 'good' 'england'
+ 'course' 'officer' 'think' 'milk' 'counsel' 'place' 'great']
+['narayan' 'life' 'egg' 'eat' 'fact' 'england' 'gentleman' 'shy' 'morning'
+ 'ye' 'british' 'relish' 'moslem' 'half' 'indecent']
+------------------------1893-1897--------------------------
+0.032
+------------------------Distinctive Topic--------------------------
+['secure' 'count' 'stop' 'cultivate' 'married' 'bunk' 'rescue' 'viceroy'
+ 'invitation' 'particularly' 'inch' 'soldier' 'walton' 'youngster'
+ 'confront']
+['british' 'railway' 'meeting' 'learn' 'white' 'pretoria' 'message'
+ 'johnston' 'stamp' 'south' 'prejudice' 'hold' 'service' 'passenger'
+ 'remain']
+0.026
+------------------------Distinctive Topic--------------------------
+['secure' 'count' 'stop' 'cultivate' 'married' 'bunk' 'rescue' 'viceroy'
+ 'invitation' 'particularly' 'inch' 'soldier' 'walton' 'youngster'
+ 'confront']
+['state' 'johannesburg' 'negro' 'life' 'lawyer' 'experience' 'society' 'e'
+ 'insult' 'moslem' 'permanent' 'arouse' 'indenture' 'fetch' 'normal']
+0.038
+------------------------Distinctive Topic--------------------------
+['secure' 'count' 'stop' 'cultivate' 'married' 'bunk' 'rescue' 'viceroy'
+ 'invitation' 'particularly' 'inch' 'soldier' 'walton' 'youngster'
+ 'confront']
+['gandhi' 'south' 'white' 'natal' 'africa' 'india' 'man' 'abdulla' 'leave'
+ 'dada' 'labourer' 'free' 'pay' 'later' 'bombay']
+0.04
+------------------------Distinctive Topic--------------------------
+['secure' 'count' 'stop' 'cultivate' 'married' 'bunk' 'rescue' 'viceroy'
+ 'invitation' 'particularly' 'inch' 'soldier' 'walton' 'youngster'
+ 'confront']
+['class' 'send' 'write' 'mob' 'green' 'african' 'transvaal' 'period'
+ 'passenger' 'deader' 'run' 'personal' 'indenture' 'appear' 'neck']
+0.02
+------------------------Distinctive Topic--------------------------
+['secure' 'count' 'stop' 'cultivate' 'married' 'bunk' 'rescue' 'viceroy'
+ 'invitation' 'particularly' 'inch' 'soldier' 'walton' 'youngster'
+ 'confront']
+['new' 'colour' 'hindu' 'wish' 'address' 'body' 'proceed' 'god' 'station'
+ 'achieve' 'hope' 'durban' 'soon' 'break' 'police']
+0.024
+------------------------Distinctive Topic--------------------------
+['remain' 'sail' 'ear' 'stranger' 'calamity' 'able' 'conclusion' 'flour'
+ 'little' 'examine' 'hindustani' 'town' 'honour' 'conduct' 'adversity']
+['british' 'railway' 'meeting' 'learn' 'white' 'pretoria' 'message'
+ 'johnston' 'stamp' 'south' 'prejudice' 'hold' 'service' 'passenger'
+ 'remain']
+0.024
+------------------------Distinctive Topic--------------------------
+['remain' 'sail' 'ear' 'stranger' 'calamity' 'able' 'conclusion' 'flour'
+ 'little' 'examine' 'hindustani' 'town' 'honour' 'conduct' 'adversity']
+['state' 'johannesburg' 'negro' 'life' 'lawyer' 'experience' 'society' 'e'
+ 'insult' 'moslem' 'permanent' 'arouse' 'indenture' 'fetch' 'normal']
+0.02
+------------------------Distinctive Topic--------------------------
+['remain' 'sail' 'ear' 'stranger' 'calamity' 'able' 'conclusion' 'flour'
+ 'little' 'examine' 'hindustani' 'town' 'honour' 'conduct' 'adversity']
+['gandhi' 'south' 'white' 'natal' 'africa' 'india' 'man' 'abdulla' 'leave'
+ 'dada' 'labourer' 'free' 'pay' 'later' 'bombay']
+0.028
+------------------------Distinctive Topic--------------------------
+['remain' 'sail' 'ear' 'stranger' 'calamity' 'able' 'conclusion' 'flour'
+ 'little' 'examine' 'hindustani' 'town' 'honour' 'conduct' 'adversity']
+['class' 'send' 'write' 'mob' 'green' 'african' 'transvaal' 'period'
+ 'passenger' 'deader' 'run' 'personal' 'indenture' 'appear' 'neck']
+0.026
+------------------------Distinctive Topic--------------------------
+['remain' 'sail' 'ear' 'stranger' 'calamity' 'able' 'conclusion' 'flour'
+ 'little' 'examine' 'hindustani' 'town' 'honour' 'conduct' 'adversity']
+['new' 'colour' 'hindu' 'wish' 'address' 'body' 'proceed' 'god' 'station'
+ 'achieve' 'hope' 'durban' 'soon' 'break' 'police']
+0.018
+------------------------Distinctive Topic--------------------------
+['kathiawad' 'abolition' 'head' 'coloured' 'heaven' 'reputation' 'fight'
+ 'friendship' 'observe' 'plead' 'birth' 'simplicity' 'attempt' 'recollect'
+ 'reach']
+['british' 'railway' 'meeting' 'learn' 'white' 'pretoria' 'message'
+ 'johnston' 'stamp' 'south' 'prejudice' 'hold' 'service' 'passenger'
+ 'remain']
+0.03
+------------------------Distinctive Topic--------------------------
+['kathiawad' 'abolition' 'head' 'coloured' 'heaven' 'reputation' 'fight'
+ 'friendship' 'observe' 'plead' 'birth' 'simplicity' 'attempt' 'recollect'
+ 'reach']
+['state' 'johannesburg' 'negro' 'life' 'lawyer' 'experience' 'society' 'e'
+ 'insult' 'moslem' 'permanent' 'arouse' 'indenture' 'fetch' 'normal']
+0.038
+------------------------Distinctive Topic--------------------------
+['kathiawad' 'abolition' 'head' 'coloured' 'heaven' 'reputation' 'fight'
+ 'friendship' 'observe' 'plead' 'birth' 'simplicity' 'attempt' 'recollect'
+ 'reach']
+['gandhi' 'south' 'white' 'natal' 'africa' 'india' 'man' 'abdulla' 'leave'
+ 'dada' 'labourer' 'free' 'pay' 'later' 'bombay']
+0.022
+------------------------Distinctive Topic--------------------------
+['kathiawad' 'abolition' 'head' 'coloured' 'heaven' 'reputation' 'fight'
+ 'friendship' 'observe' 'plead' 'birth' 'simplicity' 'attempt' 'recollect'
+ 'reach']
+['class' 'send' 'write' 'mob' 'green' 'african' 'transvaal' 'period'
+ 'passenger' 'deader' 'run' 'personal' 'indenture' 'appear' 'neck']
+0.014
+------------------------Distinctive Topic--------------------------
+['kathiawad' 'abolition' 'head' 'coloured' 'heaven' 'reputation' 'fight'
+ 'friendship' 'observe' 'plead' 'birth' 'simplicity' 'attempt' 'recollect'
+ 'reach']
+['new' 'colour' 'hindu' 'wish' 'address' 'body' 'proceed' 'god' 'station'
+ 'achieve' 'hope' 'durban' 'soon' 'break' 'police']
+0.074
+------------------------Distinctive Topic--------------------------
+['south' 'think' 'friend' 'good' 'man' 'africa' 'natal' 'meeting' 'case'
+ 'life' 'brother' 'india' 'english' 'indenture' 'feel']
+['british' 'railway' 'meeting' 'learn' 'white' 'pretoria' 'message'
+ 'johnston' 'stamp' 'south' 'prejudice' 'hold' 'service' 'passenger'
+ 'remain']
+0.084
+------------------------Distinctive Topic--------------------------
+['south' 'think' 'friend' 'good' 'man' 'africa' 'natal' 'meeting' 'case'
+ 'life' 'brother' 'india' 'english' 'indenture' 'feel']
+['state' 'johannesburg' 'negro' 'life' 'lawyer' 'experience' 'society' 'e'
+ 'insult' 'moslem' 'permanent' 'arouse' 'indenture' 'fetch' 'normal']
+0.142
+------------------------Distinctive Topic--------------------------
+['south' 'think' 'friend' 'good' 'man' 'africa' 'natal' 'meeting' 'case'
+ 'life' 'brother' 'india' 'english' 'indenture' 'feel']
+['gandhi' 'south' 'white' 'natal' 'africa' 'india' 'man' 'abdulla' 'leave'
+ 'dada' 'labourer' 'free' 'pay' 'later' 'bombay']
+0.074
+------------------------Distinctive Topic--------------------------
+['south' 'think' 'friend' 'good' 'man' 'africa' 'natal' 'meeting' 'case'
+ 'life' 'brother' 'india' 'english' 'indenture' 'feel']
+['class' 'send' 'write' 'mob' 'green' 'african' 'transvaal' 'period'
+ 'passenger' 'deader' 'run' 'personal' 'indenture' 'appear' 'neck']
+0.066
+------------------------Distinctive Topic--------------------------
+['south' 'think' 'friend' 'good' 'man' 'africa' 'natal' 'meeting' 'case'
+ 'life' 'brother' 'india' 'english' 'indenture' 'feel']
+['new' 'colour' 'hindu' 'wish' 'address' 'body' 'proceed' 'god' 'station'
+ 'achieve' 'hope' 'durban' 'soon' 'break' 'police']
+0.016
+------------------------Distinctive Topic--------------------------
+['charge' 'atonement' 'surely' 'interior' 'interfere' 'object' 'public'
+ 'purification' 'settle' 'human' 'affect' 'matriculation' 'wacha' 'sami'
+ 'booth']
+['british' 'railway' 'meeting' 'learn' 'white' 'pretoria' 'message'
+ 'johnston' 'stamp' 'south' 'prejudice' 'hold' 'service' 'passenger'
+ 'remain']
+0.024
+------------------------Distinctive Topic--------------------------
+['charge' 'atonement' 'surely' 'interior' 'interfere' 'object' 'public'
+ 'purification' 'settle' 'human' 'affect' 'matriculation' 'wacha' 'sami'
+ 'booth']
+['state' 'johannesburg' 'negro' 'life' 'lawyer' 'experience' 'society' 'e'
+ 'insult' 'moslem' 'permanent' 'arouse' 'indenture' 'fetch' 'normal']
+0.028
+------------------------Distinctive Topic--------------------------
+['charge' 'atonement' 'surely' 'interior' 'interfere' 'object' 'public'
+ 'purification' 'settle' 'human' 'affect' 'matriculation' 'wacha' 'sami'
+ 'booth']
+['gandhi' 'south' 'white' 'natal' 'africa' 'india' 'man' 'abdulla' 'leave'
+ 'dada' 'labourer' 'free' 'pay' 'later' 'bombay']
+0.028
+------------------------Distinctive Topic--------------------------
+['charge' 'atonement' 'surely' 'interior' 'interfere' 'object' 'public'
+ 'purification' 'settle' 'human' 'affect' 'matriculation' 'wacha' 'sami'
+ 'booth']
+['class' 'send' 'write' 'mob' 'green' 'african' 'transvaal' 'period'
+ 'passenger' 'deader' 'run' 'personal' 'indenture' 'appear' 'neck']
+0.016
+------------------------Distinctive Topic--------------------------
+['charge' 'atonement' 'surely' 'interior' 'interfere' 'object' 'public'
+ 'purification' 'settle' 'human' 'affect' 'matriculation' 'wacha' 'sami'
+ 'booth']
+['new' 'colour' 'hindu' 'wish' 'address' 'body' 'proceed' 'god' 'station'
+ 'achieve' 'hope' 'durban' 'soon' 'break' 'police']
+------------------------1898-1902--------------------------
+0.0
+------------------------Distinctive Topic--------------------------
+['volunteer' 'bell' 'far' 'gandhi' 'service' 'young' 'wall' 'rule'
+ 'course' 'turbans' 'e' 'word' 'grievance' 'reel' 'kitchen']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['volunteer' 'bell' 'far' 'gandhi' 'service' 'young' 'wall' 'rule'
+ 'course' 'turbans' 'e' 'word' 'grievance' 'reel' 'kitchen']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['volunteer' 'bell' 'far' 'gandhi' 'service' 'young' 'wall' 'rule'
+ 'course' 'turbans' 'e' 'word' 'grievance' 'reel' 'kitchen']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['volunteer' 'bell' 'far' 'gandhi' 'service' 'young' 'wall' 'rule'
+ 'course' 'turbans' 'e' 'word' 'grievance' 'reel' 'kitchen']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['volunteer' 'bell' 'far' 'gandhi' 'service' 'young' 'wall' 'rule'
+ 'course' 'turbans' 'e' 'word' 'grievance' 'reel' 'kitchen']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['speak' 'look' 'course' 'understand' 'shirt' 'people' 'setalvad'
+ 'address' 'power' 'talk' 'committee' 'regard' 'right' 'sir' 'babu']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['speak' 'look' 'course' 'understand' 'shirt' 'people' 'setalvad'
+ 'address' 'power' 'talk' 'committee' 'regard' 'right' 'sir' 'babu']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['speak' 'look' 'course' 'understand' 'shirt' 'people' 'setalvad'
+ 'address' 'power' 'talk' 'committee' 'regard' 'right' 'sir' 'babu']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['speak' 'look' 'course' 'understand' 'shirt' 'people' 'setalvad'
+ 'address' 'power' 'talk' 'committee' 'regard' 'right' 'sir' 'babu']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['speak' 'look' 'course' 'understand' 'shirt' 'people' 'setalvad'
+ 'address' 'power' 'talk' 'committee' 'regard' 'right' 'sir' 'babu']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['think' 'bring' 'need' 'good' 'delight' 'pearl' 'constituent' 'jewel'
+ 'engage' 'finish' 'worry' 'frequently' 'reach' 'foreign' 'clash']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['think' 'bring' 'need' 'good' 'delight' 'pearl' 'constituent' 'jewel'
+ 'engage' 'finish' 'worry' 'frequently' 'reach' 'foreign' 'clash']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['think' 'bring' 'need' 'good' 'delight' 'pearl' 'constituent' 'jewel'
+ 'engage' 'finish' 'worry' 'frequently' 'reach' 'foreign' 'clash']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['think' 'bring' 'need' 'good' 'delight' 'pearl' 'constituent' 'jewel'
+ 'engage' 'finish' 'worry' 'frequently' 'reach' 'foreign' 'clash']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['think' 'bring' 'need' 'good' 'delight' 'pearl' 'constituent' 'jewel'
+ 'engage' 'finish' 'worry' 'frequently' 'reach' 'foreign' 'clash']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['ask' 'attend' 'ring' 'turn' 'africa' 'observe' 'try' 'reply' 'club'
+ 'feel' 'long' 'elder' 'minute' 'heap' 'darbar']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['ask' 'attend' 'ring' 'turn' 'africa' 'observe' 'try' 'reply' 'club'
+ 'feel' 'long' 'elder' 'minute' 'heap' 'darbar']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['ask' 'attend' 'ring' 'turn' 'africa' 'observe' 'try' 'reply' 'club'
+ 'feel' 'long' 'elder' 'minute' 'heap' 'darbar']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['ask' 'attend' 'ring' 'turn' 'africa' 'observe' 'try' 'reply' 'club'
+ 'feel' 'long' 'elder' 'minute' 'heap' 'darbar']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['ask' 'attend' 'ring' 'turn' 'africa' 'observe' 'try' 'reply' 'club'
+ 'feel' 'long' 'elder' 'minute' 'heap' 'darbar']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['congress' 'resolution' 'volunteer' 'delegate' 'darbar' 'wear' 'meet'
+ 'south' 'pherozeshah' 'gokhale' 'stay' 'wacha' 'condition' 'africa' 'sir']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['congress' 'resolution' 'volunteer' 'delegate' 'darbar' 'wear' 'meet'
+ 'south' 'pherozeshah' 'gokhale' 'stay' 'wacha' 'condition' 'africa' 'sir']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['congress' 'resolution' 'volunteer' 'delegate' 'darbar' 'wear' 'meet'
+ 'south' 'pherozeshah' 'gokhale' 'stay' 'wacha' 'condition' 'africa' 'sir']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['congress' 'resolution' 'volunteer' 'delegate' 'darbar' 'wear' 'meet'
+ 'south' 'pherozeshah' 'gokhale' 'stay' 'wacha' 'condition' 'africa' 'sir']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+0.0
+------------------------Distinctive Topic--------------------------
+['congress' 'resolution' 'volunteer' 'delegate' 'darbar' 'wear' 'meet'
+ 'south' 'pherozeshah' 'gokhale' 'stay' 'wacha' 'condition' 'africa' 'sir']
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+------------------------1903-1907--------------------------
+0.062
+------------------------Distinctive Topic--------------------------
+['life' 'man' 'south' 'friend' 'africa' 'brahmacharya' 'vow' 'write'
+ 'wife' 'book' 'try' 'great' 'johannesburg' 'help' 'case']
+['ask' 'son' 'charge' 'pound' 'create' 'milk' 'boy' 'protest' 'army'
+ 'away' 'hold' 'place' 'try' 'difficult' 'incense']
+0.056
+------------------------Distinctive Topic--------------------------
+['life' 'man' 'south' 'friend' 'africa' 'brahmacharya' 'vow' 'write'
+ 'wife' 'book' 'try' 'great' 'johannesburg' 'help' 'case']
+['dress' 'south' 'buller' 'wipe' 'presence' 'sexual' 'home' 'devada'
+ 'motive' 'abstention' 'care' 'view' 'interpret' 'tree' 'consent']
+0.144
+------------------------Distinctive Topic--------------------------
+['life' 'man' 'south' 'friend' 'africa' 'brahmacharya' 'vow' 'write'
+ 'wife' 'book' 'try' 'great' 'johannesburg' 'help' 'case']
+['gandhi' 'man' 'kasturbai' 'south' 'africa' 'life' 'god' 'british'
+ 'family' 'boy' 'return' 'law' 'white' 'india' 'ruskin']
+0.066
+------------------------Distinctive Topic--------------------------
+['life' 'man' 'south' 'friend' 'africa' 'brahmacharya' 'vow' 'write'
+ 'wife' 'book' 'try' 'great' 'johannesburg' 'help' 'case']
+['fail' 'kasturbai' 'thousand' 'war' 'adopt' 'tear' 'clean' 'magazine'
+ 'suggest' 'gandhi' 'enter' 'public' 'english' 'barber' 'fortune']
+0.082
+------------------------Distinctive Topic--------------------------
+['life' 'man' 'south' 'friend' 'africa' 'brahmacharya' 'vow' 'write'
+ 'wife' 'book' 'try' 'great' 'johannesburg' 'help' 'case']
+['asiatic' 'great' 'personal' 'change' 'require' 'rich' 'carry' 'return'
+ 'publish' 'preach' 'necklace' 'vegetarian' 'cold' 'book' 'completely']
+0.02
+------------------------Distinctive Topic--------------------------
+['struggle' 'forget' 'wonderful' 'word' 'available' 'forth' 'catch'
+ 'sound' 'death' 'operation' 'faith' 'ahimsa' 'spare' 'observation'
+ 'opportunity']
+['ask' 'son' 'charge' 'pound' 'create' 'milk' 'boy' 'protest' 'army'
+ 'away' 'hold' 'place' 'try' 'difficult' 'incense']
+0.026
+------------------------Distinctive Topic--------------------------
+['struggle' 'forget' 'wonderful' 'word' 'available' 'forth' 'catch'
+ 'sound' 'death' 'operation' 'faith' 'ahimsa' 'spare' 'observation'
+ 'opportunity']
+['dress' 'south' 'buller' 'wipe' 'presence' 'sexual' 'home' 'devada'
+ 'motive' 'abstention' 'care' 'view' 'interpret' 'tree' 'consent']
+0.05
+------------------------Distinctive Topic--------------------------
+['struggle' 'forget' 'wonderful' 'word' 'available' 'forth' 'catch'
+ 'sound' 'death' 'operation' 'faith' 'ahimsa' 'spare' 'observation'
+ 'opportunity']
+['gandhi' 'man' 'kasturbai' 'south' 'africa' 'life' 'god' 'british'
+ 'family' 'boy' 'return' 'law' 'white' 'india' 'ruskin']
+0.036
+------------------------Distinctive Topic--------------------------
+['struggle' 'forget' 'wonderful' 'word' 'available' 'forth' 'catch'
+ 'sound' 'death' 'operation' 'faith' 'ahimsa' 'spare' 'observation'
+ 'opportunity']
+['fail' 'kasturbai' 'thousand' 'war' 'adopt' 'tear' 'clean' 'magazine'
+ 'suggest' 'gandhi' 'enter' 'public' 'english' 'barber' 'fortune']
+0.028
+------------------------Distinctive Topic--------------------------
+['struggle' 'forget' 'wonderful' 'word' 'available' 'forth' 'catch'
+ 'sound' 'death' 'operation' 'faith' 'ahimsa' 'spare' 'observation'
+ 'opportunity']
+['asiatic' 'great' 'personal' 'change' 'require' 'rich' 'carry' 'return'
+ 'publish' 'preach' 'necklace' 'vegetarian' 'cold' 'book' 'completely']
+0.03
+------------------------Distinctive Topic--------------------------
+['easily' 'limited' 'suggest' 'examine' 'grace' 'morning' 'treatment'
+ 'camp' 'mrs' 'clerk' 'colour' 'society' 'kill' 'sexual' 'issue']
+['ask' 'son' 'charge' 'pound' 'create' 'milk' 'boy' 'protest' 'army'
+ 'away' 'hold' 'place' 'try' 'difficult' 'incense']
+0.028
+------------------------Distinctive Topic--------------------------
+['easily' 'limited' 'suggest' 'examine' 'grace' 'morning' 'treatment'
+ 'camp' 'mrs' 'clerk' 'colour' 'society' 'kill' 'sexual' 'issue']
+['dress' 'south' 'buller' 'wipe' 'presence' 'sexual' 'home' 'devada'
+ 'motive' 'abstention' 'care' 'view' 'interpret' 'tree' 'consent']
+0.034
+------------------------Distinctive Topic--------------------------
+['easily' 'limited' 'suggest' 'examine' 'grace' 'morning' 'treatment'
+ 'camp' 'mrs' 'clerk' 'colour' 'society' 'kill' 'sexual' 'issue']
+['gandhi' 'man' 'kasturbai' 'south' 'africa' 'life' 'god' 'british'
+ 'family' 'boy' 'return' 'law' 'white' 'india' 'ruskin']
+0.02
+------------------------Distinctive Topic--------------------------
+['easily' 'limited' 'suggest' 'examine' 'grace' 'morning' 'treatment'
+ 'camp' 'mrs' 'clerk' 'colour' 'society' 'kill' 'sexual' 'issue']
+['fail' 'kasturbai' 'thousand' 'war' 'adopt' 'tear' 'clean' 'magazine'
+ 'suggest' 'gandhi' 'enter' 'public' 'english' 'barber' 'fortune']
+0.038
+------------------------Distinctive Topic--------------------------
+['easily' 'limited' 'suggest' 'examine' 'grace' 'morning' 'treatment'
+ 'camp' 'mrs' 'clerk' 'colour' 'society' 'kill' 'sexual' 'issue']
+['asiatic' 'great' 'personal' 'change' 'require' 'rich' 'carry' 'return'
+ 'publish' 'preach' 'necklace' 'vegetarian' 'cold' 'book' 'completely']
+0.02
+------------------------Distinctive Topic--------------------------
+['booklet' 'substitute' 'increase' 'asiatic' 'change' 'hindi' 'sure'
+ 'spend' 'gratitude' 'helpful' 'community' 'fresh' 'possible' 'choose'
+ 'perfectly']
+['ask' 'son' 'charge' 'pound' 'create' 'milk' 'boy' 'protest' 'army'
+ 'away' 'hold' 'place' 'try' 'difficult' 'incense']
+0.018
+------------------------Distinctive Topic--------------------------
+['booklet' 'substitute' 'increase' 'asiatic' 'change' 'hindi' 'sure'
+ 'spend' 'gratitude' 'helpful' 'community' 'fresh' 'possible' 'choose'
+ 'perfectly']
+['dress' 'south' 'buller' 'wipe' 'presence' 'sexual' 'home' 'devada'
+ 'motive' 'abstention' 'care' 'view' 'interpret' 'tree' 'consent']
+0.032
+------------------------Distinctive Topic--------------------------
+['booklet' 'substitute' 'increase' 'asiatic' 'change' 'hindi' 'sure'
+ 'spend' 'gratitude' 'helpful' 'community' 'fresh' 'possible' 'choose'
+ 'perfectly']
+['gandhi' 'man' 'kasturbai' 'south' 'africa' 'life' 'god' 'british'
+ 'family' 'boy' 'return' 'law' 'white' 'india' 'ruskin']
+0.028
+------------------------Distinctive Topic--------------------------
+['booklet' 'substitute' 'increase' 'asiatic' 'change' 'hindi' 'sure'
+ 'spend' 'gratitude' 'helpful' 'community' 'fresh' 'possible' 'choose'
+ 'perfectly']
+['fail' 'kasturbai' 'thousand' 'war' 'adopt' 'tear' 'clean' 'magazine'
+ 'suggest' 'gandhi' 'enter' 'public' 'english' 'barber' 'fortune']
+0.034
+------------------------Distinctive Topic--------------------------
+['booklet' 'substitute' 'increase' 'asiatic' 'change' 'hindi' 'sure'
+ 'spend' 'gratitude' 'helpful' 'community' 'fresh' 'possible' 'choose'
+ 'perfectly']
+['asiatic' 'great' 'personal' 'change' 'require' 'rich' 'carry' 'return'
+ 'publish' 'preach' 'necklace' 'vegetarian' 'cold' 'book' 'completely']
+0.026
+------------------------Distinctive Topic--------------------------
+['happen' 'contain' 'trial' 'feel' 'fast' 'hospital' 'engage' 'legal'
+ 'regularity' 'manganlal' 'approach' 'possible' 'step' 'bed' 'root']
+['ask' 'son' 'charge' 'pound' 'create' 'milk' 'boy' 'protest' 'army'
+ 'away' 'hold' 'place' 'try' 'difficult' 'incense']
+0.016
+------------------------Distinctive Topic--------------------------
+['happen' 'contain' 'trial' 'feel' 'fast' 'hospital' 'engage' 'legal'
+ 'regularity' 'manganlal' 'approach' 'possible' 'step' 'bed' 'root']
+['dress' 'south' 'buller' 'wipe' 'presence' 'sexual' 'home' 'devada'
+ 'motive' 'abstention' 'care' 'view' 'interpret' 'tree' 'consent']
+0.044
+------------------------Distinctive Topic--------------------------
+['happen' 'contain' 'trial' 'feel' 'fast' 'hospital' 'engage' 'legal'
+ 'regularity' 'manganlal' 'approach' 'possible' 'step' 'bed' 'root']
+['gandhi' 'man' 'kasturbai' 'south' 'africa' 'life' 'god' 'british'
+ 'family' 'boy' 'return' 'law' 'white' 'india' 'ruskin']
+0.014
+------------------------Distinctive Topic--------------------------
+['happen' 'contain' 'trial' 'feel' 'fast' 'hospital' 'engage' 'legal'
+ 'regularity' 'manganlal' 'approach' 'possible' 'step' 'bed' 'root']
+['fail' 'kasturbai' 'thousand' 'war' 'adopt' 'tear' 'clean' 'magazine'
+ 'suggest' 'gandhi' 'enter' 'public' 'english' 'barber' 'fortune']
+0.014
+------------------------Distinctive Topic--------------------------
+['happen' 'contain' 'trial' 'feel' 'fast' 'hospital' 'engage' 'legal'
+ 'regularity' 'manganlal' 'approach' 'possible' 'step' 'bed' 'root']
+['asiatic' 'great' 'personal' 'change' 'require' 'rich' 'carry' 'return'
+ 'publish' 'preach' 'necklace' 'vegetarian' 'cold' 'book' 'completely']
+------------------------1908-1912--------------------------
+0.08
+------------------------Distinctive Topic--------------------------
+['spiritual' 'think' 'respect' 'stimulate' 'education' 'prepare' 'hindu'
+ 'realization' 'lose' 'help' 'fruit' 'brahmacharya' 'denial' 'follow'
+ 'harmful']
+['gandhi' 'tolstoy' 'letter' 'write' 'man' 'transvaal' 'india'
+ 'government' 'smut' 'south' 'thoreau' 'satyagraha' 'jail' 'kallenbach'
+ 'english']
+0.018
+------------------------Distinctive Topic--------------------------
+['spiritual' 'think' 'respect' 'stimulate' 'education' 'prepare' 'hindu'
+ 'realization' 'lose' 'help' 'fruit' 'brahmacharya' 'denial' 'follow'
+ 'harmful']
+['build' 'far' 'view' 'respect' 'refer' 'entire' 'opinion' 'governor'
+ 'essay' 'phoenix' 'set' 'distant' 'noble' 'use' 'answer']
+0.05
+------------------------Distinctive Topic--------------------------
+['spiritual' 'think' 'respect' 'stimulate' 'education' 'prepare' 'hindu'
+ 'realization' 'lose' 'help' 'fruit' 'brahmacharya' 'denial' 'follow'
+ 'harmful']
+['young' 'rule' 'farm' 'article' 'require' 'kingdom' 'chertkov' 'little'
+ 'private' 'prisoner' 'training' 'preach' 'sell' 'accept' 'ample']
+0.034
+------------------------Distinctive Topic--------------------------
+['spiritual' 'think' 'respect' 'stimulate' 'education' 'prepare' 'hindu'
+ 'realization' 'lose' 'help' 'fruit' 'brahmacharya' 'denial' 'follow'
+ 'harmful']
+['secretary' 'political' 'age' 'leave' 'make' 'english' 'wish' 'open'
+ 'judge' 'voluntarily' 'instruction' 'labour' 'add' 'office' 'art']
+0.032
+------------------------Distinctive Topic--------------------------
+['spiritual' 'think' 'respect' 'stimulate' 'education' 'prepare' 'hindu'
+ 'realization' 'lose' 'help' 'fruit' 'brahmacharya' 'denial' 'follow'
+ 'harmful']
+['fail' 'reveal' 'ex' 'hope' 'include' 'knowledge' 'problem' 'ali' 'make'
+ 'water' 'gokhale' 'tender' 'death' 'civilization' 'kallenbach']
+0.08
+------------------------Distinctive Topic--------------------------
+['boy' 'training' 'farm' 'youngster' 'fast' 'learn' 'teach' 'teacher'
+ 'necessary' 'book' 'mind' 'child' 'kallenbach' 'fasting' 'milk']
+['gandhi' 'tolstoy' 'letter' 'write' 'man' 'transvaal' 'india'
+ 'government' 'smut' 'south' 'thoreau' 'satyagraha' 'jail' 'kallenbach'
+ 'english']
+0.018
+------------------------Distinctive Topic--------------------------
+['boy' 'training' 'farm' 'youngster' 'fast' 'learn' 'teach' 'teacher'
+ 'necessary' 'book' 'mind' 'child' 'kallenbach' 'fasting' 'milk']
+['build' 'far' 'view' 'respect' 'refer' 'entire' 'opinion' 'governor'
+ 'essay' 'phoenix' 'set' 'distant' 'noble' 'use' 'answer']
+0.052
+------------------------Distinctive Topic--------------------------
+['boy' 'training' 'farm' 'youngster' 'fast' 'learn' 'teach' 'teacher'
+ 'necessary' 'book' 'mind' 'child' 'kallenbach' 'fasting' 'milk']
+['young' 'rule' 'farm' 'article' 'require' 'kingdom' 'chertkov' 'little'
+ 'private' 'prisoner' 'training' 'preach' 'sell' 'accept' 'ample']
+0.04
+------------------------Distinctive Topic--------------------------
+['boy' 'training' 'farm' 'youngster' 'fast' 'learn' 'teach' 'teacher'
+ 'necessary' 'book' 'mind' 'child' 'kallenbach' 'fasting' 'milk']
+['secretary' 'political' 'age' 'leave' 'make' 'english' 'wish' 'open'
+ 'judge' 'voluntarily' 'instruction' 'labour' 'add' 'office' 'art']
+0.036
+------------------------Distinctive Topic--------------------------
+['boy' 'training' 'farm' 'youngster' 'fast' 'learn' 'teach' 'teacher'
+ 'necessary' 'book' 'mind' 'child' 'kallenbach' 'fasting' 'milk']
+['fail' 'reveal' 'ex' 'hope' 'include' 'knowledge' 'problem' 'ali' 'make'
+ 'water' 'gokhale' 'tender' 'death' 'civilization' 'kallenbach']
+0.082
+------------------------Distinctive Topic--------------------------
+['gujarati' 'course' 'experience' 'copy' 'literary' 'bring' 'water'
+ 'teach' 'care' 'use' 'life' 'reading' 'son' 'understand' 'south']
+['gandhi' 'tolstoy' 'letter' 'write' 'man' 'transvaal' 'india'
+ 'government' 'smut' 'south' 'thoreau' 'satyagraha' 'jail' 'kallenbach'
+ 'english']
+0.016
+------------------------Distinctive Topic--------------------------
+['gujarati' 'course' 'experience' 'copy' 'literary' 'bring' 'water'
+ 'teach' 'care' 'use' 'life' 'reading' 'son' 'understand' 'south']
+['build' 'far' 'view' 'respect' 'refer' 'entire' 'opinion' 'governor'
+ 'essay' 'phoenix' 'set' 'distant' 'noble' 'use' 'answer']
+0.05
+------------------------Distinctive Topic--------------------------
+['gujarati' 'course' 'experience' 'copy' 'literary' 'bring' 'water'
+ 'teach' 'care' 'use' 'life' 'reading' 'son' 'understand' 'south']
+['young' 'rule' 'farm' 'article' 'require' 'kingdom' 'chertkov' 'little'
+ 'private' 'prisoner' 'training' 'preach' 'sell' 'accept' 'ample']
+0.034
+------------------------Distinctive Topic--------------------------
+['gujarati' 'course' 'experience' 'copy' 'literary' 'bring' 'water'
+ 'teach' 'care' 'use' 'life' 'reading' 'son' 'understand' 'south']
+['secretary' 'political' 'age' 'leave' 'make' 'english' 'wish' 'open'
+ 'judge' 'voluntarily' 'instruction' 'labour' 'add' 'office' 'art']
+0.032
+------------------------Distinctive Topic--------------------------
+['gujarati' 'course' 'experience' 'copy' 'literary' 'bring' 'water'
+ 'teach' 'care' 'use' 'life' 'reading' 'son' 'understand' 'south']
+['fail' 'reveal' 'ex' 'hope' 'include' 'knowledge' 'problem' 'ali' 'make'
+ 'water' 'gokhale' 'tender' 'death' 'civilization' 'kallenbach']
+0.078
+------------------------Distinctive Topic--------------------------
+['intellectual' 'brahmacharya' 'strike' 'life' 'devote' 'johannesburg'
+ 'cheap' 'mindful' 'thank' 'teach' 'grow' 'pupil' 'ask' 'persuade' 'view']
+['gandhi' 'tolstoy' 'letter' 'write' 'man' 'transvaal' 'india'
+ 'government' 'smut' 'south' 'thoreau' 'satyagraha' 'jail' 'kallenbach'
+ 'english']
+0.018
+------------------------Distinctive Topic--------------------------
+['intellectual' 'brahmacharya' 'strike' 'life' 'devote' 'johannesburg'
+ 'cheap' 'mindful' 'thank' 'teach' 'grow' 'pupil' 'ask' 'persuade' 'view']
+['build' 'far' 'view' 'respect' 'refer' 'entire' 'opinion' 'governor'
+ 'essay' 'phoenix' 'set' 'distant' 'noble' 'use' 'answer']
+0.052
+------------------------Distinctive Topic--------------------------
+['intellectual' 'brahmacharya' 'strike' 'life' 'devote' 'johannesburg'
+ 'cheap' 'mindful' 'thank' 'teach' 'grow' 'pupil' 'ask' 'persuade' 'view']
+['young' 'rule' 'farm' 'article' 'require' 'kingdom' 'chertkov' 'little'
+ 'private' 'prisoner' 'training' 'preach' 'sell' 'accept' 'ample']
+0.032
+------------------------Distinctive Topic--------------------------
+['intellectual' 'brahmacharya' 'strike' 'life' 'devote' 'johannesburg'
+ 'cheap' 'mindful' 'thank' 'teach' 'grow' 'pupil' 'ask' 'persuade' 'view']
+['secretary' 'political' 'age' 'leave' 'make' 'english' 'wish' 'open'
+ 'judge' 'voluntarily' 'instruction' 'labour' 'add' 'office' 'art']
+0.032
+------------------------Distinctive Topic--------------------------
+['intellectual' 'brahmacharya' 'strike' 'life' 'devote' 'johannesburg'
+ 'cheap' 'mindful' 'thank' 'teach' 'grow' 'pupil' 'ask' 'persuade' 'view']
+['fail' 'reveal' 'ex' 'hope' 'include' 'knowledge' 'problem' 'ali' 'make'
+ 'water' 'gokhale' 'tender' 'death' 'civilization' 'kallenbach']
+0.064
+------------------------Distinctive Topic--------------------------
+['history' 'scarce' 'script' 'recollection' 'mind' 'certainly' 'play'
+ 'esprit' 'clear' 'successful' 'heart' 'trace' 'renunciation' 'afraid'
+ 'justice']
+['gandhi' 'tolstoy' 'letter' 'write' 'man' 'transvaal' 'india'
+ 'government' 'smut' 'south' 'thoreau' 'satyagraha' 'jail' 'kallenbach'
+ 'english']
+0.018
+------------------------Distinctive Topic--------------------------
+['history' 'scarce' 'script' 'recollection' 'mind' 'certainly' 'play'
+ 'esprit' 'clear' 'successful' 'heart' 'trace' 'renunciation' 'afraid'
+ 'justice']
+['build' 'far' 'view' 'respect' 'refer' 'entire' 'opinion' 'governor'
+ 'essay' 'phoenix' 'set' 'distant' 'noble' 'use' 'answer']
+0.046
+------------------------Distinctive Topic--------------------------
+['history' 'scarce' 'script' 'recollection' 'mind' 'certainly' 'play'
+ 'esprit' 'clear' 'successful' 'heart' 'trace' 'renunciation' 'afraid'
+ 'justice']
+['young' 'rule' 'farm' 'article' 'require' 'kingdom' 'chertkov' 'little'
+ 'private' 'prisoner' 'training' 'preach' 'sell' 'accept' 'ample']
+0.024
+------------------------Distinctive Topic--------------------------
+['history' 'scarce' 'script' 'recollection' 'mind' 'certainly' 'play'
+ 'esprit' 'clear' 'successful' 'heart' 'trace' 'renunciation' 'afraid'
+ 'justice']
+['secretary' 'political' 'age' 'leave' 'make' 'english' 'wish' 'open'
+ 'judge' 'voluntarily' 'instruction' 'labour' 'add' 'office' 'art']
+0.03
+------------------------Distinctive Topic--------------------------
+['history' 'scarce' 'script' 'recollection' 'mind' 'certainly' 'play'
+ 'esprit' 'clear' 'successful' 'heart' 'trace' 'renunciation' 'afraid'
+ 'justice']
+['fail' 'reveal' 'ex' 'hope' 'include' 'knowledge' 'problem' 'ali' 'make'
+ 'water' 'gokhale' 'tender' 'death' 'civilization' 'kallenbach']
+------------------------1913-1917--------------------------
+0.02
+------------------------Distinctive Topic--------------------------
+['malaviyaji' 'rate' 'england' 'future' 'dining' 'spinning' 'read'
+ 'memorial' 'acquire' 'congress' 'shraddhanandji' 'rajendra' 'prevail'
+ 'biharis' 'spinner']
+['world' 'government' 'land' 'husband' 'fear' 'marcher' 'son' 'school'
+ 'culture' 'african' 'street' 'difficult' 'today' 'testify' 'dust']
+0.022
+------------------------Distinctive Topic--------------------------
+['malaviyaji' 'rate' 'england' 'future' 'dining' 'spinning' 'read'
+ 'memorial' 'acquire' 'congress' 'shraddhanandji' 'rajendra' 'prevail'
+ 'biharis' 'spinner']
+['close' 'touchable' 'population' 'soul' 'offer' 'satyagraha' 'loincloth'
+ 'despite' 'castor' 'thousand' 'george' 'skinned' 'sake' 'policeman'
+ 'cause']
+0.018
+------------------------Distinctive Topic--------------------------
+['malaviyaji' 'rate' 'england' 'future' 'dining' 'spinning' 'read'
+ 'memorial' 'acquire' 'congress' 'shraddhanandji' 'rajendra' 'prevail'
+ 'biharis' 'spinner']
+['law' 'piece' 'link' 'teacher' 'confine' 'police' 'trial' 'life' 'cable'
+ 'besant' 'frequently' 'non' 'inscription' 'j' 'position']
+0.012
+------------------------Distinctive Topic--------------------------
+['malaviyaji' 'rate' 'england' 'future' 'dining' 'spinning' 'read'
+ 'memorial' 'acquire' 'congress' 'shraddhanandji' 'rajendra' 'prevail'
+ 'biharis' 'spinner']
+['labourer' 'religion' 'audience' 'report' 'sentence' 'commit' 'doubt'
+ 'hand' 'animal' 'gift' 'worthy' 'arrest' 'maltreat' 'break' 'leader']
+0.02
+------------------------Distinctive Topic--------------------------
+['malaviyaji' 'rate' 'england' 'future' 'dining' 'spinning' 'read'
+ 'memorial' 'acquire' 'congress' 'shraddhanandji' 'rajendra' 'prevail'
+ 'biharis' 'spinner']
+['gandhi' 'india' 'man' 'hindu' 'untouchable' 'south' 'caste' 'british'
+ 'home' 'ashram' 'peasant' 'write' 'africa' 'government' 'want']
+0.02
+------------------------Distinctive Topic--------------------------
+['desai' 'admit' 'engage' 'prepare' 'unable' 'absent' 'bind' 'disobey'
+ 'fainting' 'clean' 'prosecute' 'assembly' 'audience' 'production'
+ 'essential']
+['world' 'government' 'land' 'husband' 'fear' 'marcher' 'son' 'school'
+ 'culture' 'african' 'street' 'difficult' 'today' 'testify' 'dust']
+0.038
+------------------------Distinctive Topic--------------------------
+['desai' 'admit' 'engage' 'prepare' 'unable' 'absent' 'bind' 'disobey'
+ 'fainting' 'clean' 'prosecute' 'assembly' 'audience' 'production'
+ 'essential']
+['close' 'touchable' 'population' 'soul' 'offer' 'satyagraha' 'loincloth'
+ 'despite' 'castor' 'thousand' 'george' 'skinned' 'sake' 'policeman'
+ 'cause']
+0.02
+------------------------Distinctive Topic--------------------------
+['desai' 'admit' 'engage' 'prepare' 'unable' 'absent' 'bind' 'disobey'
+ 'fainting' 'clean' 'prosecute' 'assembly' 'audience' 'production'
+ 'essential']
+['law' 'piece' 'link' 'teacher' 'confine' 'police' 'trial' 'life' 'cable'
+ 'besant' 'frequently' 'non' 'inscription' 'j' 'position']
+0.016
+------------------------Distinctive Topic--------------------------
+['desai' 'admit' 'engage' 'prepare' 'unable' 'absent' 'bind' 'disobey'
+ 'fainting' 'clean' 'prosecute' 'assembly' 'audience' 'production'
+ 'essential']
+['labourer' 'religion' 'audience' 'report' 'sentence' 'commit' 'doubt'
+ 'hand' 'animal' 'gift' 'worthy' 'arrest' 'maltreat' 'break' 'leader']
+0.042
+------------------------Distinctive Topic--------------------------
+['desai' 'admit' 'engage' 'prepare' 'unable' 'absent' 'bind' 'disobey'
+ 'fainting' 'clean' 'prosecute' 'assembly' 'audience' 'production'
+ 'essential']
+['gandhi' 'india' 'man' 'hindu' 'untouchable' 'south' 'caste' 'british'
+ 'home' 'ashram' 'peasant' 'write' 'africa' 'government' 'want']
+0.058
+------------------------Distinctive Topic--------------------------
+['ashram' 'friend' 'place' 'feel' 'help' 'congress' 'question'
+ 'government' 'champaran' 'people' 'man' 'matter' 'want' 'leave' 'inquiry']
+['world' 'government' 'land' 'husband' 'fear' 'marcher' 'son' 'school'
+ 'culture' 'african' 'street' 'difficult' 'today' 'testify' 'dust']
+0.042
+------------------------Distinctive Topic--------------------------
+['ashram' 'friend' 'place' 'feel' 'help' 'congress' 'question'
+ 'government' 'champaran' 'people' 'man' 'matter' 'want' 'leave' 'inquiry']
+['close' 'touchable' 'population' 'soul' 'offer' 'satyagraha' 'loincloth'
+ 'despite' 'castor' 'thousand' 'george' 'skinned' 'sake' 'policeman'
+ 'cause']
+0.034
+------------------------Distinctive Topic--------------------------
+['ashram' 'friend' 'place' 'feel' 'help' 'congress' 'question'
+ 'government' 'champaran' 'people' 'man' 'matter' 'want' 'leave' 'inquiry']
+['law' 'piece' 'link' 'teacher' 'confine' 'police' 'trial' 'life' 'cable'
+ 'besant' 'frequently' 'non' 'inscription' 'j' 'position']
+0.054
+------------------------Distinctive Topic--------------------------
+['ashram' 'friend' 'place' 'feel' 'help' 'congress' 'question'
+ 'government' 'champaran' 'people' 'man' 'matter' 'want' 'leave' 'inquiry']
+['labourer' 'religion' 'audience' 'report' 'sentence' 'commit' 'doubt'
+ 'hand' 'animal' 'gift' 'worthy' 'arrest' 'maltreat' 'break' 'leader']
+0.14
+------------------------Distinctive Topic--------------------------
+['ashram' 'friend' 'place' 'feel' 'help' 'congress' 'question'
+ 'government' 'champaran' 'people' 'man' 'matter' 'want' 'leave' 'inquiry']
+['gandhi' 'india' 'man' 'hindu' 'untouchable' 'south' 'caste' 'british'
+ 'home' 'ashram' 'peasant' 'write' 'africa' 'government' 'want']
+0.018
+------------------------Distinctive Topic--------------------------
+['pain' 'descend' 'place' 'impose' 'deal' 'session' 'boat' 'general'
+ 'arrest' 'card' 'visit' 'long' 'want' 'trinity' 'wheel']
+['world' 'government' 'land' 'husband' 'fear' 'marcher' 'son' 'school'
+ 'culture' 'african' 'street' 'difficult' 'today' 'testify' 'dust']
+0.018
+------------------------Distinctive Topic--------------------------
+['pain' 'descend' 'place' 'impose' 'deal' 'session' 'boat' 'general'
+ 'arrest' 'card' 'visit' 'long' 'want' 'trinity' 'wheel']
+['close' 'touchable' 'population' 'soul' 'offer' 'satyagraha' 'loincloth'
+ 'despite' 'castor' 'thousand' 'george' 'skinned' 'sake' 'policeman'
+ 'cause']
+0.018
+------------------------Distinctive Topic--------------------------
+['pain' 'descend' 'place' 'impose' 'deal' 'session' 'boat' 'general'
+ 'arrest' 'card' 'visit' 'long' 'want' 'trinity' 'wheel']
+['law' 'piece' 'link' 'teacher' 'confine' 'police' 'trial' 'life' 'cable'
+ 'besant' 'frequently' 'non' 'inscription' 'j' 'position']
+0.026
+------------------------Distinctive Topic--------------------------
+['pain' 'descend' 'place' 'impose' 'deal' 'session' 'boat' 'general'
+ 'arrest' 'card' 'visit' 'long' 'want' 'trinity' 'wheel']
+['labourer' 'religion' 'audience' 'report' 'sentence' 'commit' 'doubt'
+ 'hand' 'animal' 'gift' 'worthy' 'arrest' 'maltreat' 'break' 'leader']
+0.036
+------------------------Distinctive Topic--------------------------
+['pain' 'descend' 'place' 'impose' 'deal' 'session' 'boat' 'general'
+ 'arrest' 'card' 'visit' 'long' 'want' 'trinity' 'wheel']
+['gandhi' 'india' 'man' 'hindu' 'untouchable' 'south' 'caste' 'british'
+ 'home' 'ashram' 'peasant' 'write' 'africa' 'government' 'want']
+0.026
+------------------------Distinctive Topic--------------------------
+['rupee' 'brother' 'utter' 'courtesy' 'lack' 'rs' 'custom' 'kathiawad'
+ 'selfishness' 'skip' 'effort' 'party' 'civil' 'smile' 'kaul']
+['world' 'government' 'land' 'husband' 'fear' 'marcher' 'son' 'school'
+ 'culture' 'african' 'street' 'difficult' 'today' 'testify' 'dust']
+0.028
+------------------------Distinctive Topic--------------------------
+['rupee' 'brother' 'utter' 'courtesy' 'lack' 'rs' 'custom' 'kathiawad'
+ 'selfishness' 'skip' 'effort' 'party' 'civil' 'smile' 'kaul']
+['close' 'touchable' 'population' 'soul' 'offer' 'satyagraha' 'loincloth'
+ 'despite' 'castor' 'thousand' 'george' 'skinned' 'sake' 'policeman'
+ 'cause']
+0.012
+------------------------Distinctive Topic--------------------------
+['rupee' 'brother' 'utter' 'courtesy' 'lack' 'rs' 'custom' 'kathiawad'
+ 'selfishness' 'skip' 'effort' 'party' 'civil' 'smile' 'kaul']
+['law' 'piece' 'link' 'teacher' 'confine' 'police' 'trial' 'life' 'cable'
+ 'besant' 'frequently' 'non' 'inscription' 'j' 'position']
+0.024
+------------------------Distinctive Topic--------------------------
+['rupee' 'brother' 'utter' 'courtesy' 'lack' 'rs' 'custom' 'kathiawad'
+ 'selfishness' 'skip' 'effort' 'party' 'civil' 'smile' 'kaul']
+['labourer' 'religion' 'audience' 'report' 'sentence' 'commit' 'doubt'
+ 'hand' 'animal' 'gift' 'worthy' 'arrest' 'maltreat' 'break' 'leader']
+0.022
+------------------------Distinctive Topic--------------------------
+['rupee' 'brother' 'utter' 'courtesy' 'lack' 'rs' 'custom' 'kathiawad'
+ 'selfishness' 'skip' 'effort' 'party' 'civil' 'smile' 'kaul']
+['gandhi' 'india' 'man' 'hindu' 'untouchable' 'south' 'caste' 'british'
+ 'home' 'ashram' 'peasant' 'write' 'africa' 'government' 'want']
+------------------------1918-1922--------------------------

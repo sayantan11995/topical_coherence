@@ -1,0 +1,1031 @@
+------------------------1912-1916--------------------------
+0.024
+------------------------Distinctive Topic--------------------------
+['huge' 'internment' 'cold' 'leader' 'produce' 'british' 'return' 'allow'
+ 'friendly' 'weary' 'professor' 'consist' 'result' 'special' 'away']
+['cambridge' 'pass' 'influence' 'brook' 'room' 'man' 'form' 'service'
+ 'apologize' 'pupil' 'late' 'son' 'talk' 'examiner' 'respect']
+0.062
+------------------------Distinctive Topic--------------------------
+['huge' 'internment' 'cold' 'leader' 'produce' 'british' 'return' 'allow'
+ 'friendly' 'weary' 'professor' 'consist' 'result' 'special' 'away']
+['jawaharlal' 'motilal' 'nehru' 'father' 'british' 'india' 'life' 'great'
+ 'school' 'family' 'harrow' 'allahabad' 'pandit' 'son' 'english']
+0.028
+------------------------Distinctive Topic--------------------------
+['huge' 'internment' 'cold' 'leader' 'produce' 'british' 'return' 'allow'
+ 'friendly' 'weary' 'professor' 'consist' 'result' 'special' 'away']
+['force' 'write' 'student' 'half' 'hope' 'particular' 'rule' 'bump'
+ 'moderate' 'traditional' 'b' 'want' 'hindus' 'send' 'spread']
+0.032
+------------------------Distinctive Topic--------------------------
+['huge' 'internment' 'cold' 'leader' 'produce' 'british' 'return' 'allow'
+ 'friendly' 'weary' 'professor' 'consist' 'result' 'special' 'away']
+['letter' 'paper' 'education' 'old' 'senior' 'dinner' 'college'
+ 'photograph' 'watch' 'opinion' 'ease' 'brockway' 'critical' 'influence'
+ 'book']
+0.02
+------------------------Distinctive Topic--------------------------
+['huge' 'internment' 'cold' 'leader' 'produce' 'british' 'return' 'allow'
+ 'friendly' 'weary' 'professor' 'consist' 'result' 'special' 'away']
+['lead' 'great' 'gradually' 'son' 'average' 'spend' 'society'
+ 'particularly' 'lose' 'seek' 'hindu' 'theosophy' 'political' 'prepare'
+ 'denounce']
+0.024
+------------------------Distinctive Topic--------------------------
+['excitement' 'gaol' 'nehru' 'political' 'brief' 'activity' 'nationalist'
+ 'shake' 'life' 'khaparde' 'africa' 'behary' 'trouble' 'greatly'
+ 'condition']
+['cambridge' 'pass' 'influence' 'brook' 'room' 'man' 'form' 'service'
+ 'apologize' 'pupil' 'late' 'son' 'talk' 'examiner' 'respect']
+0.066
+------------------------Distinctive Topic--------------------------
+['excitement' 'gaol' 'nehru' 'political' 'brief' 'activity' 'nationalist'
+ 'shake' 'life' 'khaparde' 'africa' 'behary' 'trouble' 'greatly'
+ 'condition']
+['jawaharlal' 'motilal' 'nehru' 'father' 'british' 'india' 'life' 'great'
+ 'school' 'family' 'harrow' 'allahabad' 'pandit' 'son' 'english']
+0.02
+------------------------Distinctive Topic--------------------------
+['excitement' 'gaol' 'nehru' 'political' 'brief' 'activity' 'nationalist'
+ 'shake' 'life' 'khaparde' 'africa' 'behary' 'trouble' 'greatly'
+ 'condition']
+['force' 'write' 'student' 'half' 'hope' 'particular' 'rule' 'bump'
+ 'moderate' 'traditional' 'b' 'want' 'hindus' 'send' 'spread']
+0.024
+------------------------Distinctive Topic--------------------------
+['excitement' 'gaol' 'nehru' 'political' 'brief' 'activity' 'nationalist'
+ 'shake' 'life' 'khaparde' 'africa' 'behary' 'trouble' 'greatly'
+ 'condition']
+['letter' 'paper' 'education' 'old' 'senior' 'dinner' 'college'
+ 'photograph' 'watch' 'opinion' 'ease' 'brockway' 'critical' 'influence'
+ 'book']
+0.026
+------------------------Distinctive Topic--------------------------
+['excitement' 'gaol' 'nehru' 'political' 'brief' 'activity' 'nationalist'
+ 'shake' 'life' 'khaparde' 'africa' 'behary' 'trouble' 'greatly'
+ 'condition']
+['lead' 'great' 'gradually' 'son' 'average' 'spend' 'society'
+ 'particularly' 'lose' 'seek' 'hindu' 'theosophy' 'political' 'prepare'
+ 'denounce']
+0.038
+------------------------Distinctive Topic--------------------------
+['india' 'little' 'moderate' 'politic' 'prison' 'think' 'public'
+ 'congress' 'mountain' 'old' 'feel' 'life' 'visit' 'leave' 'man']
+['cambridge' 'pass' 'influence' 'brook' 'room' 'man' 'form' 'service'
+ 'apologize' 'pupil' 'late' 'son' 'talk' 'examiner' 'respect']
+0.096
+------------------------Distinctive Topic--------------------------
+['india' 'little' 'moderate' 'politic' 'prison' 'think' 'public'
+ 'congress' 'mountain' 'old' 'feel' 'life' 'visit' 'leave' 'man']
+['jawaharlal' 'motilal' 'nehru' 'father' 'british' 'india' 'life' 'great'
+ 'school' 'family' 'harrow' 'allahabad' 'pandit' 'son' 'english']
+0.054
+------------------------Distinctive Topic--------------------------
+['india' 'little' 'moderate' 'politic' 'prison' 'think' 'public'
+ 'congress' 'mountain' 'old' 'feel' 'life' 'visit' 'leave' 'man']
+['force' 'write' 'student' 'half' 'hope' 'particular' 'rule' 'bump'
+ 'moderate' 'traditional' 'b' 'want' 'hindus' 'send' 'spread']
+0.048
+------------------------Distinctive Topic--------------------------
+['india' 'little' 'moderate' 'politic' 'prison' 'think' 'public'
+ 'congress' 'mountain' 'old' 'feel' 'life' 'visit' 'leave' 'man']
+['letter' 'paper' 'education' 'old' 'senior' 'dinner' 'college'
+ 'photograph' 'watch' 'opinion' 'ease' 'brockway' 'critical' 'influence'
+ 'book']
+0.03
+------------------------Distinctive Topic--------------------------
+['india' 'little' 'moderate' 'politic' 'prison' 'think' 'public'
+ 'congress' 'mountain' 'old' 'feel' 'life' 'visit' 'leave' 'man']
+['lead' 'great' 'gradually' 'son' 'average' 'spend' 'society'
+ 'particularly' 'lose' 'seek' 'hindu' 'theosophy' 'political' 'prepare'
+ 'denounce']
+0.032
+------------------------Distinctive Topic--------------------------
+['mile' 'consider' 'news' 'question' 'change' 'shock' 'lie' 'father'
+ 'rest' 'wholly' 'genial' 'government' 'zoji' 'satisfaction' 'official']
+['cambridge' 'pass' 'influence' 'brook' 'room' 'man' 'form' 'service'
+ 'apologize' 'pupil' 'late' 'son' 'talk' 'examiner' 'respect']
+0.058
+------------------------Distinctive Topic--------------------------
+['mile' 'consider' 'news' 'question' 'change' 'shock' 'lie' 'father'
+ 'rest' 'wholly' 'genial' 'government' 'zoji' 'satisfaction' 'official']
+['jawaharlal' 'motilal' 'nehru' 'father' 'british' 'india' 'life' 'great'
+ 'school' 'family' 'harrow' 'allahabad' 'pandit' 'son' 'english']
+0.028
+------------------------Distinctive Topic--------------------------
+['mile' 'consider' 'news' 'question' 'change' 'shock' 'lie' 'father'
+ 'rest' 'wholly' 'genial' 'government' 'zoji' 'satisfaction' 'official']
+['force' 'write' 'student' 'half' 'hope' 'particular' 'rule' 'bump'
+ 'moderate' 'traditional' 'b' 'want' 'hindus' 'send' 'spread']
+0.032
+------------------------Distinctive Topic--------------------------
+['mile' 'consider' 'news' 'question' 'change' 'shock' 'lie' 'father'
+ 'rest' 'wholly' 'genial' 'government' 'zoji' 'satisfaction' 'official']
+['letter' 'paper' 'education' 'old' 'senior' 'dinner' 'college'
+ 'photograph' 'watch' 'opinion' 'ease' 'brockway' 'critical' 'influence'
+ 'book']
+0.03
+------------------------Distinctive Topic--------------------------
+['mile' 'consider' 'news' 'question' 'change' 'shock' 'lie' 'father'
+ 'rest' 'wholly' 'genial' 'government' 'zoji' 'satisfaction' 'official']
+['lead' 'great' 'gradually' 'son' 'average' 'spend' 'society'
+ 'particularly' 'lose' 'seek' 'hindu' 'theosophy' 'political' 'prepare'
+ 'denounce']
+0.024
+------------------------Distinctive Topic--------------------------
+['member' 'english' 'look' 'right' 'number' 'law' 'remember' 'press'
+ 'city' 'soon' 'occupy' 'window' 'legal' 'hear' 'hide']
+['cambridge' 'pass' 'influence' 'brook' 'room' 'man' 'form' 'service'
+ 'apologize' 'pupil' 'late' 'son' 'talk' 'examiner' 'respect']
+0.064
+------------------------Distinctive Topic--------------------------
+['member' 'english' 'look' 'right' 'number' 'law' 'remember' 'press'
+ 'city' 'soon' 'occupy' 'window' 'legal' 'hear' 'hide']
+['jawaharlal' 'motilal' 'nehru' 'father' 'british' 'india' 'life' 'great'
+ 'school' 'family' 'harrow' 'allahabad' 'pandit' 'son' 'english']
+0.02
+------------------------Distinctive Topic--------------------------
+['member' 'english' 'look' 'right' 'number' 'law' 'remember' 'press'
+ 'city' 'soon' 'occupy' 'window' 'legal' 'hear' 'hide']
+['force' 'write' 'student' 'half' 'hope' 'particular' 'rule' 'bump'
+ 'moderate' 'traditional' 'b' 'want' 'hindus' 'send' 'spread']
+0.032
+------------------------Distinctive Topic--------------------------
+['member' 'english' 'look' 'right' 'number' 'law' 'remember' 'press'
+ 'city' 'soon' 'occupy' 'window' 'legal' 'hear' 'hide']
+['letter' 'paper' 'education' 'old' 'senior' 'dinner' 'college'
+ 'photograph' 'watch' 'opinion' 'ease' 'brockway' 'critical' 'influence'
+ 'book']
+0.02
+------------------------Distinctive Topic--------------------------
+['member' 'english' 'look' 'right' 'number' 'law' 'remember' 'press'
+ 'city' 'soon' 'occupy' 'window' 'legal' 'hear' 'hide']
+['lead' 'great' 'gradually' 'son' 'average' 'spend' 'society'
+ 'particularly' 'lose' 'seek' 'hindu' 'theosophy' 'political' 'prepare'
+ 'denounce']
+------------------------1917-1921--------------------------
+0.016
+------------------------Distinctive Topic--------------------------
+['tone' 'sita' 'fiom' 'grimwood' 'nationalist' 'maintain' 'dominate'
+ 'direct' 'decide' 'step' 'privileged' 'ali' 'moslem' 'sabha' 'ferment']
+['gress' 'notice' 'tba' 'spinning' 'career' 'politic' 'compel' 'attract'
+ 'good' 'clearly' 'push' 'advise' 'wide' 'ence' 'assurance']
+0.022
+------------------------Distinctive Topic--------------------------
+['tone' 'sita' 'fiom' 'grimwood' 'nationalist' 'maintain' 'dominate'
+ 'direct' 'decide' 'step' 'privileged' 'ali' 'moslem' 'sabha' 'ferment']
+['happy' 'refusal' 'file' 'shop' 'friend' 'attention' 'operator' 'teach'
+ 'nation' 'survey' 'belief' 'resentment' 'jallianwala' 'boycott'
+ 'original']
+0.022
+------------------------Distinctive Topic--------------------------
+['tone' 'sita' 'fiom' 'grimwood' 'nationalist' 'maintain' 'dominate'
+ 'direct' 'decide' 'step' 'privileged' 'ali' 'moslem' 'sabha' 'ferment']
+['sympathize' 'office' 'letter' 'seditious' 'working' 'unlike' 'chauri'
+ 'redress' 'good' 'recognize' 'advantage' 'jawa' 'book' 'read' 'lattor']
+0.022
+------------------------Distinctive Topic--------------------------
+['tone' 'sita' 'fiom' 'grimwood' 'nationalist' 'maintain' 'dominate'
+ 'direct' 'decide' 'step' 'privileged' 'ali' 'moslem' 'sabha' 'ferment']
+['jawaharlal' 'government' 'congress' 'kisan' 'gandhi' 'motilal' 'home'
+ 'non' 'report' 'district' 'allahabad' 'india' 'dept' 'leader' 'operation']
+0.032
+------------------------Distinctive Topic--------------------------
+['tone' 'sita' 'fiom' 'grimwood' 'nationalist' 'maintain' 'dominate'
+ 'direct' 'decide' 'step' 'privileged' 'ali' 'moslem' 'sabha' 'ferment']
+['harlal' 'immediate' 'circumstance' 'exaction' 'inform' 'relax' 'blue'
+ 'heavy' 'agree' 'anand' 'tactic' 'kisan' 'kind' 'dept' 'travel']
+0.014
+------------------------Distinctive Topic--------------------------
+['difficult' 'sphere' 'obstruction' 'tendency' 'adoption' 'oneself' 'dom'
+ 'strengthen' 'stop' 'apply' 'maulana' 'real' 'agree' 'contact' 'waverer']
+['gress' 'notice' 'tba' 'spinning' 'career' 'politic' 'compel' 'attract'
+ 'good' 'clearly' 'push' 'advise' 'wide' 'ence' 'assurance']
+0.014
+------------------------Distinctive Topic--------------------------
+['difficult' 'sphere' 'obstruction' 'tendency' 'adoption' 'oneself' 'dom'
+ 'strengthen' 'stop' 'apply' 'maulana' 'real' 'agree' 'contact' 'waverer']
+['happy' 'refusal' 'file' 'shop' 'friend' 'attention' 'operator' 'teach'
+ 'nation' 'survey' 'belief' 'resentment' 'jallianwala' 'boycott'
+ 'original']
+0.012
+------------------------Distinctive Topic--------------------------
+['difficult' 'sphere' 'obstruction' 'tendency' 'adoption' 'oneself' 'dom'
+ 'strengthen' 'stop' 'apply' 'maulana' 'real' 'agree' 'contact' 'waverer']
+['sympathize' 'office' 'letter' 'seditious' 'working' 'unlike' 'chauri'
+ 'redress' 'good' 'recognize' 'advantage' 'jawa' 'book' 'read' 'lattor']
+0.02
+------------------------Distinctive Topic--------------------------
+['difficult' 'sphere' 'obstruction' 'tendency' 'adoption' 'oneself' 'dom'
+ 'strengthen' 'stop' 'apply' 'maulana' 'real' 'agree' 'contact' 'waverer']
+['jawaharlal' 'government' 'congress' 'kisan' 'gandhi' 'motilal' 'home'
+ 'non' 'report' 'district' 'allahabad' 'india' 'dept' 'leader' 'operation']
+0.042
+------------------------Distinctive Topic--------------------------
+['difficult' 'sphere' 'obstruction' 'tendency' 'adoption' 'oneself' 'dom'
+ 'strengthen' 'stop' 'apply' 'maulana' 'real' 'agree' 'contact' 'waverer']
+['harlal' 'immediate' 'circumstance' 'exaction' 'inform' 'relax' 'blue'
+ 'heavy' 'agree' 'anand' 'tactic' 'kisan' 'kind' 'dept' 'travel']
+0.008
+------------------------Distinctive Topic--------------------------
+['englishman' 'achieve' 'weight' 'mass' 'loth' 'close' 'defence'
+ 'complete' 'chief' 'sentence' 'notion' 'separate' 'instalment' 'strain'
+ 'unjust']
+['gress' 'notice' 'tba' 'spinning' 'career' 'politic' 'compel' 'attract'
+ 'good' 'clearly' 'push' 'advise' 'wide' 'ence' 'assurance']
+0.008
+------------------------Distinctive Topic--------------------------
+['englishman' 'achieve' 'weight' 'mass' 'loth' 'close' 'defence'
+ 'complete' 'chief' 'sentence' 'notion' 'separate' 'instalment' 'strain'
+ 'unjust']
+['happy' 'refusal' 'file' 'shop' 'friend' 'attention' 'operator' 'teach'
+ 'nation' 'survey' 'belief' 'resentment' 'jallianwala' 'boycott'
+ 'original']
+0.034
+------------------------Distinctive Topic--------------------------
+['englishman' 'achieve' 'weight' 'mass' 'loth' 'close' 'defence'
+ 'complete' 'chief' 'sentence' 'notion' 'separate' 'instalment' 'strain'
+ 'unjust']
+['sympathize' 'office' 'letter' 'seditious' 'working' 'unlike' 'chauri'
+ 'redress' 'good' 'recognize' 'advantage' 'jawa' 'book' 'read' 'lattor']
+0.042
+------------------------Distinctive Topic--------------------------
+['englishman' 'achieve' 'weight' 'mass' 'loth' 'close' 'defence'
+ 'complete' 'chief' 'sentence' 'notion' 'separate' 'instalment' 'strain'
+ 'unjust']
+['jawaharlal' 'government' 'congress' 'kisan' 'gandhi' 'motilal' 'home'
+ 'non' 'report' 'district' 'allahabad' 'india' 'dept' 'leader' 'operation']
+0.032
+------------------------Distinctive Topic--------------------------
+['englishman' 'achieve' 'weight' 'mass' 'loth' 'close' 'defence'
+ 'complete' 'chief' 'sentence' 'notion' 'separate' 'instalment' 'strain'
+ 'unjust']
+['harlal' 'immediate' 'circumstance' 'exaction' 'inform' 'relax' 'blue'
+ 'heavy' 'agree' 'anand' 'tactic' 'kisan' 'kind' 'dept' 'travel']
+0.04
+------------------------Distinctive Topic--------------------------
+['non' 'violence' 'gandhiji' 'congress' 'great' 'india' 'people' 'new'
+ 'operation' 'far' 'political' 'movement' 'class' 'man' 'gaol']
+['gress' 'notice' 'tba' 'spinning' 'career' 'politic' 'compel' 'attract'
+ 'good' 'clearly' 'push' 'advise' 'wide' 'ence' 'assurance']
+0.034
+------------------------Distinctive Topic--------------------------
+['non' 'violence' 'gandhiji' 'congress' 'great' 'india' 'people' 'new'
+ 'operation' 'far' 'political' 'movement' 'class' 'man' 'gaol']
+['happy' 'refusal' 'file' 'shop' 'friend' 'attention' 'operator' 'teach'
+ 'nation' 'survey' 'belief' 'resentment' 'jallianwala' 'boycott'
+ 'original']
+0.044
+------------------------Distinctive Topic--------------------------
+['non' 'violence' 'gandhiji' 'congress' 'great' 'india' 'people' 'new'
+ 'operation' 'far' 'political' 'movement' 'class' 'man' 'gaol']
+['sympathize' 'office' 'letter' 'seditious' 'working' 'unlike' 'chauri'
+ 'redress' 'good' 'recognize' 'advantage' 'jawa' 'book' 'read' 'lattor']
+0.142
+------------------------Distinctive Topic--------------------------
+['non' 'violence' 'gandhiji' 'congress' 'great' 'india' 'people' 'new'
+ 'operation' 'far' 'political' 'movement' 'class' 'man' 'gaol']
+['jawaharlal' 'government' 'congress' 'kisan' 'gandhi' 'motilal' 'home'
+ 'non' 'report' 'district' 'allahabad' 'india' 'dept' 'leader' 'operation']
+0.042
+------------------------Distinctive Topic--------------------------
+['non' 'violence' 'gandhiji' 'congress' 'great' 'india' 'people' 'new'
+ 'operation' 'far' 'political' 'movement' 'class' 'man' 'gaol']
+['harlal' 'immediate' 'circumstance' 'exaction' 'inform' 'relax' 'blue'
+ 'heavy' 'agree' 'anand' 'tactic' 'kisan' 'kind' 'dept' 'travel']
+0.01
+------------------------Distinctive Topic--------------------------
+['exploitation' 'meeting' 'interesting' 'element' 'significance' 'legal'
+ 'offer' 'space' 'fall' 'nehru' 'ferment' 'govern' 'dead' 'hope' 'fancy']
+['gress' 'notice' 'tba' 'spinning' 'career' 'politic' 'compel' 'attract'
+ 'good' 'clearly' 'push' 'advise' 'wide' 'ence' 'assurance']
+0.01
+------------------------Distinctive Topic--------------------------
+['exploitation' 'meeting' 'interesting' 'element' 'significance' 'legal'
+ 'offer' 'space' 'fall' 'nehru' 'ferment' 'govern' 'dead' 'hope' 'fancy']
+['happy' 'refusal' 'file' 'shop' 'friend' 'attention' 'operator' 'teach'
+ 'nation' 'survey' 'belief' 'resentment' 'jallianwala' 'boycott'
+ 'original']
+0.026
+------------------------Distinctive Topic--------------------------
+['exploitation' 'meeting' 'interesting' 'element' 'significance' 'legal'
+ 'offer' 'space' 'fall' 'nehru' 'ferment' 'govern' 'dead' 'hope' 'fancy']
+['sympathize' 'office' 'letter' 'seditious' 'working' 'unlike' 'chauri'
+ 'redress' 'good' 'recognize' 'advantage' 'jawa' 'book' 'read' 'lattor']
+0.044
+------------------------Distinctive Topic--------------------------
+['exploitation' 'meeting' 'interesting' 'element' 'significance' 'legal'
+ 'offer' 'space' 'fall' 'nehru' 'ferment' 'govern' 'dead' 'hope' 'fancy']
+['jawaharlal' 'government' 'congress' 'kisan' 'gandhi' 'motilal' 'home'
+ 'non' 'report' 'district' 'allahabad' 'india' 'dept' 'leader' 'operation']
+0.026
+------------------------Distinctive Topic--------------------------
+['exploitation' 'meeting' 'interesting' 'element' 'significance' 'legal'
+ 'offer' 'space' 'fall' 'nehru' 'ferment' 'govern' 'dead' 'hope' 'fancy']
+['harlal' 'immediate' 'circumstance' 'exaction' 'inform' 'relax' 'blue'
+ 'heavy' 'agree' 'anand' 'tactic' 'kisan' 'kind' 'dept' 'travel']
+------------------------1922-1926--------------------------
+0.062
+------------------------Distinctive Topic--------------------------
+['congress' 'communal' 'government' 'party' 'gandhiji' 'father'
+ 'political' 'little' 'india' 'hindu' 'great' 'people' 'leader' 'long'
+ 'group']
+['hard' 'letter' 'different' 'statement' 'child' 'arrest' 'tbe' 'improve'
+ 'allow' 'department' 'probable' 'control' 'complete' 'deep' 'use']
+0.056
+------------------------Distinctive Topic--------------------------
+['congress' 'communal' 'government' 'party' 'gandhiji' 'father'
+ 'political' 'little' 'india' 'hindu' 'great' 'people' 'leader' 'long'
+ 'group']
+['kind' 'issue' 'provincial' 'congressman' 'employ' 'decide' 'e' 'staff'
+ 'pen' 'party' 'wearing' 'chairmanship' 'general' 'municipal' 'sacrifice']
+0.13
+------------------------Distinctive Topic--------------------------
+['congress' 'communal' 'government' 'party' 'gandhiji' 'father'
+ 'political' 'little' 'india' 'hindu' 'great' 'people' 'leader' 'long'
+ 'group']
+['jawaharlal' 'congress' 'nabha' 'municipal' 'board' 'allahabad' 'gandhi'
+ 'motilal' 'government' 'sikh' 'leader' 'india' 'jail' 'member' 'report']
+0.048
+------------------------Distinctive Topic--------------------------
+['congress' 'communal' 'government' 'party' 'gandhiji' 'father'
+ 'political' 'little' 'india' 'hindu' 'great' 'people' 'leader' 'long'
+ 'group']
+['violence' 'johnston' 'chairmanship' 'cipate' 'land' 'operate' 'general'
+ 'editor' 'country' 'chair' 'prayer' 'imposition' 'direction' 'attention'
+ 'santanam']
+0.058
+------------------------Distinctive Topic--------------------------
+['congress' 'communal' 'government' 'party' 'gandhiji' 'father'
+ 'political' 'little' 'india' 'hindu' 'great' 'people' 'leader' 'long'
+ 'group']
+['united' 'spinning' 'lie' 'influence' 'friend' 'rest' 'deplore' 'father'
+ 'government' 'finance' 'amritsar' 'effective' 'majority' 'matter' 'fact']
+0.034
+------------------------Distinctive Topic--------------------------
+['fight' 'town' 'effort' 'reach' 'operation' 'difference' 'approve'
+ 'abroad' 'mohamad' 'bed' 'sympathy' 'sikh' 'freedom' 'confluence' 'blow']
+['hard' 'letter' 'different' 'statement' 'child' 'arrest' 'tbe' 'improve'
+ 'allow' 'department' 'probable' 'control' 'complete' 'deep' 'use']
+0.022
+------------------------Distinctive Topic--------------------------
+['fight' 'town' 'effort' 'reach' 'operation' 'difference' 'approve'
+ 'abroad' 'mohamad' 'bed' 'sympathy' 'sikh' 'freedom' 'confluence' 'blow']
+['kind' 'issue' 'provincial' 'congressman' 'employ' 'decide' 'e' 'staff'
+ 'pen' 'party' 'wearing' 'chairmanship' 'general' 'municipal' 'sacrifice']
+0.05
+------------------------Distinctive Topic--------------------------
+['fight' 'town' 'effort' 'reach' 'operation' 'difference' 'approve'
+ 'abroad' 'mohamad' 'bed' 'sympathy' 'sikh' 'freedom' 'confluence' 'blow']
+['jawaharlal' 'congress' 'nabha' 'municipal' 'board' 'allahabad' 'gandhi'
+ 'motilal' 'government' 'sikh' 'leader' 'india' 'jail' 'member' 'report']
+0.018
+------------------------Distinctive Topic--------------------------
+['fight' 'town' 'effort' 'reach' 'operation' 'difference' 'approve'
+ 'abroad' 'mohamad' 'bed' 'sympathy' 'sikh' 'freedom' 'confluence' 'blow']
+['violence' 'johnston' 'chairmanship' 'cipate' 'land' 'operate' 'general'
+ 'editor' 'country' 'chair' 'prayer' 'imposition' 'direction' 'attention'
+ 'santanam']
+0.02
+------------------------Distinctive Topic--------------------------
+['fight' 'town' 'effort' 'reach' 'operation' 'difference' 'approve'
+ 'abroad' 'mohamad' 'bed' 'sympathy' 'sikh' 'freedom' 'confluence' 'blow']
+['united' 'spinning' 'lie' 'influence' 'friend' 'rest' 'deplore' 'father'
+ 'government' 'finance' 'amritsar' 'effective' 'majority' 'matter' 'fact']
+0.022
+------------------------Distinctive Topic--------------------------
+['present' 'illness' 'return' 'jawaharlal' 'away' 'repeat' 'dalhousie'
+ 'amazing' 'failure' 'officially' 'bourgeois' 'wrap' 'constitution'
+ 'responsibility' 'compromise']
+['hard' 'letter' 'different' 'statement' 'child' 'arrest' 'tbe' 'improve'
+ 'allow' 'department' 'probable' 'control' 'complete' 'deep' 'use']
+0.024
+------------------------Distinctive Topic--------------------------
+['present' 'illness' 'return' 'jawaharlal' 'away' 'repeat' 'dalhousie'
+ 'amazing' 'failure' 'officially' 'bourgeois' 'wrap' 'constitution'
+ 'responsibility' 'compromise']
+['kind' 'issue' 'provincial' 'congressman' 'employ' 'decide' 'e' 'staff'
+ 'pen' 'party' 'wearing' 'chairmanship' 'general' 'municipal' 'sacrifice']
+0.034
+------------------------Distinctive Topic--------------------------
+['present' 'illness' 'return' 'jawaharlal' 'away' 'repeat' 'dalhousie'
+ 'amazing' 'failure' 'officially' 'bourgeois' 'wrap' 'constitution'
+ 'responsibility' 'compromise']
+['jawaharlal' 'congress' 'nabha' 'municipal' 'board' 'allahabad' 'gandhi'
+ 'motilal' 'government' 'sikh' 'leader' 'india' 'jail' 'member' 'report']
+0.026
+------------------------Distinctive Topic--------------------------
+['present' 'illness' 'return' 'jawaharlal' 'away' 'repeat' 'dalhousie'
+ 'amazing' 'failure' 'officially' 'bourgeois' 'wrap' 'constitution'
+ 'responsibility' 'compromise']
+['violence' 'johnston' 'chairmanship' 'cipate' 'land' 'operate' 'general'
+ 'editor' 'country' 'chair' 'prayer' 'imposition' 'direction' 'attention'
+ 'santanam']
+0.018
+------------------------Distinctive Topic--------------------------
+['present' 'illness' 'return' 'jawaharlal' 'away' 'repeat' 'dalhousie'
+ 'amazing' 'failure' 'officially' 'bourgeois' 'wrap' 'constitution'
+ 'responsibility' 'compromise']
+['united' 'spinning' 'lie' 'influence' 'friend' 'rest' 'deplore' 'father'
+ 'government' 'finance' 'amritsar' 'effective' 'majority' 'matter' 'fact']
+0.018
+------------------------Distinctive Topic--------------------------
+['service' 'differ' 'direct' 'watch' 'american' 'criticise' 'ahead'
+ 'temper' 'holder' 'gange' 'opinion' 'far' 'book' 'market' 'civil']
+['hard' 'letter' 'different' 'statement' 'child' 'arrest' 'tbe' 'improve'
+ 'allow' 'department' 'probable' 'control' 'complete' 'deep' 'use']
+0.024
+------------------------Distinctive Topic--------------------------
+['service' 'differ' 'direct' 'watch' 'american' 'criticise' 'ahead'
+ 'temper' 'holder' 'gange' 'opinion' 'far' 'book' 'market' 'civil']
+['kind' 'issue' 'provincial' 'congressman' 'employ' 'decide' 'e' 'staff'
+ 'pen' 'party' 'wearing' 'chairmanship' 'general' 'municipal' 'sacrifice']
+0.024
+------------------------Distinctive Topic--------------------------
+['service' 'differ' 'direct' 'watch' 'american' 'criticise' 'ahead'
+ 'temper' 'holder' 'gange' 'opinion' 'far' 'book' 'market' 'civil']
+['jawaharlal' 'congress' 'nabha' 'municipal' 'board' 'allahabad' 'gandhi'
+ 'motilal' 'government' 'sikh' 'leader' 'india' 'jail' 'member' 'report']
+0.014
+------------------------Distinctive Topic--------------------------
+['service' 'differ' 'direct' 'watch' 'american' 'criticise' 'ahead'
+ 'temper' 'holder' 'gange' 'opinion' 'far' 'book' 'market' 'civil']
+['violence' 'johnston' 'chairmanship' 'cipate' 'land' 'operate' 'general'
+ 'editor' 'country' 'chair' 'prayer' 'imposition' 'direction' 'attention'
+ 'santanam']
+0.016
+------------------------Distinctive Topic--------------------------
+['service' 'differ' 'direct' 'watch' 'american' 'criticise' 'ahead'
+ 'temper' 'holder' 'gange' 'opinion' 'far' 'book' 'market' 'civil']
+['united' 'spinning' 'lie' 'influence' 'friend' 'rest' 'deplore' 'father'
+ 'government' 'finance' 'amritsar' 'effective' 'majority' 'matter' 'fact']
+0.034
+------------------------Distinctive Topic--------------------------
+['coconada' 'far' 'allahabad' 'poor' 'order' 'irritate' 'greatly'
+ 'attitude' 'secretary' 'advanced' 'evidently' 'play' 'banker'
+ 'deshbandhu' 'create']
+['hard' 'letter' 'different' 'statement' 'child' 'arrest' 'tbe' 'improve'
+ 'allow' 'department' 'probable' 'control' 'complete' 'deep' 'use']
+0.034
+------------------------Distinctive Topic--------------------------
+['coconada' 'far' 'allahabad' 'poor' 'order' 'irritate' 'greatly'
+ 'attitude' 'secretary' 'advanced' 'evidently' 'play' 'banker'
+ 'deshbandhu' 'create']
+['kind' 'issue' 'provincial' 'congressman' 'employ' 'decide' 'e' 'staff'
+ 'pen' 'party' 'wearing' 'chairmanship' 'general' 'municipal' 'sacrifice']
+0.052
+------------------------Distinctive Topic--------------------------
+['coconada' 'far' 'allahabad' 'poor' 'order' 'irritate' 'greatly'
+ 'attitude' 'secretary' 'advanced' 'evidently' 'play' 'banker'
+ 'deshbandhu' 'create']
+['jawaharlal' 'congress' 'nabha' 'municipal' 'board' 'allahabad' 'gandhi'
+ 'motilal' 'government' 'sikh' 'leader' 'india' 'jail' 'member' 'report']
+0.026
+------------------------Distinctive Topic--------------------------
+['coconada' 'far' 'allahabad' 'poor' 'order' 'irritate' 'greatly'
+ 'attitude' 'secretary' 'advanced' 'evidently' 'play' 'banker'
+ 'deshbandhu' 'create']
+['violence' 'johnston' 'chairmanship' 'cipate' 'land' 'operate' 'general'
+ 'editor' 'country' 'chair' 'prayer' 'imposition' 'direction' 'attention'
+ 'santanam']
+0.04
+------------------------Distinctive Topic--------------------------
+['coconada' 'far' 'allahabad' 'poor' 'order' 'irritate' 'greatly'
+ 'attitude' 'secretary' 'advanced' 'evidently' 'play' 'banker'
+ 'deshbandhu' 'create']
+['united' 'spinning' 'lie' 'influence' 'friend' 'rest' 'deplore' 'father'
+ 'government' 'finance' 'amritsar' 'effective' 'majority' 'matter' 'fact']
+------------------------1927-1931--------------------------
+0.014
+------------------------Distinctive Topic--------------------------
+['timid' 'practical' 'law' 'fully' 'lack' 'marry' 'position' 'secretary'
+ 'bring' 'sword' 'uppermost' 'rot' 'arrangement' 'jobbery' 'generally']
+['sense' 'loss' 'unable' 'level' 'drastic' 'bring' 'conquest' 'intensive'
+ 'lose' 'despite' 'shall' 'immediate' 'disappear' 'professional'
+ 'conservative']
+0.01
+------------------------Distinctive Topic--------------------------
+['timid' 'practical' 'law' 'fully' 'lack' 'marry' 'position' 'secretary'
+ 'bring' 'sword' 'uppermost' 'rot' 'arrangement' 'jobbery' 'generally']
+['visit' 'prepare' 'permit' 'enemy' 'presence' 'defence' 'rangaswamy'
+ 'mahmud' 'information' 'apart' 'force' 'undoubtedly' 'weeping' 'believer'
+ 'cordial']
+0.016
+------------------------Distinctive Topic--------------------------
+['timid' 'practical' 'law' 'fully' 'lack' 'marry' 'position' 'secretary'
+ 'bring' 'sword' 'uppermost' 'rot' 'arrangement' 'jobbery' 'generally']
+['wide' 'method' 'level' 'previous' 'tenant' 'unionist' 'revert' 'taxis'
+ 'atmosphere' 'farm' 'divert' 'choose' 'community' 'needlessly'
+ 'peasantry']
+0.022
+------------------------Distinctive Topic--------------------------
+['timid' 'practical' 'law' 'fully' 'lack' 'marry' 'position' 'secretary'
+ 'bring' 'sword' 'uppermost' 'rot' 'arrangement' 'jobbery' 'generally']
+['effect' 'battle' 'die' 'spread' 'let' 'later' 'speed' 'active' 'advice'
+ 'spinning' 'pass' 'charge' 'landlord' 'receive' 'socialistic']
+0.012
+------------------------Distinctive Topic--------------------------
+['timid' 'practical' 'law' 'fully' 'lack' 'marry' 'position' 'secretary'
+ 'bring' 'sword' 'uppermost' 'rot' 'arrangement' 'jobbery' 'generally']
+['jawaharlal' 'congress' 'gandhi' 'india' 'government' 'british'
+ 'independence' 'home' 'committee' 'nehru' 'rent' 'hailey' 'league'
+ 'country' 'report']
+0.008
+------------------------Distinctive Topic--------------------------
+['scene' 'understand' 'sexual' 'moderately' 'wayside' 'lengthen'
+ 'allahabad' 'revenue' 'alarm' 'minimum' 'drama' 'wish' 'pledge' 'man'
+ 'advance']
+['sense' 'loss' 'unable' 'level' 'drastic' 'bring' 'conquest' 'intensive'
+ 'lose' 'despite' 'shall' 'immediate' 'disappear' 'professional'
+ 'conservative']
+0.012
+------------------------Distinctive Topic--------------------------
+['scene' 'understand' 'sexual' 'moderately' 'wayside' 'lengthen'
+ 'allahabad' 'revenue' 'alarm' 'minimum' 'drama' 'wish' 'pledge' 'man'
+ 'advance']
+['visit' 'prepare' 'permit' 'enemy' 'presence' 'defence' 'rangaswamy'
+ 'mahmud' 'information' 'apart' 'force' 'undoubtedly' 'weeping' 'believer'
+ 'cordial']
+0.008
+------------------------Distinctive Topic--------------------------
+['scene' 'understand' 'sexual' 'moderately' 'wayside' 'lengthen'
+ 'allahabad' 'revenue' 'alarm' 'minimum' 'drama' 'wish' 'pledge' 'man'
+ 'advance']
+['wide' 'method' 'level' 'previous' 'tenant' 'unionist' 'revert' 'taxis'
+ 'atmosphere' 'farm' 'divert' 'choose' 'community' 'needlessly'
+ 'peasantry']
+0.008
+------------------------Distinctive Topic--------------------------
+['scene' 'understand' 'sexual' 'moderately' 'wayside' 'lengthen'
+ 'allahabad' 'revenue' 'alarm' 'minimum' 'drama' 'wish' 'pledge' 'man'
+ 'advance']
+['effect' 'battle' 'die' 'spread' 'let' 'later' 'speed' 'active' 'advice'
+ 'spinning' 'pass' 'charge' 'landlord' 'receive' 'socialistic']
+0.016
+------------------------Distinctive Topic--------------------------
+['scene' 'understand' 'sexual' 'moderately' 'wayside' 'lengthen'
+ 'allahabad' 'revenue' 'alarm' 'minimum' 'drama' 'wish' 'pledge' 'man'
+ 'advance']
+['jawaharlal' 'congress' 'gandhi' 'india' 'government' 'british'
+ 'independence' 'home' 'committee' 'nehru' 'rent' 'hailey' 'league'
+ 'country' 'report']
+0.02
+------------------------Distinctive Topic--------------------------
+['bom' 'widespread' 'succeed' 'estimation' 'operation' 'appreciate'
+ 'imbibe' 'clearly' 'resolution' 'accord' 'gap' 'ask' 'ideal' 'resident'
+ 'conversation']
+['sense' 'loss' 'unable' 'level' 'drastic' 'bring' 'conquest' 'intensive'
+ 'lose' 'despite' 'shall' 'immediate' 'disappear' 'professional'
+ 'conservative']
+0.014
+------------------------Distinctive Topic--------------------------
+['bom' 'widespread' 'succeed' 'estimation' 'operation' 'appreciate'
+ 'imbibe' 'clearly' 'resolution' 'accord' 'gap' 'ask' 'ideal' 'resident'
+ 'conversation']
+['visit' 'prepare' 'permit' 'enemy' 'presence' 'defence' 'rangaswamy'
+ 'mahmud' 'information' 'apart' 'force' 'undoubtedly' 'weeping' 'believer'
+ 'cordial']
+0.014
+------------------------Distinctive Topic--------------------------
+['bom' 'widespread' 'succeed' 'estimation' 'operation' 'appreciate'
+ 'imbibe' 'clearly' 'resolution' 'accord' 'gap' 'ask' 'ideal' 'resident'
+ 'conversation']
+['wide' 'method' 'level' 'previous' 'tenant' 'unionist' 'revert' 'taxis'
+ 'atmosphere' 'farm' 'divert' 'choose' 'community' 'needlessly'
+ 'peasantry']
+0.01
+------------------------Distinctive Topic--------------------------
+['bom' 'widespread' 'succeed' 'estimation' 'operation' 'appreciate'
+ 'imbibe' 'clearly' 'resolution' 'accord' 'gap' 'ask' 'ideal' 'resident'
+ 'conversation']
+['effect' 'battle' 'die' 'spread' 'let' 'later' 'speed' 'active' 'advice'
+ 'spinning' 'pass' 'charge' 'landlord' 'receive' 'socialistic']
+0.014
+------------------------Distinctive Topic--------------------------
+['bom' 'widespread' 'succeed' 'estimation' 'operation' 'appreciate'
+ 'imbibe' 'clearly' 'resolution' 'accord' 'gap' 'ask' 'ideal' 'resident'
+ 'conversation']
+['jawaharlal' 'congress' 'gandhi' 'india' 'government' 'british'
+ 'independence' 'home' 'committee' 'nehru' 'rent' 'hailey' 'league'
+ 'country' 'report']
+0.012
+------------------------Distinctive Topic--------------------------
+['etawah' 'tradition' 'vallabhbhai' 'response' 'dismal' 'situa'
+ 'important' 'socialist' 'contingency' 'needless' 'preface' 'arrive'
+ 'result' 'outside' 'ualli']
+['sense' 'loss' 'unable' 'level' 'drastic' 'bring' 'conquest' 'intensive'
+ 'lose' 'despite' 'shall' 'immediate' 'disappear' 'professional'
+ 'conservative']
+0.004
+------------------------Distinctive Topic--------------------------
+['etawah' 'tradition' 'vallabhbhai' 'response' 'dismal' 'situa'
+ 'important' 'socialist' 'contingency' 'needless' 'preface' 'arrive'
+ 'result' 'outside' 'ualli']
+['visit' 'prepare' 'permit' 'enemy' 'presence' 'defence' 'rangaswamy'
+ 'mahmud' 'information' 'apart' 'force' 'undoubtedly' 'weeping' 'believer'
+ 'cordial']
+0.006
+------------------------Distinctive Topic--------------------------
+['etawah' 'tradition' 'vallabhbhai' 'response' 'dismal' 'situa'
+ 'important' 'socialist' 'contingency' 'needless' 'preface' 'arrive'
+ 'result' 'outside' 'ualli']
+['wide' 'method' 'level' 'previous' 'tenant' 'unionist' 'revert' 'taxis'
+ 'atmosphere' 'farm' 'divert' 'choose' 'community' 'needlessly'
+ 'peasantry']
+0.01
+------------------------Distinctive Topic--------------------------
+['etawah' 'tradition' 'vallabhbhai' 'response' 'dismal' 'situa'
+ 'important' 'socialist' 'contingency' 'needless' 'preface' 'arrive'
+ 'result' 'outside' 'ualli']
+['effect' 'battle' 'die' 'spread' 'let' 'later' 'speed' 'active' 'advice'
+ 'spinning' 'pass' 'charge' 'landlord' 'receive' 'socialistic']
+0.01
+------------------------Distinctive Topic--------------------------
+['etawah' 'tradition' 'vallabhbhai' 'response' 'dismal' 'situa'
+ 'important' 'socialist' 'contingency' 'needless' 'preface' 'arrive'
+ 'result' 'outside' 'ualli']
+['jawaharlal' 'congress' 'gandhi' 'india' 'government' 'british'
+ 'independence' 'home' 'committee' 'nehru' 'rent' 'hailey' 'league'
+ 'country' 'report']
+0.034
+------------------------Distinctive Topic--------------------------
+['congress' 'india' 'government' 'gandhiji' 'great' 'people' 'committee'
+ 'little' 'prison' 'think' 'civil' 'far' 'long' 'conference' 'political']
+['sense' 'loss' 'unable' 'level' 'drastic' 'bring' 'conquest' 'intensive'
+ 'lose' 'despite' 'shall' 'immediate' 'disappear' 'professional'
+ 'conservative']
+0.034
+------------------------Distinctive Topic--------------------------
+['congress' 'india' 'government' 'gandhiji' 'great' 'people' 'committee'
+ 'little' 'prison' 'think' 'civil' 'far' 'long' 'conference' 'political']
+['visit' 'prepare' 'permit' 'enemy' 'presence' 'defence' 'rangaswamy'
+ 'mahmud' 'information' 'apart' 'force' 'undoubtedly' 'weeping' 'believer'
+ 'cordial']
+0.028
+------------------------Distinctive Topic--------------------------
+['congress' 'india' 'government' 'gandhiji' 'great' 'people' 'committee'
+ 'little' 'prison' 'think' 'civil' 'far' 'long' 'conference' 'political']
+['wide' 'method' 'level' 'previous' 'tenant' 'unionist' 'revert' 'taxis'
+ 'atmosphere' 'farm' 'divert' 'choose' 'community' 'needlessly'
+ 'peasantry']
+0.036
+------------------------Distinctive Topic--------------------------
+['congress' 'india' 'government' 'gandhiji' 'great' 'people' 'committee'
+ 'little' 'prison' 'think' 'civil' 'far' 'long' 'conference' 'political']
+['effect' 'battle' 'die' 'spread' 'let' 'later' 'speed' 'active' 'advice'
+ 'spinning' 'pass' 'charge' 'landlord' 'receive' 'socialistic']
+0.162
+------------------------Distinctive Topic--------------------------
+['congress' 'india' 'government' 'gandhiji' 'great' 'people' 'committee'
+ 'little' 'prison' 'think' 'civil' 'far' 'long' 'conference' 'political']
+['jawaharlal' 'congress' 'gandhi' 'india' 'government' 'british'
+ 'independence' 'home' 'committee' 'nehru' 'rent' 'hailey' 'league'
+ 'country' 'report']
+------------------------1932-1936--------------------------
+0.008
+------------------------Distinctive Topic--------------------------
+['available' 'commercial' 'mentary' 'deliver' 'madra' 'obstacle' 'outing'
+ 'strangely' 'almora' 'cool' 'hut' 'shoot' 'opinion' 'manual' 'import']
+['person' 'familiar' 'cap' 'mission' 'essential' 'culture' 'obviously'
+ 'stick' 'colleague' 'worth' 'sacrifice' 'close' 'believe' 'tired'
+ 'thinking']
+0.01
+------------------------Distinctive Topic--------------------------
+['available' 'commercial' 'mentary' 'deliver' 'madra' 'obstacle' 'outing'
+ 'strangely' 'almora' 'cool' 'hut' 'shoot' 'opinion' 'manual' 'import']
+['bear' 'electoral' 'render' 'distress' 'industry' 'britain' 'suppress'
+ 'recognition' 'restriction' 'attach' 'step' 'emphasis' 'india' 'upper'
+ 'alipore']
+0.01
+------------------------Distinctive Topic--------------------------
+['available' 'commercial' 'mentary' 'deliver' 'madra' 'obstacle' 'outing'
+ 'strangely' 'almora' 'cool' 'hut' 'shoot' 'opinion' 'manual' 'import']
+['extreme' 'prevent' 'politic' 'moderate' 'operation' 'naini' 'grant'
+ 'gandhi' 'college' 'cause' 'viceroy' 'save' 'wilkinson' 'joy' 'elect']
+0.006
+------------------------Distinctive Topic--------------------------
+['available' 'commercial' 'mentary' 'deliver' 'madra' 'obstacle' 'outing'
+ 'strangely' 'almora' 'cool' 'hut' 'shoot' 'opinion' 'manual' 'import']
+['hardly' 'write' 'opportunity' 'nationalism' 'easy' 'special' 'reprint'
+ 'fellow' 'wholly' 'smash' 'follower' 'wire' 'session' 'erskine' 'offer']
+0.016
+------------------------Distinctive Topic--------------------------
+['available' 'commercial' 'mentary' 'deliver' 'madra' 'obstacle' 'outing'
+ 'strangely' 'almora' 'cool' 'hut' 'shoot' 'opinion' 'manual' 'import']
+['jawaharlal' 'congress' 'gandhi' 'india' 'party' 'socialist' 'government'
+ 'nehru' 'prison' 'life' 'write' 'political' 'world' 'office' 'jail']
+0.01
+------------------------Distinctive Topic--------------------------
+['delusion' 'cotton' 'ramsay' 'crowd' 'seek' 'gracefully' 'demonstrate'
+ 'hard' 'se' 'du' 'adapt' 'dweller' 'oy' 'emphasize' 'ghaffar']
+['person' 'familiar' 'cap' 'mission' 'essential' 'culture' 'obviously'
+ 'stick' 'colleague' 'worth' 'sacrifice' 'close' 'believe' 'tired'
+ 'thinking']
+0.012
+------------------------Distinctive Topic--------------------------
+['delusion' 'cotton' 'ramsay' 'crowd' 'seek' 'gracefully' 'demonstrate'
+ 'hard' 'se' 'du' 'adapt' 'dweller' 'oy' 'emphasize' 'ghaffar']
+['bear' 'electoral' 'render' 'distress' 'industry' 'britain' 'suppress'
+ 'recognition' 'restriction' 'attach' 'step' 'emphasis' 'india' 'upper'
+ 'alipore']
+0.006
+------------------------Distinctive Topic--------------------------
+['delusion' 'cotton' 'ramsay' 'crowd' 'seek' 'gracefully' 'demonstrate'
+ 'hard' 'se' 'du' 'adapt' 'dweller' 'oy' 'emphasize' 'ghaffar']
+['extreme' 'prevent' 'politic' 'moderate' 'operation' 'naini' 'grant'
+ 'gandhi' 'college' 'cause' 'viceroy' 'save' 'wilkinson' 'joy' 'elect']
+0.004
+------------------------Distinctive Topic--------------------------
+['delusion' 'cotton' 'ramsay' 'crowd' 'seek' 'gracefully' 'demonstrate'
+ 'hard' 'se' 'du' 'adapt' 'dweller' 'oy' 'emphasize' 'ghaffar']
+['hardly' 'write' 'opportunity' 'nationalism' 'easy' 'special' 'reprint'
+ 'fellow' 'wholly' 'smash' 'follower' 'wire' 'session' 'erskine' 'offer']
+0.014
+------------------------Distinctive Topic--------------------------
+['delusion' 'cotton' 'ramsay' 'crowd' 'seek' 'gracefully' 'demonstrate'
+ 'hard' 'se' 'du' 'adapt' 'dweller' 'oy' 'emphasize' 'ghaffar']
+['jawaharlal' 'congress' 'gandhi' 'india' 'party' 'socialist' 'government'
+ 'nehru' 'prison' 'life' 'write' 'political' 'world' 'office' 'jail']
+0.008
+------------------------Distinctive Topic--------------------------
+['form' 'decency' 'et' 'rome' 'c' 'zamindari' 'face' 'proud' 'arm' 'ce'
+ 'affair' 'future' 'minor' 'public' 'slavery']
+['person' 'familiar' 'cap' 'mission' 'essential' 'culture' 'obviously'
+ 'stick' 'colleague' 'worth' 'sacrifice' 'close' 'believe' 'tired'
+ 'thinking']
+0.02
+------------------------Distinctive Topic--------------------------
+['form' 'decency' 'et' 'rome' 'c' 'zamindari' 'face' 'proud' 'arm' 'ce'
+ 'affair' 'future' 'minor' 'public' 'slavery']
+['bear' 'electoral' 'render' 'distress' 'industry' 'britain' 'suppress'
+ 'recognition' 'restriction' 'attach' 'step' 'emphasis' 'india' 'upper'
+ 'alipore']
+0.01
+------------------------Distinctive Topic--------------------------
+['form' 'decency' 'et' 'rome' 'c' 'zamindari' 'face' 'proud' 'arm' 'ce'
+ 'affair' 'future' 'minor' 'public' 'slavery']
+['extreme' 'prevent' 'politic' 'moderate' 'operation' 'naini' 'grant'
+ 'gandhi' 'college' 'cause' 'viceroy' 'save' 'wilkinson' 'joy' 'elect']
+0.006
+------------------------Distinctive Topic--------------------------
+['form' 'decency' 'et' 'rome' 'c' 'zamindari' 'face' 'proud' 'arm' 'ce'
+ 'affair' 'future' 'minor' 'public' 'slavery']
+['hardly' 'write' 'opportunity' 'nationalism' 'easy' 'special' 'reprint'
+ 'fellow' 'wholly' 'smash' 'follower' 'wire' 'session' 'erskine' 'offer']
+0.004
+------------------------Distinctive Topic--------------------------
+['form' 'decency' 'et' 'rome' 'c' 'zamindari' 'face' 'proud' 'arm' 'ce'
+ 'affair' 'future' 'minor' 'public' 'slavery']
+['jawaharlal' 'congress' 'gandhi' 'india' 'party' 'socialist' 'government'
+ 'nehru' 'prison' 'life' 'write' 'political' 'world' 'office' 'jail']
+0.018
+------------------------Distinctive Topic--------------------------
+['unseemly' 'ber' 'stance' 'struggle' 'oil' 'individual' 'unlovely'
+ 'atmosphere' 'enthusiasm' 'beckon' 'choice' 'refuge' 'accompany' 'vanish'
+ 'look']
+['person' 'familiar' 'cap' 'mission' 'essential' 'culture' 'obviously'
+ 'stick' 'colleague' 'worth' 'sacrifice' 'close' 'believe' 'tired'
+ 'thinking']
+0.022
+------------------------Distinctive Topic--------------------------
+['unseemly' 'ber' 'stance' 'struggle' 'oil' 'individual' 'unlovely'
+ 'atmosphere' 'enthusiasm' 'beckon' 'choice' 'refuge' 'accompany' 'vanish'
+ 'look']
+['bear' 'electoral' 'render' 'distress' 'industry' 'britain' 'suppress'
+ 'recognition' 'restriction' 'attach' 'step' 'emphasis' 'india' 'upper'
+ 'alipore']
+0.008
+------------------------Distinctive Topic--------------------------
+['unseemly' 'ber' 'stance' 'struggle' 'oil' 'individual' 'unlovely'
+ 'atmosphere' 'enthusiasm' 'beckon' 'choice' 'refuge' 'accompany' 'vanish'
+ 'look']
+['extreme' 'prevent' 'politic' 'moderate' 'operation' 'naini' 'grant'
+ 'gandhi' 'college' 'cause' 'viceroy' 'save' 'wilkinson' 'joy' 'elect']
+0.012
+------------------------Distinctive Topic--------------------------
+['unseemly' 'ber' 'stance' 'struggle' 'oil' 'individual' 'unlovely'
+ 'atmosphere' 'enthusiasm' 'beckon' 'choice' 'refuge' 'accompany' 'vanish'
+ 'look']
+['hardly' 'write' 'opportunity' 'nationalism' 'easy' 'special' 'reprint'
+ 'fellow' 'wholly' 'smash' 'follower' 'wire' 'session' 'erskine' 'offer']
+0.02
+------------------------Distinctive Topic--------------------------
+['unseemly' 'ber' 'stance' 'struggle' 'oil' 'individual' 'unlovely'
+ 'atmosphere' 'enthusiasm' 'beckon' 'choice' 'refuge' 'accompany' 'vanish'
+ 'look']
+['jawaharlal' 'congress' 'gandhi' 'india' 'party' 'socialist' 'government'
+ 'nehru' 'prison' 'life' 'write' 'political' 'world' 'office' 'jail']
+0.044
+------------------------Distinctive Topic--------------------------
+['india' 'british' 'government' 'congress' 'people' 'gaol' 'state' 'great'
+ 'little' 'change' 'prison' 'long' 'country' 'far' 'world']
+['person' 'familiar' 'cap' 'mission' 'essential' 'culture' 'obviously'
+ 'stick' 'colleague' 'worth' 'sacrifice' 'close' 'believe' 'tired'
+ 'thinking']
+0.034
+------------------------Distinctive Topic--------------------------
+['india' 'british' 'government' 'congress' 'people' 'gaol' 'state' 'great'
+ 'little' 'change' 'prison' 'long' 'country' 'far' 'world']
+['bear' 'electoral' 'render' 'distress' 'industry' 'britain' 'suppress'
+ 'recognition' 'restriction' 'attach' 'step' 'emphasis' 'india' 'upper'
+ 'alipore']
+0.036
+------------------------Distinctive Topic--------------------------
+['india' 'british' 'government' 'congress' 'people' 'gaol' 'state' 'great'
+ 'little' 'change' 'prison' 'long' 'country' 'far' 'world']
+['extreme' 'prevent' 'politic' 'moderate' 'operation' 'naini' 'grant'
+ 'gandhi' 'college' 'cause' 'viceroy' 'save' 'wilkinson' 'joy' 'elect']
+0.032
+------------------------Distinctive Topic--------------------------
+['india' 'british' 'government' 'congress' 'people' 'gaol' 'state' 'great'
+ 'little' 'change' 'prison' 'long' 'country' 'far' 'world']
+['hardly' 'write' 'opportunity' 'nationalism' 'easy' 'special' 'reprint'
+ 'fellow' 'wholly' 'smash' 'follower' 'wire' 'session' 'erskine' 'offer']
+0.17
+------------------------Distinctive Topic--------------------------
+['india' 'british' 'government' 'congress' 'people' 'gaol' 'state' 'great'
+ 'little' 'change' 'prison' 'long' 'country' 'far' 'world']
+['jawaharlal' 'congress' 'gandhi' 'india' 'party' 'socialist' 'government'
+ 'nehru' 'prison' 'life' 'write' 'political' 'world' 'office' 'jail']
+------------------------1937-1941--------------------------
+0.022
+------------------------Distinctive Topic--------------------------
+['mean' 'statue' 'send' 'occasion' 'outside' 'till' 'profession'
+ 'agitator' 'state' 'activity' 'india' 'long' 'hospitality' 'frequent'
+ 'apt']
+['decline' 'gandhi' 'civil' 'communal' 'defence' 'tension' 'dissent'
+ 'trial' 'enthusiasm' 'domination' 'constituent' 'grant' 'writing'
+ 'incapable' 'condition']
+0.012
+------------------------Distinctive Topic--------------------------
+['mean' 'statue' 'send' 'occasion' 'outside' 'till' 'profession'
+ 'agitator' 'state' 'activity' 'india' 'long' 'hospitality' 'frequent'
+ 'apt']
+['worry' 'sub' 'fight' 'dignity' 'remote' 'make' 'commitment' 'ahmad'
+ 'accommodate' 'remove' 'ally' 'dismiss' 'service' 'type' 'revolution']
+0.06
+------------------------Distinctive Topic--------------------------
+['mean' 'statue' 'send' 'occasion' 'outside' 'till' 'profession'
+ 'agitator' 'state' 'activity' 'india' 'long' 'hospitality' 'frequent'
+ 'apt']
+['jawaharlal' 'congress' 'india' 'war' 'british' 'government' 'league'
+ 'gandhi' 'muslim' 'committee' 'jinnah' 'paper' 'zetland' 'national'
+ 'viceroy']
+0.032
+------------------------Distinctive Topic--------------------------
+['mean' 'statue' 'send' 'occasion' 'outside' 'till' 'profession'
+ 'agitator' 'state' 'activity' 'india' 'long' 'hospitality' 'frequent'
+ 'apt']
+['communalism' 'planning' 'publication' 'public' 'lessen' 'frontier'
+ 'term' 'consequence' 'gvil' 'dun' 'seal' 'community' 'complicate' 'old'
+ 'resignation']
+0.014
+------------------------Distinctive Topic--------------------------
+['mean' 'statue' 'send' 'occasion' 'outside' 'till' 'profession'
+ 'agitator' 'state' 'activity' 'india' 'long' 'hospitality' 'frequent'
+ 'apt']
+['concern' 'precipitate' 'comrade' 'assistance' 'britain' 'publish'
+ 'drastic' 'lack' 'ofindia' 'ami' 'strongly' 'dream' 'warn' 'replace'
+ 'decision']
+0.028
+------------------------Distinctive Topic--------------------------
+['lawyer' 'calcutta' 'village' 'communist' 'trouble' 'special' 'river'
+ 'control' 'result' 'rural' 'responsibility' 'fairly' 'powerful' 'long'
+ 'law']
+['decline' 'gandhi' 'civil' 'communal' 'defence' 'tension' 'dissent'
+ 'trial' 'enthusiasm' 'domination' 'constituent' 'grant' 'writing'
+ 'incapable' 'condition']
+0.018
+------------------------Distinctive Topic--------------------------
+['lawyer' 'calcutta' 'village' 'communist' 'trouble' 'special' 'river'
+ 'control' 'result' 'rural' 'responsibility' 'fairly' 'powerful' 'long'
+ 'law']
+['worry' 'sub' 'fight' 'dignity' 'remote' 'make' 'commitment' 'ahmad'
+ 'accommodate' 'remove' 'ally' 'dismiss' 'service' 'type' 'revolution']
+0.056
+------------------------Distinctive Topic--------------------------
+['lawyer' 'calcutta' 'village' 'communist' 'trouble' 'special' 'river'
+ 'control' 'result' 'rural' 'responsibility' 'fairly' 'powerful' 'long'
+ 'law']
+['jawaharlal' 'congress' 'india' 'war' 'british' 'government' 'league'
+ 'gandhi' 'muslim' 'committee' 'jinnah' 'paper' 'zetland' 'national'
+ 'viceroy']
+0.028
+------------------------Distinctive Topic--------------------------
+['lawyer' 'calcutta' 'village' 'communist' 'trouble' 'special' 'river'
+ 'control' 'result' 'rural' 'responsibility' 'fairly' 'powerful' 'long'
+ 'law']
+['communalism' 'planning' 'publication' 'public' 'lessen' 'frontier'
+ 'term' 'consequence' 'gvil' 'dun' 'seal' 'community' 'complicate' 'old'
+ 'resignation']
+0.014
+------------------------Distinctive Topic--------------------------
+['lawyer' 'calcutta' 'village' 'communist' 'trouble' 'special' 'river'
+ 'control' 'result' 'rural' 'responsibility' 'fairly' 'powerful' 'long'
+ 'law']
+['concern' 'precipitate' 'comrade' 'assistance' 'britain' 'publish'
+ 'drastic' 'lack' 'ofindia' 'ami' 'strongly' 'dream' 'warn' 'replace'
+ 'decision']
+0.026
+------------------------Distinctive Topic--------------------------
+['india' 'south' 'trial' 'trouble' 'car' 'zamindar' 'step' 'pay'
+ 'resolution' 'hold' 'early' 'exist' 'arrival' 'peasantry' 'civil']
+['decline' 'gandhi' 'civil' 'communal' 'defence' 'tension' 'dissent'
+ 'trial' 'enthusiasm' 'domination' 'constituent' 'grant' 'writing'
+ 'incapable' 'condition']
+0.02
+------------------------Distinctive Topic--------------------------
+['india' 'south' 'trial' 'trouble' 'car' 'zamindar' 'step' 'pay'
+ 'resolution' 'hold' 'early' 'exist' 'arrival' 'peasantry' 'civil']
+['worry' 'sub' 'fight' 'dignity' 'remote' 'make' 'commitment' 'ahmad'
+ 'accommodate' 'remove' 'ally' 'dismiss' 'service' 'type' 'revolution']
+0.054
+------------------------Distinctive Topic--------------------------
+['india' 'south' 'trial' 'trouble' 'car' 'zamindar' 'step' 'pay'
+ 'resolution' 'hold' 'early' 'exist' 'arrival' 'peasantry' 'civil']
+['jawaharlal' 'congress' 'india' 'war' 'british' 'government' 'league'
+ 'gandhi' 'muslim' 'committee' 'jinnah' 'paper' 'zetland' 'national'
+ 'viceroy']
+0.024
+------------------------Distinctive Topic--------------------------
+['india' 'south' 'trial' 'trouble' 'car' 'zamindar' 'step' 'pay'
+ 'resolution' 'hold' 'early' 'exist' 'arrival' 'peasantry' 'civil']
+['communalism' 'planning' 'publication' 'public' 'lessen' 'frontier'
+ 'term' 'consequence' 'gvil' 'dun' 'seal' 'community' 'complicate' 'old'
+ 'resignation']
+0.02
+------------------------Distinctive Topic--------------------------
+['india' 'south' 'trial' 'trouble' 'car' 'zamindar' 'step' 'pay'
+ 'resolution' 'hold' 'early' 'exist' 'arrival' 'peasantry' 'civil']
+['concern' 'precipitate' 'comrade' 'assistance' 'britain' 'publish'
+ 'drastic' 'lack' 'ofindia' 'ami' 'strongly' 'dream' 'warn' 'replace'
+ 'decision']
+0.026
+------------------------Distinctive Topic--------------------------
+['congress' 'worker' 'government' 'india' 'union' 'little' 'movement'
+ 'kisan' 'people' 'visit' 'labour' 'great' 'peasant' 'trade' 'group']
+['decline' 'gandhi' 'civil' 'communal' 'defence' 'tension' 'dissent'
+ 'trial' 'enthusiasm' 'domination' 'constituent' 'grant' 'writing'
+ 'incapable' 'condition']
+0.03
+------------------------Distinctive Topic--------------------------
+['congress' 'worker' 'government' 'india' 'union' 'little' 'movement'
+ 'kisan' 'people' 'visit' 'labour' 'great' 'peasant' 'trade' 'group']
+['worry' 'sub' 'fight' 'dignity' 'remote' 'make' 'commitment' 'ahmad'
+ 'accommodate' 'remove' 'ally' 'dismiss' 'service' 'type' 'revolution']
+0.104
+------------------------Distinctive Topic--------------------------
+['congress' 'worker' 'government' 'india' 'union' 'little' 'movement'
+ 'kisan' 'people' 'visit' 'labour' 'great' 'peasant' 'trade' 'group']
+['jawaharlal' 'congress' 'india' 'war' 'british' 'government' 'league'
+ 'gandhi' 'muslim' 'committee' 'jinnah' 'paper' 'zetland' 'national'
+ 'viceroy']
+0.01
+------------------------Distinctive Topic--------------------------
+['congress' 'worker' 'government' 'india' 'union' 'little' 'movement'
+ 'kisan' 'people' 'visit' 'labour' 'great' 'peasant' 'trade' 'group']
+['communalism' 'planning' 'publication' 'public' 'lessen' 'frontier'
+ 'term' 'consequence' 'gvil' 'dun' 'seal' 'community' 'complicate' 'old'
+ 'resignation']
+0.022
+------------------------Distinctive Topic--------------------------
+['congress' 'worker' 'government' 'india' 'union' 'little' 'movement'
+ 'kisan' 'people' 'visit' 'labour' 'great' 'peasant' 'trade' 'group']
+['concern' 'precipitate' 'comrade' 'assistance' 'britain' 'publish'
+ 'drastic' 'lack' 'ofindia' 'ami' 'strongly' 'dream' 'warn' 'replace'
+ 'decision']
+0.028
+------------------------Distinctive Topic--------------------------
+['kisan' 'party' 'town' 'kind' 'local' 'provide' 'draw' 'die' 'programme'
+ 'struggle' 'prison' 'trace' 'instance' 'jharia' 'independence']
+['decline' 'gandhi' 'civil' 'communal' 'defence' 'tension' 'dissent'
+ 'trial' 'enthusiasm' 'domination' 'constituent' 'grant' 'writing'
+ 'incapable' 'condition']
+0.014
+------------------------Distinctive Topic--------------------------
+['kisan' 'party' 'town' 'kind' 'local' 'provide' 'draw' 'die' 'programme'
+ 'struggle' 'prison' 'trace' 'instance' 'jharia' 'independence']
+['worry' 'sub' 'fight' 'dignity' 'remote' 'make' 'commitment' 'ahmad'
+ 'accommodate' 'remove' 'ally' 'dismiss' 'service' 'type' 'revolution']
+0.066
+------------------------Distinctive Topic--------------------------
+['kisan' 'party' 'town' 'kind' 'local' 'provide' 'draw' 'die' 'programme'
+ 'struggle' 'prison' 'trace' 'instance' 'jharia' 'independence']
+['jawaharlal' 'congress' 'india' 'war' 'british' 'government' 'league'
+ 'gandhi' 'muslim' 'committee' 'jinnah' 'paper' 'zetland' 'national'
+ 'viceroy']
+0.026
+------------------------Distinctive Topic--------------------------
+['kisan' 'party' 'town' 'kind' 'local' 'provide' 'draw' 'die' 'programme'
+ 'struggle' 'prison' 'trace' 'instance' 'jharia' 'independence']
+['communalism' 'planning' 'publication' 'public' 'lessen' 'frontier'
+ 'term' 'consequence' 'gvil' 'dun' 'seal' 'community' 'complicate' 'old'
+ 'resignation']
+0.014
+------------------------Distinctive Topic--------------------------
+['kisan' 'party' 'town' 'kind' 'local' 'provide' 'draw' 'die' 'programme'
+ 'struggle' 'prison' 'trace' 'instance' 'jharia' 'independence']
+['concern' 'precipitate' 'comrade' 'assistance' 'britain' 'publish'
+ 'drastic' 'lack' 'ofindia' 'ami' 'strongly' 'dream' 'warn' 'replace'
+ 'decision']
